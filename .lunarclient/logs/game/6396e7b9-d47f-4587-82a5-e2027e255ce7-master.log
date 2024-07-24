@@ -1,0 +1,58 @@
+[2024-06-22 21:52:27.289] [error] NOTE: Picked up JDK_JAVA_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-22 21:52:27.292] [error] Picked up JAVA_TOOL_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-22 21:52:27.292] [error] Picked up _JAVA_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-22 21:52:27.548] [info]  [21:52:27] [Genesis/main/
+[2024-06-22 21:52:27.549] [info]  INFO] Found external file: Fabric-API-v1_21_0-0.100.1.jar
+[2024-06-22 21:52:27.553] [info]  [21:52:27] [Genesis/main/INFO] Found external file: Sodium-v1_21_0-0.5.9.jar
+[2024-06-22 21:52:27.554] [info]  
+[2024-06-22 21:52:27.555] [info]  [21:52:27] [Genesis/main/INFO] Found external file: Iris-v1_21_0-1.7.1.jar
+[2024-06-22 21:52:27.555] [info]  [21:52:27] [Genesis/main/INFO] Found external file: hypixel-quickplay-data.json
+[2024-06-22 21:52:27.555] [info]  [21:52:27] [Genesis/main/INFO] Found external file: hypixel-bedwars-data.json
+[2024-06-22 21:52:27.555] [info]  [21:52:27] [Genesis/main/INFO] Found external file: hypixel-skyblock-dungeon-rooms.json
+[2024-06-22 21:52:27.607] [info]  [21:52:27] [Genesis/main/INFO] Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 066b048ed2b02a814af31aa987e7b5d0e0f61bcc
+[2024-06-22 21:52:27.608] [info]  [21:52:27] [Genesis/main/
+[2024-06-22 21:52:27.608] [info]  INFO] Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 28a38ca2951a5a3d14864038fd7c0b14d854cc00
+[2024-06-22 21:52:27.620] [info]  [21:52:27] [Genesis/main/INFO
+[2024-06-22 21:52:27.621] [info]  ] Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 5acb844b73c492e6a58653cfa9a89eea9fc74e0f
+[2024-06-22 21:52:27.621] [info]  [21:52:27] [Genesis/
+[2024-06-22 21:52:27.622] [info]  main/INFO] Found classpath URL: lunar-lang.jar with SHA-1 hash b62ace71a2e3fbe72c5c5d98781a4a1099a178f4
+[2024-06-22 21:52:27.622] [info]  [21:52:27] [Genesis/main/INFO] Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+[2024-06-22 21:52:27.657] [info]  [21:52:27] [Genesis/main
+[2024-06-22 21:52:27.658] [info]  /INFO] Found classpath URL: lunar.jar with SHA-1 hash cba1e212029224212287e9a05651b905c1f712cd
+[2024-06-22 21:52:27.669] [info]  [21:52:27] [Genesis/main/INFO] Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash bb19e620daa7014ce79b156bad89e8de16a8b6ce
+[2024-06-22 21:52:27.672] [info]  [21:52:27] [Genesis/main/INFO] Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 74d30060a1f6851320b9bba9c70c2b7fd256f0eb
+[2024-06-22 21:52:28.283] [info]  [21:52:28] [Genesis/main/INFO] Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+[2024-06-22 21:52:28.284] [info]  
+[2024-06-22 21:52:28.366] [info]  [21:52:28] [Genesis/GameBootstrap/main/INFO] Launching Minecraft 1.21 v1_21_0 (parsed from 1.21)
+[2024-06-22 21:52:28.976] [info]  [21:52:28] [Ichor+Fabric/main/INFO] Using custom local mod path: C:\Users\Asus\.lunarclient\profiles\9805af22-4032-42a9-91ec-97e451c42727\mods
+[2024-06-22 21:52:29.326] [error] An error occurred while launching Lunar Client.
+[2024-06-22 21:52:29.327] [error] com.moonsworth.lunar.ichor.util.FatalIchorError: [Bootstrap#Game] Failed to bootstrap fabric-loader
+[2024-06-22 21:52:29.327] [error] 	at com.moonsworth.RHOCIORRHROCOHOOCRHHRRHCI.IHCRIIIICOROROOCCIHHHHCRI.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-22 21:52:29.327] [error] 	at com.moonsworth.RHOCIORRHROCOHOOCRHHRRHCI.COCICHIRHCIIORIIHRCOOROHH.HHRIIHHROCICOCHRCICRIOHRH(Unknown Source)
+[2024-06-22 21:52:29.327] [error] 	at com.moonsworth.lunar.ichor.IRCIHCHCCHHOCORRHRCCORROC.IOCOHCCRCOHRICRRHOOICHIHO(Unknown Source)
+[2024-06-22 21:52:29.328] [error] 	at java.base/java.util.ArrayList.forEach(Unknown Source)
+[2024-06-22 21:52:29.328] [error] 	at com.moonsworth.lunar.ichor.IRCIHCHCCHHOCORRHRCCORROC.<init>(Unknown Source)
+[2024-06-22 21:52:29.328] [error] 	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source)
+[2024-06-22 21:52:29.328] [error] 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[2024-06-22 21:52:29.329] [error] 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-06-22 21:52:29.329] [error] 	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-22 21:52:29.329] [error] 	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source)
+[2024-06-22 21:52:29.329] [error] 	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source)
+[2024-06-22 21:52:29.329] [error] Caused by: net.fabricmc.loader.impl.discovery.ModResolutionException: Some of your mods are incompatible with the game or each other!
+[2024-06-22 21:52:29.330] [error] A potential solution has been determined, this may resolve your problem:
+[2024-06-22 21:52:29.330] [error] 	 - Install fabric-language-kotlin, version 1.11.0+kotlin.2.0.0 or later.
+[2024-06-22 21:52:29.330] [error] 	 - Install yet_another_config_lib_v3, version 3.5.0 or later.
+[2024-06-22 21:52:29.330] [error] More details:
+[2024-06-22 21:52:29.331] [error] 	 - Mod 'Zoomify' (zoomify) 2.14.0+1.21 requires version 1.11.0+kotlin.2.0.0 or later of fabric-language-kotlin, which is missing!
+[2024-06-22 21:52:29.331] [error] 	 - Mod 'Zoomify' (zoomify) 2.14.0+1.21 requires version 3.5.0 or later of yet_another_config_lib_v3, which is missing!
+[2024-06-22 21:52:29.331] [error] 	at net.fabricmc.loader.impl.discovery.ModResolver.findCompatibleSet(ModResolver.java:148)
+[2024-06-22 21:52:29.331] [error] 	at net.fabricmc.loader.impl.discovery.ModResolver.resolve(ModResolver.java:45)
+[2024-06-22 21:52:29.331] [error] 	at com.moonsworth.RHOCIORRHROCOHOOCRHHRRHCI.CCOCCHORCHCOCCROCHOIOICOI.IHHIIOHOIHRHRIHICIICOCIOI(Unknown Source)
+[2024-06-22 21:52:29.332] [error] 	at com.moonsworth.RHOCIORRHROCOHOOCRHHRRHCI.CCOCCHORCHCOCCROCHOIOICOI.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-22 21:52:29.332] [error] 	at com.moonsworth.RHOCIORRHROCOHOOCRHHRRHCI.IHCRIIIICOROROOCCIHHHHCRI.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-22 21:52:29.332] [error] 	... 10 more
+[2024-06-22 21:52:29.332] [error] Skipping Sentry report due to filter regex.
+[2024-06-22 21:52:29.333] [info]  [21:52:29] [WARN] [FabricLoader/Resolution]: Mod resolution failed
+[2024-06-22 21:52:29.333] [info]  [21:52:29] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE zoomify 2.14.0+1.21 {depends fabric-language-kotlin @ [>=1.11.0+kotlin.2.0.0]}, ROOT_FORCELOAD_SINGLE zoomify 2.14.0+1.21]
+[2024-06-22 21:52:29.333] [info]  [21:52:29] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP zoomify 2.14.0+1.21 {depends fabric-language-kotlin @ [>=1.11.0+kotlin.2.0.0]}, HARD_DEP zoomify 2.14.0+1.21 {depends yet_another_config_lib_v3 @ [>=3.5.0]}]
+[2024-06-22 21:52:29.334] [info]  [21:52:29] [INFO] [FabricLoader/Resolution]: Fix: add [add:fabric-language-kotlin 1.11.0+kotlin.2.0.0 ([[1.11.0+kotlin.2.0.0,?)]), add:yet_another_config_lib_v3 3.5.0 ([[3.5.0,?)])], remove [], replace []

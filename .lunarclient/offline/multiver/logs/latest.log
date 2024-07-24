@@ -1,0 +1,401 @@
+[22:18:46] [main/INFO]: Loaded configuration file for Sodium: 42 options available, 3 override(s) found
+[22:18:46] [main/INFO]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
+[22:18:53] [main/WARN]: Force-disabling mixin 'features.render.entity.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[22:18:53] [main/WARN]: Force-disabling mixin 'features.render.entity.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[22:18:53] [main/WARN]: Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[22:18:53] [main/WARN]: Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[22:18:53] [main/WARN]: Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [iris]) disables it and children
+[22:18:53] [main/WARN]: Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[22:18:53] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[22:18:53] [main/WARN]: Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[22:18:57] [Datafixer Bootstrap/INFO]: 226 Datafixer optimizations took 321 milliseconds
+[22:19:03] [main/INFO]: Completely ignored arguments: [--workingDirectory, ., --webosrDir, C:\Users\Asus\.lunarclient\offline\multiver\natives, --classpathDir, ., --ichorExternalFiles, Fabric-API-v1_21_0-0.100.1.jar,Sodium-v1_21_0-0.5.9.jar,Iris-v1_21_0-1.7.1.jar,hypixel-quickplay-data.json,hypixel-bedwars-data.json,hypixel-skyblock-dungeon-rooms.json, --ichorClassPath, common-0.1.0-SNAPSHOT-all.jar,lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar,genesis-0.1.0-SNAPSHOT-all.jar,lunar-lang.jar,lunar-emote.jar,lunar.jar,modern-0.1.0-SNAPSHOT-all.jar,lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar, --uiDir, C:\Users\Asus\.lunarclient\ui]
+[22:19:04] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[22:19:04] [Render thread/INFO]: [STDERR]: java.lang.IllegalStateException: Failed to launch entrypoint com.terraformersmc.modmenu.ModMenu
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IRCIHCHCCHHOCORRHRCCORROC.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.md879b8c$lambda$ichor$fabric$clientInitializer$0$9(SourceFile:4876)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at java.base/java.util.Optional.ifPresentOrElse(Unknown Source)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.handler$zjo000$ichor$fabric$clientInitializer(SourceFile:4874)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.<init>(SourceFile:441)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.redirect$zbe000$impl$main$minecraft(SourceFile:656)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.main(SourceFile:239)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source)
+[22:19:04] [Render thread/INFO]: [STDERR]: Caused by: com.moonsworth.lunar.ichor.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI.IOCOHCCRCOHRICRRHOOICHIHO: java.lang.IllegalAccessException: class com.moonsworth.lunar.ichor.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI.RHOCIORRHROCOHOOCRHHRRHCI cannot access a member of class dev.isxander.zoomify.integrations.ModMenuIntegration with modifiers "private"
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI.RHOCIORRHROCOHOOCRHHRRHCI.IHCRIIIICOROROOCCIHHHHCRI(Unknown Source)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI.RHOCIORRHROCOHOOCRHHRRHCI.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.RHOCIORRHROCOHOOCRHHRRHCI.RCOIIRRHOORIOROOROICRHHOR.lambda$getEntrypointContainers$2(Unknown Source)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at java.base/java.util.HashMap.computeIfAbsent(Unknown Source)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.RHOCIORRHROCOHOOCRHHRRHCI.RCOIIRRHOORIOROOROICRHHOR.lambda$getEntrypointContainers$3(Unknown Source)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at java.base/java.util.HashMap$KeySet.forEach(Unknown Source)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.RHOCIORRHROCOHOOCRHHRRHCI.RCOIIRRHOORIOROOROICRHHOR.getEntrypointContainers(Unknown Source)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at Genesis//com.terraformersmc.modmenu.ModMenu.onInitializeClient(ModMenu.java:88)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	... 15 more
+[22:19:04] [Render thread/INFO]: [STDERR]: Caused by: java.lang.IllegalAccessException: class com.moonsworth.lunar.ichor.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI.RHOCIORRHROCOHOOCRHHRRHCI cannot access a member of class dev.isxander.zoomify.integrations.ModMenuIntegration with modifiers "private"
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Unknown Source)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.AccessibleObject.checkAccess(Unknown Source)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Unknown Source)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Constructor.newInstance(Unknown Source)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI.RHOCIORRHROCOHOOCRHHRRHCI.IHCRIIIICOROROOCCIHHHHCRI(Unknown Source)
+[22:19:04] [Render thread/INFO]: [STDERR]: 	... 23 more
+[22:19:05] [Render thread/INFO]: Deserializing YACLConfig from 'C:\Users\Asus\AppData\Roaming\.minecraft\yacl.json5'
+[22:19:05] [Render thread/ERROR]: Failed to update fingerprint
+java.lang.NullPointerException: Cannot invoke "net.minecraft.client.User.getProfileId()" because the return value of "net.minecraft.client.Minecraft.getUser()" is null
+	at Genesis/me.jellysquid.mods.sodium.client.data.fingerprint.FingerprintMeasure.create(FingerprintMeasure.java:19) ~[?:?]
+	at Genesis/me.jellysquid.mods.sodium.client.SodiumClientMod.updateFingerprint(SodiumClientMod.java:97) ~[?:?]
+	at Genesis/me.jellysquid.mods.sodium.client.SodiumClientMod.onInitializeClient(SodiumClientMod.java:40) ~[?:?]
+	at com.moonsworth.lunar.ichor.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source) ~[genesis-0.1.0-SNAPSHOT-all.jar:?]
+	at com.moonsworth.lunar.ichor.IRCIHCHCCHHOCORRHRCCORROC.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source) ~[genesis-0.1.0-SNAPSHOT-all.jar:?]
+	at Genesis/net.minecraft.client.Minecraft.md879b8c$lambda$ichor$fabric$clientInitializer$0$9(SourceFile:4876) ~[?:?]
+	at java.base/java.util.Optional.ifPresentOrElse(Unknown Source) [?:?]
+	at Genesis/net.minecraft.client.Minecraft.handler$zjo000$ichor$fabric$clientInitializer(SourceFile:4874) [?:?]
+	at Genesis/net.minecraft.client.Minecraft.<init>(SourceFile:441) [?:?]
+	at Genesis/net.minecraft.client.main.Main.redirect$zbe000$impl$main$minecraft(SourceFile:656) [?:?]
+	at Genesis/net.minecraft.client.main.Main.main(SourceFile:239) [?:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[22:19:05] [Render thread/INFO]: Dynamic FPS 3.4.3 active on Fabric!
+[22:19:05] [Render thread/INFO]: [STDERR]: java.lang.IllegalStateException: Failed to launch entrypoint dev.isxander.zoomify.Zoomify
+[22:19:05] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[22:19:05] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IRCIHCHCCHHOCORRHRCCORROC.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[22:19:05] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.md879b8c$lambda$ichor$fabric$clientInitializer$0$9(SourceFile:4876)
+[22:19:05] [Render thread/INFO]: [STDERR]: 	at java.base/java.util.Optional.ifPresentOrElse(Unknown Source)
+[22:19:05] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.handler$zjo000$ichor$fabric$clientInitializer(SourceFile:4874)
+[22:19:05] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.<init>(SourceFile:441)
+[22:19:05] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.redirect$zbe000$impl$main$minecraft(SourceFile:656)
+[22:19:05] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.main(SourceFile:239)
+[22:19:05] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[22:19:05] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[22:19:05] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source)
+[22:19:05] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[22:19:05] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[22:19:05] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[22:19:05] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source)
+[22:19:05] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source)
+[22:19:05] [Render thread/INFO]: [STDERR]: Caused by: java.lang.IllegalStateException: Failed to instantiate external Entrypoint(client): dev.isxander.zoomify.Zoomify
+[22:19:05] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[22:19:05] [Render thread/INFO]: [STDERR]: 	at java.base/java.util.HashMap.computeIfAbsent(Unknown Source)
+[22:19:05] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[22:19:05] [Render thread/INFO]: [STDERR]: 	... 15 more
+[22:19:05] [Render thread/INFO]: [STDERR]: Caused by: java.lang.NoSuchMethodException: dev.isxander.zoomify.Zoomify.<init>()
+[22:19:05] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.Class.getConstructor0(Unknown Source)
+[22:19:05] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.Class.getConstructor(Unknown Source)
+[22:19:05] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[22:19:05] [Render thread/INFO]: [STDERR]: 	... 17 more
+[22:19:05] [Render thread/INFO]: Loading Xaero's Minimap - Stage 1/2
+[22:19:06] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:19:06] [Render thread/INFO]: Setting user: Player261
+[22:19:06] [Render thread/INFO]: [LC] Loaded File: Options
+[22:19:06] [ForkJoinPool.commonPool-worker-1/WARN]: [Iris Update Check] Cached update file detected, using that!
+[22:19:07] [Render thread/INFO]: Backend library: LWJGL version 3.3.3-snapshot
+[22:19:07] [Render thread/INFO]: [STDOUT]: LUNARCLIENT_STATUS_INIT
+[22:19:07] [Render thread/INFO]: Debug functionality is disabled.
+[22:19:07] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[22:19:07] [Render thread/INFO]: Shaders are disabled because no valid shaderpack is selected
+[22:19:07] [Render thread/WARN]: Missing metadata in pack file/Cleanestpvppack.zip
+[22:19:07] [Render thread/WARN]: Missing metadata in pack file/Cold.zip
+[22:19:07] [Render thread/WARN]: Missing metadata in pack file/§bSharpness 25k.zip
+[22:19:07] [Render thread/WARN]: Missing metadata in pack file/§c§ GlitchCPVP pack.zip
+[22:19:08] [Render thread/INFO]: Hardware information:
+[22:19:08] [Render thread/INFO]: CPU: 16x AMD Ryzen 7 6800HS with Radeon Graphics 
+[22:19:08] [Render thread/INFO]: GPU: AMD Radeon(TM) Graphics (Supports OpenGL 3.2.0 Core Profile Context 22.40.84.06.231130)
+[22:19:08] [Render thread/INFO]: OS: Windows 11 (10.0)
+[22:19:09] [Render thread/INFO]: Reloading ResourceManager: lunar, vanilla, fabric, caffeineconfig, cloth-config, continuity, dynamic_fps, entityculling, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, iris, modmenu, sodium, sodium-extra, xaerominimap, yet_another_config_lib_v3, zoomify, file/FMDO.zip
+[22:19:09] [Worker-Main-1/INFO]: Found unifont_jp_patch-15.1.05.hex, loading
+[22:19:09] [Worker-Main-9/INFO]: Found unifont_all_no_pua-15.1.05.hex, loading
+[22:19:09] [Render thread/INFO]: [STDOUT]: [Bridge] Setting Minecraft Client instance to net.minecraft.client.Minecraft
+[22:19:11] [Render thread/INFO]: [LC] Starting Lunar client...
+[22:19:12] [Render thread/INFO]: [LC] Loading RCOIIRRHOORIOROOROICRHHOR...
+[22:19:12] [Render thread/INFO]: [LC] Loading CIOCCOCHORHIOCCRHOROCHORC...
+[22:19:12] [Render thread/INFO]: [LC] Loading IOCOHCCRCOHRICRRHOOICHIHO...
+[22:19:12] [Render thread/INFO]: [LC] Loading HCCRHOOCOROIOOIIRIIIRCHOC...
+[22:19:12] [Render thread/INFO]: [LC Lang] Couldn't get a valid language so we're setting it to ENGLISH.
+[22:19:12] [Render thread/INFO]: [LC Lang] Language set as ENGLISH (en_US).
+[22:19:12] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[22:19:12] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[22:19:12] [Render thread/INFO]: [LC] Loading ORIIIRHHROIRHOCOOOIOORIOC...
+[22:19:12] [Render thread/INFO]: [LC] Loading ROCROOOIIOIRHIIRRCRRHRICO...
+[22:19:14] [Render thread/INFO]: [LC] Loading OCIOHHHRIHOIHCRHICIIRCIIR...
+[22:19:14] [Render thread/INFO]: [LC] Loading RHCRCHHICCCIIHIIIHIIRROOO...
+[22:19:14] [Render thread/INFO]: [LC] Loading CRCIRCHCIOCCIHRCHCHOHICRI...
+[22:19:14] [Render thread/INFO]: [LC] Loading HHRIIHHROCICOCHRCICRIOHRH...
+[22:19:14] [Render thread/INFO]: [LC] Loading IHCRIIIICOROROOCCIHHHHCRI...
+[22:19:14] [Render thread/INFO]: [LC] Loading IOCOHCCRCOHRICRRHOOICHIHO...
+[22:19:14] [Render thread/INFO]: [LC] Loading ICHIRCHRHOCCOHHORCHICRHOI...
+[22:19:14] [Render thread/INFO]: [LC] Loading CCOCCHORCHCOCCROCHOIOICOI...
+[22:19:14] [Render thread/INFO]: [LC] Loading CCIIHHRHCCHRRHROOHIOCHOCC...
+[22:19:14] [Render thread/INFO]: [LC] Loading OHHHOIOOOOIOCHRICROCCHCIH...
+[22:19:14] [Render thread/INFO]: [LC] Loading IIOOIICCICOCHCIIHOHRCHICO...
+[22:19:14] [Render thread/INFO]: [LC] Loading IIIICORICOICIRRHCHIIHROIC...
+[22:19:14] [Render thread/WARN]: [LC] Couldn't find dev cosmetics file: cosmetics/dev_cosmetics.json
+[22:19:14] [Render thread/INFO]: [LC] Loading OCRCIRRIRCHCHIORHOHICRRIC...
+[22:19:14] [Render thread/INFO]: [LC] Loading CORORICIOIOHIICRIHIRIORCC...
+[22:19:14] [Render thread/INFO]: [LC] Loading IRHIIORRHIIOOIICRHCOCOIRO...
+[22:19:14] [Render thread/INFO]: [LC] Loading CRCIRCHCIOCCIHRCHCHOHICRI...
+[22:19:14] [Render thread/INFO]: [LC] Loading IOCOHCCRCOHRICRRHOOICHIHO...
+[22:19:14] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:19:14] [Render thread/INFO]: [LC] Finished making managers.
+[22:19:14] [Render thread/INFO]: [LC] Setting up listeners...
+[22:19:14] [Render thread/INFO]: [LC] Setting up fixes...
+[22:19:14] [WebSocketConnectReadThread-114/INFO]: [LC IPC] Connection established
+[22:19:15] [Render thread/ERROR]: [LC ThirdParty] Couldn't load third party mods
+[22:19:15] [Render thread/INFO]: [LC Lang] Language set as ENGLISH (en_US).
+[22:19:15] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[22:19:15] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[22:19:15] [Render thread/INFO]: [LC Ichor] Disabling ReplayMod because there is no valid link.
+[22:19:15] [Render thread/INFO]: [LC Ichor] Disabling NEU because there is no valid link.
+[22:19:15] [Render thread/INFO]: [LC Ichor] Disabling SBA because there is no valid link.
+[22:19:15] [Render thread/INFO]: [LC] Lunar.start
+[22:19:15] [Render thread/INFO]: [LC Accounts] Attempting to load account [04f44ced712a4c3a9fdd0c02a755b9db]
+[22:19:15] [Render thread/INFO]: [LC Accounts] Loaded content for [MengHong001] Token IAT
+[22:19:15] [Render thread/INFO]: [LC Accounts] Setting currentAccount to what was on disk: MengHong001
+[22:19:15] [Render thread/INFO]: [LC Accounts] Setting account 'MengHong001' as the current session.
+[22:19:15] [Render thread/INFO]: [LC] Setting user: MengHong001
+[22:19:15] [Thread-12/INFO]: [LC Assets] Establishing connection
+[22:19:15] [Thread-12/INFO]: [LC Assets] Connecting to Authenticator to obtain JWT, no previous connection.
+[22:19:15] [Thread-12/INFO]: [LC Authentication] Instantiate
+[22:19:15] [WebSocketConnectReadThread-119/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:19:16] [Render thread/INFO]: [LC Accounts] Removed all accounts [0 count]
+[22:19:16] [Render thread/INFO]: [LC Accounts] Starting Refreshing MengHong001 with 86171571ms till expired (Valid: true).
+[22:19:16] [Render thread/INFO]: [LC Accounts] Refreshing MengHong001 (Valid: true).
+[22:19:17] [Render thread/INFO]: [LC Lang] Language set as ENGLISH (en_US).
+[22:19:17] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[22:19:17] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[22:19:17] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[22:19:17] [Render thread/ERROR]: [LC Cosmetics] Could not load the model at lunar:cosmetics/models/bodywear/katanasheathed/katanasheathed.obj for cosmetic katanasheathed since it does not exist
+[22:19:17] [WebSocketConnectReadThread-119/INFO]: [LC Assets] Instantiate
+[22:19:17] [WebSocketConnectReadThread-119/INFO]: [LC Auth] Connection closed (1000, "Issued.")
+[22:19:18] [Render thread/WARN]: [LC] Couldn't find geckolib cosmetic file: lunar:cosmetics/models/gek/wings/bat_wings/bat_wings.gek.json
+[22:19:18] [Render thread/WARN]: [LC] Couldn't find geckolib cosmetic file: lunar:space_backpack
+[22:19:18] [Render thread/INFO]: [LC] Loaded geckolib cosmetics.
+[22:19:18] [Render thread/INFO]: [LC] Loading cosmetic compatibility json
+[22:19:18] [Render thread/INFO]: [LC] Compiled cosmetic compatability presets
+[22:19:18] [Render thread/WARN]: [LC] Assets
+[22:19:18] [Render thread/INFO]: [LC] Launching
+[22:19:18] [Render thread/INFO]: [LC] Finished Lunar initialization.
+[22:19:18] [Render thread/INFO]: [LC] LUNARCLIENT_STATUS_STARTED
+[22:19:18] [Render thread/INFO]: Loading Xaero's Minimap - Stage 2/2
+[22:19:19] [WebSocketConnectReadThread-135/INFO]: [LC Assets] Connection established as MengHong001
+[22:19:19] [ForkJoinPool.commonPool-worker-1/INFO]: [LC Accounts] Finished refreshing MengHong001 (Valid: true).
+[22:19:19] [ForkJoinPool.commonPool-worker-1/INFO]: [LC Accounts] Finished refreshing the current account. 0 accounts left.
+[22:19:19] [ForkJoinPool.commonPool-worker-1/INFO]: [LC Accounts] Logging into account MengHong001 
+[22:19:19] [ForkJoinPool.commonPool-worker-1/INFO]: [LC Accounts] Setting account 'MengHong001' as the current session.
+[22:19:19] [ForkJoinPool.commonPool-worker-1/INFO]: [LC] Setting user: MengHong001
+[22:19:19] [Render thread/ERROR]: suppressed exception
+java.net.SocketTimeoutException: Connect timed out
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(Unknown Source) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Unknown Source) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source) ~[?:?]
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getChainedException(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[?:?]
+	at Genesis/xaero.common.patreon.Patreon.checkPatreon(Patreon.java:73) [?:?]
+	at Genesis/xaero.common.HudMod.loadLater(HudMod.java:233) [?:?]
+	at Genesis/xaero.minimap.XaeroMinimapFabric.tryLoadLater(XaeroMinimapFabric.java:65) [?:?]
+	at Genesis/net.minecraft.client.Minecraft.handler$cfl002$onTickStart(SourceFile:11369) [?:?]
+	at Genesis/net.minecraft.client.Minecraft.tick(SourceFile) [?:?]
+	at Genesis/net.minecraft.client.Minecraft.runTick(SourceFile:1246) [?:?]
+	at Genesis/net.minecraft.client.Minecraft.run(SourceFile:882) [?:?]
+	at Genesis/net.minecraft.client.main.Main.main(SourceFile:256) [?:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+Caused by: java.net.SocketTimeoutException: Connect timed out
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(Unknown Source) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl.connect(Unknown Source) ~[?:?]
+	at java.base/java.net.Socket.connect(Unknown Source) ~[?:?]
+	at java.base/sun.net.NetworkClient.doConnect(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.http.HttpClient.openServer(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.http.HttpClient.openServer(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.http.HttpClient.<init>(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.http.HttpClient.New(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.http.HttpClient.New(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getHeaderField(Unknown Source) ~[?:?]
+	at java.base/java.net.URLConnection.getHeaderFieldLong(Unknown Source) ~[?:?]
+	at java.base/java.net.URLConnection.getContentLengthLong(Unknown Source) ~[?:?]
+	at Genesis/xaero.common.patreon.Patreon.checkPatreon(Patreon.java:71) ~[?:?]
+	... 15 more
+[22:19:21] [Render thread/ERROR]: suppressed exception
+java.net.SocketTimeoutException: Read timed out
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(Unknown Source) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Unknown Source) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source) ~[?:?]
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getChainedException(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[?:?]
+	at Genesis/xaero.common.misc.Internet.checkModVersion(Internet.java:55) [?:?]
+	at Genesis/xaero.common.HudMod.loadLater(HudMod.java:234) [?:?]
+	at Genesis/xaero.minimap.XaeroMinimapFabric.tryLoadLater(XaeroMinimapFabric.java:65) [?:?]
+	at Genesis/net.minecraft.client.Minecraft.handler$cfl002$onTickStart(SourceFile:11369) [?:?]
+	at Genesis/net.minecraft.client.Minecraft.tick(SourceFile) [?:?]
+	at Genesis/net.minecraft.client.Minecraft.runTick(SourceFile:1246) [?:?]
+	at Genesis/net.minecraft.client.Minecraft.run(SourceFile:882) [?:?]
+	at Genesis/net.minecraft.client.main.Main.main(SourceFile:256) [?:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.base/sun.nio.ch.NioSocketImpl.timedRead(Unknown Source) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl.implRead(Unknown Source) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl.read(Unknown Source) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl$1.read(Unknown Source) ~[?:?]
+	at java.base/java.net.Socket$SocketInputStream.read(Unknown Source) ~[?:?]
+	at java.base/java.io.BufferedInputStream.fill(Unknown Source) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read1(Unknown Source) ~[?:?]
+	at java.base/java.io.BufferedInputStream.implRead(Unknown Source) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.http.HttpClient.parseHTTP(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getHeaderField(Unknown Source) ~[?:?]
+	at java.base/java.net.URLConnection.getHeaderFieldLong(Unknown Source) ~[?:?]
+	at java.base/java.net.URLConnection.getContentLengthLong(Unknown Source) ~[?:?]
+	at Genesis/xaero.common.misc.Internet.checkModVersion(Internet.java:53) ~[?:?]
+	... 15 more
+[22:19:21] [Render thread/INFO]: Registered player tracker system: minimap_synced
+[22:19:21] [Render thread/INFO]: No Optifine!
+[22:19:21] [Render thread/INFO]: Xaero's Minimap: No Vivecraft!
+[22:19:21] [Render thread/INFO]: Xaero's Minimap: Iris found!
+[22:19:21] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[22:19:21] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[22:19:21] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[22:19:21] [Render thread/INFO]: Sound engine started
+[22:19:21] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[22:19:21] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[22:19:21] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[22:19:21] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[22:19:21] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[22:19:21] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[22:19:21] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[22:19:21] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[22:19:21] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[22:19:22] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[22:19:22] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[22:19:22] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[22:19:22] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[22:19:22] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[22:19:22] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[22:19:22] [Render thread/INFO]: Successfully loaded image 'zoomify:textures/demo/third-person-hud.webp'
+[22:19:22] [Render thread/INFO]: Successfully loaded image 'zoomify:textures/demo/third-person-view.webp'
+[22:19:22] [Render thread/INFO]: Successfully loaded image 'zoomify:textures/demo/zoom-hand.webp'
+[22:19:22] [Render thread/INFO]: Successfully loaded image 'zoomify:textures/demo/zoom-world.webp'
+[22:19:22] [Render thread/INFO]: Successfully reloaded the minimap shaders!
+[22:19:28] [Render thread/INFO]: Loaded 1290 recipes
+[22:19:28] [Render thread/INFO]: Loaded 1399 advancements
+[22:19:28] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 2.145 ms
+[22:19:28] [Server thread/INFO]: Starting integrated minecraft server version 1.21
+[22:19:28] [Server thread/INFO]: Generating keypair
+[22:19:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:19:30] [Render thread/INFO]: Preparing spawn area: 0%
+[22:19:30] [Render thread/INFO]: Time elapsed: 473 ms
+[22:19:30] [Server thread/INFO]: Changing view distance to 7, from 10
+[22:19:30] [Server thread/INFO]: Changing simulation distance to 5, from 0
+[22:19:31] [Server thread/INFO]: MengHong001[local:E:f7a8cdb4] logged in with entity id 16 at (199.69999998807907, 62.0, -162.30000001192093)
+[22:19:31] [Server thread/WARN]: Received invalid channel identifier "lunarclient:pm"
+[22:19:31] [Server thread/INFO]: MengHong001 joined the game
+[22:19:31] [Render thread/INFO]: New Xaero hud session initialized!
+[22:19:31] [Render thread/INFO]: Reloading pipeline on dimension change: null => minecraft:overworld
+[22:19:31] [Render thread/INFO]: Creating pipeline for dimension minecraft:overworld
+[22:19:31] [Render thread/INFO]: Started 10 worker threads
+[22:19:32] [Render thread/INFO]: Stopping worker threads
+[22:19:32] [Render thread/INFO]: Started 10 worker threads
+[22:19:32] [Render thread/INFO]: Stopping worker threads
+[22:19:32] [Render thread/INFO]: Started 10 worker threads
+[22:19:32] [Render thread/INFO]: Loaded 171 advancements
+[22:19:32] [Render thread/INFO]: Minimap updated server level id: -1673993685 for world ResourceKey[minecraft:dimension / minecraft:overworld]
+[22:19:32] [Render thread/INFO]: Reloading entity icon resources...
+[22:19:32] [Render thread/INFO]: Reloaded entity icon resources!
+[22:19:33] [Render thread/WARN]: Class xaero.common.minimap.render.radar.EntityIconModelPartsRenderer$VertexConsumerWrapper does not support optimized vertex writing code paths, which may cause reduced rendering performance
+[22:19:35] [Render thread/ERROR]: Unreported exception thrown!
+org.spongepowered.asm.mixin.injection.throwables.InjectionError: LVT in net/minecraft/client/gui/screens/PauseScreen::createPauseMenu()V has incompatible changes at opcode 267 in callback mixins.modmenu.json:MixinGameMenu from mod (unknown)->@Inject::onInitWidgets(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;Lnet/minecraft/client/gui/layouts/GridLayout;Lnet/minecraft/client/gui/layouts/GridLayout$RowHelper;Lnet/minecraft/network/chat/Component;)V.
+ Expected: [Lnet/minecraft/client/gui/layouts/GridLayout;, Lnet/minecraft/client/gui/layouts/GridLayout$RowHelper;, Lnet/minecraft/network/chat/Component;]
+    Found: [Lnet/minecraft/client/gui/layouts/GridLayout;, Lnet/minecraft/client/gui/layouts/GridLayout$RowHelper;, Lnet/minecraft/server/ServerLinks;]
+Available: [Lnet/minecraft/client/gui/layouts/GridLayout;, Lnet/minecraft/client/gui/layouts/GridLayout$RowHelper;, Lnet/minecraft/server/ServerLinks;, Lnet/minecraft/network/chat/Component;]
+	at Genesis/net.minecraft.client.gui.screens.PauseScreen.handler$bpn000$onInitWidgets$missing(SourceFile) ~[?:?]
+	at Genesis/net.minecraft.client.gui.screens.PauseScreen.createPauseMenu(SourceFile:120) ~[?:?]
+	at Genesis/net.minecraft.client.gui.screens.PauseScreen.init(SourceFile:68) ~[?:?]
+	at Genesis/net.minecraft.client.gui.screens.Screen.init(SourceFile:309) ~[?:?]
+	at Genesis/net.minecraft.client.Minecraft.setScreen(SourceFile:1143) ~[?:?]
+	at Genesis/net.minecraft.client.Minecraft.pauseGame(SourceFile:1718) ~[?:?]
+	at Genesis/net.minecraft.client.KeyboardHandler.keyPress(SourceFile:451) ~[?:?]
+	at Genesis/net.minecraft.client.KeyboardHandler.lambda$setup$8(SourceFile:499) ~[?:?]
+	at Genesis/net.minecraft.util.thread.BlockableEventLoop.execute(SourceFile:108) ~[?:?]
+	at Genesis/net.minecraft.client.KeyboardHandler.lambda$setup$9(SourceFile:499) ~[?:?]
+	at Genesis/org.lwjgl.glfw.GLFWKeyCallbackI.callback(GLFWKeyCallbackI.java:44) ~[?:?]
+	at Genesis/org.lwjgl.system.JNI.invokeV(Native Method) ~[?:?]
+	at Genesis/org.lwjgl.glfw.GLFW.glfwPollEvents(GLFW.java:3438) ~[?:?]
+	at Genesis/com.mojang.blaze3d.systems.RenderSystem.pollEvents(SourceFile:150) ~[?:?]
+	at Genesis/com.mojang.blaze3d.systems.RenderSystem.flipFrame(SourceFile:168) ~[?:?]
+	at Genesis/com.mojang.blaze3d.platform.Window.updateDisplay(SourceFile:303) ~[?:?]
+	at Genesis/net.minecraft.client.Minecraft.runTick(SourceFile:1307) ~[?:?]
+	at Genesis/net.minecraft.client.Minecraft.run(SourceFile:882) [?:?]
+	at Genesis/net.minecraft.client.main.Main.main(SourceFile:256) [?:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[22:19:36] [Server thread/INFO]: Stopping server
+[22:19:36] [Server thread/INFO]: Saving players
+[22:19:36] [Server thread/INFO]: Saving worlds
+[22:19:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:overworld
+[22:19:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_end
+[22:19:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_nether
+[22:19:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (MengHong001): All chunks are saved
+[22:19:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:19:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:19:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:19:36] [Render thread/INFO]: Xaero hud session finalized.
+[22:19:36] [Render thread/INFO]: Stopping worker threads
+[22:19:36] [Render thread/INFO]: [LC] ==============================
+[22:19:36] [Render thread/INFO]: [LC] Report Id: LCCR-188f2e7a3c9a4324bdea25570bbcd2bb
+[22:19:36] [Render thread/INFO]: [LC] MC version: 1.21
+[22:19:36] [Render thread/INFO]: [LC] Branch: version/1-21
+[22:19:36] [Render thread/INFO]: [LC] Commit: 291fdea00f6d8268bb702af311d0be7385a53239 (291fdea)
+[22:19:36] [Render thread/INFO]: [LC] Modules: [sodium, lunar-platform, common, fabric, lunar]
+[22:19:36] [Render thread/INFO]: [LC] OS: Windows 11
+[22:19:36] [Render thread/INFO]: [LC] Arch: AMD64
+[22:19:36] [Render thread/INFO]: [LC] Launcher Version: 3.2.10
+[22:19:36] [Render thread/INFO]: [LC] Launcher ID: c2c2a3db-1108-4b5c-a3fd-43dcdbe28e90
+[22:19:36] [Render thread/INFO]: [LC] Sentry Trace ID: fc3c0e4e2a389e5607f97c6ebd77b901
+[22:19:36] [Render thread/INFO]: [LC] ==============================

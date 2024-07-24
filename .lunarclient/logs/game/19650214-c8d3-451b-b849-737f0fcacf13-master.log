@@ -1,0 +1,289 @@
+[2024-06-19 19:01:42.470] [error] NOTE: Picked up JDK_JAVA_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-19 19:01:42.474] [error] Picked up JAVA_TOOL_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-19 19:01:42.475] [error] Picked up _JAVA_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-19 19:01:42.685] [info]  [19:01:42] [Genesis/main/INFO] Found external file: Fabric-API-v1_20_1-0.90.7.jar
+[2024-06-19 19:01:42.685] [info]  
+[2024-06-19 19:01:42.689] [info]  [19:01:42] [Genesis/main/INFO] 
+[2024-06-19 19:01:42.689] [info]  Found external file: FerriteCore-v1_20_1-6.0.0.jar
+[2024-06-19 19:01:42.690] [info]  [19:01:42] [Genesis/main/INFO] Found external file: Lithium-v1_20_1-0.11.2.jar
+[2024-06-19 19:01:42.690] [info]  [19:01:42] [Genesis/main/INFO] Found external file: Noxesium-v1_20_1-1.0.3.jar
+[2024-06-19 19:01:42.690] [info]  [19:01:42] [Genesis/main/INFO] Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+[2024-06-19 19:01:42.690] [info]  [19:01:42] [Genesis/
+[2024-06-19 19:01:42.691] [info]  main/INFO] Found external file: ReplayMod-v1_20_1-2.6.14.jar
+[2024-06-19 19:01:42.691] [info]  [19:01:42] [Genesis/main/INFO] Found external file: Sodium-v1_20_1-0.5.8.jar
+[2024-06-19 19:01:42.691] [info]  [19:01:42] [Genesis/main/
+[2024-06-19 19:01:42.692] [info]  INFO] Found external file: Indium-v1_20_1-1.0.30.jar
+[2024-06-19 19:01:42.692] [info]  [19:01:42] [Genesis/main/INFO] Found external file: Iris-v1_20_1-1.6.17.jar
+[2024-06-19 19:01:42.692] [info]  [19:01:42] [Genesis/main/INFO] Found external file: hypixel-quickplay-data.json
+[2024-06-19 19:01:42.692] [info]  [19:01:42] [Genesis/main/INFO] Found external file: hypixel-bedwars-data.json
+[2024-06-19 19:01:42.693] [info]  [19:01:42] [Genesis/main/INFO] Found external file: hypixel-skyblock-dungeon-rooms.json
+[2024-06-19 19:01:42.742] [info]  [19:01:42] [Genesis/main/INFO] Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+[2024-06-19 19:01:42.743] [info]  [19:01:42] [Genesis/main/INFO
+[2024-06-19 19:01:42.743] [info]  ] Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+[2024-06-19 19:01:42.755] [info]  [19:01:42] [Genesis/main/INFO] Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+[2024-06-19 19:01:42.756] [info]  [19:01:42] [Genesis
+[2024-06-19 19:01:42.757] [info]  /main/INFO] Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+[2024-06-19 19:01:42.757] [info]  [19:01:42] [Genesis/main/INFO] Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+[2024-06-19 19:01:42.791] [info]  [19:01:42] [Genesis/main/INFO] Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+[2024-06-19 19:01:42.803] [info]  [19:01:42] [Genesis/main/INFO] Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+[2024-06-19 19:01:42.804] [info]  [19:01:42] [Genesis/main/INFO] 
+[2024-06-19 19:01:42.804] [info]  Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+[2024-06-19 19:01:42.804] [info]  [19:01:42] [Genesis/main/INFO] Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+[2024-06-19 19:01:42.805] [info]  [19:01:42] [
+[2024-06-19 19:01:42.805] [info]  Genesis/main/INFO] Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+[2024-06-19 19:01:42.806] [info]  [19:01:42
+[2024-06-19 19:01:42.806] [info]  ] [Genesis/main/INFO] Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+[2024-06-19 19:01:42.808] [info]  [19:01:42
+[2024-06-19 19:01:42.809] [info]  ] [Genesis/main/INFO] Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+[2024-06-19 19:01:43.507] [info]  [19:01:43] [Genesis/main/
+[2024-06-19 19:01:43.508] [info]  INFO] Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+[2024-06-19 19:01:43.597] [info]  [19:01:43] [Genesis/GameBootstrap/main/INFO] Launching Minecraft 1.20.1 v1_20_1 (parsed from 1.20.1)
+[2024-06-19 19:01:44.831] [info]  [19:01:44] [Ichor+Fabric/main/INFO] Using custom local mod path: C:\Users\Asus\.lunarclient\profiles\1357f16e-9418-48f0-952e-22e2d749b4cd\versions\0.0.4\mods
+[2024-06-19 19:01:49.706] [info]  LUNARCLIENT_STATUS_PREINIT
+[2024-06-19 19:01:49.707] [info]  [19:01:49] [Genesis/GameBootstrap/main/INFO] Starting game!
+[2024-06-19 19:01:50.403] [info]  [19:01:50] [IchorPipeline/main/INFO] 
+[2024-06-19 19:01:50.404] [info]  Built mapping set for com.moonsworth.lunar.ichor.CRCIRCHCIOCCIHRCHCHOHICRI.RHOCIORRHROCOHOOCRHHRRHCI.IHCRIIIICOROROOCCIHHHHCRI.RHCRCHHICCCIIHIIIHIIRROOO 576ms on thread main
+[2024-06-19 19:01:51.034] [info]  [19:01:51] [IchorPipeline/main/INFO] Loading Mixin runtime for META_MIXIN
+[2024-06-19 19:01:51.305] [info]  [19:01:51] [Ichor/mixin(META_MIXIN)/INFO] SpongePowered MIXIN Subsystem Version=0.8.5 Source=Unknown Service=Ichor Env=CLIENT
+[2024-06-19 19:01:52.129] [info]  [19:01:52] [IchorPipeline/main/INFO] Loading Mixin runtime for MIXIN
+[2024-06-19 19:01:52.703] [info]  [19:01:52] [Ichor/mixin(MIXIN)/INFO] SpongePowered MIXIN Subsystem Version=0.8.5 Source=Unknown Service=Ichor Env=CLIENT
+[2024-06-19 19:01:53.212] [info]  [19:01:53] [IchorPipeline/main/INFO] Done loading Mixin runtimes in 2179ms
+[2024-06-19 19:01:53.213] [info]  [19:01:53] [IchorPipeline/main/INFO] Setting up mixins for META_MIXIN
+[2024-06-19 19:01:53.279] [info]  [19:01:53] [IchorPipeline/main/INFO] Setting up mixins for MIXIN
+[2024-06-19 19:01:53.280] [info]  [19:01:53] [Ichor/
+[2024-06-19 19:01:53.281] [info]  main/INFO] Mixin config mixins.modern.json doesn't exist in IchorClassLoader(MIXIN)
+[2024-06-19 19:01:53.281] [info]  [19:01:53] [Ichor/main/INFO] Mixin config mixins.modern_lunar.json doesn't exist in IchorClassLoader(MIXIN)
+[2024-06-19 19:01:53.524] [info]  [19:01:53] [IchorPipeline/main/INFO] Done registering Mixins in 311ms
+[2024-06-19 19:01:53.524] [info]  [19:01:53] [IchorPipeline/main/INFO] Going to default mixins stage for META_MIXIN
+[2024-06-19 19:01:54.579] [info]  [19:01:54] [Ichor/mixin(META_MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(META_MIXIN) couldn't find class bytes for net/coderbot/iris/compat/sodium/mixin/options/MixinSodiumOptionsGUI (checked [net.coderbot.iris.compat.sodium.mixin.options.MixinSodiumOptionsGUI]).
+[2024-06-19 19:01:54.580] [info]  java.lang.ClassNotFoundException: IchorClassLoader(META_MIXIN) couldn't find class bytes for net/coderbot/iris/compat/sodium/mixin/options/MixinSodiumOptionsGUI (checked [net.coderbot.iris.compat.sodium.mixin.options.MixinSodiumOptionsGUI]).
+[2024-06-19 19:01:54.581] [info]  	at com.moonsworth.lunar.ichor.IOCOHCCRCOHRICRRHOOICHIHO.CHICRROIHCCHIOHOIIIOCCCOR(Unknown Source)
+[2024-06-19 19:01:54.581] [info]  	at IchorClassLoader(META_MIXIN)//com.moonsworth.lunar.ichor.COCICHIRHCIIORIIHRCOOROHH.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.getClassNode(Unknown Source)
+[2024-06-19 19:01:54.582] [info]  	at IchorClassLoader(META_MIXIN)//com.moonsworth.lunar.ichor.COCICHIRHCIIORIIHRCOOROHH.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.getClassNode(Unknown Source)
+[2024-06-19 19:01:54.582] [info]  	at IchorClassLoader(META_MIXIN)//org.spongepowered.asm.mixin.transformer.ClassInfo.forName(Unknown Source)
+[2024-06-19 19:01:54.582] [info]  	at IchorClassLoader(META_MIXIN)//org.spongepowered.asm.mixin.transformer.MixinInfo.getTargetClass(Unknown Source)
+[2024-06-19 19:01:54.583] [info]  	at IchorClassLoader(META_MIXIN)//org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(Unknown Source)
+[2024-06-19 19:01:54.583] [info]  	at IchorClassLoader(META_MIXIN)//org.spongepowered.asm.mixin.transformer.MixinInfo.parseTargets(Unknown Source)
+[2024-06-19 19:01:54.583] [info]  	at IchorClassLoader(META_MIXIN)//org.spongepowered.asm.mixin.transformer.MixinConfig.prepareMixins(Unknown Source)
+[2024-06-19 19:01:54.584] [info]  	at IchorClassLoader(META_MIXIN)//org.spongepowered.asm.mixin.transformer.MixinConfig.prepare(Unknown Source)
+[2024-06-19 19:01:54.584] [info]  	at IchorClassLoader(META_MIXIN)//org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(Unknown Source)
+[2024-06-19 19:01:54.584] [info]  	at IchorClassLoader(META_MIXIN)//org.spongepowered.asm.mixin.transformer.MixinProcessor.select(Unknown Source)
+[2024-06-19 19:01:54.584] [info]  	at IchorClassLoader(META_MIXIN)//org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(Unknown Source)
+[2024-06-19 19:01:54.585] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[2024-06-19 19:01:54.585] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-06-19 19:01:54.585] [info]  	at IchorClassLoader(META_MIXIN)//org.spongepowered.asm.mixin.transformer.MixinProxyImpl.gotoDefaultPhase(Unknown Source)
+[2024-06-19 19:01:54.586] [info]  	at com.moonsworth.lunar.ichor.IHCRIIIICOROROOCCIHHHHCRI.RCOIIRRHOORIOROOROICRHHOR(Unknown Source)
+[2024-06-19 19:01:54.586] [info]  	at com.moonsworth.lunar.ichor.IHCRIIIICOROROOCCIHHHHCRI.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-19 19:01:54.587] [info]  	at com.moonsworth.lunar.ichor.IHCRIIIICOROROOCCIHHHHCRI.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-19 19:01:54.587] [info]  	at com.moonsworth.lunar.ichor.IHCRIIIICOROROOCCIHHHHCRI.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-19 19:01:54.588] [info]  	at com.moonsworth.lunar.ichor.IRCIHCHCCHHOCORRHRCCORROC.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-19 19:01:54.588] [info]  	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.findClass(Unknown Source)
+[2024-06-19 19:01:54.588] [info]  	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.loadClass(Unknown Source)
+[2024-06-19 19:01:54.589] [info]  	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+[2024-06-19 19:01:54.589] [info]  	at java.base/java.lang.Class.forName0(Native Method)
+[2024-06-19 19:01:54.589] [info]  	at java.base/java.lang.Class.forName(Unknown Source)
+[2024-06-19 19:01:54.590] [info]  	at java.base/java.lang.Class.forName(Unknown Source)
+[2024-06-19 19:01:54.590] [info]  	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source)
+[2024-06-19 19:01:54.590] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[2024-06-19 19:01:54.591] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-06-19 19:01:54.591] [info]  	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-19 19:01:54.591] [info]  	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source)
+[2024-06-19 19:01:54.591] [info]  	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source)
+[2024-06-19 19:01:54.592] [info]  [19:01:54] [Ichor/mixin(META_MIXIN)/WARN] Error loading class: net/coderbot/iris/compat/sodium/mixin/options/MixinSodiumOptionsGUI (java.lang.ClassNotFoundException: IchorClassLoader(META_MIXIN) couldn't find class bytes for net/coderbot/iris/compat/sodium/mixin/options/MixinSodiumOptionsGUI (checked [net.coderbot.iris.compat.sodium.mixin.options.MixinSodiumOptionsGUI]).)
+[2024-06-19 19:01:54.593] [info]  [19:01:54] [Ichor/mixin(META_MIXIN)/WARN] @Mixin target net.coderbot.iris.compat.sodium.mixin.options.MixinSodiumOptionsGUI was not found mixins.meta.ichor.sodium.v1_20_1.json:RHOCIORRHROCOHOOCRHHRRHCI from mod (unknown)
+[2024-06-19 19:01:54.616] [info]  [19:01:54] [IchorPipeline/main/INFO] Going to default mixins stage for MIXIN
+[2024-06-19 19:01:54.634] [info]  [19:01:54] [Ichor/MixinExtras|Service(META_MIXIN)/INFO] Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[2024-06-19 19:01:56.389] [info]  [19:01:56] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 1 override(s) found
+[2024-06-19 19:01:56.406] [info]  [19:01:56] [main/WARN]: [Satin] Iris is present, custom block renders will not work
+[2024-06-19 19:01:56.426] [info]  [19:01:56] [main/INFO]: Loaded configuration file for Sodium: 42 options available, 3 override(s) found
+[2024-06-19 19:01:56.552] [info]  [19:01:56] [main/INFO]: Loaded configuration file for Sodium Extra: 34 options available, 0 override(s) found
+[2024-06-19 19:02:03.400] [info]  [19:02:03] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/render/ChunkVisibility (checked [net.optifine.render.ChunkVisibility]).
+[2024-06-19 19:02:03.401] [info]  [19:02:03] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/optifine/render/ChunkVisibility (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/render/ChunkVisibility (checked [net.optifine.render.ChunkVisibility]).)
+[2024-06-19 19:02:03.401] [info]  [19:02:03] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for shadersmod/client/ShadersRender (checked [shadersmod.client.ShadersRender]).
+[2024-06-19 19:02:03.401] [info]  [19:02:03] [Ichor/mixin(MIXIN)/WARN] Error loading class: shadersmod/client/ShadersRender (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for shadersmod/client/ShadersRender (checked [shadersmod.client.ShadersRender]).)
+[2024-06-19 19:02:03.402] [info]  [19:02:03] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/shaders/ShadersRender (checked [net.optifine.shaders.ShadersRender]).
+[2024-06-19 19:02:03.402] [info]  [19:02:03] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/optifine/shaders/ShadersRender (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/shaders/ShadersRender (checked [net.optifine.shaders.ShadersRender]).)
+[2024-06-19 19:02:03.524] [info]  [19:02:03] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/iris/uniforms/CommonUniforms (checked [net.coderbot.iris.uniforms.CommonUniforms]).
+[2024-06-19 19:02:03.525] [info]  [19:02:03] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/coderbot/iris/uniforms/CommonUniforms (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/iris/uniforms/CommonUniforms (checked [net.coderbot.iris.uniforms.CommonUniforms]).)
+[2024-06-19 19:02:03.525] [info]  [19:02:03] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/iris/Iris (checked [net.coderbot.iris.Iris]).
+[2024-06-19 19:02:03.526] [info]  [19:02:03] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/coderbot/iris/Iris (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/iris/Iris (checked [net.coderbot.iris.Iris]).)
+[2024-06-19 19:02:03.567] [info]  [19:02:03] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/iris/pipeline/HandRenderer (checked [net.coderbot.iris.pipeline.HandRenderer]).
+[2024-06-19 19:02:03.568] [info]  [19:02:03] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/coderbot/iris/pipeline/HandRenderer (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/iris/pipeline/HandRenderer (checked [net.coderbot.iris.pipeline.HandRenderer]).)
+[2024-06-19 19:02:05.927] [info]  [19:02:05] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[2024-06-19 19:02:06.396] [info]  [19:02:06] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for dev/tr7zw/skinlayers/Config (checked [dev.tr7zw.skinlayers.Config]).
+[2024-06-19 19:02:06.396] [info]  [19:02:06] [Ichor/mixin(MIXIN)/WARN] Error loading class: dev/tr7zw/skinlayers/Config (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for dev/tr7zw/skinlayers/Config (checked [dev.tr7zw.skinlayers.Config]).)
+[2024-06-19 19:02:06.446] [info]  [19:02:06] [main/WARN]: Force-disabling mixin 'features.render.entity.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-06-19 19:02:06.448] [info]  [19:02:06] [main/WARN]: Force-disabling mixin 'features.render.entity.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-06-19 19:02:06.449] [info]  [19:02:06] [main/WARN]: Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-06-19 19:02:06.451] [info]  [19:02:06] [main/WARN]: Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-06-19 19:02:06.452] [info]  [19:02:06] [main/WARN]: Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [iris]) disables it and children
+[2024-06-19 19:02:06.469] [info]  [19:02:06] [main/WARN]: Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[2024-06-19 19:02:06.470] [info]  [19:02:06] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[2024-06-19 19:02:06.471] [info]  [19:02:06] [main/WARN]: Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[2024-06-19 19:02:06.656] [info]  [19:02:06] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/batchedentityrendering/impl/FullyBufferedMultiBufferSource (checked [net.coderbot.batchedentityrendering.impl.FullyBufferedMultiBufferSource]).
+[2024-06-19 19:02:06.657] [info]  [19:02:06] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/coderbot/batchedentityrendering/impl/FullyBufferedMultiBufferSource (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/batchedentityrendering/impl/FullyBufferedMultiBufferSource (checked [net.coderbot.batchedentityrendering.impl.FullyBufferedMultiBufferSource]).)
+[2024-06-19 19:02:06.657] [info]  [19:02:06] [Ichor/mixin(MIXIN)/WARN] @Mixin target net.coderbot.batchedentityrendering.impl.FullyBufferedMultiBufferSource was not found mixins.ichor.sodium.v1_20_1.json:CRCIRCHCIOCCIHRCHCHOHICRI from mod (unknown)
+[2024-06-19 19:02:06.657] [info]  [19:02:06] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/batchedentityrendering/impl/FullyBufferedMultiBufferSource$UnflushableWrapper (checked [net.coderbot.batchedentityrendering.impl.FullyBufferedMultiBufferSource$UnflushableWrapper]).
+[2024-06-19 19:02:06.658] [info]  [19:02:06] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/coderbot/batchedentityrendering/impl/FullyBufferedMultiBufferSource$UnflushableWrapper (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/batchedentityrendering/impl/FullyBufferedMultiBufferSource$UnflushableWrapper (checked [net.coderbot.batchedentityrendering.impl.FullyBufferedMultiBufferSource$UnflushableWrapper]).)
+[2024-06-19 19:02:06.658] [info]  [19:02:06] [Ichor/mixin(MIXIN)/WARN] @Mixin target net.coderbot.batchedentityrendering.impl.FullyBufferedMultiBufferSource$UnflushableWrapper was not found mixins.ichor.sodium.v1_20_1.json:CRCIRCHCIOCCIHRCHCHOHICRI from mod (unknown)
+[2024-06-19 19:02:06.658] [info]  [19:02:06] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/iris/config/IrisConfig (checked [net.coderbot.iris.config.IrisConfig]).
+[2024-06-19 19:02:06.658] [info]  [19:02:06] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/coderbot/iris/config/IrisConfig (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/iris/config/IrisConfig (checked [net.coderbot.iris.config.IrisConfig]).)
+[2024-06-19 19:02:06.658] [info]  [19:02:06] [Ichor/mixin(MIXIN)/WARN] @Mixin target net.coderbot.iris.config.IrisConfig was not found mixins.ichor.sodium.v1_20_1.json:IHCRIIIICOROROOCCIHHHHCRI from mod (unknown)
+[2024-06-19 19:02:06.659] [info]  [19:02:06] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/iris/Iris (checked [net.coderbot.iris.Iris]).
+[2024-06-19 19:02:06.659] [info]  [19:02:06] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/coderbot/iris/Iris (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/iris/Iris (checked [net.coderbot.iris.Iris]).)
+[2024-06-19 19:02:06.659] [info]  [19:02:06] [Ichor/mixin(MIXIN)/WARN] @Mixin target net.coderbot.iris.Iris was not found mixins.ichor.sodium.v1_20_1.json:COCICHIRHCIIORIIHRCOOROHH from mod (unknown)
+[2024-06-19 19:02:06.963] [info]  [19:02:06] [IchorPipeline/main/INFO] Mixin runtimes prepared in 13438ms
+[2024-06-19 19:02:06.963] [info]  [19:02:06] [IchorPipeline/main/INFO] Initialized Mixin in 15929ms
+[2024-06-19 19:02:06.966] [info]  [19:02:06] [Ichor/MixinExtras|Service(MIXIN)/INFO] Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[2024-06-19 19:02:07.744] [info]  [Bridge] Setting Bridge Implementation to com.moonsworth.lunar.IIIICORICOICIRRHCHIIHROIC.IOCOHCCRCOHRICRRHOOICHIHO
+[2024-06-19 19:02:09.148] [info]  [Bridge] Found textures dir: C:\Users\Asus\.lunarclient\textures
+[2024-06-19 19:02:09.171] [info]  Completely ignored arguments: [--workingDirectory, ., --webosrDir, C:\Users\Asus\.lunarclient\offline\multiver\natives, --classpathDir, ., --ichorExternalFiles, Fabric-API-v1_20_1-0.90.7.jar,FerriteCore-v1_20_1-6.0.0.jar,Lithium-v1_20_1-0.11.2.jar,Noxesium-v1_20_1-1.0.3.jar,Noxesium_API-v1_20_1-1.0.3.jar,ReplayMod-v1_20_1-2.6.14.jar,Sodium-v1_20_1-0.5.8.jar,Indium-v1_20_1-1.0.30.jar,Iris-v1_20_1-1.6.17.jar,hypixel-quickplay-data.json,hypixel-bedwars-data.json,hypixel-skyblock-dungeon-rooms.json, --ichorClassPath, common-0.1.0-SNAPSHOT-all.jar,lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar,genesis-0.1.0-SNAPSHOT-all.jar,lunar-lang.jar,lunar-emote.jar,lunar.jar,modern-0.1.0-SNAPSHOT-all.jar,lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar,lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar,lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar,lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar,lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar, --uiDir, C:\Users\Asus\.lunarclient\ui]
+[2024-06-19 19:02:15.485] [info]  [19:02:15] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 108 milliseconds
+[2024-06-19 19:02:16.168] [info]  [19:02:16] [Ichor/mixin(MIXIN)/WARN] Method overwrite conflict for getConnection in fabric-networking-api-v1.mixins.json:accessor.ServerPlayNetworkHandlerAccessor from mod (unknown), previously written by carpet.mixins.ServerGamePacketListenerImpl_coreMixin. Skipping method.
+[2024-06-19 19:02:17.985] [info]  [19:02:17] [Ichor/mixin(MIXIN)/WARN] @Redirect conflict. Skipping mixins.modern_lunar_combined.json:HHRIIHHROCICOCHRCICRIOHRH.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI from mod (unknown)->@Redirect::lunar$fireTooltipEvent(Lnet/minecraft/client/gui/GuiGraphics;Lnet/minecraft/client/gui/Font;Ljava/util/List;Ljava/util/Optional;II)V with priority 200, already redirected by shulkerboxtooltip-fabric.mixins.json:client.fabric.HandledScreenMixin from mod (unknown)->@Redirect::lockTooltipPosition(Lnet/minecraft/client/gui/GuiGraphics;Lnet/minecraft/client/gui/Font;Ljava/util/List;Ljava/util/Optional;II)V with priority 1000
+[2024-06-19 19:02:17.986] [info]  [19:02:17] [IchorPipeline/Render thread/INFO] Restoring net.minecraft.client.gui.screens.inventory.AbstractContainerScreen to backup before Mixin application
+[2024-06-19 19:02:17.986] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+[2024-06-19 19:02:17.987] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(Unknown Source)
+[2024-06-19 19:02:17.987] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(Unknown Source)
+[2024-06-19 19:02:17.987] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.MixinProxyImpl.transformClassNode(Unknown Source)
+[2024-06-19 19:02:17.987] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IHCRIIIICOROROOCCIHHHHCRI.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-19 19:02:17.988] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IHCRIIIICOROROOCCIHHHHCRI.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-19 19:02:17.988] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IRCIHCHCCHHOCORRHRCCORROC.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-19 19:02:17.988] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.findClass(Unknown Source)
+[2024-06-19 19:02:17.988] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.loadClass(Unknown Source)
+[2024-06-19 19:02:17.988] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+[2024-06-19 19:02:17.989] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+[2024-06-19 19:02:17.989] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.defineClass(Unknown Source)
+[2024-06-19 19:02:17.989] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.defineClass(Unknown Source)
+[2024-06-19 19:02:17.989] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.findClass(Unknown Source)
+[2024-06-19 19:02:17.989] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.loadClass(Unknown Source)
+[2024-06-19 19:02:17.990] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+[2024-06-19 19:02:17.990] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+[2024-06-19 19:02:17.990] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.defineClass(Unknown Source)
+[2024-06-19 19:02:17.991] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.defineClass(Unknown Source)
+[2024-06-19 19:02:17.991] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.findClass(Unknown Source)
+[2024-06-19 19:02:17.991] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.loadClass(Unknown Source)
+[2024-06-19 19:02:17.991] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+[2024-06-19 19:02:17.992] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.redirect$zbd000$impl$main$minecraft(SourceFile:656)
+[2024-06-19 19:02:17.992] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.main(SourceFile:211)
+[2024-06-19 19:02:17.992] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[2024-06-19 19:02:17.992] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-06-19 19:02:17.992] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source)
+[2024-06-19 19:02:17.993] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[2024-06-19 19:02:17.993] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-06-19 19:02:17.993] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-19 19:02:17.993] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source)
+[2024-06-19 19:02:17.994] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source)
+[2024-06-19 19:02:17.994] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: Caused by: org.spongepowered.asm.mixin.injection.throwables.InjectionError: Critical injection failure: Redirector lunar$fireTooltipEvent(Lnet/minecraft/client/gui/GuiGraphics;Lnet/minecraft/client/gui/Font;Ljava/util/List;Ljava/util/Optional;II)V in mixins.modern_lunar_combined.json:HHRIIHHROCICOCHRCICRIOHRH.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI from mod (unknown) failed injection check, (0/1) succeeded. Scanned 1 target(s). No refMap loaded.
+[2024-06-19 19:02:17.994] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.injection.struct.InjectionInfo.postInject(Unknown Source)
+[2024-06-19 19:02:17.994] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.MixinTargetContext.applyInjections(Unknown Source)
+[2024-06-19 19:02:17.994] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyInjections(Unknown Source)
+[2024-06-19 19:02:17.995] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(Unknown Source)
+[2024-06-19 19:02:17.995] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(Unknown Source)
+[2024-06-19 19:02:17.995] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(Unknown Source)
+[2024-06-19 19:02:17.995] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(Unknown Source)
+[2024-06-19 19:02:17.996] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(Unknown Source)
+[2024-06-19 19:02:17.996] [info]  [19:02:17] [Render thread/INFO]: [STDERR]: 	... 30 more
+[2024-06-19 19:02:18.953] [info]  [19:02:18] [Ichor/mixin(MIXIN)/WARN] @Redirect conflict. Skipping mixins.modern_lunar_combined.json:HHRIIHHROCICOCHRCICRIOHRH.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI from mod (unknown)->@Redirect::lunar$fireTooltipEvent(Lnet/minecraft/client/gui/GuiGraphics;Lnet/minecraft/client/gui/Font;Ljava/util/List;Ljava/util/Optional;II)V with priority 200, already redirected by shulkerboxtooltip-fabric.mixins.json:client.fabric.HandledScreenMixin from mod (unknown)->@Redirect::lockTooltipPosition(Lnet/minecraft/client/gui/GuiGraphics;Lnet/minecraft/client/gui/Font;Ljava/util/List;Ljava/util/Optional;II)V with priority 1000
+[2024-06-19 19:02:18.954] [info]  [19:02:18] [IchorPipeline/Render thread/INFO] Restoring net.minecraft.client.gui.screens.inventory.AbstractContainerScreen to backup before Mixin application
+[2024-06-19 19:02:18.954] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+[2024-06-19 19:02:18.954] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(Unknown Source)
+[2024-06-19 19:02:18.955] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(Unknown Source)
+[2024-06-19 19:02:18.955] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.MixinProxyImpl.transformClassNode(Unknown Source)
+[2024-06-19 19:02:18.955] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IHCRIIIICOROROOCCIHHHHCRI.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-19 19:02:18.955] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IHCRIIIICOROROOCCIHHHHCRI.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-19 19:02:18.956] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IRCIHCHCCHHOCORRHRCCORROC.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-19 19:02:18.956] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.findClass(Unknown Source)
+[2024-06-19 19:02:18.956] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.loadClass(Unknown Source)
+[2024-06-19 19:02:18.956] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+[2024-06-19 19:02:18.956] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+[2024-06-19 19:02:18.957] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.defineClass(Unknown Source)
+[2024-06-19 19:02:18.957] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.defineClass(Unknown Source)
+[2024-06-19 19:02:18.957] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.findClass(Unknown Source)
+[2024-06-19 19:02:18.957] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.loadClass(Unknown Source)
+[2024-06-19 19:02:18.957] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+[2024-06-19 19:02:18.958] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+[2024-06-19 19:02:18.958] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.defineClass(Unknown Source)
+[2024-06-19 19:02:18.958] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.defineClass(Unknown Source)
+[2024-06-19 19:02:18.959] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.findClass(Unknown Source)
+[2024-06-19 19:02:18.959] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.loadClass(Unknown Source)
+[2024-06-19 19:02:18.959] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+[2024-06-19 19:02:18.959] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.main(SourceFile:220)
+[2024-06-19 19:02:18.960] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[2024-06-19 19:02:18.960] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-06-19 19:02:18.960] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source)
+[2024-06-19 19:02:18.960] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[2024-06-19 19:02:18.960] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-06-19 19:02:18.960] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-19 19:02:18.961] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source)
+[2024-06-19 19:02:18.961] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source)
+[2024-06-19 19:02:18.961] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: Caused by: org.spongepowered.asm.mixin.injection.throwables.InjectionError: Critical injection failure: Redirector lunar$fireTooltipEvent(Lnet/minecraft/client/gui/GuiGraphics;Lnet/minecraft/client/gui/Font;Ljava/util/List;Ljava/util/Optional;II)V in mixins.modern_lunar_combined.json:HHRIIHHROCICOCHRCICRIOHRH.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI from mod (unknown) failed injection check, (0/1) succeeded. Scanned 1 target(s). No refMap loaded.
+[2024-06-19 19:02:18.961] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.injection.struct.InjectionInfo.postInject(Unknown Source)
+[2024-06-19 19:02:18.961] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.MixinTargetContext.applyInjections(Unknown Source)
+[2024-06-19 19:02:18.962] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyInjections(Unknown Source)
+[2024-06-19 19:02:18.962] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(Unknown Source)
+[2024-06-19 19:02:18.962] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(Unknown Source)
+[2024-06-19 19:02:18.962] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(Unknown Source)
+[2024-06-19 19:02:18.962] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(Unknown Source)
+[2024-06-19 19:02:18.963] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(Unknown Source)
+[2024-06-19 19:02:18.963] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	... 29 more
+[2024-06-19 19:02:18.966] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: An error occurred while launching Lunar Client.
+[2024-06-19 19:02:18.966] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: java.lang.IllegalStateException: Failed to boot Minecraft
+[2024-06-19 19:02:18.966] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source)
+[2024-06-19 19:02:18.967] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[2024-06-19 19:02:18.967] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-06-19 19:02:18.967] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-19 19:02:18.968] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source)
+[2024-06-19 19:02:18.968] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source)
+[2024-06-19 19:02:18.968] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: Caused by: java.lang.reflect.InvocationTargetException
+[2024-06-19 19:02:18.968] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[2024-06-19 19:02:18.969] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-06-19 19:02:18.969] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source)
+[2024-06-19 19:02:18.969] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	... 5 more
+[2024-06-19 19:02:18.969] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: Caused by: com.moonsworth.lunar.ichor.util.FatalIchorError: [Genesis] Failed to apply MIXIN to net.minecraft.client.gui.screens.inventory.AbstractContainerScreen
+[2024-06-19 19:02:18.969] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IHCRIIIICOROROOCCIHHHHCRI.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-19 19:02:18.970] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IHCRIIIICOROROOCCIHHHHCRI.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-19 19:02:18.970] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IRCIHCHCCHHOCORRHRCCORROC.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-19 19:02:18.970] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.findClass(Unknown Source)
+[2024-06-19 19:02:18.970] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.loadClass(Unknown Source)
+[2024-06-19 19:02:18.970] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+[2024-06-19 19:02:18.971] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+[2024-06-19 19:02:18.971] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.defineClass(Unknown Source)
+[2024-06-19 19:02:18.971] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.defineClass(Unknown Source)
+[2024-06-19 19:02:18.971] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.findClass(Unknown Source)
+[2024-06-19 19:02:18.971] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.loadClass(Unknown Source)
+[2024-06-19 19:02:18.972] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+[2024-06-19 19:02:18.972] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+[2024-06-19 19:02:18.972] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.defineClass(Unknown Source)
+[2024-06-19 19:02:18.972] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.defineClass(Unknown Source)
+[2024-06-19 19:02:18.972] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.findClass(Unknown Source)
+[2024-06-19 19:02:18.972] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.loadClass(Unknown Source)
+[2024-06-19 19:02:18.973] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+[2024-06-19 19:02:18.973] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.main(SourceFile:220)
+[2024-06-19 19:02:18.973] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	... 8 more
+[2024-06-19 19:02:18.973] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: Caused by: com.moonsworth.lunar.ichor.COCICHIRHCIIORIIHRCOOROHH.RHOCIORRHROCOHOOCRHHRRHCI: Failed to apply Mixins to net.minecraft.client.gui.screens.inventory.AbstractContainerScreen.
+[2024-06-19 19:02:18.974] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.MixinProxyImpl.transformClassNode(Unknown Source)
+[2024-06-19 19:02:18.974] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IHCRIIIICOROROOCCIHHHHCRI.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-19 19:02:18.974] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	... 26 more
+[2024-06-19 19:02:18.974] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: Caused by: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+[2024-06-19 19:02:18.974] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(Unknown Source)
+[2024-06-19 19:02:18.974] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(Unknown Source)
+[2024-06-19 19:02:18.975] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.MixinProxyImpl.transformClassNode(Unknown Source)
+[2024-06-19 19:02:18.975] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	... 27 more
+[2024-06-19 19:02:18.975] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: Caused by: org.spongepowered.asm.mixin.injection.throwables.InjectionError: Critical injection failure: Redirector lunar$fireTooltipEvent(Lnet/minecraft/client/gui/GuiGraphics;Lnet/minecraft/client/gui/Font;Ljava/util/List;Ljava/util/Optional;II)V in mixins.modern_lunar_combined.json:HHRIIHHROCICOCHRCICRIOHRH.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI from mod (unknown) failed injection check, (0/1) succeeded. Scanned 1 target(s). No refMap loaded.
+[2024-06-19 19:02:18.975] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.injection.struct.InjectionInfo.postInject(Unknown Source)
+[2024-06-19 19:02:18.975] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.MixinTargetContext.applyInjections(Unknown Source)
+[2024-06-19 19:02:18.976] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyInjections(Unknown Source)
+[2024-06-19 19:02:18.976] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(Unknown Source)
+[2024-06-19 19:02:18.976] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(Unknown Source)
+[2024-06-19 19:02:18.977] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(Unknown Source)
+[2024-06-19 19:02:18.977] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(Unknown Source)
+[2024-06-19 19:02:18.977] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	at IchorClassLoader(MIXIN)//org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(Unknown Source)
+[2024-06-19 19:02:18.977] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: 	... 29 more
+[2024-06-19 19:02:18.977] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: Sending Sentry with this report...
+[2024-06-19 19:02:18.978] [info]  [19:02:18] [Render thread/INFO]: [STDERR]: Sending event to Sentry: 5b200f134de5439d801d6fcfe1b4e91f (java.lang.IllegalStateException: Failed to boot Minecraft)
+[2024-06-19 19:02:18.978] [info]  [19:01:45] [WARN] [FabricLoader/Resolution]: Warnings were found!
+[2024-06-19 19:02:18.978] [info]   - Mod 'Sodium Extra' (sodium-extra) 0.5.4+mc1.20.1-build.115 recommends version 1.4.2 or later of reeses-sodium-options, which is missing!
+[2024-06-19 19:02:18.978] [info]  	 - You should install version 1.4.2 or later of reeses-sodium-options for the optimal experience.
+[2024-06-19 19:02:18.979] [error] 
+[2024-06-19 19:02:18.979] [error] Exception: java.lang.NoClassDefFoundError thrown from the UncaughtExceptionHandler in thread "Client Shutdown Thread"

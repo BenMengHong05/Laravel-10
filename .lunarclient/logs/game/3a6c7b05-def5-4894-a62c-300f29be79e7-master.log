@@ -1,0 +1,73 @@
+[2024-06-20 22:04:42.922] [error] NOTE: Picked up JDK_JAVA_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-20 22:04:42.926] [error] Picked up JAVA_TOOL_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-20 22:04:42.926] [error] Picked up _JAVA_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-20 22:04:43.141] [info]  [22:04:43] [Genesis/main/INFO
+[2024-06-20 22:04:43.142] [info]  ] Found external file: Fabric-API-v1_20_1-0.90.7.jar
+[2024-06-20 22:04:43.145] [info]  [22:04:43] [Genesis/main/INFO] 
+[2024-06-20 22:04:43.145] [info]  Found external file: FerriteCore-v1_20_1-6.0.0.jar
+[2024-06-20 22:04:43.146] [info]  [22:04:43] [Genesis/main/INFO] Found external file: Lithium-v1_20_1-0.11.2.jar
+[2024-06-20 22:04:43.146] [info]  [22:04:43] [Genesis/main/INFO] Found external file: Noxesium-v1_20_1-1.0.3.jar
+[2024-06-20 22:04:43.146] [info]  [22:04:43] [Genesis/main/INFO] Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+[2024-06-20 22:04:43.147] [info]  [22:04:43] [Genesis/main/INFO] Found external file: ReplayMod-v1_20_1-2.6.14.jar
+[2024-06-20 22:04:43.147] [info]  [22:04:43] [Genesis/main/INFO] Found external file: Sodium-v1_20_1-0.5.8.jar
+[2024-06-20 22:04:43.147] [info]  [22:04:43] [Genesis/main/INFO] Found external file: Indium-v1_20_1-1.0.30.jar
+[2024-06-20 22:04:43.148] [info]  [22:04:43] [Genesis/main/INFO] Found external file: Iris-v1_20_1-1.6.17.jar
+[2024-06-20 22:04:43.148] [info]  [22:04:43] [Genesis/main/INFO] Found external file: hypixel-quickplay-data.json
+[2024-06-20 22:04:43.148] [info]  [22:04:43] [Genesis/main/INFO] Found external file: hypixel-bedwars-data.json
+[2024-06-20 22:04:43.148] [info]  [22:04:43] [Genesis/main/INFO] Found external file: hypixel-skyblock-dungeon-rooms.json
+[2024-06-20 22:04:43.198] [info]  [22:04:43] [Genesis/main/INFO] Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+[2024-06-20 22:04:43.199] [info]  [22:04:43] [Genesis/
+[2024-06-20 22:04:43.200] [info]  main/INFO] Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+[2024-06-20 22:04:43.211] [info]  [22:04:43] [Genesis/main/INFO] Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+[2024-06-20 22:04:43.213] [info]  [22:04:43] [
+[2024-06-20 22:04:43.213] [info]  Genesis/main/INFO] Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+[2024-06-20 22:04:43.213] [info]  [22:04:43] [Genesis/
+[2024-06-20 22:04:43.214] [info]  main/INFO] Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+[2024-06-20 22:04:43.249] [info]  [22:04:43] [Genesis/main/INFO] Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+[2024-06-20 22:04:43.261] [info]  [22:04:43] [Genesis/main/INFO] Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+[2024-06-20 22:04:43.261] [info]  [22:04:43] [Genesis/main/
+[2024-06-20 22:04:43.262] [info]  INFO] Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+[2024-06-20 22:04:43.262] [info]  [22:04:43] [Genesis/main/INFO] 
+[2024-06-20 22:04:43.263] [info]  Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+[2024-06-20 22:04:43.263] [info]  [22:04:43] [Genesis
+[2024-06-20 22:04:43.263] [info]  /main/INFO] Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+[2024-06-20 22:04:43.264] [info]  [22:04:43] [
+[2024-06-20 22:04:43.264] [info]  Genesis/main/INFO] Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+[2024-06-20 22:04:43.267] [info]  [22:04:43
+[2024-06-20 22:04:43.267] [info]  ] [Genesis/main/INFO] Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+[2024-06-20 22:04:43.950] [info]  [22:04:43] [Genesis/main/INFO] Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+[2024-06-20 22:04:44.027] [info]  [22:04:44] [Genesis/GameBootstrap/main/INFO] Launching Minecraft 1.20.1 v1_20_1 (parsed from 1.20.1)
+[2024-06-20 22:04:44.843] [info]  [22:04:44] [Ichor+Fabric/main/INFO] Using custom local mod path: C:\Users\Asus\.lunarclient\profiles\35533a66-fbe4-4c9e-b96c-b47d7554e254\versions\0.0.4\mods
+[2024-06-20 22:04:45.123] [error] An error occurred while launching Lunar Client.
+[2024-06-20 22:04:45.123] [error] com.moonsworth.lunar.ichor.util.FatalIchorError: [Bootstrap#Game] Failed to bootstrap fabric-loader
+[2024-06-20 22:04:45.123] [error] 	at com.moonsworth.RHOCIORRHROCOHOOCRHHRRHCI.IHCRIIIICOROROOCCIHHHHCRI.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-20 22:04:45.124] [error] 	at com.moonsworth.RHOCIORRHROCOHOOCRHHRRHCI.COCICHIRHCIIORIIHRCOOROHH.HHRIIHHROCICOCHRCICRIOHRH(Unknown Source)
+[2024-06-20 22:04:45.124] [error] 	at com.moonsworth.lunar.ichor.IRCIHCHCCHHOCORRHRCCORROC.IOCOHCCRCOHRICRRHOOICHIHO(Unknown Source)
+[2024-06-20 22:04:45.124] [error] 	at java.base/java.util.ArrayList.forEach(Unknown Source)
+[2024-06-20 22:04:45.124] [error] 	at com.moonsworth.lunar.ichor.IRCIHCHCCHHOCORRHRCCORROC.<init>(Unknown Source)
+[2024-06-20 22:04:45.124] [error] 	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source)
+[2024-06-20 22:04:45.125] [error] 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[2024-06-20 22:04:45.125] [error] 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-06-20 22:04:45.125] [error] 	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-20 22:04:45.125] [error] 	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source)
+[2024-06-20 22:04:45.126] [error] 	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source)
+[2024-06-20 22:04:45.126] [error] Caused by: net.fabricmc.loader.impl.discovery.ModResolutionException: Some of your mods are incompatible with the game or each other!
+[2024-06-20 22:04:45.126] [error] A potential solution has been determined, this may resolve your problem:
+[2024-06-20 22:04:45.126] [error] 	 - Install fabric-language-kotlin, version 1.8.22 or later.
+[2024-06-20 22:04:45.126] [error] 	 - Replace mod 'Sodium' (sodium) 0.4.10+build.27 with version 0.5.1.
+[2024-06-20 22:04:45.127] [error] More details:
+[2024-06-20 22:04:45.127] [error] 	 - Mod 'Indium' (indium) 1.0.24+mc1.20.1 requires version 0.5.1 of mod 'Sodium' (sodium), but only the wrong version is present: 0.4.10+build.27!
+[2024-06-20 22:04:45.127] [error] 	 - Mod 'Noxesium' (noxesium) 1.0.3+9b339b0 is incompatible with any version before 0.5.1 of mod 'Sodium' (sodium), but a matching version is present: 0.4.10+build.27!
+[2024-06-20 22:04:45.127] [error] 	 - Mod 'SystemHUD' (syshud) 1.1.0 requires version 1.8.22 or later of fabric-language-kotlin, which is missing!
+[2024-06-20 22:04:45.127] [error] 	at net.fabricmc.loader.impl.discovery.ModResolver.findCompatibleSet(ModResolver.java:148)
+[2024-06-20 22:04:45.128] [error] 	at net.fabricmc.loader.impl.discovery.ModResolver.resolve(ModResolver.java:45)
+[2024-06-20 22:04:45.128] [error] 	at com.moonsworth.RHOCIORRHROCOHOOCRHHRRHCI.CCOCCHORCHCOCCROCHOIOICOI.IHHIIOHOIHRHRIHICIICOCIOI(Unknown Source)
+[2024-06-20 22:04:45.128] [error] 	at com.moonsworth.RHOCIORRHROCOHOOCRHHRRHCI.CCOCCHORCHCOCCROCHOIOICOI.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-20 22:04:45.128] [error] 	at com.moonsworth.RHOCIORRHROCOHOOCRHHRRHCI.IHCRIIIICOROROOCCIHHHHCRI.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-20 22:04:45.128] [error] 	... 10 more
+[2024-06-20 22:04:45.129] [error] Skipping Sentry report due to filter regex.
+[2024-06-20 22:04:45.129] [info]  [22:04:44] [WARN] [FabricLoader/Metadata]: Mod morecosmetics uses the version ${version} which isn't compatible with Loader's extended semantic version format (Could not parse version number component '${version}'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[2024-06-20 22:04:45.129] [info]  [22:04:45] [WARN] [FabricLoader/Resolution]: Mod resolution failed
+[2024-06-20 22:04:45.129] [info]  [22:04:45] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE indium 1.0.24+mc1.20.1 {depends sodium @ [0.5.1]}, ROOT_FORCELOAD_SINGLE indium 1.0.24+mc1.20.1]
+[2024-06-20 22:04:45.130] [info]  [22:04:45] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP indium 1.0.24+mc1.20.1 {depends sodium @ [0.5.1]}, NEG_HARD_DEP noxesium 1.0.3+9b339b0 {breaks sodium @ [<0.5.1]}, HARD_DEP syshud 1.1.0 {depends fabric-language-kotlin @ [>=1.8.22]}]
+[2024-06-20 22:04:45.130] [info]  [22:04:45] [INFO] [FabricLoader/Resolution]: Fix: add [add:fabric-language-kotlin 1.8.22 ([[1.8.22,?)])], remove [], replace [[sodium 0.4.10+build.27] -> add:sodium 0.5.1 ([[0.5.1,0.5.1]])]

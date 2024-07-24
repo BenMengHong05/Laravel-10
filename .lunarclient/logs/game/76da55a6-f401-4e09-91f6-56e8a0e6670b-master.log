@@ -1,0 +1,1109 @@
+[2024-06-20 21:44:15.000] [error] NOTE: Picked up JDK_JAVA_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-20 21:44:15.005] [error] Picked up JAVA_TOOL_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-20 21:44:15.006] [error] Picked up _JAVA_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-20 21:44:15.217] [info]  [
+[2024-06-20 21:44:15.218] [info]  21:44:15] [Genesis/main/INFO] Found external file: Fabric-API-v1_20_1-0.90.7.jar
+[2024-06-20 21:44:15.221] [info]  [21:44:15] [Genesis/main/INFO] 
+[2024-06-20 21:44:15.222] [info]  Found external file: FerriteCore-v1_20_1-6.0.0.jar
+[2024-06-20 21:44:15.222] [info]  [21:44:15] [Genesis/main/INFO] Found external file: Lithium-v1_20_1-0.11.2.jar
+[2024-06-20 21:44:15.222] [info]  [21:44:15] [Genesis/main/INFO] Found external file: Noxesium-v1_20_1-1.0.3.jar
+[2024-06-20 21:44:15.223] [info]  [21:44:15] [Genesis/main/INFO] 
+[2024-06-20 21:44:15.223] [info]  Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+[2024-06-20 21:44:15.223] [info]  [21:44:15] [Genesis/main/INFO] Found external file: ReplayMod-v1_20_1-2.6.14.jar
+[2024-06-20 21:44:15.224] [info]  [21:44:15] [Genesis/main/INFO] Found external file: Sodium-v1_20_1-0.5.8.jar
+[2024-06-20 21:44:15.224] [info]  [21:44:15] [Genesis/main/INFO
+[2024-06-20 21:44:15.224] [info]  ] Found external file: Indium-v1_20_1-1.0.30.jar
+[2024-06-20 21:44:15.225] [info]  [21:44:15] [Genesis/main/INFO] Found external file: Iris-v1_20_1-1.6.17.jar
+[2024-06-20 21:44:15.225] [info]  [21:44:15] [Genesis/main/INFO] Found external file: hypixel-quickplay-data.json
+[2024-06-20 21:44:15.225] [info]  [21:44:15] [Genesis/main/INFO] Found external file: hypixel-bedwars-data.json
+[2024-06-20 21:44:15.225] [info]  [21:44:15] [Genesis/main/INFO] Found external file: hypixel-skyblock-dungeon-rooms.json
+[2024-06-20 21:44:15.277] [info]  [21:44:15] [Genesis/main/INFO] Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+[2024-06-20 21:44:15.278] [info]  [21:44:15] [Genesis/main/
+[2024-06-20 21:44:15.278] [info]  INFO] Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+[2024-06-20 21:44:15.290] [info]  [21:44:15] [Genesis/main/INFO] Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+[2024-06-20 21:44:15.291] [info]  [21:44:15] [
+[2024-06-20 21:44:15.292] [info]  Genesis/main/INFO] Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+[2024-06-20 21:44:15.292] [info]  [21:44:15] [Genesis/main/
+[2024-06-20 21:44:15.292] [info]  INFO] Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+[2024-06-20 21:44:15.328] [info]  [21:44:15] [Genesis/main/INFO] Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+[2024-06-20 21:44:15.340] [info]  [21:44:15] [Genesis/main/INFO] Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+[2024-06-20 21:44:15.341] [info]  [21:44:15] [Genesis/
+[2024-06-20 21:44:15.341] [info]  main/INFO] Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+[2024-06-20 21:44:15.342] [info]  [21:44:15] [Genesis
+[2024-06-20 21:44:15.342] [info]  /main/INFO] Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+[2024-06-20 21:44:15.343] [info]  [21:44:15] [
+[2024-06-20 21:44:15.343] [info]  Genesis/main/INFO] Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+[2024-06-20 21:44:15.344] [info]  [21:44:15] [
+[2024-06-20 21:44:15.344] [info]  Genesis/main/INFO] Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+[2024-06-20 21:44:15.346] [info]  [21:44:15
+[2024-06-20 21:44:15.347] [info]  ] [Genesis/main/INFO] Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+[2024-06-20 21:44:16.037] [info]  [21:44:16] [Genesis/main/INFO] Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+[2024-06-20 21:44:16.112] [info]  [21:44:16] [Genesis/GameBootstrap/main/INFO] Launching Minecraft 1.20.1 v1_20_1 (parsed from 1.20.1)
+[2024-06-20 21:44:16.927] [info]  [21:44:16] [Ichor+Fabric/main/INFO] Using custom local mod path: C:\Users\Asus\.lunarclient\profiles\35533a66-fbe4-4c9e-b96c-b47d7554e254\versions\0.0.4\mods
+[2024-06-20 21:44:21.146] [info]  LUNARCLIENT_STATUS_PREINIT
+[2024-06-20 21:44:21.147] [info]  [
+[2024-06-20 21:44:21.147] [info]  21:44:21] [Genesis/GameBootstrap/main/INFO] Starting game!
+[2024-06-20 21:44:21.586] [info]  [21:44:21] [IchorPipeline/main/INFO] Built mapping set for com.moonsworth.lunar.ichor.CRCIRCHCIOCCIHRCHCHOHICRI.RHOCIORRHROCOHOOCRHHRRHCI.IHCRIIIICOROROOCCIHHHHCRI.RHCRCHHICCCIIHIIIHIIRROOO 325ms on thread main
+[2024-06-20 21:44:21.905] [info]  [21:44:21] [IchorPipeline/main/INFO] Loading Mixin runtime for META_MIXIN
+[2024-06-20 21:44:22.125] [info]  [21:44:22] [Ichor/mixin(META_MIXIN)/INFO] SpongePowered MIXIN Subsystem Version=0.8.5 Source=Unknown Service=Ichor Env=CLIENT
+[2024-06-20 21:44:22.658] [info]  [21:44:22] [IchorPipeline/main/INFO] Loading Mixin runtime for MIXIN
+[2024-06-20 21:44:23.291] [info]  [21:44:23] [Ichor/mixin(MIXIN)/INFO] SpongePowered MIXIN Subsystem Version=0.8.5 Source=Unknown Service=Ichor Env=CLIENT
+[2024-06-20 21:44:23.863] [info]  [21:44:23] [IchorPipeline/main/INFO] Done loading Mixin runtimes in 1959ms
+[2024-06-20 21:44:23.864] [info]  [21:44:23] [IchorPipeline/main/INFO] Setting up mixins for META_MIXIN
+[2024-06-20 21:44:23.964] [info]  [21:44:23] [IchorPipeline/main/INFO] Setting up mixins for MIXIN
+[2024-06-20 21:44:23.965] [info]  [21:44:23] [Ichor/main/INFO
+[2024-06-20 21:44:23.966] [info]  ] Mixin config mixins.modern.json doesn't exist in IchorClassLoader(MIXIN)
+[2024-06-20 21:44:23.966] [info]  [21:44:23] [Ichor/main/INFO] Mixin config mixins.modern_lunar.json doesn't exist in IchorClassLoader(MIXIN)
+[2024-06-20 21:44:24.237] [info]  [21:44:24] [IchorPipeline/main/INFO] Done registering Mixins in 374ms
+[2024-06-20 21:44:24.238] [info]  [21:44:24] [IchorPipeline/main/INFO] Going to default mixins stage for META_MIXIN
+[2024-06-20 21:44:25.179] [info]  [21:44:25] [Ichor/mixin(META_MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(META_MIXIN) couldn't find class bytes for net/coderbot/iris/compat/sodium/mixin/options/MixinSodiumOptionsGUI (checked [net.coderbot.iris.compat.sodium.mixin.options.MixinSodiumOptionsGUI]).
+[2024-06-20 21:44:25.179] [info]  java.lang.ClassNotFoundException: IchorClassLoader(META_MIXIN) couldn't find class bytes for net/coderbot/iris/compat/sodium/mixin/options/MixinSodiumOptionsGUI (checked [net.coderbot.iris.compat.sodium.mixin.options.MixinSodiumOptionsGUI]).
+[2024-06-20 21:44:25.180] [info]  	at com.moonsworth.lunar.ichor.IOCOHCCRCOHRICRRHOOICHIHO.CHICRROIHCCHIOHOIIIOCCCOR(Unknown Source)
+[2024-06-20 21:44:25.180] [info]  	at IchorClassLoader(META_MIXIN)//com.moonsworth.lunar.ichor.COCICHIRHCIIORIIHRCOOROHH.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.getClassNode(Unknown Source)
+[2024-06-20 21:44:25.181] [info]  	at IchorClassLoader(META_MIXIN)//com.moonsworth.lunar.ichor.COCICHIRHCIIORIIHRCOOROHH.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.getClassNode(Unknown Source)
+[2024-06-20 21:44:25.181] [info]  	at IchorClassLoader(META_MIXIN)//org.spongepowered.asm.mixin.transformer.ClassInfo.forName(Unknown Source)
+[2024-06-20 21:44:25.181] [info]  	at IchorClassLoader(META_MIXIN)//org.spongepowered.asm.mixin.transformer.MixinInfo.getTargetClass(Unknown Source)
+[2024-06-20 21:44:25.181] [info]  	at IchorClassLoader(META_MIXIN)//org.spongepowered.asm.mixin.transformer.MixinInfo.readTargetClasses(Unknown Source)
+[2024-06-20 21:44:25.182] [info]  	at IchorClassLoader(META_MIXIN)//org.spongepowered.asm.mixin.transformer.MixinInfo.parseTargets(Unknown Source)
+[2024-06-20 21:44:25.182] [info]  	at IchorClassLoader(META_MIXIN)//org.spongepowered.asm.mixin.transformer.MixinConfig.prepareMixins(Unknown Source)
+[2024-06-20 21:44:25.182] [info]  	at IchorClassLoader(META_MIXIN)//org.spongepowered.asm.mixin.transformer.MixinConfig.prepare(Unknown Source)
+[2024-06-20 21:44:25.182] [info]  	at IchorClassLoader(META_MIXIN)//org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(Unknown Source)
+[2024-06-20 21:44:25.182] [info]  	at IchorClassLoader(META_MIXIN)//org.spongepowered.asm.mixin.transformer.MixinProcessor.select(Unknown Source)
+[2024-06-20 21:44:25.183] [info]  	at IchorClassLoader(META_MIXIN)//org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(Unknown Source)
+[2024-06-20 21:44:25.183] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[2024-06-20 21:44:25.183] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-06-20 21:44:25.183] [info]  	at IchorClassLoader(META_MIXIN)//org.spongepowered.asm.mixin.transformer.MixinProxyImpl.gotoDefaultPhase(Unknown Source)
+[2024-06-20 21:44:25.183] [info]  	at com.moonsworth.lunar.ichor.IHCRIIIICOROROOCCIHHHHCRI.RCOIIRRHOORIOROOROICRHHOR(Unknown Source)
+[2024-06-20 21:44:25.184] [info]  	at com.moonsworth.lunar.ichor.IHCRIIIICOROROOCCIHHHHCRI.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-20 21:44:25.184] [info]  	at com.moonsworth.lunar.ichor.IHCRIIIICOROROOCCIHHHHCRI.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-20 21:44:25.184] [info]  	at com.moonsworth.lunar.ichor.IHCRIIIICOROROOCCIHHHHCRI.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-20 21:44:25.184] [info]  	at com.moonsworth.lunar.ichor.IRCIHCHCCHHOCORRHRCCORROC.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-20 21:44:25.184] [info]  	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.findClass(Unknown Source)
+[2024-06-20 21:44:25.185] [info]  	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.loadClass(Unknown Source)
+[2024-06-20 21:44:25.185] [info]  	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+[2024-06-20 21:44:25.185] [info]  	at java.base/java.lang.Class.forName0(Native Method)
+[2024-06-20 21:44:25.185] [info]  	at java.base/java.lang.Class.forName(Unknown Source)
+[2024-06-20 21:44:25.185] [info]  	at java.base/java.lang.Class.forName(Unknown Source)
+[2024-06-20 21:44:25.186] [info]  	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source)
+[2024-06-20 21:44:25.186] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[2024-06-20 21:44:25.186] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-06-20 21:44:25.186] [info]  	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-20 21:44:25.187] [info]  	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source)
+[2024-06-20 21:44:25.187] [info]  	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source)
+[2024-06-20 21:44:25.187] [info]  [21:44:25] [Ichor/mixin(META_MIXIN)/WARN] Error loading class: net/coderbot/iris/compat/sodium/mixin/options/MixinSodiumOptionsGUI (java.lang.ClassNotFoundException: IchorClassLoader(META_MIXIN) couldn't find class bytes for net/coderbot/iris/compat/sodium/mixin/options/MixinSodiumOptionsGUI (checked [net.coderbot.iris.compat.sodium.mixin.options.MixinSodiumOptionsGUI]).)
+[2024-06-20 21:44:25.187] [info]  [21:44:25] [Ichor/mixin(META_MIXIN)/WARN] @Mixin target net.coderbot.iris.compat.sodium.mixin.options.MixinSodiumOptionsGUI was not found mixins.meta.ichor.sodium.v1_20_1.json:RHOCIORRHROCOHOOCRHHRRHCI from mod (unknown)
+[2024-06-20 21:44:25.203] [info]  [21:44:25] [IchorPipeline/main/INFO] Going to default mixins stage for MIXIN
+[2024-06-20 21:44:25.218] [info]  [21:44:25] [Ichor/MixinExtras|Service(META_MIXIN)/INFO] Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[2024-06-20 21:44:26.589] [info]  [21:44:26] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 2 override(s) found
+[2024-06-20 21:44:26.714] [info]  [21:44:26] [main/INFO]: Loaded configuration file for Sodium: 42 options available, 3 override(s) found
+[2024-06-20 21:44:26.782] [info]  [21:44:26] [main/INFO]: Loaded configuration file for Sodium Extra: 34 options available, 0 override(s) found
+[2024-06-20 21:44:32.120] [info]  [21:44:32] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/render/ChunkVisibility (checked [net.optifine.render.ChunkVisibility]).
+[2024-06-20 21:44:32.121] [info]  [21:44:32] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/optifine/render/ChunkVisibility (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/render/ChunkVisibility (checked [net.optifine.render.ChunkVisibility]).)
+[2024-06-20 21:44:32.121] [info]  [21:44:32] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for shadersmod/client/ShadersRender (checked [shadersmod.client.ShadersRender]).
+[2024-06-20 21:44:32.122] [info]  [21:44:32] [Ichor/mixin(MIXIN)/WARN] Error loading class: shadersmod/client/ShadersRender (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for shadersmod/client/ShadersRender (checked [shadersmod.client.ShadersRender]).)
+[2024-06-20 21:44:32.122] [info]  [21:44:32] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/shaders/ShadersRender (checked [net.optifine.shaders.ShadersRender]).
+[2024-06-20 21:44:32.122] [info]  [21:44:32] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/optifine/shaders/ShadersRender (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/shaders/ShadersRender (checked [net.optifine.shaders.ShadersRender]).)
+[2024-06-20 21:44:32.216] [info]  [21:44:32] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/iris/uniforms/CommonUniforms (checked [net.coderbot.iris.uniforms.CommonUniforms]).
+[2024-06-20 21:44:32.216] [info]  [21:44:32] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/coderbot/iris/uniforms/CommonUniforms (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/iris/uniforms/CommonUniforms (checked [net.coderbot.iris.uniforms.CommonUniforms]).)
+[2024-06-20 21:44:32.217] [info]  [21:44:32] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/iris/Iris (checked [net.coderbot.iris.Iris]).
+[2024-06-20 21:44:32.217] [info]  [21:44:32] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/coderbot/iris/Iris (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/iris/Iris (checked [net.coderbot.iris.Iris]).)
+[2024-06-20 21:44:32.251] [info]  [21:44:32] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/iris/pipeline/HandRenderer (checked [net.coderbot.iris.pipeline.HandRenderer]).
+[2024-06-20 21:44:32.252] [info]  [21:44:32] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/coderbot/iris/pipeline/HandRenderer (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/iris/pipeline/HandRenderer (checked [net.coderbot.iris.pipeline.HandRenderer]).)
+[2024-06-20 21:44:34.102] [info]  [21:44:34] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[2024-06-20 21:44:34.373] [info]  [21:44:34] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
+[2024-06-20 21:44:34.794] [info]  [21:44:34] [main/WARN]: Force-disabling mixin 'features.render.entity.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-06-20 21:44:34.795] [info]  [21:44:34] [main/WARN]: Force-disabling mixin 'features.render.entity.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-06-20 21:44:34.796] [info]  [21:44:34] [main/WARN]: Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-06-20 21:44:34.798] [info]  [21:44:34] [main/WARN]: Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-06-20 21:44:34.800] [info]  [21:44:34] [main/WARN]: Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [iris]) disables it and children
+[2024-06-20 21:44:34.817] [info]  [21:44:34] [main/WARN]: Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[2024-06-20 21:44:34.818] [info]  [21:44:34] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[2024-06-20 21:44:34.819] [info]  [21:44:34] [main/WARN]: Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[2024-06-20 21:44:34.986] [info]  [21:44:34] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/batchedentityrendering/impl/FullyBufferedMultiBufferSource (checked [net.coderbot.batchedentityrendering.impl.FullyBufferedMultiBufferSource]).
+[2024-06-20 21:44:34.986] [info]  [21:44:34] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/coderbot/batchedentityrendering/impl/FullyBufferedMultiBufferSource (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/batchedentityrendering/impl/FullyBufferedMultiBufferSource (checked [net.coderbot.batchedentityrendering.impl.FullyBufferedMultiBufferSource]).)
+[2024-06-20 21:44:34.987] [info]  [21:44:34] [Ichor/mixin(MIXIN)/WARN] @Mixin target net.coderbot.batchedentityrendering.impl.FullyBufferedMultiBufferSource was not found mixins.ichor.sodium.v1_20_1.json:CRCIRCHCIOCCIHRCHCHOHICRI from mod (unknown)
+[2024-06-20 21:44:34.987] [info]  [21:44:34] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/batchedentityrendering/impl/FullyBufferedMultiBufferSource$UnflushableWrapper (checked [net.coderbot.batchedentityrendering.impl.FullyBufferedMultiBufferSource$UnflushableWrapper]).
+[2024-06-20 21:44:34.987] [info]  [21:44:34] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/coderbot/batchedentityrendering/impl/FullyBufferedMultiBufferSource$UnflushableWrapper (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/batchedentityrendering/impl/FullyBufferedMultiBufferSource$UnflushableWrapper (checked [net.coderbot.batchedentityrendering.impl.FullyBufferedMultiBufferSource$UnflushableWrapper]).)
+[2024-06-20 21:44:34.987] [info]  [21:44:34] [Ichor/mixin(MIXIN)/WARN] @Mixin target net.coderbot.batchedentityrendering.impl.FullyBufferedMultiBufferSource$UnflushableWrapper was not found mixins.ichor.sodium.v1_20_1.json:CRCIRCHCIOCCIHRCHCHOHICRI from mod (unknown)
+[2024-06-20 21:44:34.988] [info]  [21:44:34] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/iris/config/IrisConfig (checked [net.coderbot.iris.config.IrisConfig]).
+[2024-06-20 21:44:34.988] [info]  [21:44:34] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/coderbot/iris/config/IrisConfig (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/iris/config/IrisConfig (checked [net.coderbot.iris.config.IrisConfig]).)
+[2024-06-20 21:44:34.988] [info]  [21:44:34] [Ichor/mixin(MIXIN)/WARN] @Mixin target net.coderbot.iris.config.IrisConfig was not found mixins.ichor.sodium.v1_20_1.json:IHCRIIIICOROROOCCIHHHHCRI from mod (unknown)
+[2024-06-20 21:44:34.988] [info]  [21:44:34] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/iris/Iris (checked [net.coderbot.iris.Iris]).
+[2024-06-20 21:44:34.988] [info]  [21:44:34] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/coderbot/iris/Iris (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/coderbot/iris/Iris (checked [net.coderbot.iris.Iris]).)
+[2024-06-20 21:44:34.989] [info]  [21:44:34] [Ichor/mixin(MIXIN)/WARN] @Mixin target net.coderbot.iris.Iris was not found mixins.ichor.sodium.v1_20_1.json:COCICHIRHCIIORIIHRCOOROHH from mod (unknown)
+[2024-06-20 21:44:34.996] [info]  [21:44:34] [main/INFO]: [MemoryLeakFix] Will be applying 3 memory leak fixes!
+[2024-06-20 21:44:34.997] [info]  [21:44:34] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [targetEntityLeak, biomeTemperatureLeak, hugeScreenshotLeak]
+[2024-06-20 21:44:35.313] [info]  [
+[2024-06-20 21:44:35.313] [info]  21:44:35] [IchorPipeline/main/INFO] Mixin runtimes prepared in 11075ms
+[2024-06-20 21:44:35.313] [info]  [21:44:35] [IchorPipeline/main/INFO] Initialized Mixin in 13409ms
+[2024-06-20 21:44:35.318] [info]  [21:44:35] [Ichor/MixinExtras|Service(MIXIN)/INFO] Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[2024-06-20 21:44:36.185] [info]  [Bridge] Setting Bridge Implementation to com.moonsworth.lunar.IIIICORICOICIRRHCHIIHROIC.IOCOHCCRCOHRICRRHOOICHIHO
+[2024-06-20 21:44:37.577] [info]  [Bridge] Found textures dir: C:\Users\Asus\.lunarclient\textures
+[2024-06-20 21:44:37.601] [info]  Completely ignored arguments: [--workingDirectory, ., --webosrDir, C:\Users\Asus\.lunarclient\offline\multiver\natives, --classpathDir, ., --ichorExternalFiles, Fabric-API-v1_20_1-0.90.7.jar,FerriteCore-v1_20_1-6.0.0.jar,Lithium-v1_20_1-0.11.2.jar,Noxesium-v1_20_1-1.0.3.jar,Noxesium_API-v1_20_1-1.0.3.jar,ReplayMod-v1_20_1-2.6.14.jar,Sodium-v1_20_1-0.5.8.jar,Indium-v1_20_1-1.0.30.jar,Iris-v1_20_1-1.6.17.jar,hypixel-quickplay-data.json,hypixel-bedwars-data.json,hypixel-skyblock-dungeon-rooms.json, --ichorClassPath, common-0.1.0-SNAPSHOT-all.jar,lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar,genesis-0.1.0-SNAPSHOT-all.jar,lunar-lang.jar,lunar-emote.jar,lunar.jar,modern-0.1.0-SNAPSHOT-all.jar,lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar,lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar,lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar,lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar,lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar, --uiDir, C:\Users\Asus\.lunarclient\ui]
+[2024-06-20 21:44:43.744] [info]  [21:44:43] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 110 milliseconds
+[2024-06-20 21:44:46.593] [info]  [21:44:46] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[2024-06-20 21:44:47.325] [info]  [21:44:47] [Render thread/ERROR]: Failed to verify authentication
+[2024-06-20 21:44:47.325] [info]  com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
+[2024-06-20 21:44:47.326] [info]  	at Genesis/com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:56) ~[?:?]
+[2024-06-20 21:44:47.326] [info]  	at Genesis/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:156) ~[?:?]
+[2024-06-20 21:44:47.326] [info]  	at Genesis/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.<init>(YggdrasilUserApiService.java:55) ~[?:?]
+[2024-06-20 21:44:47.326] [info]  	at Genesis/com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.createUserApiService(YggdrasilAuthenticationService.java:124) ~[?:?]
+[2024-06-20 21:44:47.326] [info]  	at Genesis/net.minecraft.client.Minecraft.createUserApiService(SourceFile:733) [?:?]
+[2024-06-20 21:44:47.327] [info]  	at Genesis/net.minecraft.client.Minecraft.<init>(SourceFile:442) [?:?]
+[2024-06-20 21:44:47.327] [info]  	at Genesis/net.minecraft.client.main.Main.redirect$zbd000$impl$main$minecraft(SourceFile:656) [?:?]
+[2024-06-20 21:44:47.327] [info]  	at Genesis/net.minecraft.client.main.Main.main(SourceFile:211) [?:?]
+[2024-06-20 21:44:47.327] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+[2024-06-20 21:44:47.328] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+[2024-06-20 21:44:47.328] [info]  	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-20 21:44:47.328] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+[2024-06-20 21:44:47.328] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+[2024-06-20 21:44:47.328] [info]  	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-20 21:44:47.329] [info]  	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-20 21:44:47.329] [info]  	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-20 21:44:47.329] [info]  Caused by: com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 401
+[2024-06-20 21:44:47.329] [info]  	at Genesis/com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:85) ~[?:?]
+[2024-06-20 21:44:47.329] [info]  	at Genesis/com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48) ~[?:?]
+[2024-06-20 21:44:47.330] [info]  	at Genesis/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:129) ~[?:?]
+[2024-06-20 21:44:47.330] [info]  	... 14 more
+[2024-06-20 21:44:47.330] [info]  [21:44:47] [Render thread/INFO]: Setting user: Player501
+[2024-06-20 21:44:47.371] [info]  [21:44:47] [IchorPipeline/
+[2024-06-20 21:44:47.372] [info]  Render thread/INFO] Launching main ModInitializer
+[2024-06-20 21:44:47.372] [info]  [21:44:47] [IchorPipeline/Render thread/INFO] Launching Entrypoint(main) in Genesis
+[2024-06-20 21:44:47.372] [info]  [21:44:47] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.lookup.ApiLookupImpl
+[2024-06-20 21:44:47.408] [info]  [21:44:47] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.networking.v0.OldNetworkingHooks
+[2024-06-20 21:44:47.412] [info]  [21:44:47] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.loot.table.LootTablesV1Init
+[2024-06-20 21:44:47.440] [info]  [21:44:47] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.event.interaction.InteractionEventsRouter
+[2024-06-20 21:44:47.445] [info]  [21:44:47] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.recipe.ingredient.CustomIngredientInit
+[2024-06-20 21:44:47.459] [info]  [21:44:47] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.recipe.ingredient.CustomIngredientSync
+[2024-06-20 21:44:47.484] [info]  [21:44:47] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.attachment.AttachmentEntrypoint
+[2024-06-20 21:44:47.492] [info]  [21:44:47] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.event.lifecycle.LifecycleEventsImpl
+[2024-06-20 21:44:47.497] [info]  [21:44:47] [Ichor/Render thread/INFO] Found Entrypoint(main) de.maxhenkel.voicechat.FabricVoicechatMod
+[2024-06-20 21:44:47.529] [info]  [21:44:47] [Render thread/INFO]: [voicechat] Compatibility version 17
+[2024-06-20 21:44:47.716] [info]  [21:44:47] [Render thread/INFO]: [voicechat] Loading plugins
+[2024-06-20 21:44:47.717] [info]  [21:44:47] [Render thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[2024-06-20 21:44:47.718] [info]  [21:44:47] [Render thread/INFO]: [voicechat] Initializing plugins
+[2024-06-20 21:44:47.718] [info]  [21:44:47] [Render thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[2024-06-20 21:44:47.747] [info]  [21:44:47] [Ichor/Render thread/INFO] Found Entrypoint(main) me.jellysquid.mods.lithium.common.LithiumMod
+[2024-06-20 21:44:47.767] [info]  [21:44:47] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.registry.sync.FabricRegistryInit
+[2024-06-20 21:44:47.773] [info]  [21:44:47] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.event.lifecycle.v0.LegacyEventInvokers
+[2024-06-20 21:44:47.779] [info]  [21:44:47] [Ichor/Render thread/INFO] Found Entrypoint(main) me.steinborn.krypton.mod.shared.KryptonSharedInitializer
+[2024-06-20 21:44:47.898] [info]  [21:44:47] [Render thread/INFO]: Compression will use Java, encryption will use Java
+[2024-06-20 21:44:47.899] [info]  [21:44:47] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.networking.NetworkingImpl::init()
+[2024-06-20 21:44:47.899] [info]  [21:44:47] [Ichor/Render thread/INFO] Found Entrypoint(main) ca.fxco.memoryleakfix.fabric.MemoryLeakFixFabric
+[2024-06-20 21:44:47.900] [info]  [21:44:47] [Ichor/Render thread/INFO] Found Entrypoint(main) me.fallenbreath.conditionalmixin.ConditionalMixinMod
+[2024-06-20 21:44:47.901] [info]  [21:44:47] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.command.v1.LegacyHandler
+[2024-06-20 21:44:47.904] [info]  [21:44:47] [IchorPipeline/Render thread/INFO] Entrypoint(main) had 16 invokes.
+[2024-06-20 21:44:47.904] [info]  [21:44:47] [IchorPipeline/Render thread/INFO] Launching client ClientModInitializer
+[2024-06-20 21:44:47.904] [info]  [21:44:47] [IchorPipeline/Render thread/INFO] Launching Entrypoint(client) in Genesis
+[2024-06-20 21:44:47.905] [info]  [21:44:47] [Ichor/Render thread/INFO] Found Entrypoint(client) me.jellysquid.mods.sodium.client.SodiumClientMod
+[2024-06-20 21:44:47.927] [info]  [21:44:47] [Ichor/Render thread/INFO] Found Entrypoint(client) io.github.amerebagatelle.fabricskyboxes.FabricSkyBoxesClient
+[2024-06-20 21:44:48.257] [info]  [21:44:48] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.client.indigo.Indigo
+[2024-06-20 21:44:48.273] [info]  [21:44:48] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[2024-06-20 21:44:48.273] [info]  [21:44:48] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.client.networking.v0.OldClientNetworkingHooks
+[2024-06-20 21:44:48.276] [info]  [21:44:48] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.event.interaction.InteractionEventsRouterClient
+[2024-06-20 21:44:48.278] [info]  [21:44:48] [Ichor/Render thread/INFO] Found Entrypoint(client) shcm.shsupercm.fabric.citresewn.defaults.CITResewnDefaultsCompatAPI::initAll()
+[2024-06-20 21:44:48.279] [info]  [21:44:48] [Ichor/Render thread/INFO] Found Entrypoint(client) com.terraformersmc.modmenu.ModMenu
+[2024-06-20 21:44:48.379] [info]  [21:44:48] [Render thread/INFO]: [voicechat] Using Cloth Config GUI
+[2024-06-20 21:44:48.405] [info]  [21:44:48] [Worker-Main-1/INFO]: Checking mod updates...
+[2024-06-20 21:44:48.420] [info]  [21:44:48] [Ichor/Render thread/INFO] Found Entrypoint(client) me.shedaniel.autoconfig.example.ExampleInits::exampleCommonInit()
+[2024-06-20 21:44:48.440] [info]  [21:44:48] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.recipe.ingredient.client.CustomIngredientSyncClient
+[2024-06-20 21:44:48.450] [info]  [21:44:48] [Ichor/Render thread/INFO] Found Entrypoint(client) me.flashyreese.mods.sodiumextra.client.SodiumExtraClientMod
+[2024-06-20 21:44:48.463] [info]  [21:44:48] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.client.event.lifecycle.ClientLifecycleEventsImpl
+[2024-06-20 21:44:48.466] [info]  [21:44:48] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.screenhandler.client.ClientNetworking
+[2024-06-20 21:44:48.475] [info]  [21:44:48] [Ichor/Render thread/INFO] Found Entrypoint(client) de.maxhenkel.voicechat.FabricVoicechatClientMod
+[2024-06-20 21:44:48.578] [info]  [21:44:48] [Render thread/INFO]: [voicechat] Loading Opus
+[2024-06-20 21:44:48.593] [info]  [21:44:48] [Ichor/Render thread/INFO] Found Entrypoint(client) com.noxcrew.noxesium.NoxesiumMod
+[2024-06-20 21:44:48.647] [info]  [21:44:48] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.client.rendering.v0.RenderingCallbackInvoker
+[2024-06-20 21:44:48.650] [info]  [21:44:48] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.client.registry.sync.FabricRegistryClientInit
+[2024-06-20 21:44:48.652] [info]  [21:44:48] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.event.lifecycle.v0.client.LegacyClientEventInvokers
+[2024-06-20 21:44:48.654] [info]  [21:44:48] [Ichor/Render thread/INFO] Found Entrypoint(client) link.infra.indium.Indium
+[2024-06-20 21:44:48.891] [info]  [21:44:48] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.client.container.ScreenProviderRegistryImpl::init()
+[2024-06-20 21:44:48.896] [info]  [21:44:48] [Ichor/Render thread/INFO] Found Entrypoint(client) me.steinborn.krypton.mod.client.KryptonClientInitializer
+[2024-06-20 21:44:48.897] [info]  [21:44:48] [Render thread/INFO]: Krypton is now accelerating your Minecraft client's networking stack 🚀
+[2024-06-20 21:44:48.898] [info]  [21:44:48] [Render thread/INFO]: Note that Krypton is most effective on servers, not the client.
+[2024-06-20 21:44:48.898] [info]  [21:44:48] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.networking.client.ClientNetworkingImpl::clientInit()
+[2024-06-20 21:44:48.934] [info]  [21:44:48] [Worker-Main-1/INFO]: Update available for 'sodium@0.5.8+mc1.20.1', (-> mc1.20.1-0.5.10)
+[2024-06-20 21:44:48.935] [info]  [21:44:48] [Worker-Main-1/INFO]: Update available for 'voicechat@1.20.1-2.4.32', (-> fabric-1.20.1-2.5.17)
+[2024-06-20 21:44:48.935] [info]  [21:44:48] [Worker-Main-1/INFO]: Update available for 'iris@1.7.0+mc1.20.1', (-> 1.7.1+1.20.1)
+[2024-06-20 21:44:48.936] [info]  [21:44:48] [Worker-Main-1/INFO]: Update available for 'replaymod@1.20.1-2.6.14', (-> 1.20.1-2.6.15)
+[2024-06-20 21:44:48.936] [info]  [21:44:48] [Worker-Main-1/INFO]: Update available for 'indium@1.0.30+mc1.20.4', (-> 1.0.32+mc1.20.1)
+[2024-06-20 21:44:48.938] [info]  [21:44:48] [Ichor/Render thread/INFO] Found Entrypoint(client) shcm.shsupercm.fabric.citresewn.CITResewn::INSTANCE()
+[2024-06-20 21:44:48.942] [info]  [21:44:48] [Render thread/INFO]: [citresewn] Registering CIT Conditions
+[2024-06-20 21:44:48.970] [info]  [21:44:48] [Render thread/INFO]: [citresewn] Registering CIT Types
+[2024-06-20 21:44:49.005] [info]  [21:44:49] [Ichor/Render thread/INFO] Found Entrypoint(client) com.replaymod.core.ReplayModBackend
+[2024-06-20 21:44:49.397] [info]  [21:44:49] [Render thread/INFO]: [STDOUT]: ReplayModBackendMixin_v1_19.onInitializeClient: initializing ReplayMod
+[2024-06-20 21:44:49.545] [info]  [21:44:49] [Ichor/Render thread/INFO] Found Entrypoint(client) ca.fxco.moreculling.MoreCulling
+[2024-06-20 21:44:49.666] [info]  [21:44:49] [IchorPipeline/Render thread/INFO] Entrypoint(client) had 19 invokes.
+[2024-06-20 21:44:49.802] [info]  [21:44:49] [Ichor/mixin(MIXIN)/WARN] Method overwrite conflict for bridge$isFancyGraphics in mixins.modern_bridge_combined.json:HHRIIHHROCICOCHRCICRIOHRH.CCIIHHRHCCHRRHROOHIOCHOCC.CRCIRCHCIOCCIHRCHCHOHICRI from mod (unknown), previously written by com.moonsworth.lunar.IIIICORICOICIRRHCHIIHROIC.CRCIRCHCIOCCIHRCHCHOHICRI.HHRIIHHROCICOCHRCICRIOHRH.CCIIHHRHCCHRRHROOHIOCHOCC.IOCOHCCRCOHRICRRHOOICHIHO. Skipping method.
+[2024-06-20 21:44:49.803] [info]  [21:44:49] [Ichor/mixin(MIXIN)/WARN] Method overwrite conflict for bridge$setFrameRateLimit in mixins.modern_bridge_combined.json:HHRIIHHROCICOCHRCICRIOHRH.CCIIHHRHCCHRRHROOHIOCHOCC.CRCIRCHCIOCCIHRCHCHOHICRI from mod (unknown), previously written by com.moonsworth.lunar.IIIICORICOICIRRHCHIIHROIC.CRCIRCHCIOCCIHRCHCHOHICRI.HHRIIHHROCICOCHRCICRIOHRH.CCIIHHRHCCHRRHROOHIOCHOCC.IOCOHCCRCOHRICRRHOOICHIHO. Skipping method.
+[2024-06-20 21:44:49.927] [info]  [21:44:49] [Render thread/INFO]: [LC] Loaded File: Options
+[2024-06-20 21:44:49.947] [info]  [21:44:49] [ForkJoinPool.commonPool-worker-1/WARN]: [Iris Update Check] Cached update file detected, using that!
+[2024-06-20 21:44:50.141] [info]  [21:44:50] [Render thread/INFO]: Backend library: LWJGL version 3.3.3-snapshot
+[2024-06-20 21:44:50.515] [info]  [21:44:50] [Render thread/WARN]: Not all requirements met, disabling nvidium
+[2024-06-20 21:44:50.521] [info]  [21:44:50] [Render thread/INFO]: OpenGL Vendor: ATI Technologies Inc.
+[2024-06-20 21:44:50.521] [info]  [21:44:50] [Render thread/INFO]: OpenGL Renderer: AMD Radeon(TM) Graphics
+[2024-06-20 21:44:50.522] [info]  [21:44:50] [Render thread/INFO]: OpenGL Version: 3.2.0 Core Profile Context 22.40.84.06.231130
+[2024-06-20 21:44:50.571] [info]  [21:44:50] [Render thread/INFO]: [STDOUT]: LUNARCLIENT_STATUS_INIT
+[2024-06-20 21:44:50.759] [info]  [21:44:50] [Render thread/INFO]: Debug functionality is disabled.
+[2024-06-20 21:44:50.765] [info]  [21:44:50] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[2024-06-20 21:44:50.776] [info]  [21:44:50] [Render thread/INFO]: Shaders are disabled because no valid shaderpack is selected
+[2024-06-20 21:44:50.777] [info]  [21:44:50] [Render thread/INFO]: Shaders are disabled
+[2024-06-20 21:44:50.811] [info]  [21:44:50] [Render thread/WARN]: Missing metadata in pack file/Cleanestpvppack.zip
+[2024-06-20 21:44:50.812] [info]  [21:44:50] [Render thread/WARN]: Missing metadata in pack file/Cold.zip
+[2024-06-20 21:44:50.813] [info]  [21:44:50] [Render thread/WARN]: Missing metadata in pack file/§bSharpness 25k.zip
+[2024-06-20 21:44:50.813] [info]  [21:44:50] [Render thread/WARN]: Missing metadata in pack file/§c§ GlitchCPVP pack.zip
+[2024-06-20 21:44:51.362] [info]  [21:44:51] [Render thread/INFO]: Hardware information:
+[2024-06-20 21:44:51.363] [info]  [21:44:51] [Render thread/INFO]: CPU: 16x AMD Ryzen 7 6800HS with Radeon Graphics 
+[2024-06-20 21:44:51.363] [info]  [21:44:51] [Render thread/INFO]: GPU: AMD Radeon(TM) Graphics (Supports OpenGL 3.2.0 Core Profile Context 22.40.84.06.231130)
+[2024-06-20 21:44:51.364] [info]  [21:44:51] [Render thread/INFO]: OS: Windows 11 (10.0)
+[2024-06-20 21:44:52.350] [info]  [21:44:52] [Render thread/INFO]: Reloading ResourceManager: lunar, vanilla, fabric (fabric-renderer-api-v1, fabric-keybindings-v0, fabric-transfer-api-v1, fabric-mining-level-api-v1, fabric-containers-v0, lithium, fabric-dimensions-v1, fabric-object-builder-api-v1, fabric-game-rule-api-v1, fabric-api-base, fabric-resource-conditions-api-v1, fabric-sound-api-v1, fabric-model-loading-api-v1, fabric-rendering-data-attachment-v1, iris, fabric-data-attachment-api-v1, fabric-rendering-fluids-v1, fabric-blockrenderlayer-v1, fabric-lifecycle-events-v1, sodium, fabric-renderer-registries-v1, fabric-loot-tables-v1, fabricskyboxes, citresewn-defaults, fabric-particles-v1, fabric-data-generation-api-v1, fabric-networking-v0, fabric-api-lookup-api-v1, nvidium, fabric-screen-handler-api-v1, noxesium, voicechat, fabric-command-api-v2, modmenu, fabric-block-api-v1, fabric-command-api-v1, sodium-extra, caffeineconfig, fabric-screen-api-v1, fabric-renderer-indigo, reeses-sodium-options, fabric-api, fabric-crash-report-info-v1, fabric-events-interaction-v0, fabric-item-api-v1, fabric-convention-tags-v1, fabric-item-group-api-v1, fabric-recipe-api-v1, citresewn, fabric-entity-events-v1, fabric-rendering-v0, fabric-key-binding-api-v1, fabric-rendering-v1, replaymod, fabric-resource-loader-v0, fabric-content-registries-v0, moreculling, conditional-mixin, fabric-block-view-api-v2, indium, fabric-biome-api-v1, fabric-client-tags-api-v1, fabric-loot-api-v2, fabric-commands-v0, fabric-message-api-v1, fabric-registry-sync-v0, fabric-transitive-access-wideners-v1, cloth-config, fabric-networking-api-v1, fabric-events-lifecycle-v0, krypton, fabric-models-v0), file/3-_DonutCrystal.zip, replaymod_lang
+[2024-06-20 21:44:52.644] [info]  [21:44:52] [Render thread/INFO]: Cached all modded block culling states
+[2024-06-20 21:44:52.646] [info]  [21:44:52] [Render thread/INFO]: [STDOUT]: [Bridge] Setting Minecraft Client instance to net.minecraft.client.Minecraft
+[2024-06-20 21:44:52.655] [info]  [21:44:52] [Worker-Main-8/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[2024-06-20 21:44:53.467] [info]  [21:44:53] [Ichor/Render thread/INFO] Creating MultiBridgeModern instance: CRCIRCHCIOCCIHRCHCHOHICRI
+[2024-06-20 21:44:53.687] [info]  [21:44:53] [Render thread/INFO]: [LC] Starting Lunar client...
+[2024-06-20 21:44:54.219] [info]  [21:44:54] [Render thread/INFO]: [LC] Loading RCOIIRRHOORIOROOROICRHHOR...
+[2024-06-20 21:44:54.223] [info]  [21:44:54] [Render thread/INFO]: [LC] Loading CIOCCOCHORHIOCCRHOROCHORC...
+[2024-06-20 21:44:54.614] [info]  [21:44:54] [Render thread/INFO]: [LC] Loading IOCOHCCRCOHRICRRHOOICHIHO...
+[2024-06-20 21:44:54.621] [info]  [21:44:54] [Render thread/INFO]: [LC] Loading HCCRHOOCOROIOOIIRIIIRCHOC...
+[2024-06-20 21:44:54.629] [info]  [21:44:54] [Render thread/INFO]: [LC Lang] Couldn't get a valid language so we're setting it to ENGLISH.
+[2024-06-20 21:44:54.630] [info]  [21:44:54] [Render thread/INFO]: [LC Lang] Language set as ENGLISH (en_US).
+[2024-06-20 21:44:54.630] [info]  [21:44:54] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-20 21:44:54.634] [info]  [21:44:54] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-20 21:44:54.666] [info]  [21:44:54] [Render thread/INFO]: [LC] Loading ORIIIRHHROIRHOCOOOIOORIOC...
+[2024-06-20 21:44:54.748] [info]  [21:44:54] [Render thread/INFO]: [LC] Loading ROCROOOIIOIRHIIRRCRRHRICO...
+[2024-06-20 21:44:56.138] [info]  [21:44:56] [Render thread/INFO]: [LC] Loading OCIOHHHRIHOIHCRHICIIRCIIR...
+[2024-06-20 21:44:56.146] [info]  [21:44:56] [Render thread/INFO]: [LC] Loading RHCRCHHICCCIIHIIIHIIRROOO...
+[2024-06-20 21:44:56.161] [info]  [21:44:56] [Render thread/INFO]: [LC] Loading CRCIRCHCIOCCIHRCHCHOHICRI...
+[2024-06-20 21:44:56.170] [info]  [21:44:56] [Render thread/INFO]: [LC] Loading HHRIIHHROCICOCHRCICRIOHRH...
+[2024-06-20 21:44:56.203] [info]  [21:44:56] [Render thread/INFO]: [LC] Loading IHCRIIIICOROROOCCIHHHHCRI...
+[2024-06-20 21:44:56.220] [info]  [21:44:56] [Render thread/INFO]: [LC] Loading IOCOHCCRCOHRICRRHOOICHIHO...
+[2024-06-20 21:44:56.234] [info]  [21:44:56] [Render thread/INFO]: [LC] Loading ICHIRCHRHOCCOHHORCHICRHOI...
+[2024-06-20 21:44:56.237] [info]  [21:44:56] [Render thread/INFO]: [LC] Loading CCOCCHORCHCOCCROCHOIOICOI...
+[2024-06-20 21:44:56.248] [info]  [21:44:56] [Render thread/INFO]: [LC] Loading CCIIHHRHCCHRRHROOHIOCHOCC...
+[2024-06-20 21:44:56.251] [info]  [21:44:56] [Render thread/INFO]: [LC] Loading OHHHOIOOOOIOCHRICROCCHCIH...
+[2024-06-20 21:44:56.252] [info]  [21:44:56] [Render thread/INFO]: [LC] Loading IIOOIICCICOCHCIIHOHRCHICO...
+[2024-06-20 21:44:56.272] [info]  [21:44:56] [Render thread/INFO]: [LC] Loading IIIICORICOICIRRHCHIIHROIC...
+[2024-06-20 21:44:56.309] [info]  [21:44:56] [Render thread/WARN]: [LC] Couldn't find dev cosmetics file: cosmetics/dev_cosmetics.json
+[2024-06-20 21:44:56.515] [info]  [21:44:56] [Render thread/INFO]: [LC] Loading OCRCIRRIRCHCHIORHOHICRRIC...
+[2024-06-20 21:44:56.522] [info]  [21:44:56] [Render thread/INFO]: [LC] Loading CORORICIOIOHIICRIHIRIORCC...
+[2024-06-20 21:44:56.541] [info]  [21:44:56] [Render thread/INFO]: [LC] Loading IRHIIORRHIIOOIICRHCOCOIRO...
+[2024-06-20 21:44:56.544] [info]  [21:44:56] [Render thread/INFO]: [LC] Loading CRCIRCHCIOCCIHRCHCHOHICRI...
+[2024-06-20 21:44:56.545] [info]  [21:44:56] [Render thread/INFO]: [LC] Loading IOCOHCCRCOHRICRRHOOICHIHO...
+[2024-06-20 21:44:56.554] [info]  [21:44:56] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[2024-06-20 21:44:56.788] [info]  [21:44:56] [Render thread/INFO]: [LC] Finished making managers.
+[2024-06-20 21:44:56.789] [info]  [21:44:56] [Render thread/INFO]: [LC] Setting up listeners...
+[2024-06-20 21:44:56.814] [info]  [21:44:56] [Render thread/INFO]: [LC] Setting up fixes...
+[2024-06-20 21:44:56.863] [info]  [21:44:56] [WebSocketConnectReadThread-115/INFO]: [LC IPC] Connection established
+[2024-06-20 21:44:58.019] [info]  [21:44:58] [Render thread/ERROR]: [LC ThirdParty] Couldn't load third party mods
+[2024-06-20 21:44:58.020] [info]  [21:44:58] [Render thread/INFO]: [LC Lang] Language set as ENGLISH (en_US).
+[2024-06-20 21:44:58.021] [info]  [21:44:58] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-20 21:44:58.023] [info]  [21:44:58] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-20 21:44:58.043] [info]  [21:44:58] [Render thread/INFO]: [LC Ichor] Disabling NEU because there is no valid link.
+[2024-06-20 21:44:58.044] [info]  [21:44:58] [Render thread/INFO]: [LC Ichor] Disabling SBA because there is no valid link.
+[2024-06-20 21:44:58.044] [info]  [21:44:58] [Render thread/INFO]: [LC] Lunar.start
+[2024-06-20 21:44:58.054] [info]  [21:44:58] [Render thread/INFO]: [LC Accounts] Attempting to load account [04f44ced712a4c3a9fdd0c02a755b9db]
+[2024-06-20 21:44:58.084] [info]  [21:44:58] [Render thread/INFO]: [LC Accounts] Loaded content for [MengHong001] Token IAT
+[2024-06-20 21:44:58.085] [info]  [21:44:58] [Render thread/INFO]: [LC Accounts] Setting currentAccount to what was on disk: MengHong001
+[2024-06-20 21:44:58.085] [info]  [21:44:58] [Render thread/INFO]: [LC Accounts] Setting account 'MengHong001' as the current session.
+[2024-06-20 21:44:58.085] [info]  [21:44:58] [Render thread/INFO]: [LC] Setting user: MengHong001
+[2024-06-20 21:44:58.093] [info]  [21:44:58] [Thread-10/INFO]: [LC Assets] Establishing connection
+[2024-06-20 21:44:58.094] [info]  [21:44:58] [Thread-10/INFO]: [LC Assets] Connecting to Authenticator to obtain JWT, no previous connection.
+[2024-06-20 21:44:58.122] [info]  [21:44:58] [Thread-10/INFO]: [LC Authentication] Instantiate
+[2024-06-20 21:44:58.330] [info]  [21:44:58] [WebSocketConnectReadThread-119/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[2024-06-20 21:44:59.635] [info]  [21:44:59] [Render thread/INFO]: [LC Accounts] Removed all accounts [0 count]
+[2024-06-20 21:44:59.638] [info]  [21:44:59] [Render thread/INFO]: [LC Accounts] Starting Refreshing MengHong001 with 86320363ms till expired (Valid: true).
+[2024-06-20 21:44:59.639] [info]  [21:44:59] [Render thread/INFO]: [LC Accounts] Refreshing MengHong001 (Valid: true).
+[2024-06-20 21:45:00.281] [info]  [21:45:00] [WebSocketConnectReadThread-119/INFO]: [LC Assets] Instantiate
+[2024-06-20 21:45:00.359] [info]  [21:45:00] [WebSocketConnectReadThread-119/INFO]: [LC Auth] Connection closed (1000, "Issued.")
+[2024-06-20 21:45:00.583] [info]  [21:45:00] [Render thread/INFO]: [LC Lang] Language set as ENGLISH (en_US).
+[2024-06-20 21:45:00.583] [info]  [21:45:00] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-20 21:45:00.587] [info]  [21:45:00] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-20 21:45:00.735] [info]  [21:45:00] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-06-20 21:45:00.736] [info]  [21:45:00] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-06-20 21:45:00.736] [info]  [21:45:00] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-06-20 21:45:00.737] [info]  [21:45:00] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-06-20 21:45:00.737] [info]  [21:45:00] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-06-20 21:45:00.737] [info]  [21:45:00] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-06-20 21:45:00.829] [info]  [21:45:00] [Render thread/ERROR]: [LC Cosmetics] Could not load the model at lunar:cosmetics/models/bodywear/katanasheathed/katanasheathed.obj for cosmetic katanasheathed since it does not exist
+[2024-06-20 21:45:01.597] [info]  [21:45:01] [WebSocketConnectReadThread-131/INFO]: [LC Assets] Connection established as MengHong001
+[2024-06-20 21:45:01.746] [info]  [21:45:01] [Render thread/WARN]: [LC] Couldn't find geckolib cosmetic file: lunar:cosmetics/models/gek/wings/bat_wings/bat_wings.gek.json
+[2024-06-20 21:45:01.905] [info]  [21:45:01] [Render thread/WARN]: [LC] Couldn't find geckolib cosmetic file: lunar:space_backpack
+[2024-06-20 21:45:01.905] [info]  [21:45:01] [Render thread/INFO]: [LC] Loaded geckolib cosmetics.
+[2024-06-20 21:45:01.906] [info]  [21:45:01] [Render thread/INFO]: [LC] Loading cosmetic compatibility json
+[2024-06-20 21:45:01.981] [info]  [21:45:01] [Render thread/INFO]: [LC] Compiled cosmetic compatability presets
+[2024-06-20 21:45:01.997] [info]  [21:45:01] [Render thread/INFO]: [LC] Launching
+[2024-06-20 21:45:01.999] [info]  [21:45:01] [Render thread/INFO]: [LC] Finished Lunar initialization.
+[2024-06-20 21:45:02.000] [info]  [21:45:01] [Render thread/INFO]: [LC] LUNARCLIENT_STATUS_STARTED
+[2024-06-20 21:45:02.726] [info]  [21:45:02] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[2024-06-20 21:45:02.727] [info]  [21:45:02] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[2024-06-20 21:45:02.731] [info]  [21:45:02] [ForkJoinPool.commonPool-worker-1/INFO]: [LC Accounts] Finished refreshing MengHong001 (Valid: true).
+[2024-06-20 21:45:02.731] [info]  [21:45:02] [ForkJoinPool.commonPool-worker-1/INFO]: [LC Accounts] Finished refreshing the current account. 0 accounts left.
+[2024-06-20 21:45:02.732] [info]  [21:45:02] [ForkJoinPool.commonPool-worker-1/INFO]: [LC Accounts] Logging into account MengHong001 
+[2024-06-20 21:45:02.732] [info]  [21:45:02] [ForkJoinPool.commonPool-worker-1/INFO]: [LC Accounts] Setting account 'MengHong001' as the current session.
+[2024-06-20 21:45:02.733] [info]  [21:45:02] [ForkJoinPool.commonPool-worker-1/INFO]: [LC] Setting user: MengHong001
+[2024-06-20 21:45:03.103] [info]  [21:45:03] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[2024-06-20 21:45:03.104] [info]  [21:45:03] [Render thread/INFO]: Sound engine started
+[2024-06-20 21:45:03.246] [info]  [21:45:03] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[2024-06-20 21:45:03.262] [info]  [21:45:03] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[2024-06-20 21:45:03.263] [info]  [21:45:03] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[2024-06-20 21:45:03.264] [info]  [21:45:03] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[2024-06-20 21:45:03.264] [info]  [21:45:03] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[2024-06-20 21:45:03.272] [info]  [21:45:03] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[2024-06-20 21:45:03.273] [info]  [21:45:03] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[2024-06-20 21:45:03.273] [info]  [21:45:03] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[2024-06-20 21:45:03.274] [info]  [21:45:03] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[2024-06-20 21:45:03.765] [info]  [21:45:03] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[2024-06-20 21:45:04.047] [info]  [21:45:04] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[2024-06-20 21:45:04.049] [info]  [21:45:04] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[2024-06-20 21:45:04.049] [info]  [21:45:04] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[2024-06-20 21:45:04.149] [info]  [21:45:04] [Render thread/INFO]: Found partially saved replay, offering recovery: C:\Users\Asus\AppData\Roaming\.minecraft\replay_recordings\2024_06_20_18_24_53.mcpr
+[2024-06-20 21:45:05.387] [info]  [21:45:05] [Render thread/INFO]: Recovery rejected, marking for deletion: C:\Users\Asus\AppData\Roaming\.minecraft\replay_recordings\2024_06_20_18_24_53.mcpr
+[2024-06-20 21:45:12.754] [info]  [21:45:12] [Render thread/WARN]: Warning! Mod ichor has a broken icon, loading default icon
+[2024-06-20 21:45:12.762] [info]  [21:45:12] [Render thread/WARN]: Warning! Mod mixinextras has a broken icon, loading default icon
+[2024-06-20 21:45:22.770] [info]  [21:45:22] [Render thread/INFO]: Connecting to dobii.lol, 25565
+[2024-06-20 21:45:25.502] [error] Jun 20, 2024 9:45:25 PM com.replaymod.replaystudio.lib.viaversion.protocols.protocol1_13to1_12_2.blockconnections.ConnectionData init
+[2024-06-20 21:45:25.503] [error] INFO: Loading block connection mappings ...
+[2024-06-20 21:45:25.759] [error] Jun 20, 2024 9:45:25 PM com.replaymod.replaystudio.lib.viaversion.protocols.protocol1_13to1_12_2.storage.BlockConnectionStorage <clinit>
+[2024-06-20 21:45:25.760] [error] INFO: Using FastUtil Long2ObjectOpenHashMap for block connections
+[2024-06-20 21:45:26.689] [info]  [21:45:26] [Render thread/INFO]: Reloading pipeline on dimension change: null => NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-20 21:45:26.691] [info]  [21:45:26] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-20 21:45:26.876] [info]  [21:45:26] [Render thread/INFO]: Started 10 worker threads
+[2024-06-20 21:45:26.980] [info]  [21:45:26] [Render thread/INFO]: [voicechat] Sending secret request to the server
+[2024-06-20 21:45:27.051] [info]  [21:45:27] [Render thread/INFO]: Stopping worker threads
+[2024-06-20 21:45:27.070] [info]  [21:45:27] [Render thread/INFO]: Started 10 worker threads
+[2024-06-20 21:45:27.109] [info]  [21:45:27] [Render thread/INFO]: [System] [CHAT] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 
+[2024-06-20 21:45:27.330] [info]  [21:45:27] [Render thread/INFO]: Stopping worker threads
+[2024-06-20 21:45:27.333] [info]  [21:45:27] [Render thread/INFO]: Started 10 worker threads
+[2024-06-20 21:45:27.458] [info]  [21:45:27] [Render thread/INFO]: [System] [CHAT] MengHong001 joined the game
+[2024-06-20 21:45:27.509] [info]  [21:45:27] [Render thread/INFO]: Loaded 14 advancements
+[2024-06-20 21:45:27.510] [info]  [21:45:27] [Render thread/INFO]: [System] [CHAT] Use the command /login <password>.
+[2024-06-20 21:45:27.615] [info]  [21:45:27] [Render thread/WARN]: Unknown custom packed identifier: worldedit:cui
+[2024-06-20 21:45:32.634] [info]  [21:45:32] [Render thread/INFO]: [System] [CHAT] You have successfully logged.
+[2024-06-20 21:45:32.634] [info]  [21:45:32] [Render thread/WARN]: Unknown custom packed identifier: nlogin:addon
+[2024-06-20 21:45:35.827] [info]  [21:45:35] [Render thread/INFO]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='overworld'} => NamespacedId{namespace='minecraft', name='nffa'}
+[2024-06-20 21:45:35.829] [info]  [21:45:35] [Render thread/INFO]: Destroying pipeline NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-20 21:45:35.829] [info]  [21:45:35] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='nffa'}
+[2024-06-20 21:45:35.830] [info]  [21:45:35] [Render thread/INFO]: Stopping worker threads
+[2024-06-20 21:45:35.834] [info]  [21:45:35] [Render thread/INFO]: Started 10 worker threads
+[2024-06-20 21:45:35.839] [info]  [21:45:35] [Render thread/INFO]: Stopping worker threads
+[2024-06-20 21:45:35.843] [info]  [21:45:35] [Render thread/INFO]: Started 10 worker threads
+[2024-06-20 21:45:35.846] [info]  [21:45:35] [Render thread/INFO]: Stopping worker threads
+[2024-06-20 21:45:35.851] [info]  [21:45:35] [Render thread/INFO]: Started 10 worker threads
+[2024-06-20 21:45:35.854] [info]  [21:45:35] [Render thread/INFO]: [voicechat] Disconnecting from previous connection due to server change
+[2024-06-20 21:45:35.855] [info]  [21:45:35] [Render thread/INFO]: [voicechat] Clearing audio channels
+[2024-06-20 21:45:35.903] [info]  [21:45:35] [Render thread/INFO]: [voicechat] Sending secret request to the server
+[2024-06-20 21:45:35.923] [info]  [21:45:35] [Render thread/INFO]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='nffa'} => NamespacedId{namespace='minecraft', name='nffa'}
+[2024-06-20 21:45:35.924] [info]  [21:45:35] [Render thread/INFO]: Destroying pipeline NamespacedId{namespace='minecraft', name='nffa'}
+[2024-06-20 21:45:35.924] [info]  [21:45:35] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='nffa'}
+[2024-06-20 21:45:35.925] [info]  [21:45:35] [Render thread/INFO]: Stopping worker threads
+[2024-06-20 21:45:35.927] [info]  [21:45:35] [Render thread/INFO]: Started 10 worker threads
+[2024-06-20 21:45:35.928] [info]  [21:45:35] [Render thread/INFO]: Stopping worker threads
+[2024-06-20 21:45:35.932] [info]  [21:45:35] [Render thread/INFO]: Started 10 worker threads
+[2024-06-20 21:45:35.932] [info]  [21:45:35] [Render thread/INFO]: Stopping worker threads
+[2024-06-20 21:45:35.935] [info]  [21:45:35] [Render thread/INFO]: Started 10 worker threads
+[2024-06-20 21:45:36.217] [info]  [21:45:36] [Render thread/INFO]: Stopping worker threads
+[2024-06-20 21:45:36.219] [info]  [21:45:36] [Render thread/INFO]: Started 10 worker threads
+[2024-06-20 21:45:36.286] [info]  [21:45:36] [Render thread/INFO]: [System] [CHAT] MengHong001 joined the game
+[2024-06-20 21:45:36.290] [info]  [21:45:36] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=63.92, y=37.00, z=44.10] does not have attribute null
+[2024-06-20 21:45:36.291] [info]  [21:45:36] [Render thread/INFO]: Loaded 68 advancements
+[2024-06-20 21:45:36.298] [info]  [21:45:36] [Render thread/WARN]: Unknown custom packed identifier: worldedit:cui
+[2024-06-20 21:45:36.781] [info]  [21:45:36] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=64.50, y=37.00, z=43.93] does not have attribute null
+[2024-06-20 21:45:36.786] [info]  [21:45:36] [Render thread/INFO]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='nffa'} => NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-20 21:45:36.787] [info]  [21:45:36] [Render thread/INFO]: Destroying pipeline NamespacedId{namespace='minecraft', name='nffa'}
+[2024-06-20 21:45:36.787] [info]  [21:45:36] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-20 21:45:36.788] [info]  [21:45:36] [Render thread/INFO]: Stopping worker threads
+[2024-06-20 21:45:36.790] [info]  [21:45:36] [Render thread/INFO]: Started 10 worker threads
+[2024-06-20 21:45:36.791] [info]  [21:45:36] [Render thread/INFO]: Stopping worker threads
+[2024-06-20 21:45:36.794] [info]  [21:45:36] [Render thread/INFO]: Started 10 worker threads
+[2024-06-20 21:45:36.795] [info]  [21:45:36] [Render thread/INFO]: Stopping worker threads
+[2024-06-20 21:45:36.797] [info]  [21:45:36] [Render thread/INFO]: Started 10 worker threads
+[2024-06-20 21:45:36.800] [info]  [21:45:36] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=30.52, y=114.00, z=48.36] does not have attribute null
+[2024-06-20 21:45:36.800] [info]  [21:45:36] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=30.52, y=114.00, z=48.36] does not have attribute null
+[2024-06-20 21:45:36.876] [info]  [21:45:36] [Render thread/WARN]: Entity RemotePlayer['Som_Tola13'/592156, l='ClientLevel', x=30.52, y=114.00, z=48.36] does not have attribute null
+[2024-06-20 21:45:41.069] [info]  [21:45:41] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=31.22, y=108.17, z=70.12] does not have attribute null
+[2024-06-20 21:45:42.947] [info]  [21:45:42] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=30.85, y=107.00, z=81.35] does not have attribute null
+[2024-06-20 21:45:42.952] [info]  [21:45:42] [Render thread/INFO]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='overworld'} => NamespacedId{namespace='minecraft', name='nffa'}
+[2024-06-20 21:45:42.952] [info]  [21:45:42] [Render thread/INFO]: Destroying pipeline NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-20 21:45:42.953] [info]  [21:45:42] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='nffa'}
+[2024-06-20 21:45:42.953] [info]  [21:45:42] [Render thread/INFO]: Stopping worker threads
+[2024-06-20 21:45:42.956] [info]  [21:45:42] [Render thread/INFO]: Started 10 worker threads
+[2024-06-20 21:45:42.957] [info]  [21:45:42] [Render thread/INFO]: Stopping worker threads
+[2024-06-20 21:45:42.959] [info]  [21:45:42] [Render thread/INFO]: Started 10 worker threads
+[2024-06-20 21:45:42.960] [info]  [21:45:42] [Render thread/INFO]: Stopping worker threads
+[2024-06-20 21:45:42.962] [info]  [21:45:42] [Render thread/INFO]: Started 10 worker threads
+[2024-06-20 21:45:42.964] [info]  [21:45:42] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-20 21:45:42.965] [info]  [21:45:42] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-20 21:45:42.965] [info]  [21:45:42] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-20 21:45:42.966] [info]  [21:45:42] [Render thread/INFO]: [System] [CHAT] Healed by CONSOLE.
+[2024-06-20 21:45:42.966] [info]  [21:45:42] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-20 21:45:43.065] [info]  [21:45:43] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-11.59, y=37.00, z=-19.63] does not have attribute null
+[2024-06-20 21:45:43.065] [info]  [21:45:43] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-7.90, y=37.00, z=-15.58] does not have attribute null
+[2024-06-20 21:45:43.073] [info]  [21:45:43] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=-5.69, y=37.00, z=-9.76] does not have attribute null
+[2024-06-20 21:45:43.115] [info]  [21:45:43] [Render thread/WARN]: Entity RemotePlayer['gf0'/581415, l='ClientLevel', x=-15.13, y=37.00, z=14.30] does not have attribute null
+[2024-06-20 21:45:43.115] [info]  [21:45:43] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/591742, l='ClientLevel', x=-22.58, y=37.00, z=-3.20] does not have attribute null
+[2024-06-20 21:45:43.274] [info]  [21:45:43] [Render thread/WARN]: Entity RemotePlayer['fyylaZsli_'/575192, l='ClientLevel', x=-18.64, y=38.00, z=7.12] does not have attribute null
+[2024-06-20 21:45:43.751] [info]  [21:45:43] [Render thread/WARN]: Entity RemotePlayer['Som_Tola13'/592156, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-20 21:45:43.961] [info]  [21:45:43] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-11.61, y=37.00, z=-19.54] does not have attribute null
+[2024-06-20 21:45:48.356] [info]  [21:45:48] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-8.67, y=37.00, z=-5.94] does not have attribute null
+[2024-06-20 21:45:49.592] [info]  [21:45:49] [Render thread/WARN]: Missing metadata in pack file/Cleanestpvppack.zip
+[2024-06-20 21:45:49.592] [info]  [21:45:49] [Render thread/WARN]: Missing metadata in pack file/Cold.zip
+[2024-06-20 21:45:49.593] [info]  [21:45:49] [Render thread/WARN]: Missing metadata in pack file/§bSharpness 25k.zip
+[2024-06-20 21:45:49.593] [info]  [21:45:49] [Render thread/WARN]: Missing metadata in pack file/§c§ GlitchCPVP pack.zip
+[2024-06-20 21:45:49.632] [info]  [21:45:49] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 200 to 64
+[2024-06-20 21:45:49.635] [info]  [21:45:49] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 512 to 64
+[2024-06-20 21:45:49.638] [info]  [21:45:49] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 256 to 64
+[2024-06-20 21:45:49.642] [info]  [21:45:49] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 225 to 64
+[2024-06-20 21:45:49.645] [info]  [21:45:49] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 256 to 64
+[2024-06-20 21:45:49.650] [info]  [21:45:49] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 512 to 64
+[2024-06-20 21:45:49.657] [info]  [21:45:49] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 1600 to 64
+[2024-06-20 21:45:49.674] [info]  [21:45:49] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[2024-06-20 21:45:49.677] [info]  [21:45:49] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[2024-06-20 21:45:50.952] [info]  [21:45:50] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[2024-06-20 21:45:51.020] [info]  [21:45:51] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[2024-06-20 21:45:52.509] [info]  [21:45:52] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=-5.00, y=37.00, z=-14.72] does not have attribute null
+[2024-06-20 21:45:52.811] [info]  [21:45:52] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=-4.48, y=37.00, z=-14.70] does not have attribute null
+[2024-06-20 21:45:53.341] [info]  [21:45:53] [Render thread/INFO]: [System] [CHAT] MJ1111111 was slain by ANK_Boyza168
+[2024-06-20 21:45:53.433] [info]  [21:45:53] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-20 21:45:53.709] [info]  [21:45:53] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-6.61, y=37.80, z=-2.32] does not have attribute null
+[2024-06-20 21:45:54.080] [info]  [21:45:54] [Render thread/WARN]: Entity RemotePlayer['Som_Tola13'/592156, l='ClientLevel', x=1.34, y=37.00, z=-1.41] does not have attribute null
+[2024-06-20 21:45:56.076] [info]  [21:45:56] [Render thread/WARN]: Missing metadata in pack file/Cleanestpvppack.zip
+[2024-06-20 21:45:56.077] [info]  [21:45:56] [Render thread/WARN]: Missing metadata in pack file/Cold.zip
+[2024-06-20 21:45:56.077] [info]  [21:45:56] [Render thread/WARN]: Missing metadata in pack file/§bSharpness 25k.zip
+[2024-06-20 21:45:56.077] [info]  [21:45:56] [Render thread/WARN]: Missing metadata in pack file/§c§ GlitchCPVP pack.zip
+[2024-06-20 21:45:56.081] [info]  [21:45:56] [Render thread/INFO]: Reloading ResourceManager: lunar, vanilla, fabric (fabric-renderer-api-v1, fabric-keybindings-v0, fabric-transfer-api-v1, fabric-mining-level-api-v1, fabric-containers-v0, lithium, fabric-dimensions-v1, fabric-object-builder-api-v1, fabric-game-rule-api-v1, fabric-api-base, fabric-resource-conditions-api-v1, fabric-sound-api-v1, fabric-model-loading-api-v1, fabric-rendering-data-attachment-v1, iris, fabric-data-attachment-api-v1, fabric-rendering-fluids-v1, fabric-blockrenderlayer-v1, fabric-lifecycle-events-v1, sodium, fabric-renderer-registries-v1, fabric-loot-tables-v1, fabricskyboxes, citresewn-defaults, fabric-particles-v1, fabric-data-generation-api-v1, fabric-networking-v0, fabric-api-lookup-api-v1, nvidium, fabric-screen-handler-api-v1, noxesium, voicechat, fabric-command-api-v2, modmenu, fabric-block-api-v1, fabric-command-api-v1, sodium-extra, caffeineconfig, fabric-screen-api-v1, fabric-renderer-indigo, reeses-sodium-options, fabric-api, fabric-crash-report-info-v1, fabric-events-interaction-v0, fabric-item-api-v1, fabric-convention-tags-v1, fabric-item-group-api-v1, fabric-recipe-api-v1, citresewn, fabric-entity-events-v1, fabric-rendering-v0, fabric-key-binding-api-v1, fabric-rendering-v1, replaymod, fabric-resource-loader-v0, fabric-content-registries-v0, moreculling, conditional-mixin, fabric-block-view-api-v2, indium, fabric-biome-api-v1, fabric-client-tags-api-v1, fabric-loot-api-v2, fabric-commands-v0, fabric-message-api-v1, fabric-registry-sync-v0, fabric-transitive-access-wideners-v1, cloth-config, fabric-networking-api-v1, fabric-events-lifecycle-v0, krypton, fabric-models-v0), file/3-_DonutCrystal.zip, replaymod_lang
+[2024-06-20 21:45:56.087] [info]  [21:45:56] [Worker-Main-3/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[2024-06-20 21:45:57.229] [info]  [21:45:57] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[2024-06-20 21:45:57.230] [info]  [21:45:57] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[2024-06-20 21:45:57.261] [info]  [21:45:57] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[2024-06-20 21:45:57.261] [info]  [21:45:57] [Render thread/INFO]: Sound engine started
+[2024-06-20 21:45:57.326] [info]  [21:45:57] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[2024-06-20 21:45:57.330] [info]  [21:45:57] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[2024-06-20 21:45:57.331] [info]  [21:45:57] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[2024-06-20 21:45:57.331] [info]  [21:45:57] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[2024-06-20 21:45:57.333] [info]  [21:45:57] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[2024-06-20 21:45:57.340] [info]  [21:45:57] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[2024-06-20 21:45:57.341] [info]  [21:45:57] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[2024-06-20 21:45:57.342] [info]  [21:45:57] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[2024-06-20 21:45:57.342] [info]  [21:45:57] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[2024-06-20 21:45:57.357] [info]  [21:45:57] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[2024-06-20 21:45:57.562] [info]  [21:45:57] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[2024-06-20 21:45:57.563] [info]  [21:45:57] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[2024-06-20 21:45:57.564] [info]  [21:45:57] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[2024-06-20 21:45:57.573] [info]  [21:45:57] [Render thread/INFO]: Stopping worker threads
+[2024-06-20 21:45:57.577] [info]  [21:45:57] [Render thread/INFO]: Started 10 worker threads
+[2024-06-20 21:45:58.089] [info]  [21:45:58] [Render thread/WARN]: Entity RemotePlayer['Som_Tola13'/592156, l='ClientLevel', x=-1.37, y=37.00, z=-4.07] does not have attribute null
+[2024-06-20 21:45:58.240] [info]  [21:45:58] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-1.09, y=37.00, z=-14.81] does not have attribute null
+[2024-06-20 21:46:02.440] [info]  [21:46:02] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-0.99, y=37.00, z=-14.52] does not have attribute null
+[2024-06-20 21:46:03.788] [info]  [21:46:03] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-2.32, y=37.47, z=-13.21] does not have attribute null
+[2024-06-20 21:46:04.289] [info]  [21:46:04] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-1.53, y=37.00, z=-11.98] does not have attribute null
+[2024-06-20 21:46:05.044] [info]  [21:46:05] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-9.57, y=37.50, z=-51.21] does not have attribute null
+[2024-06-20 21:46:06.238] [info]  [21:46:06] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=-8.61, y=38.25, z=-51.40] does not have attribute null
+[2024-06-20 21:46:07.686] [info]  [21:46:07] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/591742, l='ClientLevel', x=-24.73, y=37.44, z=-8.37] does not have attribute null
+[2024-06-20 21:46:07.795] [info]  [21:46:07] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=-5.57, y=37.97, z=-49.04] does not have attribute null
+[2024-06-20 21:46:08.031] [info]  [21:46:08] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-6.56, y=38.25, z=-51.58] does not have attribute null
+[2024-06-20 21:46:10.093] [info]  [21:46:10] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/591742, l='ClientLevel', x=-21.09, y=37.00, z=-4.24] does not have attribute null
+[2024-06-20 21:46:10.682] [info]  [21:46:10] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=-6.79, y=37.26, z=-49.78] does not have attribute null
+[2024-06-20 21:46:11.787] [info]  [21:46:11] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/591742, l='ClientLevel', x=-17.95, y=37.00, z=-1.79] does not have attribute null
+[2024-06-20 21:46:12.182] [info]  [21:46:12] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-6.42, y=38.02, z=-6.04] does not have attribute null
+[2024-06-20 21:46:12.788] [info]  [21:46:12] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-0.47, y=37.28, z=-13.58] does not have attribute null
+[2024-06-20 21:46:13.877] [info]  [21:46:13] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/591742, l='ClientLevel', x=-13.38, y=37.01, z=0.29] does not have attribute null
+[2024-06-20 21:46:14.274] [info]  [21:46:14] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-5.93, y=37.91, z=-48.81] does not have attribute null
+[2024-06-20 21:46:14.629] [info]  [21:46:14] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=-7.05, y=37.00, z=-49.22] does not have attribute null
+[2024-06-20 21:46:14.729] [info]  [21:46:14] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-10.88, y=37.00, z=-1.73] does not have attribute null
+[2024-06-20 21:46:15.124] [info]  [21:46:15] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-12.50, y=37.00, z=-2.66] does not have attribute null
+[2024-06-20 21:46:15.377] [info]  [21:46:15] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-1.59, y=37.02, z=-8.52] does not have attribute null
+[2024-06-20 21:46:16.076] [info]  [21:46:16] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-1.03, y=37.58, z=-9.33] does not have attribute null
+[2024-06-20 21:46:16.825] [info]  [21:46:16] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-0.36, y=37.29, z=-9.34] does not have attribute null
+[2024-06-20 21:46:17.272] [info]  [21:46:17] [Render thread/WARN]: Entity RemotePlayer['Som_Tola13'/592156, l='ClientLevel', x=-13.02, y=38.08, z=1.65] does not have attribute null
+[2024-06-20 21:46:17.743] [info]  [21:46:17] [Render thread/WARN]: Entity RemotePlayer['gf0'/581415, l='ClientLevel', x=-16.33, y=37.00, z=11.69] does not have attribute null
+[2024-06-20 21:46:18.576] [info]  [21:46:18] [Render thread/INFO]: [System] [CHAT] ShiWoo was slain by ItzMylt5_
+[2024-06-20 21:46:18.636] [info]  [21:46:18] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-9.54, y=37.00, z=3.71] does not have attribute null
+[2024-06-20 21:46:18.671] [info]  [21:46:18] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-20 21:46:20.986] [info]  [21:46:20] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-20 21:46:21.190] [info]  [21:46:21] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-1.25, y=38.03, z=-16.37] does not have attribute null
+[2024-06-20 21:46:22.198] [info]  [21:46:22] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-2.36, y=37.06, z=-17.72] does not have attribute null
+[2024-06-20 21:46:23.081] [info]  [21:46:23] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/591742, l='ClientLevel', x=-23.04, y=37.00, z=3.52] does not have attribute null
+[2024-06-20 21:46:23.467] [info]  [21:46:23] [Render thread/WARN]: Entity RemotePlayer['Som_Tola13'/592156, l='ClientLevel', x=-19.81, y=37.00, z=2.08] does not have attribute null
+[2024-06-20 21:46:24.583] [info]  [21:46:24] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-20 21:46:24.625] [info]  [21:46:24] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-9.88, y=38.25, z=3.37] does not have attribute null
+[2024-06-20 21:46:24.818] [info]  [21:46:24] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=0.89, y=37.00, z=3.19] does not have attribute null
+[2024-06-20 21:46:25.768] [info]  [21:46:25] [Render thread/WARN]: Entity RemotePlayer['Som_Tola13'/592156, l='ClientLevel', x=-20.17, y=38.01, z=3.28] does not have attribute null
+[2024-06-20 21:46:25.861] [info]  [21:46:25] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/591742, l='ClientLevel', x=-21.22, y=37.77, z=1.05] does not have attribute null
+[2024-06-20 21:46:26.476] [info]  [21:46:26] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=2.51, y=37.00, z=3.43] does not have attribute null
+[2024-06-20 21:46:27.562] [info]  [21:46:27] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=-3.24, y=37.00, z=-45.67] does not have attribute null
+[2024-06-20 21:46:28.087] [info]  [21:46:28] [Render thread/WARN]: Missing metadata in pack file/Cleanestpvppack.zip
+[2024-06-20 21:46:28.088] [info]  [21:46:28] [Render thread/WARN]: Missing metadata in pack file/Cold.zip
+[2024-06-20 21:46:28.088] [info]  [21:46:28] [Render thread/WARN]: Missing metadata in pack file/§bSharpness 25k.zip
+[2024-06-20 21:46:28.089] [info]  [21:46:28] [Render thread/WARN]: Missing metadata in pack file/§c§ GlitchCPVP pack.zip
+[2024-06-20 21:46:28.110] [info]  [21:46:28] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 200 to 64
+[2024-06-20 21:46:28.112] [info]  [21:46:28] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 512 to 64
+[2024-06-20 21:46:28.138] [info]  [21:46:28] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 256 to 64
+[2024-06-20 21:46:28.140] [info]  [21:46:28] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 225 to 64
+[2024-06-20 21:46:28.143] [info]  [21:46:28] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 256 to 64
+[2024-06-20 21:46:28.148] [info]  [21:46:28] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 512 to 64
+[2024-06-20 21:46:28.154] [info]  [21:46:28] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 1600 to 64
+[2024-06-20 21:46:28.172] [info]  [21:46:28] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[2024-06-20 21:46:28.174] [info]  [21:46:28] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[2024-06-20 21:46:28.191] [info]  [21:46:28] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=1.22, y=37.00, z=2.07] does not have attribute null
+[2024-06-20 21:46:28.463] [info]  [21:46:28] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=0.14, y=37.00, z=-26.06] does not have attribute null
+[2024-06-20 21:46:28.631] [info]  [21:46:28] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-0.24, y=37.00, z=-17.71] does not have attribute null
+[2024-06-20 21:46:29.435] [info]  [21:46:29] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[2024-06-20 21:46:29.811] [info]  [21:46:29] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=1.85, y=37.00, z=2.88] does not have attribute null
+[2024-06-20 21:46:30.226] [info]  [21:46:30] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[2024-06-20 21:46:30.266] [info]  [21:46:30] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-0.63, y=37.01, z=-26.88] does not have attribute null
+[2024-06-20 21:46:31.781] [info]  [21:46:31] [Render thread/WARN]: Missing metadata in pack file/Cleanestpvppack.zip
+[2024-06-20 21:46:31.782] [info]  [21:46:31] [Render thread/WARN]: Missing metadata in pack file/Cold.zip
+[2024-06-20 21:46:31.783] [info]  [21:46:31] [Render thread/WARN]: Missing metadata in pack file/§bSharpness 25k.zip
+[2024-06-20 21:46:31.783] [info]  [21:46:31] [Render thread/WARN]: Missing metadata in pack file/§c§ GlitchCPVP pack.zip
+[2024-06-20 21:46:31.787] [info]  [21:46:31] [Render thread/INFO]: Reloading ResourceManager: lunar, vanilla, fabric (fabric-renderer-api-v1, fabric-keybindings-v0, fabric-transfer-api-v1, fabric-mining-level-api-v1, fabric-containers-v0, lithium, fabric-dimensions-v1, fabric-object-builder-api-v1, fabric-game-rule-api-v1, fabric-api-base, fabric-resource-conditions-api-v1, fabric-sound-api-v1, fabric-model-loading-api-v1, fabric-rendering-data-attachment-v1, iris, fabric-data-attachment-api-v1, fabric-rendering-fluids-v1, fabric-blockrenderlayer-v1, fabric-lifecycle-events-v1, sodium, fabric-renderer-registries-v1, fabric-loot-tables-v1, fabricskyboxes, citresewn-defaults, fabric-particles-v1, fabric-data-generation-api-v1, fabric-networking-v0, fabric-api-lookup-api-v1, nvidium, fabric-screen-handler-api-v1, noxesium, voicechat, fabric-command-api-v2, modmenu, fabric-block-api-v1, fabric-command-api-v1, sodium-extra, caffeineconfig, fabric-screen-api-v1, fabric-renderer-indigo, reeses-sodium-options, fabric-api, fabric-crash-report-info-v1, fabric-events-interaction-v0, fabric-item-api-v1, fabric-convention-tags-v1, fabric-item-group-api-v1, fabric-recipe-api-v1, citresewn, fabric-entity-events-v1, fabric-rendering-v0, fabric-key-binding-api-v1, fabric-rendering-v1, replaymod, fabric-resource-loader-v0, fabric-content-registries-v0, moreculling, conditional-mixin, fabric-block-view-api-v2, indium, fabric-biome-api-v1, fabric-client-tags-api-v1, fabric-loot-api-v2, fabric-commands-v0, fabric-message-api-v1, fabric-registry-sync-v0, fabric-transitive-access-wideners-v1, cloth-config, fabric-networking-api-v1, fabric-events-lifecycle-v0, krypton, fabric-models-v0), file/3-_DonutCrystal.zip, file/§eItzRealMes Overlay.zip, replaymod_lang
+[2024-06-20 21:46:31.792] [info]  [21:46:31] [Worker-Main-3/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[2024-06-20 21:46:31.972] [info]  [21:46:31] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/591742, l='ClientLevel', x=-14.38, y=37.00, z=-3.08] does not have attribute null
+[2024-06-20 21:46:32.488] [info]  [21:46:32] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[2024-06-20 21:46:32.489] [info]  [21:46:32] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[2024-06-20 21:46:32.510] [info]  [21:46:32] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[2024-06-20 21:46:32.510] [info]  [21:46:32] [Render thread/INFO]: Sound engine started
+[2024-06-20 21:46:32.559] [info]  [21:46:32] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-0.52, y=37.40, z=-28.97] does not have attribute null
+[2024-06-20 21:46:32.560] [info]  [21:46:32] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[2024-06-20 21:46:32.564] [info]  [21:46:32] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[2024-06-20 21:46:32.564] [info]  [21:46:32] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[2024-06-20 21:46:32.565] [info]  [21:46:32] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[2024-06-20 21:46:32.566] [info]  [21:46:32] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[2024-06-20 21:46:32.572] [info]  [21:46:32] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[2024-06-20 21:46:32.573] [info]  [21:46:32] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[2024-06-20 21:46:32.574] [info]  [21:46:32] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[2024-06-20 21:46:32.574] [info]  [21:46:32] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[2024-06-20 21:46:32.586] [info]  [21:46:32] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[2024-06-20 21:46:32.783] [info]  [21:46:32] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[2024-06-20 21:46:32.784] [info]  [21:46:32] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[2024-06-20 21:46:32.784] [info]  [21:46:32] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[2024-06-20 21:46:32.806] [info]  [21:46:32] [Render thread/INFO]: Stopping worker threads
+[2024-06-20 21:46:32.811] [info]  [21:46:32] [Render thread/INFO]: Started 10 worker threads
+[2024-06-20 21:46:33.411] [info]  [21:46:33] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=1.03, y=37.00, z=1.47] does not have attribute null
+[2024-06-20 21:46:33.512] [info]  [21:46:33] [Render thread/WARN]: Entity RemotePlayer['Som_Tola13'/592156, l='ClientLevel', x=-19.68, y=37.00, z=1.13] does not have attribute null
+[2024-06-20 21:46:33.656] [info]  [21:46:33] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/591742, l='ClientLevel', x=-15.14, y=37.00, z=-3.38] does not have attribute null
+[2024-06-20 21:46:35.258] [info]  [21:46:35] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=1.40, y=38.51, z=-22.28] does not have attribute null
+[2024-06-20 21:46:36.357] [info]  [21:46:36] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=3.16, y=37.61, z=-19.68] does not have attribute null
+[2024-06-20 21:46:36.712] [info]  [21:46:36] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=2.52, y=38.06, z=-20.53] does not have attribute null
+[2024-06-20 21:46:37.404] [info]  [21:46:37] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=-2.29, y=37.00, z=1.25] does not have attribute null
+[2024-06-20 21:46:37.763] [info]  [21:46:37] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/591742, l='ClientLevel', x=-28.26, y=38.03, z=2.52] does not have attribute null
+[2024-06-20 21:46:37.880] [info]  [21:46:37] [Render thread/INFO]: [System] [CHAT] fyylaZsli_ left the game
+[2024-06-20 21:46:38.303] [info]  [21:46:38] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-17.86, y=37.75, z=-0.66] does not have attribute null
+[2024-06-20 21:46:39.053] [info]  [21:46:39] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=-2.44, y=37.00, z=2.23] does not have attribute null
+[2024-06-20 21:46:40.607] [info]  [21:46:40] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-23.49, y=37.00, z=4.13] does not have attribute null
+[2024-06-20 21:46:40.759] [info]  [21:46:40] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=-1.21, y=37.00, z=3.30] does not have attribute null
+[2024-06-20 21:46:41.506] [info]  [21:46:41] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-0.65, y=37.79, z=-20.11] does not have attribute null
+[2024-06-20 21:46:42.451] [info]  [21:46:42] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=3.64, y=37.01, z=-21.56] does not have attribute null
+[2024-06-20 21:46:42.907] [info]  [21:46:42] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/591742, l='ClientLevel', x=-33.29, y=37.80, z=-5.32] does not have attribute null
+[2024-06-20 21:46:43.603] [info]  [21:46:43] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=3.60, y=37.84, z=-21.74] does not have attribute null
+[2024-06-20 21:46:43.848] [info]  [21:46:43] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-17.76, y=37.00, z=-1.97] does not have attribute null
+[2024-06-20 21:46:44.606] [info]  [21:46:44] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/591742, l='ClientLevel', x=-36.25, y=38.04, z=-6.95] does not have attribute null
+[2024-06-20 21:46:45.210] [info]  [21:46:45] [Render thread/WARN]: Entity RemotePlayer['Som_Tola13'/592156, l='ClientLevel', x=-31.10, y=37.00, z=-1.01] does not have attribute null
+[2024-06-20 21:46:45.556] [info]  [21:46:45] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=0.10, y=37.00, z=4.30] does not have attribute null
+[2024-06-20 21:46:45.960] [info]  [21:46:45] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=4.12, y=38.10, z=-24.18] does not have attribute null
+[2024-06-20 21:46:46.907] [info]  [21:46:46] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=-3.11, y=37.00, z=8.89] does not have attribute null
+[2024-06-20 21:46:48.383] [info]  [21:46:48] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛYou are now in combat with Som_Tola13 so do not quit.
+[2024-06-20 21:46:48.601] [info]  [21:46:48] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=-3.11, y=37.00, z=8.89] does not have attribute null
+[2024-06-20 21:46:49.153] [info]  [21:46:49] [Render thread/WARN]: Entity RemotePlayer['Som_Tola13'/592156, l='ClientLevel', x=-43.83, y=38.53, z=-9.31] does not have attribute null
+[2024-06-20 21:46:49.605] [info]  [21:46:49] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=-3.52, y=37.01, z=9.51] does not have attribute null
+[2024-06-20 21:46:50.948] [info]  [21:46:50] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/591742, l='ClientLevel', x=-42.16, y=38.00, z=-8.52] does not have attribute null
+[2024-06-20 21:46:51.703] [info]  [21:46:51] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-1.84, y=37.00, z=7.44] does not have attribute null
+[2024-06-20 21:46:51.754] [info]  [21:46:51] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=-3.27, y=38.17, z=11.50] does not have attribute null
+[2024-06-20 21:46:52.156] [info]  [21:46:52] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=-5.11, y=37.75, z=17.55] does not have attribute null
+[2024-06-20 21:46:52.550] [info]  [21:46:52] [Render thread/WARN]: Entity RemotePlayer['gf0'/581415, l='ClientLevel', x=2.36, y=37.00, z=-24.94] does not have attribute null
+[2024-06-20 21:46:53.545] [info]  [21:46:53] [Render thread/WARN]: Entity RemotePlayer['Som_Tola13'/592156, l='ClientLevel', x=-43.51, y=38.07, z=-11.41] does not have attribute null
+[2024-06-20 21:46:53.754] [info]  [21:46:53] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=-9.10, y=38.10, z=16.20] does not have attribute null
+[2024-06-20 21:46:53.898] [info]  [21:46:53] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-6.06, y=38.58, z=16.78] does not have attribute null
+[2024-06-20 21:46:54.225] [info]  [21:46:54] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=-3.72, y=38.18, z=14.74] does not have attribute null
+[2024-06-20 21:46:54.300] [info]  [21:46:54] [Render thread/WARN]: Entity RemotePlayer['Som_Tola13'/592156, l='ClientLevel', x=-43.62, y=38.01, z=-10.77] does not have attribute null
+[2024-06-20 21:46:54.645] [info]  [21:46:54] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=-4.69, y=37.09, z=14.47] does not have attribute null
+[2024-06-20 21:46:55.217] [info]  [21:46:55] [Render thread/WARN]: Entity RemotePlayer['Som_Tola13'/592156, l='ClientLevel', x=-44.03, y=38.10, z=-11.42] does not have attribute null
+[2024-06-20 21:46:55.945] [info]  [21:46:55] [Render thread/WARN]: Entity RemotePlayer['Som_Tola13'/592156, l='ClientLevel', x=-44.57, y=38.47, z=-12.85] does not have attribute null
+[2024-06-20 21:46:56.842] [info]  [21:46:56] [Render thread/WARN]: Entity RemotePlayer['Som_Tola13'/592156, l='ClientLevel', x=-44.82, y=38.09, z=-12.37] does not have attribute null
+[2024-06-20 21:46:56.943] [info]  [21:46:56] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=-3.85, y=38.17, z=13.94] does not have attribute null
+[2024-06-20 21:46:57.641] [info]  [21:46:57] [Render thread/WARN]: Entity RemotePlayer['Som_Tola13'/592156, l='ClientLevel', x=-46.34, y=38.00, z=-11.61] does not have attribute null
+[2024-06-20 21:46:57.843] [info]  [21:46:57] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/591742, l='ClientLevel', x=-39.04, y=39.93, z=-13.56] does not have attribute null
+[2024-06-20 21:47:01.444] [info]  [21:47:01] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-5.82, y=37.00, z=11.98] does not have attribute null
+[2024-06-20 21:47:01.948] [info]  [21:47:01] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-5.99, y=37.00, z=11.74] does not have attribute null
+[2024-06-20 21:47:01.949] [info]  [21:47:01] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛSom_Tola13 left while he was combat with MengHong001
+[2024-06-20 21:47:02.943] [info]  [21:47:02] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=-3.50, y=37.00, z=13.91] does not have attribute null
+[2024-06-20 21:47:03.992] [info]  [21:47:03] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-3.06, y=38.17, z=15.88] does not have attribute null
+[2024-06-20 21:47:04.093] [info]  [21:47:04] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=-2.01, y=37.00, z=15.56] does not have attribute null
+[2024-06-20 21:47:05.092] [info]  [21:47:05] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/591742, l='ClientLevel', x=-42.13, y=38.00, z=1.31] does not have attribute null
+[2024-06-20 21:47:05.142] [info]  [21:47:05] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=-6.17, y=37.36, z=12.80] does not have attribute null
+[2024-06-20 21:47:05.838] [info]  [21:47:05] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/591742, l='ClientLevel', x=-39.84, y=38.44, z=1.04] does not have attribute null
+[2024-06-20 21:47:06.090] [info]  [21:47:06] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=-5.37, y=37.77, z=12.56] does not have attribute null
+[2024-06-20 21:47:06.249] [info]  [21:47:06] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-38.31, y=38.50, z=0.81] does not have attribute null
+[2024-06-20 21:47:06.342] [info]  [21:47:06] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-38.10, y=38.19, z=0.89] does not have attribute null
+[2024-06-20 21:47:06.746] [info]  [21:47:06] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-38.74, y=39.02, z=-0.05] does not have attribute null
+[2024-06-20 21:47:06.830] [info]  [21:47:06] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-38.82, y=38.80, z=-0.16] does not have attribute null
+[2024-06-20 21:47:06.890] [info]  [21:47:06] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/591742, l='ClientLevel', x=-39.91, y=38.85, z=0.73] does not have attribute null
+[2024-06-20 21:47:07.183] [info]  [21:47:07] [Render thread/INFO]: [System] [CHAT] HongShadow_ was slain by ANK_Boyza168
+[2024-06-20 21:47:07.291] [info]  [21:47:07] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-38.92, y=38.00, z=1.17] does not have attribute null
+[2024-06-20 21:47:07.793] [info]  [21:47:07] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-42.07, y=38.80, z=1.81] does not have attribute null
+[2024-06-20 21:47:08.003] [info]  [21:47:08] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-42.33, y=38.00, z=1.35] does not have attribute null
+[2024-06-20 21:47:08.289] [info]  [21:47:08] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-42.30, y=38.20, z=1.41] does not have attribute null
+[2024-06-20 21:47:08.792] [info]  [21:47:08] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-39.95, y=38.00, z=1.92] does not have attribute null
+[2024-06-20 21:47:09.289] [info]  [21:47:09] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-37.45, y=38.50, z=0.56] does not have attribute null
+[2024-06-20 21:47:09.306] [info]  [21:47:09] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-37.30, y=38.12, z=0.45] does not have attribute null
+[2024-06-20 21:47:09.799] [info]  [21:47:09] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-36.81, y=38.80, z=-0.82] does not have attribute null
+[2024-06-20 21:47:09.866] [info]  [21:47:09] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-36.79, y=38.50, z=-0.93] does not have attribute null
+[2024-06-20 21:47:10.287] [info]  [21:47:10] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-37.23, y=39.25, z=-0.53] does not have attribute null
+[2024-06-20 21:47:10.488] [info]  [21:47:10] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=-0.93, y=37.00, z=9.84] does not have attribute null
+[2024-06-20 21:47:10.513] [info]  [21:47:10] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-37.72, y=38.12, z=-0.26] does not have attribute null
+[2024-06-20 21:47:10.791] [info]  [21:47:10] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-38.43, y=39.17, z=-0.15] does not have attribute null
+[2024-06-20 21:47:11.167] [info]  [21:47:11] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-39.51, y=38.00, z=-0.57] does not have attribute null
+[2024-06-20 21:47:11.293] [info]  [21:47:11] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-39.69, y=39.00, z=-0.93] does not have attribute null
+[2024-06-20 21:47:11.796] [info]  [21:47:11] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-39.90, y=38.42, z=-2.04] does not have attribute null
+[2024-06-20 21:47:11.813] [info]  [21:47:11] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-39.90, y=38.42, z=-2.04] does not have attribute null
+[2024-06-20 21:47:12.301] [info]  [21:47:12] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-39.42, y=38.75, z=-1.64] does not have attribute null
+[2024-06-20 21:47:12.795] [info]  [21:47:12] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-40.42, y=38.00, z=-3.25] does not have attribute null
+[2024-06-20 21:47:13.285] [info]  [21:47:13] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-40.66, y=38.80, z=-4.46] does not have attribute null
+[2024-06-20 21:47:13.310] [info]  [21:47:13] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-40.70, y=38.50, z=-4.54] does not have attribute null
+[2024-06-20 21:47:13.789] [info]  [21:47:13] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-41.28, y=39.18, z=-4.23] does not have attribute null
+[2024-06-20 21:47:14.007] [info]  [21:47:14] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-20 21:47:14.434] [info]  [21:47:14] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-43.42, y=38.00, z=-4.46] does not have attribute null
+[2024-06-20 21:47:15.035] [info]  [21:47:15] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-44.09, y=38.00, z=-7.57] does not have attribute null
+[2024-06-20 21:47:16.585] [info]  [21:47:16] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/591742, l='ClientLevel', x=-39.59, y=38.00, z=6.34] does not have attribute null
+[2024-06-20 21:47:18.287] [info]  [21:47:18] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/591742, l='ClientLevel', x=-38.44, y=38.00, z=8.50] does not have attribute null
+[2024-06-20 21:47:18.705] [info]  [21:47:18] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-39.06, y=39.25, z=8.75] does not have attribute null
+[2024-06-20 21:47:18.789] [info]  [21:47:18] [Render thread/INFO]: [System] [CHAT] MJ1111111 was slain by ShiWoo
+[2024-06-20 21:47:18.857] [info]  [21:47:18] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-20 21:47:19.369] [info]  [21:47:19] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-38.59, y=39.25, z=7.84] does not have attribute null
+[2024-06-20 21:47:19.638] [info]  [21:47:19] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/591742, l='ClientLevel', x=-38.57, y=38.54, z=8.70] does not have attribute null
+[2024-06-20 21:47:21.356] [info]  [21:47:21] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-38.46, y=38.80, z=10.87] does not have attribute null
+[2024-06-20 21:47:21.483] [info]  [21:47:21] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-3.59, y=37.00, z=4.44] does not have attribute null
+[2024-06-20 21:47:21.969] [info]  [21:47:21] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-38.99, y=38.80, z=10.03] does not have attribute null
+[2024-06-20 21:47:22.750] [info]  [21:47:22] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-38.96, y=38.00, z=8.55] does not have attribute null
+[2024-06-20 21:47:23.810] [info]  [21:47:23] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-5.56, y=37.00, z=5.01] does not have attribute null
+[2024-06-20 21:47:24.095] [info]  [21:47:24] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-35.60, y=38.42, z=6.96] does not have attribute null
+[2024-06-20 21:47:25.273] [info]  [21:47:25] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-36.77, y=38.00, z=7.84] does not have attribute null
+[2024-06-20 21:47:25.307] [info]  [21:47:25] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-20 21:47:25.308] [info]  [21:47:25] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-36.56, y=38.00, z=8.08] does not have attribute null
+[2024-06-20 21:47:25.308] [info]  [21:47:25] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-36.56, y=38.00, z=8.08] does not have attribute null
+[2024-06-20 21:47:25.399] [info]  [21:47:25] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-6.32, y=37.00, z=15.84] does not have attribute null
+[2024-06-20 21:47:25.702] [info]  [21:47:25] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-37.04, y=38.00, z=8.22] does not have attribute null
+[2024-06-20 21:47:26.204] [info]  [21:47:26] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-36.53, y=38.00, z=7.61] does not have attribute null
+[2024-06-20 21:47:26.541] [info]  [21:47:26] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-36.45, y=38.00, z=7.12] does not have attribute null
+[2024-06-20 21:47:26.693] [info]  [21:47:26] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-36.72, y=38.00, z=6.99] does not have attribute null
+[2024-06-20 21:47:27.037] [info]  [21:47:27] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-37.17, y=38.00, z=6.87] does not have attribute null
+[2024-06-20 21:47:27.038] [info]  [21:47:27] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-37.17, y=38.00, z=6.87] does not have attribute null
+[2024-06-20 21:47:27.088] [info]  [21:47:27] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/591742, l='ClientLevel', x=-45.04, y=38.00, z=3.93] does not have attribute null
+[2024-06-20 21:47:27.180] [info]  [21:47:27] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-37.40, y=38.00, z=6.80] does not have attribute null
+[2024-06-20 21:47:27.280] [info]  [21:47:27] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-5.94, y=37.00, z=15.42] does not have attribute null
+[2024-06-20 21:47:27.689] [info]  [21:47:27] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-37.48, y=38.00, z=6.78] does not have attribute null
+[2024-06-20 21:47:28.189] [info]  [21:47:28] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-37.48, y=38.00, z=6.78] does not have attribute null
+[2024-06-20 21:47:28.732] [info]  [21:47:28] [Render thread/WARN]: Entity RemotePlayer['gf0'/581415, l='ClientLevel', x=9.79, y=37.00, z=-1.13] does not have attribute null
+[2024-06-20 21:47:28.782] [info]  [21:47:28] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/591742, l='ClientLevel', x=-46.62, y=38.00, z=3.09] does not have attribute null
+[2024-06-20 21:47:31.094] [info]  [21:47:31] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-47.93, y=38.75, z=-1.18] does not have attribute null
+[2024-06-20 21:47:32.178] [info]  [21:47:32] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/591742, l='ClientLevel', x=-50.48, y=38.03, z=-8.70] does not have attribute null
+[2024-06-20 21:47:33.428] [info]  [21:47:33] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/591742, l='ClientLevel', x=-52.19, y=38.02, z=-10.44] does not have attribute null
+[2024-06-20 21:47:34.811] [info]  [21:47:34] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-54.18, y=39.00, z=-12.15] does not have attribute null
+[2024-06-20 21:47:34.879] [info]  [21:47:34] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-54.22, y=39.25, z=-12.27] does not have attribute null
+[2024-06-20 21:47:35.282] [info]  [21:47:35] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-54.12, y=38.37, z=-12.76] does not have attribute null
+[2024-06-20 21:47:35.508] [info]  [21:47:35] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-53.66, y=39.17, z=-11.81] does not have attribute null
+[2024-06-20 21:47:35.801] [info]  [21:47:35] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-52.55, y=39.92, z=-11.63] does not have attribute null
+[2024-06-20 21:47:36.062] [info]  [21:47:36] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-52.42, y=38.40, z=-11.59] does not have attribute null
+[2024-06-20 21:47:36.290] [info]  [21:47:36] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-52.44, y=38.00, z=-11.85] does not have attribute null
+[2024-06-20 21:47:36.331] [info]  [21:47:36] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/591742, l='ClientLevel', x=-53.52, y=38.54, z=-11.50] does not have attribute null
+[2024-06-20 21:47:36.683] [info]  [21:47:36] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-54.54, y=39.18, z=-13.42] does not have attribute null
+[2024-06-20 21:47:36.784] [info]  [21:47:36] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-54.77, y=38.95, z=-13.87] does not have attribute null
+[2024-06-20 21:47:37.298] [info]  [21:47:37] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-54.00, y=39.18, z=-13.60] does not have attribute null
+[2024-06-20 21:47:37.784] [info]  [21:47:37] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-52.70, y=39.17, z=-12.15] does not have attribute null
+[2024-06-20 21:47:38.002] [info]  [21:47:38] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-52.10, y=38.80, z=-11.36] does not have attribute null
+[2024-06-20 21:47:38.279] [info]  [21:47:38] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-51.63, y=38.42, z=-11.29] does not have attribute null
+[2024-06-20 21:47:38.781] [info]  [21:47:38] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-52.78, y=38.12, z=-12.63] does not have attribute null
+[2024-06-20 21:47:39.235] [info]  [21:47:39] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-53.56, y=38.00, z=-15.77] does not have attribute null
+[2024-06-20 21:47:39.277] [info]  [21:47:39] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-53.61, y=38.00, z=-16.01] does not have attribute null
+[2024-06-20 21:47:39.783] [info]  [21:47:39] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-54.88, y=38.80, z=-16.11] does not have attribute null
+[2024-06-20 21:47:40.280] [info]  [21:47:40] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-55.03, y=39.18, z=-14.94] does not have attribute null
+[2024-06-20 21:47:40.407] [info]  [21:47:40] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-54.94, y=38.50, z=-14.69] does not have attribute null
+[2024-06-20 21:47:40.777] [info]  [21:47:40] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-54.90, y=38.00, z=-15.19] does not have attribute null
+[2024-06-20 21:47:40.940] [info]  [21:47:40] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-55.10, y=38.00, z=-15.12] does not have attribute null
+[2024-06-20 21:47:40.941] [info]  [21:47:40] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-55.10, y=38.00, z=-15.12] does not have attribute null
+[2024-06-20 21:47:41.283] [info]  [21:47:41] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-56.77, y=40.00, z=-15.37] does not have attribute null
+[2024-06-20 21:47:41.602] [info]  [21:47:41] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-57.70, y=38.41, z=-15.56] does not have attribute null
+[2024-06-20 21:47:41.678] [info]  [21:47:41] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-57.95, y=38.00, z=-15.56] does not have attribute null
+[2024-06-20 21:47:41.780] [info]  [21:47:41] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-57.93, y=38.75, z=-15.52] does not have attribute null
+[2024-06-20 21:47:42.176] [info]  [21:47:42] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-57.74, y=38.50, z=-15.42] does not have attribute null
+[2024-06-20 21:47:42.226] [info]  [21:47:42] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-57.70, y=38.12, z=-15.42] does not have attribute null
+[2024-06-20 21:47:42.276] [info]  [21:47:42] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-57.84, y=38.00, z=-15.26] does not have attribute null
+[2024-06-20 21:47:42.578] [info]  [21:47:42] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-58.01, y=38.00, z=-15.46] does not have attribute null
+[2024-06-20 21:47:42.578] [info]  [21:47:42] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-58.01, y=38.00, z=-15.46] does not have attribute null
+[2024-06-20 21:47:42.779] [info]  [21:47:42] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-58.22, y=38.42, z=-16.27] does not have attribute null
+[2024-06-20 21:47:43.274] [info]  [21:47:43] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-56.49, y=39.54, z=-16.73] does not have attribute null
+[2024-06-20 21:47:43.408] [info]  [21:47:43] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-56.36, y=38.41, z=-16.74] does not have attribute null
+[2024-06-20 21:47:43.483] [info]  [21:47:43] [Render thread/INFO]: [System] [CHAT] Itzmehourr_ left the game
+[2024-06-20 21:47:43.484] [info]  [21:47:43] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-56.13, y=38.00, z=-16.80] does not have attribute null
+[2024-06-20 21:47:43.777] [info]  [21:47:43] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-56.99, y=39.25, z=-16.71] does not have attribute null
+[2024-06-20 21:47:43.827] [info]  [21:47:43] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-57.12, y=39.18, z=-16.70] does not have attribute null
+[2024-06-20 21:47:44.272] [info]  [21:47:44] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-59.07, y=39.17, z=-16.97] does not have attribute null
+[2024-06-20 21:47:44.779] [info]  [21:47:44] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-60.70, y=38.75, z=-17.93] does not have attribute null
+[2024-06-20 21:47:45.082] [info]  [21:47:45] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-61.04, y=39.02, z=-18.71] does not have attribute null
+[2024-06-20 21:47:45.278] [info]  [21:47:45] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-61.11, y=38.00, z=-19.08] does not have attribute null
+[2024-06-20 21:47:45.773] [info]  [21:47:45] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-60.08, y=38.50, z=-20.02] does not have attribute null
+[2024-06-20 21:47:45.881] [info]  [21:47:45] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-59.92, y=38.00, z=-20.12] does not have attribute null
+[2024-06-20 21:47:45.882] [info]  [21:47:45] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-59.92, y=38.00, z=-20.12] does not have attribute null
+[2024-06-20 21:47:46.285] [info]  [21:47:46] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-58.05, y=38.00, z=-19.96] does not have attribute null
+[2024-06-20 21:47:46.780] [info]  [21:47:46] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-56.22, y=38.00, z=-19.23] does not have attribute null
+[2024-06-20 21:47:48.476] [info]  [21:47:48] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-52.38, y=38.00, z=-18.62] does not have attribute null
+[2024-06-20 21:47:51.043] [info]  [21:47:51] [Render thread/INFO]: [System] [CHAT] Itzmehourr_ joined the game
+[2024-06-20 21:47:51.044] [info]  [21:47:51] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592277, l='ClientLevel', x=-58.64, y=38.04, z=-16.36] does not have attribute null
+[2024-06-20 21:47:51.077] [info]  [21:47:51] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592277, l='ClientLevel', x=-58.64, y=38.04, z=-16.36] does not have attribute null
+[2024-06-20 21:47:54.426] [info]  [21:47:54] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-57.80, y=38.00, z=-16.16] does not have attribute null
+[2024-06-20 21:47:58.474] [info]  [21:47:58] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛYou are not in combat anymore and allowed to quit.
+[2024-06-20 21:48:15.266] [info]  [21:48:15] [Render thread/WARN]: Entity RemotePlayer['gf0'/581415, l='ClientLevel', x=2.73, y=37.00, z=-17.06] does not have attribute null
+[2024-06-20 21:48:15.417] [info]  [21:48:15] [Render thread/WARN]: Entity RemotePlayer['gf0'/581415, l='ClientLevel', x=2.76, y=37.00, z=-17.18] does not have attribute null
+[2024-06-20 21:48:15.670] [info]  [21:48:15] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=1.46, y=38.02, z=12.01] does not have attribute null
+[2024-06-20 21:48:15.771] [info]  [21:48:15] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=4.34, y=37.00, z=-16.73] does not have attribute null
+[2024-06-20 21:48:15.972] [info]  [21:48:15] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=2.61, y=37.42, z=13.90] does not have attribute null
+[2024-06-20 21:48:17.130] [info]  [21:48:17] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-0.42, y=37.92, z=8.43] does not have attribute null
+[2024-06-20 21:48:17.963] [info]  [21:48:17] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=19.48, y=38.00, z=0.09] does not have attribute null
+[2024-06-20 21:48:18.021] [info]  [21:48:18] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=19.65, y=37.00, z=-0.48] does not have attribute null
+[2024-06-20 21:48:19.016] [info]  [21:48:19] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=18.63, y=37.00, z=1.03] does not have attribute null
+[2024-06-20 21:48:19.176] [info]  [21:48:19] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=3.58, y=37.00, z=-16.17] does not have attribute null
+[2024-06-20 21:48:19.176] [info]  [21:48:19] [Render thread/WARN]: Entity RemotePlayer['gf0'/581415, l='ClientLevel', x=0.71, y=37.00, z=-27.27] does not have attribute null
+[2024-06-20 21:48:19.370] [info]  [21:48:19] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-1.64, y=37.29, z=10.33] does not have attribute null
+[2024-06-20 21:48:19.724] [info]  [21:48:19] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-21.61, y=37.80, z=0.31] does not have attribute null
+[2024-06-20 21:48:19.816] [info]  [21:48:19] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=20.00, y=37.61, z=-1.13] does not have attribute null
+[2024-06-20 21:48:21.615] [info]  [21:48:21] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=0.26, y=38.09, z=13.91] does not have attribute null
+[2024-06-20 21:48:22.166] [info]  [21:48:22] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=8.03, y=37.52, z=-14.89] does not have attribute null
+[2024-06-20 21:48:22.856] [info]  [21:48:22] [Render thread/INFO]: [System] [CHAT] Kylrazyy joined the game
+[2024-06-20 21:48:22.857] [info]  [21:48:22] [Render thread/WARN]: Entity RemotePlayer['Kylrazyy'/592285, l='ClientLevel', x=-2.08, y=37.00, z=-3.17] does not have attribute null
+[2024-06-20 21:48:22.881] [info]  [21:48:22] [Render thread/WARN]: Entity RemotePlayer['Kylrazyy'/592285, l='ClientLevel', x=-2.08, y=37.00, z=-3.17] does not have attribute null
+[2024-06-20 21:48:24.736] [info]  [21:48:24] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=6.15, y=37.00, z=-8.70] does not have attribute null
+[2024-06-20 21:48:25.226] [info]  [21:48:25] [Render thread/WARN]: Entity RemotePlayer['gf0'/581415, l='ClientLevel', x=8.18, y=37.00, z=-13.86] does not have attribute null
+[2024-06-20 21:48:26.989] [info]  [21:48:26] [Render thread/INFO]: [System] [CHAT] Itzmehourr_ left the game
+[2024-06-20 21:48:27.428] [info]  [21:48:27] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛYou are now in combat with MJ1111111 so do not quit.
+[2024-06-20 21:48:29.527] [info]  [21:48:29] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=10.86, y=37.46, z=8.00] does not have attribute null
+[2024-06-20 21:48:31.970] [info]  [21:48:31] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=21.37, y=37.04, z=2.45] does not have attribute null
+[2024-06-20 21:48:32.465] [info]  [21:48:32] [Render thread/WARN]: Entity RemotePlayer['gf0'/581415, l='ClientLevel', x=1.88, y=37.00, z=-17.39] does not have attribute null
+[2024-06-20 21:48:32.751] [info]  [21:48:32] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=22.00, y=37.00, z=0.85] does not have attribute null
+[2024-06-20 21:48:33.314] [info]  [21:48:33] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=21.30, y=37.49, z=1.25] does not have attribute null
+[2024-06-20 21:48:33.675] [info]  [21:48:33] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=19.68, y=37.00, z=2.48] does not have attribute null
+[2024-06-20 21:48:34.029] [info]  [21:48:34] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-7.99, y=37.00, z=9.35] does not have attribute null
+[2024-06-20 21:48:35.866] [info]  [21:48:35] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=16.72, y=37.15, z=-4.69] does not have attribute null
+[2024-06-20 21:48:37.814] [info]  [21:48:37] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-9.04, y=37.53, z=9.65] does not have attribute null
+[2024-06-20 21:48:38.813] [info]  [21:48:38] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-0.67, y=37.00, z=-30.53] does not have attribute null
+[2024-06-20 21:48:38.915] [info]  [21:48:38] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-8.60, y=37.00, z=9.21] does not have attribute null
+[2024-06-20 21:48:41.979] [info]  [21:48:41] [Render thread/INFO]: [System] [CHAT] Yeannn joined the game
+[2024-06-20 21:48:43.413] [info]  [21:48:43] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=1.20, y=37.05, z=-30.06] does not have attribute null
+[2024-06-20 21:48:43.968] [info]  [21:48:43] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-1.92, y=37.28, z=13.55] does not have attribute null
+[2024-06-20 21:48:44.279] [info]  [21:48:44] [Render thread/WARN]: Entity RemotePlayer['gf0'/581415, l='ClientLevel', x=1.36, y=37.41, z=-30.56] does not have attribute null
+[2024-06-20 21:48:44.664] [info]  [21:48:44] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=7.82, y=37.00, z=-5.84] does not have attribute null
+[2024-06-20 21:48:44.966] [info]  [21:48:44] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-2.15, y=37.00, z=13.73] does not have attribute null
+[2024-06-20 21:48:46.606] [info]  [21:48:46] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=16.63, y=37.00, z=-3.47] does not have attribute null
+[2024-06-20 21:48:48.327] [info]  [21:48:48] [Render thread/WARN]: Entity RemotePlayer['Yeannn'/592301, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-20 21:48:48.486] [info]  [21:48:48] [Render thread/INFO]: [System] [CHAT] nariyaaaa joined the game
+[2024-06-20 21:48:48.495] [info]  [21:48:48] [Render thread/WARN]: Entity RemotePlayer['nariyaaaa'/592305, l='ClientLevel', x=9.23, y=37.00, z=4.63] does not have attribute null
+[2024-06-20 21:48:48.521] [info]  [21:48:48] [Render thread/WARN]: Entity RemotePlayer['nariyaaaa'/592305, l='ClientLevel', x=9.23, y=37.00, z=4.63] does not have attribute null
+[2024-06-20 21:48:49.527] [info]  [21:48:49] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-16.51, y=38.04, z=20.63] does not have attribute null
+[2024-06-20 21:48:50.104] [info]  [21:48:50] [Render thread/WARN]: Entity RemotePlayer['gf0'/581415, l='ClientLevel', x=-1.62, y=37.00, z=-39.90] does not have attribute null
+[2024-06-20 21:48:50.322] [info]  [21:48:50] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=12.10, y=37.14, z=-2.04] does not have attribute null
+[2024-06-20 21:48:50.767] [info]  [21:48:50] [Render thread/WARN]: Entity RemotePlayer['nariyaaaa'/592305, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-20 21:48:50.842] [info]  [21:48:50] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-3.01, y=37.00, z=-32.24] does not have attribute null
+[2024-06-20 21:48:51.363] [info]  [21:48:51] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=7.93, y=37.00, z=4.50] does not have attribute null
+[2024-06-20 21:48:52.491] [info]  [21:48:52] [Render thread/WARN]: Entity RemotePlayer['Yeannn'/592301, l='ClientLevel', x=8.61, y=37.80, z=2.53] does not have attribute null
+[2024-06-20 21:48:53.288] [info]  [21:48:53] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-2.57, y=37.86, z=-37.30] does not have attribute null
+[2024-06-20 21:48:55.027] [info]  [21:48:55] [Render thread/WARN]: Entity RemotePlayer['gf0'/581415, l='ClientLevel', x=-3.48, y=38.07, z=-38.13] does not have attribute null
+[2024-06-20 21:48:55.144] [info]  [21:48:55] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-12.40, y=37.01, z=7.52] does not have attribute null
+[2024-06-20 21:48:56.192] [info]  [21:48:56] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-12.04, y=37.44, z=6.51] does not have attribute null
+[2024-06-20 21:48:57.733] [info]  [21:48:57] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-13.35, y=37.70, z=6.96] does not have attribute null
+[2024-06-20 21:48:58.322] [info]  [21:48:58] [Render thread/WARN]: Entity RemotePlayer['nariyaaaa'/592305, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-20 21:48:59.359] [info]  [21:48:59] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=22.40, y=37.00, z=4.90] does not have attribute null
+[2024-06-20 21:48:59.459] [info]  [21:48:59] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=11.32, y=37.00, z=-1.15] does not have attribute null
+[2024-06-20 21:49:01.325] [info]  [21:49:01] [Render thread/INFO]: [System] [CHAT] Jisus joined the game
+[2024-06-20 21:49:01.493] [info]  [21:49:01] [Render thread/WARN]: Entity RemotePlayer['gf0'/581415, l='ClientLevel', x=-3.95, y=37.63, z=-40.91] does not have attribute null
+[2024-06-20 21:49:02.215] [info]  [21:49:02] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=15.64, y=37.00, z=-1.07] does not have attribute null
+[2024-06-20 21:49:02.458] [info]  [21:49:02] [Render thread/WARN]: Entity RemotePlayer['gf0'/581415, l='ClientLevel', x=-4.36, y=37.01, z=-39.81] does not have attribute null
+[2024-06-20 21:49:05.112] [info]  [21:49:05] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-18.22, y=37.19, z=9.63] does not have attribute null
+[2024-06-20 21:49:06.068] [info]  [21:49:06] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-18.24, y=37.01, z=9.80] does not have attribute null
+[2024-06-20 21:49:06.998] [info]  [21:49:06] [Render thread/INFO]: [System] [CHAT] Itzmehourr_ joined the game
+[2024-06-20 21:49:07.861] [info]  [21:49:07] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=-1.17, y=37.78, z=6.59] does not have attribute null
+[2024-06-20 21:49:09.810] [info]  [21:49:09] [Render thread/WARN]: Entity RemotePlayer['nariyaaaa'/592305, l='ClientLevel', x=-11.06, y=37.00, z=8.39] does not have attribute null
+[2024-06-20 21:49:10.063] [info]  [21:49:10] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-8.84, y=37.00, z=13.44] does not have attribute null
+[2024-06-20 21:49:10.907] [info]  [21:49:10] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-10.78, y=37.15, z=1.94] does not have attribute null
+[2024-06-20 21:49:11.804] [info]  [21:49:11] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-8.89, y=38.17, z=-41.54] does not have attribute null
+[2024-06-20 21:49:12.366] [info]  [21:49:12] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=-12.51, y=37.86, z=7.84] does not have attribute null
+[2024-06-20 21:49:12.468] [info]  [21:49:12] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-20 21:49:12.468] [info]  [21:49:12] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-20 21:49:12.526] [info]  [21:49:12] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛYou are now in combat with nariyaaaa so do not quit.
+[2024-06-20 21:49:12.702] [info]  [21:49:12] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-10.83, y=38.18, z=2.14] does not have attribute null
+[2024-06-20 21:49:14.072] [info]  [21:49:14] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-20 21:49:14.736] [info]  [21:49:14] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=-13.95, y=37.00, z=11.02] does not have attribute null
+[2024-06-20 21:49:16.107] [info]  [21:49:16] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-11.61, y=38.15, z=1.15] does not have attribute null
+[2024-06-20 21:49:18.703] [info]  [21:49:18] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-2.00, y=37.00, z=-35.44] does not have attribute null
+[2024-06-20 21:49:19.007] [info]  [21:49:19] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-17.19, y=38.17, z=-7.69] does not have attribute null
+[2024-06-20 21:49:19.701] [info]  [21:49:19] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-2.00, y=37.00, z=-35.44] does not have attribute null
+[2024-06-20 21:49:20.206] [info]  [21:49:20] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-1.91, y=37.00, z=-35.58] does not have attribute null
+[2024-06-20 21:49:21.046] [info]  [21:49:21] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-13.70, y=37.00, z=11.97] does not have attribute null
+[2024-06-20 21:49:21.104] [info]  [21:49:21] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-14.05, y=37.20, z=11.86] does not have attribute null
+[2024-06-20 21:49:21.507] [info]  [21:49:21] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-15.59, y=37.00, z=11.54] does not have attribute null
+[2024-06-20 21:49:22.657] [info]  [21:49:22] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=1.84, y=37.00, z=-1.42] does not have attribute null
+[2024-06-20 21:49:22.808] [info]  [21:49:22] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-9.67, y=37.65, z=16.43] does not have attribute null
+[2024-06-20 21:49:23.609] [info]  [21:49:23] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-10.30, y=37.00, z=8.65] does not have attribute null
+[2024-06-20 21:49:24.104] [info]  [21:49:24] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-10.54, y=37.00, z=9.93] does not have attribute null
+[2024-06-20 21:49:24.515] [info]  [21:49:24] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-9.44, y=37.00, z=15.03] does not have attribute null
+[2024-06-20 21:49:24.665] [info]  [21:49:24] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-25.97, y=37.14, z=9.46] does not have attribute null
+[2024-06-20 21:49:25.403] [info]  [21:49:25] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-25.40, y=37.46, z=10.55] does not have attribute null
+[2024-06-20 21:49:26.209] [info]  [21:49:26] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-12.47, y=37.00, z=13.65] does not have attribute null
+[2024-06-20 21:49:26.352] [info]  [21:49:26] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-25.91, y=38.03, z=9.64] does not have attribute null
+[2024-06-20 21:49:26.353] [info]  [21:49:26] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=-9.91, y=37.71, z=9.45] does not have attribute null
+[2024-06-20 21:49:28.922] [info]  [21:49:28] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-20 21:49:28.923] [info]  [21:49:28] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-20 21:49:29.258] [info]  [21:49:29] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=-4.71, y=37.04, z=9.74] does not have attribute null
+[2024-06-20 21:49:32.163] [info]  [21:49:32] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-19.63, y=37.00, z=0.62] does not have attribute null
+[2024-06-20 21:49:32.172] [info]  [21:49:32] [Render thread/INFO]: [System] [CHAT] LongTheKing_ joined the game
+[2024-06-20 21:49:33.854] [info]  [21:49:33] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-19.40, y=37.00, z=0.32] does not have attribute null
+[2024-06-20 21:49:34.057] [info]  [21:49:34] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=-0.59, y=37.00, z=0.98] does not have attribute null
+[2024-06-20 21:49:34.107] [info]  [21:49:34] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-9.83, y=37.82, z=0.82] does not have attribute null
+[2024-06-20 21:49:34.653] [info]  [21:49:34] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-31.70, y=37.00, z=8.45] does not have attribute null
+[2024-06-20 21:49:35.550] [info]  [21:49:35] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-19.19, y=37.96, z=0.21] does not have attribute null
+[2024-06-20 21:49:35.804] [info]  [21:49:35] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-10.88, y=37.55, z=3.68] does not have attribute null
+[2024-06-20 21:49:35.855] [info]  [21:49:35] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-31.47, y=37.02, z=7.28] does not have attribute null
+[2024-06-20 21:49:37.254] [info]  [21:49:37] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-17.59, y=37.00, z=-0.69] does not have attribute null
+[2024-06-20 21:49:38.664] [info]  [21:49:38] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-0.96, y=37.69, z=8.72] does not have attribute null
+[2024-06-20 21:49:39.798] [info]  [21:49:39] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=-1.88, y=37.00, z=15.37] does not have attribute null
+[2024-06-20 21:49:40.427] [info]  [21:49:40] [Render thread/WARN]: Entity RemotePlayer['Yeannn'/592301, l='ClientLevel', x=-11.56, y=37.43, z=-0.63] does not have attribute null
+[2024-06-20 21:49:41.068] [info]  [21:49:41] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-24.95, y=37.01, z=-2.11] does not have attribute null
+[2024-06-20 21:49:41.101] [info]  [21:49:41] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-19.45, y=37.00, z=-0.01] does not have attribute null
+[2024-06-20 21:49:41.763] [info]  [21:49:41] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-24.96, y=37.61, z=-3.35] does not have attribute null
+[2024-06-20 21:49:42.057] [info]  [21:49:42] [Render thread/WARN]: Entity RemotePlayer['Yeannn'/592301, l='ClientLevel', x=-9.07, y=37.00, z=1.44] does not have attribute null
+[2024-06-20 21:49:42.806] [info]  [21:49:42] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-20.71, y=37.00, z=-1.19] does not have attribute null
+[2024-06-20 21:49:43.303] [info]  [21:49:43] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=-2.40, y=37.35, z=12.17] does not have attribute null
+[2024-06-20 21:49:45.152] [info]  [21:49:45] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-23.59, y=37.00, z=-0.46] does not have attribute null
+[2024-06-20 21:49:45.379] [info]  [21:49:45] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-26.80, y=37.68, z=-8.66] does not have attribute null
+[2024-06-20 21:49:49.309] [info]  [21:49:49] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=10.28, y=37.00, z=8.45] does not have attribute null
+[2024-06-20 21:49:50.552] [info]  [21:49:50] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-13.69, y=37.01, z=2.10] does not have attribute null
+[2024-06-20 21:49:50.660] [info]  [21:49:50] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=8.09, y=37.02, z=9.10] does not have attribute null
+[2024-06-20 21:49:51.012] [info]  [21:49:51] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=8.58, y=37.90, z=8.05] does not have attribute null
+[2024-06-20 21:49:51.214] [info]  [21:49:51] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-21.78, y=37.00, z=-3.55] does not have attribute null
+[2024-06-20 21:49:51.365] [info]  [21:49:51] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-13.35, y=37.03, z=2.71] does not have attribute null
+[2024-06-20 21:49:51.499] [info]  [21:49:51] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-14.69, y=37.49, z=1.50] does not have attribute null
+[2024-06-20 21:49:51.759] [info]  [21:49:51] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=10.10, y=37.00, z=6.54] does not have attribute null
+[2024-06-20 21:49:51.809] [info]  [21:49:51] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-21.20, y=37.00, z=-5.31] does not have attribute null
+[2024-06-20 21:49:52.733] [info]  [21:49:52] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=11.18, y=37.90, z=6.18] does not have attribute null
+[2024-06-20 21:49:52.926] [info]  [21:49:52] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-21.49, y=37.00, z=-3.87] does not have attribute null
+[2024-06-20 21:49:53.488] [info]  [21:49:53] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-20.56, y=37.00, z=-4.31] does not have attribute null
+[2024-06-20 21:49:53.489] [info]  [21:49:53] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=10.01, y=37.00, z=5.55] does not have attribute null
+[2024-06-20 21:49:54.420] [info]  [21:49:54] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=6.90, y=37.01, z=4.71] does not have attribute null
+[2024-06-20 21:49:55.108] [info]  [21:49:55] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-7.34, y=37.00, z=1.11] does not have attribute null
+[2024-06-20 21:49:55.756] [info]  [21:49:55] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=6.00, y=37.00, z=6.08] does not have attribute null
+[2024-06-20 21:49:56.111] [info]  [21:49:56] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=6.71, y=37.09, z=5.68] does not have attribute null
+[2024-06-20 21:49:56.211] [info]  [21:49:56] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-12.62, y=37.00, z=-0.62] does not have attribute null
+[2024-06-20 21:49:57.861] [info]  [21:49:57] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-12.13, y=37.00, z=-0.25] does not have attribute null
+[2024-06-20 21:49:58.608] [info]  [21:49:58] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=7.68, y=37.01, z=6.46] does not have attribute null
+[2024-06-20 21:49:59.546] [info]  [21:49:59] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-11.40, y=37.17, z=-2.22] does not have attribute null
+[2024-06-20 21:50:01.062] [info]  [21:50:01] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-6.53, y=37.41, z=1.27] does not have attribute null
+[2024-06-20 21:50:01.221] [info]  [21:50:01] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-14.12, y=37.35, z=-1.24] does not have attribute null
+[2024-06-20 21:50:01.809] [info]  [21:50:01] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-6.49, y=37.11, z=4.05] does not have attribute null
+[2024-06-20 21:50:02.320] [info]  [21:50:02] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=13.93, y=37.00, z=1.68] does not have attribute null
+[2024-06-20 21:50:04.271] [info]  [21:50:04] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-9.64, y=37.21, z=13.28] does not have attribute null
+[2024-06-20 21:50:05.619] [info]  [21:50:05] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-9.22, y=37.83, z=11.62] does not have attribute null
+[2024-06-20 21:50:05.762] [info]  [21:50:05] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-10.05, y=37.40, z=12.27] does not have attribute null
+[2024-06-20 21:50:07.421] [info]  [21:50:07] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=15.10, y=37.00, z=-0.15] does not have attribute null
+[2024-06-20 21:50:08.926] [info]  [21:50:08] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-16.52, y=37.00, z=-2.70] does not have attribute null
+[2024-06-20 21:50:09.693] [info]  [21:50:09] [Render thread/INFO]: [System] [CHAT] HongShadow_ was slain by ANK_Boyza168
+[2024-06-20 21:50:10.240] [info]  [21:50:10] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-14.10, y=37.16, z=9.64] does not have attribute null
+[2024-06-20 21:50:10.768] [info]  [21:50:10] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-2.89, y=37.00, z=8.26] does not have attribute null
+[2024-06-20 21:50:12.725] [info]  [21:50:12] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-10.94, y=37.00, z=6.95] does not have attribute null
+[2024-06-20 21:50:13.774] [info]  [21:50:13] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-12.78, y=37.00, z=7.26] does not have attribute null
+[2024-06-20 21:50:14.431] [info]  [21:50:14] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-10.69, y=37.00, z=7.20] does not have attribute null
+[2024-06-20 21:50:14.818] [info]  [21:50:14] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛYou are not in combat anymore and allowed to quit.
+[2024-06-20 21:50:16.122] [info]  [21:50:16] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=5.70, y=37.58, z=-3.98] does not have attribute null
+[2024-06-20 21:50:16.334] [info]  [21:50:16] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛYou are now in combat with Itzmehourr_ so do not quit.
+[2024-06-20 21:50:17.188] [info]  [21:50:17] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-20 21:50:17.833] [info]  [21:50:17] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=1.51, y=37.45, z=-3.42] does not have attribute null
+[2024-06-20 21:50:18.487] [info]  [21:50:18] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-8.14, y=37.45, z=20.28] does not have attribute null
+[2024-06-20 21:50:20.175] [info]  [21:50:20] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-8.14, y=37.69, z=20.85] does not have attribute null
+[2024-06-20 21:50:23.221] [info]  [21:50:23] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-12.04, y=37.00, z=17.16] does not have attribute null
+[2024-06-20 21:50:24.774] [info]  [21:50:24] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-32.41, y=37.00, z=4.30] does not have attribute null
+[2024-06-20 21:50:26.021] [info]  [21:50:26] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-9.87, y=37.00, z=8.84] does not have attribute null
+[2024-06-20 21:50:26.575] [info]  [21:50:26] [Render thread/WARN]: Entity RemotePlayer['Yeannn'/592301, l='ClientLevel', x=-26.63, y=37.00, z=9.54] does not have attribute null
+[2024-06-20 21:50:27.676] [info]  [21:50:27] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-11.34, y=37.00, z=10.18] does not have attribute null
+[2024-06-20 21:50:31.748] [info]  [21:50:31] [Render thread/INFO]: [System] [CHAT] nariyaaaa left the game
+[2024-06-20 21:50:32.075] [info]  [21:50:32] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-32.70, y=37.00, z=4.30] does not have attribute null
+[2024-06-20 21:50:33.627] [info]  [21:50:33] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-42.28, y=38.00, z=4.46] does not have attribute null
+[2024-06-20 21:50:34.465] [info]  [21:50:34] [Render thread/INFO]: [System] [CHAT] WoZyLearning_ joined the game
+[2024-06-20 21:50:35.287] [info]  [21:50:35] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-39.49, y=38.00, z=4.44] does not have attribute null
+[2024-06-20 21:50:37.529] [info]  [21:50:37] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=0.12, y=37.00, z=16.27] does not have attribute null
+[2024-06-20 21:50:42.029] [info]  [21:50:42] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-25.18, y=37.00, z=7.09] does not have attribute null
+[2024-06-20 21:50:42.096] [info]  [21:50:42] [Render thread/WARN]: Entity RemotePlayer['Yeannn'/592301, l='ClientLevel', x=-28.61, y=37.00, z=7.17] does not have attribute null
+[2024-06-20 21:50:42.280] [info]  [21:50:42] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-17.44, y=38.13, z=-0.62] does not have attribute null
+[2024-06-20 21:50:43.540] [info]  [21:50:43] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-12.27, y=37.01, z=15.94] does not have attribute null
+[2024-06-20 21:50:46.641] [info]  [21:50:46] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=-2.08, y=37.00, z=-1.85] does not have attribute null
+[2024-06-20 21:50:48.389] [info]  [21:50:48] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=-2.83, y=37.00, z=-1.62] does not have attribute null
+[2024-06-20 21:50:49.993] [info]  [21:50:49] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-28.46, y=37.00, z=9.98] does not have attribute null
+[2024-06-20 21:50:50.287] [info]  [21:50:50] [Render thread/WARN]: Entity RemotePlayer['Yeannn'/592301, l='ClientLevel', x=-19.45, y=37.00, z=1.59] does not have attribute null
+[2024-06-20 21:50:50.539] [info]  [21:50:50] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-28.70, y=37.40, z=10.49] does not have attribute null
+[2024-06-20 21:50:51.043] [info]  [21:50:51] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-23.89, y=37.00, z=0.71] does not have attribute null
+[2024-06-20 21:50:54.606] [info]  [21:50:54] [Render thread/WARN]: Entity RemotePlayer['Yeannn'/592301, l='ClientLevel', x=-21.63, y=37.23, z=1.16] does not have attribute null
+[2024-06-20 21:50:56.534] [info]  [21:50:56] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-31.30, y=37.69, z=-2.83] does not have attribute null
+[2024-06-20 21:50:57.130] [info]  [21:50:57] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-30.12, y=37.70, z=8.78] does not have attribute null
+[2024-06-20 21:50:57.365] [info]  [21:50:57] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-12.24, y=37.00, z=10.39] does not have attribute null
+[2024-06-20 21:50:57.432] [info]  [21:50:57] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-12.20, y=37.20, z=10.48] does not have attribute null
+[2024-06-20 21:50:57.842] [info]  [21:50:57] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=-6.17, y=37.00, z=3.89] does not have attribute null
+[2024-06-20 21:50:57.842] [info]  [21:50:57] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-11.70, y=37.00, z=9.56] does not have attribute null
+[2024-06-20 21:50:58.748] [info]  [21:50:58] [Render thread/WARN]: Entity RemotePlayer['Yeannn'/592301, l='ClientLevel', x=-31.22, y=37.91, z=-3.50] does not have attribute null
+[2024-06-20 21:50:59.540] [info]  [21:50:59] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=-7.32, y=37.00, z=4.78] does not have attribute null
+[2024-06-20 21:51:01.993] [info]  [21:51:01] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-20.44, y=38.37, z=-8.92] does not have attribute null
+[2024-06-20 21:51:02.798] [info]  [21:51:02] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-13.36, y=37.32, z=3.36] does not have attribute null
+[2024-06-20 21:51:03.353] [info]  [21:51:03] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-21.88, y=37.75, z=-10.49] does not have attribute null
+[2024-06-20 21:51:03.637] [info]  [21:51:03] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=-7.18, y=37.99, z=5.55] does not have attribute null
+[2024-06-20 21:51:03.705] [info]  [21:51:03] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-11.80, y=37.00, z=2.24] does not have attribute null
+[2024-06-20 21:51:04.191] [info]  [21:51:04] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-11.60, y=37.00, z=3.22] does not have attribute null
+[2024-06-20 21:51:04.233] [info]  [21:51:04] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-11.90, y=37.42, z=3.56] does not have attribute null
+[2024-06-20 21:51:04.753] [info]  [21:51:04] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-13.84, y=37.52, z=2.64] does not have attribute null
+[2024-06-20 21:51:05.216] [info]  [21:51:05] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-15.41, y=38.18, z=2.52] does not have attribute null
+[2024-06-20 21:51:05.704] [info]  [21:51:05] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-16.20, y=37.00, z=1.25] does not have attribute null
+[2024-06-20 21:51:05.965] [info]  [21:51:05] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-16.21, y=37.00, z=1.55] does not have attribute null
+[2024-06-20 21:51:08.631] [info]  [21:51:08] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-19.48, y=37.42, z=-10.48] does not have attribute null
+[2024-06-20 21:51:08.632] [info]  [21:51:08] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=8.77, y=38.25, z=16.05] does not have attribute null
+[2024-06-20 21:51:08.698] [info]  [21:51:08] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-19.36, y=37.19, z=-10.66] does not have attribute null
+[2024-06-20 21:51:08.715] [info]  [21:51:08] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=10.48, y=38.00, z=16.70] does not have attribute null
+[2024-06-20 21:51:08.715] [info]  [21:51:08] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=7.97, y=37.59, z=15.99] does not have attribute null
+[2024-06-20 21:51:10.279] [info]  [21:51:10] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-23.11, y=37.68, z=12.55] does not have attribute null
+[2024-06-20 21:51:10.345] [info]  [21:51:10] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-11.66, y=37.00, z=4.41] does not have attribute null
+[2024-06-20 21:51:12.135] [info]  [21:51:12] [Render thread/WARN]: Entity RemotePlayer['Yeannn'/592301, l='ClientLevel', x=-21.92, y=37.61, z=-11.34] does not have attribute null
+[2024-06-20 21:51:13.099] [info]  [21:51:13] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-15.39, y=37.75, z=-18.97] does not have attribute null
+[2024-06-20 21:51:13.191] [info]  [21:51:13] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-8.61, y=37.00, z=1.79] does not have attribute null
+[2024-06-20 21:51:13.786] [info]  [21:51:13] [Render thread/WARN]: Entity RemotePlayer['Yeannn'/592301, l='ClientLevel', x=-18.51, y=37.39, z=-15.14] does not have attribute null
+[2024-06-20 21:51:14.743] [info]  [21:51:14] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-18.89, y=37.69, z=-17.41] does not have attribute null
+[2024-06-20 21:51:15.264] [info]  [21:51:15] [Render thread/WARN]: Entity RemotePlayer['Yeannn'/592301, l='ClientLevel', x=-20.24, y=37.82, z=-16.78] does not have attribute null
+[2024-06-20 21:51:15.364] [info]  [21:51:15] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-29.13, y=37.08, z=6.12] does not have attribute null
+[2024-06-20 21:51:19.290] [info]  [21:51:19] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-15.82, y=38.14, z=-20.48] does not have attribute null
+[2024-06-20 21:51:19.340] [info]  [21:51:19] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-31.60, y=37.24, z=9.86] does not have attribute null
+[2024-06-20 21:51:19.837] [info]  [21:51:19] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-9.66, y=37.80, z=-6.18] does not have attribute null
+[2024-06-20 21:51:20.038] [info]  [21:51:20] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-16.31, y=38.04, z=-21.39] does not have attribute null
+[2024-06-20 21:51:20.501] [info]  [21:51:20] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-31.55, y=37.96, z=10.47] does not have attribute null
+[2024-06-20 21:51:24.232] [info]  [21:51:24] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-12.86, y=37.00, z=-3.05] does not have attribute null
+[2024-06-20 21:51:25.214] [info]  [21:51:25] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=11.35, y=37.17, z=18.86] does not have attribute null
+[2024-06-20 21:51:26.306] [info]  [21:51:26] [Render thread/WARN]: Entity RemotePlayer['Yeannn'/592301, l='ClientLevel', x=-19.93, y=37.02, z=-15.36] does not have attribute null
+[2024-06-20 21:51:27.438] [info]  [21:51:27] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-2.52, y=38.17, z=-21.36] does not have attribute null
+[2024-06-20 21:51:27.949] [info]  [21:51:27] [Render thread/WARN]: Entity RemotePlayer['Yeannn'/592301, l='ClientLevel', x=-19.91, y=37.00, z=-15.37] does not have attribute null
+[2024-06-20 21:51:29.142] [info]  [21:51:29] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=17.53, y=37.11, z=15.81] does not have attribute null
+[2024-06-20 21:51:29.395] [info]  [21:51:29] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-21.85, y=37.00, z=-1.14] does not have attribute null
+[2024-06-20 21:51:29.917] [info]  [21:51:29] [Render thread/WARN]: Entity RemotePlayer['WoZyLearning_'/592406, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-20 21:51:29.918] [info]  [21:51:29] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=19.03, y=37.00, z=15.91] does not have attribute null
+[2024-06-20 21:51:32.342] [info]  [21:51:32] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=19.69, y=36.88, z=16.22] does not have attribute null
+[2024-06-20 21:51:32.795] [info]  [21:51:32] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-3.75, y=37.22, z=-28.06] does not have attribute null
+[2024-06-20 21:51:33.785] [info]  [21:51:33] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-3.71, y=38.14, z=-28.29] does not have attribute null
+[2024-06-20 21:51:34.599] [info]  [21:51:34] [Render thread/WARN]: Entity RemotePlayer['Yeannn'/592301, l='ClientLevel', x=-3.47, y=37.70, z=-26.91] does not have attribute null
+[2024-06-20 21:51:34.961] [info]  [21:51:34] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-20.84, y=37.00, z=-10.19] does not have attribute null
+[2024-06-20 21:51:35.776] [info]  [21:51:35] [Render thread/INFO]: [System] [CHAT] gf0 was slain by ShiWoo
+[2024-06-20 21:51:35.777] [info]  [21:51:35] [Render thread/WARN]: Entity RemotePlayer['gf0'/581415, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-20 21:51:35.777] [info]  [21:51:35] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-19.04, y=37.75, z=-10.34] does not have attribute null
+[2024-06-20 21:51:37.587] [info]  [21:51:37] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-21.70, y=37.00, z=-9.99] does not have attribute null
+[2024-06-20 21:51:37.837] [info]  [21:51:37] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-0.63, y=38.52, z=-19.75] does not have attribute null
+[2024-06-20 21:51:37.888] [info]  [21:51:37] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=18.37, y=37.00, z=11.57] does not have attribute null
+[2024-06-20 21:51:38.486] [info]  [21:51:38] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-0.23, y=37.89, z=-20.13] does not have attribute null
+[2024-06-20 21:51:39.343] [info]  [21:51:39] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-13.15, y=37.42, z=0.37] does not have attribute null
+[2024-06-20 21:51:42.452] [info]  [21:51:42] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=19.27, y=37.56, z=10.91] does not have attribute null
+[2024-06-20 21:51:43.244] [info]  [21:51:43] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-21.82, y=38.00, z=-14.70] does not have attribute null
+[2024-06-20 21:51:44.039] [info]  [21:51:44] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-22.91, y=40.17, z=-13.78] does not have attribute null
+[2024-06-20 21:51:44.863] [info]  [21:51:44] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-13.61, y=37.61, z=-24.54] does not have attribute null
+[2024-06-20 21:51:45.114] [info]  [21:51:45] [Render thread/WARN]: Entity RemotePlayer['Yeannn'/592301, l='ClientLevel', x=-12.30, y=38.00, z=-22.25] does not have attribute null
+[2024-06-20 21:51:45.708] [info]  [21:51:45] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-20.77, y=37.00, z=-15.68] does not have attribute null
+[2024-06-20 21:51:46.420] [info]  [21:51:46] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-2.56, y=37.00, z=-48.67] does not have attribute null
+[2024-06-20 21:51:47.801] [info]  [21:51:47] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/591370, l='ClientLevel', x=-13.22, y=37.00, z=-24.60] does not have attribute null
+[2024-06-20 21:51:47.994] [info]  [21:51:47] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-1.70, y=37.42, z=-46.32] does not have attribute null
+[2024-06-20 21:51:48.053] [info]  [21:51:48] [Render thread/WARN]: Entity RemotePlayer['Yeannn'/592301, l='ClientLevel', x=-13.40, y=37.56, z=-23.78] does not have attribute null
+[2024-06-20 21:51:48.887] [info]  [21:51:48] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-19.66, y=37.36, z=-18.04] does not have attribute null
+[2024-06-20 21:51:49.490] [info]  [21:51:49] [Render thread/INFO]: [System] [CHAT] gf0 left the game
+[2024-06-20 21:51:49.977] [info]  [21:51:49] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-19.17, y=37.00, z=-18.78] does not have attribute null
+[2024-06-20 21:51:51.252] [info]  [21:51:51] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-19.21, y=38.11, z=-20.88] does not have attribute null
+[2024-06-20 21:51:51.851] [info]  [21:51:51] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-15.16, y=37.25, z=-3.48] does not have attribute null
+[2024-06-20 21:51:54.079] [info]  [21:51:54] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-8.92, y=38.17, z=6.84] does not have attribute null
+[2024-06-20 21:51:54.536] [info]  [21:51:54] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-6.20, y=37.00, z=-20.88] does not have attribute null
+[2024-06-20 21:51:56.180] [info]  [21:51:56] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-7.87, y=37.00, z=-18.95] does not have attribute null
+[2024-06-20 21:51:56.566] [info]  [21:51:56] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=28.18, y=37.02, z=-3.31] does not have attribute null
+[2024-06-20 21:51:56.969] [info]  [21:51:56] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-17.72, y=37.00, z=-13.04] does not have attribute null
+[2024-06-20 21:51:58.368] [info]  [21:51:58] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-19.13, y=37.42, z=-16.56] does not have attribute null
+[2024-06-20 21:51:58.368] [info]  [21:51:58] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛANK_Boyza168 left while he was combat with Yeannn
+[2024-06-20 21:52:03.028] [info]  [21:52:03] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-18.78, y=37.50, z=-15.65] does not have attribute null
+[2024-06-20 21:52:03.035] [info]  [21:52:03] [Render thread/WARN]: Entity RemotePlayer['WoZyLearning_'/592406, l='ClientLevel', x=1.97, y=37.00, z=2.36] does not have attribute null
+[2024-06-20 21:52:03.036] [info]  [21:52:03] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=29.58, y=36.12, z=-2.71] does not have attribute null
+[2024-06-20 21:52:03.044] [info]  [21:52:03] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-8.57, y=37.00, z=-16.98] does not have attribute null
+[2024-06-20 21:52:03.045] [info]  [21:52:03] [Render thread/WARN]: Entity RemotePlayer['WoZyLearning_'/592406, l='ClientLevel', x=1.97, y=37.00, z=2.36] does not have attribute null
+[2024-06-20 21:52:03.052] [info]  [21:52:03] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-18.09, y=37.14, z=-14.96] does not have attribute null
+[2024-06-20 21:52:03.054] [info]  [21:52:03] [Render thread/WARN]: Entity RemotePlayer['Yeannn'/592301, l='ClientLevel', x=-3.46, y=37.42, z=-45.90] does not have attribute null
+[2024-06-20 21:52:03.054] [info]  [21:52:03] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-8.57, y=37.00, z=-16.98] does not have attribute null
+[2024-06-20 21:52:03.055] [info]  [21:52:03] [Render thread/INFO]: [System] [CHAT] ANK_Boyza168 joined the game
+[2024-06-20 21:52:06.132] [info]  [21:52:06] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛYou are not in combat anymore and allowed to quit.
+[2024-06-20 21:52:06.191] [info]  [21:52:06] [Render thread/INFO]: [CHAT] Yeannn ▸ loy
+[2024-06-20 21:52:07.741] [info]  [21:52:07] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-0.20, y=37.00, z=-17.11] does not have attribute null
+[2024-06-20 21:52:07.799] [info]  [21:52:07] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-4.21, y=37.00, z=-10.24] does not have attribute null
+[2024-06-20 21:52:08.807] [info]  [21:52:08] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/592825, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-20 21:52:08.824] [info]  [21:52:08] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/592825, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-20 21:52:11.864] [info]  [21:52:11] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-20.09, y=37.00, z=2.43] does not have attribute null
+[2024-06-20 21:52:11.865] [info]  [21:52:11] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=18.00, y=37.00, z=8.59] does not have attribute null
+[2024-06-20 21:52:12.343] [info]  [21:52:12] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-21.03, y=37.49, z=-3.67] does not have attribute null
+[2024-06-20 21:52:12.393] [info]  [21:52:12] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-1.03, y=38.11, z=-6.49] does not have attribute null
+[2024-06-20 21:52:12.495] [info]  [21:52:12] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-2.31, y=37.85, z=-6.30] does not have attribute null
+[2024-06-20 21:52:13.004] [info]  [21:52:13] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=6.04, y=37.12, z=-7.48] does not have attribute null
+[2024-06-20 21:52:16.241] [info]  [21:52:16] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=12.28, y=37.33, z=-5.77] does not have attribute null
+[2024-06-20 21:52:17.040] [info]  [21:52:17] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=13.56, y=37.10, z=-8.37] does not have attribute null
+[2024-06-20 21:52:17.539] [info]  [21:52:17] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-5.87, y=37.00, z=-4.62] does not have attribute null
+[2024-06-20 21:52:17.825] [info]  [21:52:17] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-0.50, y=37.00, z=9.68] does not have attribute null
+[2024-06-20 21:52:17.825] [info]  [21:52:17] [Render thread/WARN]: Entity RemotePlayer['WoZyLearning_'/592406, l='ClientLevel', x=-1.64, y=37.00, z=-3.75] does not have attribute null
+[2024-06-20 21:52:17.994] [info]  [21:52:17] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-1.20, y=37.59, z=8.27] does not have attribute null
+[2024-06-20 21:52:20.064] [info]  [21:52:20] [Render thread/WARN]: Entity RemotePlayer['WoZyLearning_'/592406, l='ClientLevel', x=-1.64, y=37.00, z=-3.75] does not have attribute null
+[2024-06-20 21:52:20.065] [info]  [21:52:20] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛYou are now in combat with Itzmehourr_ so do not quit.
+[2024-06-20 21:52:20.709] [info]  [21:52:20] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=0.50, y=38.34, z=8.82] does not have attribute null
+[2024-06-20 21:52:21.799] [info]  [21:52:21] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=5.81, y=37.00, z=-15.25] does not have attribute null
+[2024-06-20 21:52:23.245] [info]  [21:52:23] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-5.23, y=37.00, z=-19.51] does not have attribute null
+[2024-06-20 21:52:24.019] [info]  [21:52:24] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=4.37, y=37.00, z=-9.61] does not have attribute null
+[2024-06-20 21:52:26.822] [info]  [21:52:26] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=17.22, y=37.14, z=-7.98] does not have attribute null
+[2024-06-20 21:52:26.822] [info]  [21:52:26] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=4.21, y=37.00, z=-9.67] does not have attribute null
+[2024-06-20 21:52:26.823] [info]  [21:52:26] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=1.22, y=37.00, z=-19.11] does not have attribute null
+[2024-06-20 21:52:27.299] [info]  [21:52:27] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=22.96, y=37.00, z=-7.89] does not have attribute null
+[2024-06-20 21:52:29.071] [info]  [21:52:29] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=4.26, y=37.75, z=-10.01] does not have attribute null
+[2024-06-20 21:52:30.627] [info]  [21:52:30] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=1.38, y=37.00, z=7.92] does not have attribute null
+[2024-06-20 21:52:30.627] [info]  [21:52:30] [Render thread/WARN]: Entity RemotePlayer['WoZyLearning_'/592406, l='ClientLevel', x=-1.64, y=37.00, z=-3.75] does not have attribute null
+[2024-06-20 21:52:31.845] [info]  [21:52:31] [Render thread/WARN]: Entity RemotePlayer['WoZyLearning_'/592406, l='ClientLevel', x=-1.69, y=37.00, z=-4.33] does not have attribute null
+[2024-06-20 21:52:33.047] [info]  [21:52:33] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=2.76, y=37.00, z=26.50] does not have attribute null
+[2024-06-20 21:52:33.156] [info]  [21:52:33] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=21.03, y=38.02, z=-3.52] does not have attribute null
+[2024-06-20 21:52:34.893] [info]  [21:52:34] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛYou are not in combat anymore and allowed to quit.
+[2024-06-20 21:52:35.802] [info]  [21:52:35] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=16.51, y=37.00, z=-7.40] does not have attribute null
+[2024-06-20 21:52:36.598] [info]  [21:52:36] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=8.01, y=37.00, z=-16.01] does not have attribute null
+[2024-06-20 21:52:37.178] [info]  [21:52:37] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=0.88, y=38.17, z=22.34] does not have attribute null
+[2024-06-20 21:52:38.727] [info]  [21:52:38] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=19.33, y=37.00, z=-7.05] does not have attribute null
+[2024-06-20 21:52:38.895] [info]  [21:52:38] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=0.92, y=37.55, z=19.93] does not have attribute null
+[2024-06-20 21:52:39.646] [info]  [21:52:39] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=19.48, y=37.42, z=-6.64] does not have attribute null
+[2024-06-20 21:52:41.748] [info]  [21:52:41] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=19.18, y=37.99, z=-7.72] does not have attribute null
+[2024-06-20 21:52:42.049] [info]  [21:52:42] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=18.60, y=37.87, z=-6.78] does not have attribute null
+[2024-06-20 21:52:42.193] [info]  [21:52:42] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=2.20, y=37.00, z=-33.78] does not have attribute null
+[2024-06-20 21:52:43.039] [info]  [21:52:43] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=1.45, y=37.90, z=-34.57] does not have attribute null
+[2024-06-20 21:52:43.240] [info]  [21:52:43] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-7.90, y=37.50, z=11.36] does not have attribute null
+[2024-06-20 21:52:44.104] [info]  [21:52:44] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-0.84, y=37.00, z=26.19] does not have attribute null
+[2024-06-20 21:52:45.398] [info]  [21:52:45] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-4.80, y=37.00, z=-39.45] does not have attribute null
+[2024-06-20 21:52:45.691] [info]  [21:52:45] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-0.88, y=38.02, z=25.86] does not have attribute null
+[2024-06-20 21:52:46.245] [info]  [21:52:46] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-5.55, y=37.07, z=-39.21] does not have attribute null
+[2024-06-20 21:52:48.753] [info]  [21:52:48] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=9.60, y=37.02, z=-6.18] does not have attribute null
+[2024-06-20 21:52:49.200] [info]  [21:52:49] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/592825, l='ClientLevel', x=4.10, y=37.00, z=-1.11] does not have attribute null
+[2024-06-20 21:52:49.301] [info]  [21:52:49] [Render thread/WARN]: Entity RemotePlayer['HongShadow_'/581286, l='ClientLevel', x=-2.79, y=37.00, z=23.46] does not have attribute null
+[2024-06-20 21:52:49.493] [info]  [21:52:49] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-7.08, y=37.55, z=-39.68] does not have attribute null
+[2024-06-20 21:52:49.645] [info]  [21:52:49] [Render thread/WARN]: Entity RemotePlayer['WoZyLearning_'/592406, l='ClientLevel', x=15.35, y=37.50, z=-2.08] does not have attribute null
+[2024-06-20 21:52:49.847] [info]  [21:52:49] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-5.77, y=38.01, z=-39.86] does not have attribute null
+[2024-06-20 21:52:50.143] [info]  [21:52:50] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-2.46, y=37.83, z=18.12] does not have attribute null
+[2024-06-20 21:52:51.027] [info]  [21:52:51] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-3.54, y=37.00, z=17.50] does not have attribute null
+[2024-06-20 21:52:51.286] [info]  [21:52:51] [Render thread/WARN]: Entity RemotePlayer['Itzmehourr_'/592312, l='ClientLevel', x=-5.79, y=37.47, z=-39.98] does not have attribute null
+[2024-06-20 21:52:51.755] [info]  [21:52:51] [Render thread/WARN]: Entity RemotePlayer['WoZyLearning_'/592406, l='ClientLevel', x=16.50, y=37.00, z=-1.41] does not have attribute null
+[2024-06-20 21:52:51.772] [info]  [21:52:51] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/592825, l='ClientLevel', x=4.10, y=37.00, z=-1.11] does not have attribute null
+[2024-06-20 21:52:51.940] [info]  [21:52:51] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/592221, l='ClientLevel', x=-8.05, y=37.00, z=-26.19] does not have attribute null
+[2024-06-20 21:52:52.996] [info]  [21:52:52] [Render thread/WARN]: Entity RemotePlayer['WoZyLearning_'/592406, l='ClientLevel', x=16.36, y=37.00, z=0.26] does not have attribute null
+[2024-06-20 21:52:54.544] [info]  [21:52:54] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=7.73, y=37.00, z=-9.55] does not have attribute null
+[2024-06-20 21:52:57.024] [info]  [21:52:57] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛYou are now in combat with ItzMylt5_ so do not quit.
+[2024-06-20 21:52:57.098] [info]  [21:52:57] [Render thread/WARN]: Entity RemotePlayer['ItzMylt5_'/585851, l='ClientLevel', x=7.16, y=37.29, z=-10.13] does not have attribute null
+[2024-06-20 21:52:57.602] [info]  [21:52:57] [Render thread/WARN]: Entity RemotePlayer['MJ1111111'/589575, l='ClientLevel', x=8.12, y=37.66, z=-9.24] does not have attribute null
+[2024-06-20 21:52:59.254] [info]  [21:52:59] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-4.10, y=38.11, z=18.41] does not have attribute null
+[2024-06-20 21:53:00.000] [info]  [21:53:00] [Render thread/WARN]: Entity RemotePlayer['ANK_Boyza168'/592825, l='ClientLevel', x=3.36, y=37.00, z=-0.59] does not have attribute null
+[2024-06-20 21:53:01.713] [info]  [21:53:01] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-5.51, y=37.80, z=20.26] does not have attribute null
+[2024-06-20 21:53:04.014] [info]  [21:53:04] [Render thread/WARN]: Entity RemotePlayer['Jisus'/592307, l='ClientLevel', x=-6.32, y=37.80, z=20.87] does not have attribute null
+[2024-06-20 21:53:04.023] [info]  [21:53:04] [Render thread/WARN]: Entity RemotePlayer['ShiWoo'/584308, l='ClientLevel', x=-0.24, y=37.75, z=-39.31] does not have attribute null
+[2024-06-20 21:53:04.244] [info]  [21:53:04] [Render thread/INFO]: [voicechat] Clearing audio channels
+[2024-06-20 21:53:04.260] [info]  [21:53:04] [Render thread/INFO]: Stopping worker threads
+[2024-06-20 21:53:30.769] [info]  [21:53:30] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-06-20 21:53:44.120] [info]  [21:53:44] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-06-20 21:54:20.957] [info]  [21:54:20] [Render thread/INFO]: Stopping!
+[2024-06-20 21:54:20.957] [info]  [21:54:20] [WebSocketConnectReadThread-115/INFO]: [LC IPC] Connection closed (1000, "")

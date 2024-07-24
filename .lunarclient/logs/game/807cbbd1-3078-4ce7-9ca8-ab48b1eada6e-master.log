@@ -1,0 +1,17 @@
+[2024-02-10 23:57:42.273] [error] NOTE: Picked up JDK_JAVA_OPTIONS: -XX:+DisableAttachMechanism
+[2024-02-10 23:57:42.323] [error] Picked up JAVA_TOOL_OPTIONS: -XX:+DisableAttachMechanism
+[2024-02-10 23:57:42.331] [error] Picked up _JAVA_OPTIONS: -XX:+DisableAttachMechanism
+[2024-02-10 23:57:42.690] [info]  [23:57:42] [Genesis/main
+[2024-02-10 23:57:42.691] [info]  /INFO] Launching Minecraft 1.20.1 v1_20_1 (parsed from 1.20.1)
+[2024-02-10 23:57:42.699] [info]  [23:57:42] [Genesis/main/INFO] Found external file: Fabric-API-v1_20_1-0.90.7.jar
+[2024-02-10 23:57:42.700] [info]  
+[2024-02-10 23:57:42.701] [info]  [23:57:42] [Genesis/main/INFO] Found external file: ReplayMod-v1_20_1-2.6.14.jar
+[2024-02-10 23:57:42.703] [info]  [23:57:42] [Genesis/main/INFO] Found external file: FerriteCore-v1_20_1-6.0.0.jar
+[2024-02-10 23:57:42.704] [info]  [23:57:42] [Genesis/main/
+[2024-02-10 23:57:42.705] [info]  INFO] Found external file: Lithium-v1_20_1-0.11.2.jar
+[2024-02-10 23:57:42.706] [info]  [23:57:42] [Genesis/main/INFO] Found external file: Noxesium-v1_20_1-1.0.3.jar
+[2024-02-10 23:57:42.723] [info]  [23:57:42] [Genesis/main/INFO] Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+[2024-02-10 23:57:42.723] [info]  [23:57:42] [Genesis/main/INFO] Found external file: Sodium-v1_20_1-0.5.3.jar
+[2024-02-10 23:57:42.725] [info]  [23:57:42] [Genesis/main/INFO] Found external file: Indium-v1_20_1-1.0.27.jar
+[2024-02-10 23:57:42.726] [info]  [23:57:42] [Genesis/main/INFO] Found external file: Iris-v1_20_1-1.6.10.jar
+[2024-02-10 23:57:42.743] [info]  [23:57:42] [IchorPipeline/main/INFO] Creating pipeline for v1_20_1 with [ALL, PRE_INIT, PRE_FORGE_PATCH, FORGE_PATCH, POST_FORGE_PATCH, PRE_OPTIFINE_PATCH, OPTIFINE_PATCH, POST_OPTIFINE_PATCH, INIT, INITIAL_REMAP, EXTERNAL_REMAP, PRE_META_MIXIN, META_MIXIN, POST_META_MIXIN, PRE_MIXIN, MIXIN, POST_MIXIN, OBFUSCATION, FINAL]

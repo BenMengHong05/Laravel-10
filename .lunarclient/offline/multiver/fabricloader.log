@@ -1,0 +1,5 @@
+[22:18:40] [WARN] [FabricLoader/Resolution]: Warnings were found!
+ - Mod 'Dynamic FPS' (dynamic_fps) 3.4.3 recommends any version of quilt_loader, which is missing!
+	 - You should install any version of quilt_loader for the optimal experience.
+ - Mod 'Sodium Extra' (sodium-extra) 0.5.7+mc1.21 recommends version 1.4.2 or later of reeses-sodium-options, which is missing!
+	 - You should install version 1.4.2 or later of reeses-sodium-options for the optimal experience.

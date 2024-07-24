@@ -1,0 +1,879 @@
+[2024-06-16 00:54:46.831] [error] NOTE: Picked up JDK_JAVA_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-16 00:54:46.835] [error] Picked up JAVA_TOOL_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-16 00:54:46.836] [error] Picked up _JAVA_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-16 00:54:47.043] [info]  [00:54:47] [Genesis/main
+[2024-06-16 00:54:47.044] [info]  /INFO] Found external file: Fabric-API-v1_20_1-0.90.7.jar
+[2024-06-16 00:54:47.047] [info]  [00:54:47] [Genesis/main/INFO] 
+[2024-06-16 00:54:47.048] [info]  Found external file: FerriteCore-v1_20_1-6.0.0.jar
+[2024-06-16 00:54:47.049] [info]  [00:54:47] [Genesis/main/INFO] Found external file: Lithium-v1_20_1-0.11.2.jar
+[2024-06-16 00:54:47.049] [info]  [00:54:47] [Genesis/main/INFO] Found external file: Noxesium-v1_20_1-1.0.3.jar
+[2024-06-16 00:54:47.049] [info]  [00:54:47] [Genesis/main/INFO] Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+[2024-06-16 00:54:47.049] [info]  [00:54:47] [Genesis/main/INFO
+[2024-06-16 00:54:47.050] [info]  ] Found external file: ReplayMod-v1_20_1-2.6.14.jar
+[2024-06-16 00:54:47.050] [info]  [00:54:47] [Genesis/main/INFO] Found external file: Sodium-v1_20_1-0.5.8.jar
+[2024-06-16 00:54:47.050] [info]  [00:54:47] [Genesis/main/INFO] Found external file: Indium-v1_20_1-1.0.30.jar
+[2024-06-16 00:54:47.050] [info]  [00:54:47] [Genesis/main/INFO] Found external file: Iris-v1_20_1-1.6.17.jar
+[2024-06-16 00:54:47.100] [info]  [00:54:47] [Genesis/main/INFO] Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+[2024-06-16 00:54:47.101] [info]  [00:54:47] [Genesis/main/
+[2024-06-16 00:54:47.102] [info]  INFO] Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+[2024-06-16 00:54:47.113] [info]  [00:54:47] [Genesis/main
+[2024-06-16 00:54:47.114] [info]  /INFO] Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+[2024-06-16 00:54:47.114] [info]  [00:54:47] [Genesis/
+[2024-06-16 00:54:47.115] [info]  main/INFO] Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+[2024-06-16 00:54:47.115] [info]  [00:54:47] [Genesis/
+[2024-06-16 00:54:47.115] [info]  main/INFO] Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+[2024-06-16 00:54:47.151] [info]  [00:54:47] [Genesis/main/INFO] Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+[2024-06-16 00:54:47.163] [info]  [00:54:47] [Genesis/main/INFO] 
+[2024-06-16 00:54:47.164] [info]  Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+[2024-06-16 00:54:47.164] [info]  [00:54:47] [Genesis/main
+[2024-06-16 00:54:47.164] [info]  /INFO] Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+[2024-06-16 00:54:47.165] [info]  [00:54:47] [Genesis/
+[2024-06-16 00:54:47.165] [info]  main/INFO] Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+[2024-06-16 00:54:47.165] [info]  [00:54:47] [Genesis/main/INFO] 
+[2024-06-16 00:54:47.166] [info]  Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+[2024-06-16 00:54:47.166] [info]  [00:54:47] [Genesis/
+[2024-06-16 00:54:47.167] [info]  main/INFO] Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+[2024-06-16 00:54:47.169] [info]  [00:54:47] [Genesis/
+[2024-06-16 00:54:47.169] [info]  main/INFO] Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+[2024-06-16 00:54:47.859] [info]  [00:54:47] [Genesis/main/INFO] 
+[2024-06-16 00:54:47.859] [info]  Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+[2024-06-16 00:54:47.942] [info]  [00:54:47] [Genesis/GameBootstrap/main/INFO
+[2024-06-16 00:54:47.942] [info]  ] Launching Minecraft 1.20.1 v1_20_1 (parsed from 1.20.1)
+[2024-06-16 00:54:48.748] [info]  [00:54:48] [Ichor+Fabric
+[2024-06-16 00:54:48.749] [info]  /main/INFO] Using custom local mod path: C:\Users\Asus\.lunarclient\profiles\8fdc4e61-a22a-4396-aab4-41bb05637ff2\mods
+[2024-06-16 00:56:12.204] [info]  [00:56:12] [Genesis/GameBootstrap/main/INFO] Config hash: d46cd9e0  File hash: 17decfe3
+[2024-06-16 00:56:12.205] [info]  [00:56:12] [Genesis/Baker/main/INFO] Missing class cache: .\cache\d46cd9e0\17decfe3\bake.cache
+[2024-06-16 00:56:12.206] [info]  [00:56:12] [Genesis/Baker/main/INFO] Baking classes...
+[2024-06-16 00:56:12.206] [info]  
+[2024-06-16 00:56:12.206] [info]  LUNARCLIENT_STATUS_BUILD_CACHE
+[2024-06-16 00:56:12.214] [info]  [00:56:12] [IchorPipeline/main/INFO] Loading Mixin runtime for META_MIXIN
+[2024-06-16 00:56:12.493] [info]  [00:56:12] [IchorPipeline/main/INFO] Built mapping set for com.moonsworth.lunar.ichor.CRCIRCHCIOCCIHRCHCHOHICRI.RHOCIORRHROCOHOOCRHHRRHCI.IHCRIIIICOROROOCCIHHHHCRI.RHCRCHHICCCIIHIIIHIIRROOO 266ms on thread main
+[2024-06-16 00:56:13.530] [info]  [00:56:13] [Ichor/mixin(META_MIXIN)/INFO] SpongePowered MIXIN Subsystem Version=0.8.5 Source=Unknown Service=Ichor Env=CLIENT
+[2024-06-16 00:56:13.980] [info]  [
+[2024-06-16 00:56:13.981] [info]  00:56:13] [IchorPipeline
+[2024-06-16 00:56:13.982] [info]  /main/INFO] Loading Mixin runtime for MIXIN
+[2024-06-16 00:56:14.651] [info]  [00:56:14] [Ichor/mixin(MIXIN)/INFO] SpongePowered MIXIN Subsystem Version=0.8.5 Source=Unknown Service=Ichor Env=CLIENT
+[2024-06-16 00:56:15.185] [info]  [00:56:15] [IchorPipeline/main/INFO] Done loading Mixin runtimes in 2973ms
+[2024-06-16 00:56:15.185] [info]  [00:56:15] [IchorPipeline/main/INFO] Setting up mixins for META_MIXIN
+[2024-06-16 00:56:15.291] [info]  [00:56:15] [IchorPipeline/main/INFO] Setting up mixins for MIXIN
+[2024-06-16 00:56:15.291] [info]  [00:56:15] [Ichor/main/INFO] Mixin config mixins.modern.json doesn't exist in IchorClassLoader(MIXIN)
+[2024-06-16 00:56:15.292] [info]  [00:56:15] [Ichor/main/INFO] Mixin config mixins.modern_lunar.json doesn't exist in IchorClassLoader(MIXIN)
+[2024-06-16 00:56:15.552] [info]  [00:56:15] [IchorPipeline/main/INFO] Done registering Mixins in 368ms
+[2024-06-16 00:56:15.553] [info]  [00:56:15] [IchorPipeline/main/INFO] Going to default mixins stage for META_MIXIN
+[2024-06-16 00:56:16.861] [info]  [00:56:16] [IchorPipeline/main/INFO] Going to default mixins stage for MIXIN
+[2024-06-16 00:56:16.875] [info]  [00:56:16] [Ichor/MixinExtras|Service(META_MIXIN)/INFO] Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[2024-06-16 00:56:18.317] [info]  [00:56:18] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 1 override(s) found
+[2024-06-16 00:56:18.358] [info]  [00:56:18] [main/INFO]: Loaded configuration file for Sodium: 42 options available, 3 override(s) found
+[2024-06-16 00:56:23.604] [info]  [00:56:23] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/render/ChunkVisibility (checked [net.optifine.render.ChunkVisibility]).
+[2024-06-16 00:56:23.604] [info]  [00:56:23] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/optifine/render/ChunkVisibility (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/render/ChunkVisibility (checked [net.optifine.render.ChunkVisibility]).)
+[2024-06-16 00:56:23.605] [info]  [00:56:23] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for shadersmod/client/ShadersRender (checked [shadersmod.client.ShadersRender]).
+[2024-06-16 00:56:23.605] [info]  [00:56:23] [Ichor/mixin(MIXIN)/WARN] Error loading class: shadersmod/client/ShadersRender (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for shadersmod/client/ShadersRender (checked [shadersmod.client.ShadersRender]).)
+[2024-06-16 00:56:23.605] [info]  [00:56:23] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/shaders/ShadersRender (checked [net.optifine.shaders.ShadersRender]).
+[2024-06-16 00:56:23.606] [info]  [00:56:23] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/optifine/shaders/ShadersRender (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/shaders/ShadersRender (checked [net.optifine.shaders.ShadersRender]).)
+[2024-06-16 00:56:25.365] [info]  [00:56:25] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[2024-06-16 00:56:25.763] [info]  [00:56:25] [main/WARN]: Force-disabling mixin 'features.render.entity.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-06-16 00:56:25.764] [info]  [00:56:25] [main/WARN]: Force-disabling mixin 'features.render.entity.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-06-16 00:56:25.765] [info]  [00:56:25] [main/WARN]: Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-06-16 00:56:25.766] [info]  [00:56:25] [main/WARN]: Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-06-16 00:56:25.767] [info]  [00:56:25] [main/WARN]: Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [iris]) disables it and children
+[2024-06-16 00:56:25.781] [info]  [00:56:25] [main/WARN]: Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[2024-06-16 00:56:25.782] [info]  [00:56:25] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[2024-06-16 00:56:25.783] [info]  [00:56:25] [main/WARN]: Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[2024-06-16 00:56:26.091] [info]  [00:56:26] [IchorPipeline/main/INFO] Mixin runtimes prepared in 10538ms
+[2024-06-16 00:56:26.092] [info]  [00:56:26] [IchorPipeline/main/INFO] Initialized Mixin in 13879ms
+[2024-06-16 00:56:26.295] [info]  [00:56:26] [Genesis/Baker/main/INFO] Found 18041 classes to bake.
+[2024-06-16 00:56:26.298] [info]  LUNARCLIENT_STATUS_PREINIT
+[2024-06-16 00:56:26.299] [info]  [00:56:26] [Genesis/GameBootstrap/main/INFO] Starting game!
+[2024-06-16 00:56:26.303] [info]  [00:56:26] [Ichor/MixinExtras|Service(MIXIN)/INFO] Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[2024-06-16 00:56:28.655] [info]  [Bridge] Setting Bridge Implementation to com.moonsworth.lunar.IIIICORICOICIRRHCHIIHROIC.IOCOHCCRCOHRICRRHOOICHIHO
+[2024-06-16 00:56:29.585] [info]  [00:56:29] [Ichor/mixin(MIXIN)/WARN] Method overwrite conflict for bridge$isFancyGraphics in mixins.modern_bridge_combined.json:HHRIIHHROCICOCHRCICRIOHRH.CCIIHHRHCCHRRHROOHIOCHOCC.CRCIRCHCIOCCIHRCHCHOHICRI from mod (unknown), previously written by com.moonsworth.lunar.IIIICORICOICIRRHCHIIHROIC.CRCIRCHCIOCCIHRCHCHOHICRI.HHRIIHHROCICOCHRCICRIOHRH.CCIIHHRHCCHRRHROOHIOCHOCC.IOCOHCCRCOHRICRRHOOICHIHO. Skipping method.
+[2024-06-16 00:56:29.586] [info]  [00:56:29] [Ichor/mixin(MIXIN)/WARN] Method overwrite conflict for bridge$setFrameRateLimit in mixins.modern_bridge_combined.json:HHRIIHHROCICOCHRCICRIOHRH.CCIIHHRHCCHRRHROOHIOCHOCC.CRCIRCHCIOCCIHRCHCHOHICRI from mod (unknown), previously written by com.moonsworth.lunar.IIIICORICOICIRRHCHIIHROIC.CRCIRCHCIOCCIHRCHCHOHICRI.HHRIIHHROCICOCHRCICRIOHRH.CCIIHHRHCCHRRHROOHIOCHOCC.IOCOHCCRCOHRICRRHOOICHIHO. Skipping method.
+[2024-06-16 00:56:33.279] [info]  [Bridge] Found textures dir: C:\Users\Asus\.lunarclient\textures
+[2024-06-16 00:56:33.297] [info]  Completely ignored arguments: [--workingDirectory, ., --webosrDir, C:\Users\Asus\.lunarclient\offline\multiver\natives, --classpathDir, ., --ichorExternalFiles, Fabric-API-v1_20_1-0.90.7.jar,FerriteCore-v1_20_1-6.0.0.jar,Lithium-v1_20_1-0.11.2.jar,Noxesium-v1_20_1-1.0.3.jar,Noxesium_API-v1_20_1-1.0.3.jar,ReplayMod-v1_20_1-2.6.14.jar,Sodium-v1_20_1-0.5.8.jar,Indium-v1_20_1-1.0.30.jar,Iris-v1_20_1-1.6.17.jar, --ichorClassPath, common-0.1.0-SNAPSHOT-all.jar,lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar,genesis-0.1.0-SNAPSHOT-all.jar,lunar-lang.jar,lunar-emote.jar,lunar.jar,modern-0.1.0-SNAPSHOT-all.jar,lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar,lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar,lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar,lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar,lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar, --uiDir, C:\Users\Asus\.lunarclient\ui]
+[2024-06-16 00:56:35.837] [info]  [00:56:35] [Genesis/Baker/pool-4-thread-13/INFO] Baked 26722 classes in 23629ms.
+[2024-06-16 00:56:37.937] [info]  [00:56:37] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 99 milliseconds
+[2024-06-16 00:56:38.946] [info]  [00:56:38] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[2024-06-16 00:56:39.537] [info]  [00:56:39] [Render thread/ERROR]: Failed to verify authentication
+[2024-06-16 00:56:39.538] [info]  com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
+[2024-06-16 00:56:39.538] [info]  	at Genesis/com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:56) ~[?:?]
+[2024-06-16 00:56:39.539] [info]  	at Genesis/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:156) ~[?:?]
+[2024-06-16 00:56:39.539] [info]  	at Genesis/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.<init>(YggdrasilUserApiService.java:55) ~[?:?]
+[2024-06-16 00:56:39.539] [info]  	at Genesis/com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.createUserApiService(YggdrasilAuthenticationService.java:124) ~[?:?]
+[2024-06-16 00:56:39.539] [info]  	at Genesis/net.minecraft.client.Minecraft.createUserApiService(SourceFile:733) [?:?]
+[2024-06-16 00:56:39.540] [info]  	at Genesis/net.minecraft.client.Minecraft.<init>(SourceFile:442) [?:?]
+[2024-06-16 00:56:39.540] [info]  	at Genesis/net.minecraft.client.main.Main.redirect$zbd000$impl$main$minecraft(SourceFile:656) [?:?]
+[2024-06-16 00:56:39.540] [info]  	at Genesis/net.minecraft.client.main.Main.main(SourceFile:211) [?:?]
+[2024-06-16 00:56:39.541] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+[2024-06-16 00:56:39.541] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+[2024-06-16 00:56:39.541] [info]  	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-16 00:56:39.541] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+[2024-06-16 00:56:39.542] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+[2024-06-16 00:56:39.542] [info]  	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-16 00:56:39.542] [info]  	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-16 00:56:39.543] [info]  	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-16 00:56:39.543] [info]  Caused by: com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 401
+[2024-06-16 00:56:39.543] [info]  	at Genesis/com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:85) ~[?:?]
+[2024-06-16 00:56:39.544] [info]  	at Genesis/com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48) ~[?:?]
+[2024-06-16 00:56:39.544] [info]  	at Genesis/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:129) ~[?:?]
+[2024-06-16 00:56:39.544] [info]  	... 14 more
+[2024-06-16 00:56:39.545] [info]  [00:56:39] [Render thread/INFO]: Setting user: Player410
+[2024-06-16 00:56:39.545] [info]  [00:56:39] [IchorPipeline/Render thread/INFO] Launching main ModInitializer
+[2024-06-16 00:56:39.545] [info]  [00:56:39] [IchorPipeline/Render thread/INFO] Launching Entrypoint(main) in Genesis
+[2024-06-16 00:56:39.546] [info]  [00:56:39] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.loot.table.LootTablesV1Init
+[2024-06-16 00:56:39.547] [info]  [00:56:39] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.recipe.ingredient.CustomIngredientInit
+[2024-06-16 00:56:39.549] [info]  [00:56:39] [Ichor
+[2024-06-16 00:56:39.550] [info]  /Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.recipe.ingredient.CustomIngredientSync
+[2024-06-16 00:56:39.555] [info]  [00:56:39] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.command.v1.LegacyHandler
+[2024-06-16 00:56:39.556] [info]  [00:56:39] [Ichor/Render thread/INFO] Found Entrypoint(main) me.jellysquid.mods.lithium.common.LithiumMod
+[2024-06-16 00:56:39.583] [info]  [00:56:39] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.networking.NetworkingImpl::init()
+[2024-06-16 00:56:39.584] [info]  [00:56:39] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.event.lifecycle.LifecycleEventsImpl
+[2024-06-16 00:56:39.586] [info]  [00:56:39] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.registry.sync.FabricRegistryInit
+[2024-06-16 00:56:39.588] [info]  [00:56:39] [Ichor
+[2024-06-16 00:56:39.588] [info]  /Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.networking.v0.OldNetworkingHooks
+[2024-06-16 00:56:39.590] [info]  [00:56:39] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.event.interaction.InteractionEventsRouter
+[2024-06-16 00:56:39.593] [info]  [00:56:39] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.lookup.ApiLookupImpl
+[2024-06-16 00:56:39.596] [info]  [00:56:39] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.event.lifecycle.v0.LegacyEventInvokers
+[2024-06-16 00:56:39.598] [info]  [00:56:39] [IchorPipeline/Render thread/INFO] Entrypoint(main) had 11 invokes.
+[2024-06-16 00:56:39.598] [info]  [00:56:39] [IchorPipeline/Render thread/INFO] Launching client ClientModInitializer
+[2024-06-16 00:56:39.599] [info]  [00:56:39] [IchorPipeline/Render thread/INFO] Launching Entrypoint(client) in Genesis
+[2024-06-16 00:56:39.599] [info]  [00:56:39] [Ichor/Render thread/INFO] Found Entrypoint(client) me.jellysquid.mods.sodium.client.SodiumClientMod
+[2024-06-16 00:56:39.616] [info]  [00:56:39] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.recipe.ingredient.client.CustomIngredientSyncClient
+[2024-06-16 00:56:39.617] [info]  [00:56:39] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.client.container.ScreenProviderRegistryImpl::init()
+[2024-06-16 00:56:39.622] [info]  [00:56:39] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.client.event.lifecycle.ClientLifecycleEventsImpl
+[2024-06-16 00:56:39.624] [info]  [00:56:39] [Ichor/Render thread/INFO] Found Entrypoint(client) link.infra.indium.Indium
+[2024-06-16 00:56:39.667] [info]  [00:56:39] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.client.registry.sync.FabricRegistryClientInit
+[2024-06-16 00:56:39.668] [info]  [00:56:39] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.client.networking.v0.OldClientNetworkingHooks
+[2024-06-16 00:56:39.670] [info]  [00:56:39] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.client.rendering.v0.RenderingCallbackInvoker
+[2024-06-16 00:56:39.670] [info]  [00:56:39] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.networking.client.ClientNetworkingImpl::clientInit()
+[2024-06-16 00:56:39.673] [info]  [00:56:39] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.client.indigo.Indigo
+[2024-06-16 00:56:39.676] [info]  [00:56:39] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[2024-06-16 00:56:39.677] [info]  [00:56:39] [Ichor/Render thread/INFO] Found Entrypoint(client) com.replaymod.core.ReplayModBackend
+[2024-06-16 00:56:39.719] [info]  [00:56:39] [Render thread/INFO]: [STDOUT]: ReplayModBackendMixin_v1_19.onInitializeClient: initializing ReplayMod
+[2024-06-16 00:56:39.735] [info]  [00:56:39] [Ichor/Render thread/INFO] Found Entrypoint(client) com.noxcrew.noxesium.NoxesiumMod
+[2024-06-16 00:56:39.744] [info]  [00:56:39] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.event.interaction.InteractionEventsRouterClient
+[2024-06-16 00:56:39.745] [info]  [00:56:39] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.event.lifecycle.v0.client.LegacyClientEventInvokers
+[2024-06-16 00:56:39.746] [info]  [00:56:39] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.screenhandler.client.ClientNetworking
+[2024-06-16 00:56:39.747] [info]  [00:56:39] [IchorPipeline/Render thread/INFO] Entrypoint(client) had 13 invokes.
+[2024-06-16 00:56:39.790] [info]  [00:56:39] [Render thread/INFO]: [LC] Loaded File: Options
+[2024-06-16 00:56:39.940] [info]  [00:56:39] [Render thread/INFO]: Backend library: LWJGL version 3.3.3-snapshot
+[2024-06-16 00:56:40.337] [info]  [00:56:40] [Render thread/INFO]: OpenGL Vendor: ATI Technologies Inc.
+[2024-06-16 00:56:40.338] [info]  [00:56:40] [Render thread/INFO]: OpenGL Renderer: AMD Radeon(TM) Graphics
+[2024-06-16 00:56:40.338] [info]  [00:56:40] [Render thread/INFO]: OpenGL Version: 3.2.0 Core Profile Context 22.20.28.09.221101
+[2024-06-16 00:56:40.391] [info]  [00:56:40] [Render thread/INFO]: [STDOUT]: LUNARCLIENT_STATUS_INIT
+[2024-06-16 00:56:40.489] [info]  [00:56:40] [Render thread/INFO]: Debug functionality is disabled.
+[2024-06-16 00:56:40.491] [info]  [00:56:40] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[2024-06-16 00:56:40.494] [info]  [00:56:40] [Render thread/INFO]: Shaders are disabled because no valid shaderpack is selected
+[2024-06-16 00:56:40.495] [info]  [00:56:40] [Render thread/INFO]: Shaders are disabled
+[2024-06-16 00:56:40.521] [info]  [00:56:40] [Render thread/WARN]: Missing metadata in pack file/Cold.zip
+[2024-06-16 00:56:40.522] [info]  [00:56:40] [Render thread/WARN]: Missing metadata in pack file/§bSharpness 25k.zip
+[2024-06-16 00:56:40.522] [info]  [00:56:40] [Render thread/WARN]: Missing metadata in pack file/§c§ GlitchCPVP pack.zip
+[2024-06-16 00:56:40.626] [info]  [00:56:40] [Render thread/INFO]: Hardware information:
+[2024-06-16 00:56:40.627] [info]  [00:56:40] [Render thread/INFO]: CPU: 16x AMD Ryzen 7 6800HS with Radeon Graphics 
+[2024-06-16 00:56:40.627] [info]  [00:56:40] [Render thread/INFO]: GPU: AMD Radeon(TM) Graphics (Supports OpenGL 3.2.0 Core Profile Context 22.20.28.09.221101)
+[2024-06-16 00:56:40.627] [info]  [00:56:40] [Render thread/INFO]: OS: Windows 11 (10.0)
+[2024-06-16 00:56:40.804] [info]  [00:56:40] [Render thread/INFO]: Reloading ResourceManager: lunar, vanilla, fabric (fabric-renderer-api-v1, fabric-keybindings-v0, fabric-transfer-api-v1, fabric-mining-level-api-v1, fabric-containers-v0, lithium, fabric-dimensions-v1, fabric-object-builder-api-v1, fabric-game-rule-api-v1, fabric-api-base, fabric-resource-conditions-api-v1, fabric-sound-api-v1, fabric-model-loading-api-v1, fabric-rendering-data-attachment-v1, iris, fabric-rendering-fluids-v1, fabric-blockrenderlayer-v1, fabric-lifecycle-events-v1, sodium, fabric-renderer-registries-v1, fabric-loot-tables-v1, fabric-particles-v1, fabric-data-generation-api-v1, fabric-networking-v0, fabric-api-lookup-api-v1, fabric-screen-handler-api-v1, noxesium, fabric-command-api-v2, fabric-block-api-v1, fabric-command-api-v1, fabric-screen-api-v1, fabric-renderer-indigo, fabric-api, fabric-crash-report-info-v1, fabric-events-interaction-v0, fabric-item-api-v1, fabric-convention-tags-v1, fabric-item-group-api-v1, fabric-recipe-api-v1, fabric-entity-events-v1, fabric-rendering-v0, fabric-key-binding-api-v1, fabric-rendering-v1, replaymod, fabric-resource-loader-v0, fabric-content-registries-v0, fabric-block-view-api-v2, indium, fabric-biome-api-v1, fabric-client-tags-api-v1, fabric-loot-api-v2, fabric-commands-v0, fabric-message-api-v1, fabric-registry-sync-v0, fabric-transitive-access-wideners-v1, fabric-networking-api-v1, fabric-events-lifecycle-v0, fabric-models-v0), file/3-_DonutCrystal.zip, replaymod_lang
+[2024-06-16 00:56:40.987] [info]  [00:56:40] [Worker-Main-11/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[2024-06-16 00:56:41.100] [info]  [00:56:41] [Render thread/INFO]: [STDOUT]: [Bridge] Setting Minecraft Client instance to net.minecraft.client.Minecraft
+[2024-06-16 00:56:41.868] [info]  [00:56:41] [Ichor/Render thread/INFO] Creating MultiBridgeModern instance: CRCIRCHCIOCCIHRCHCHOHICRI
+[2024-06-16 00:56:41.923] [info]  [00:56:41] [Render thread/INFO]: [LC] Starting Lunar client...
+[2024-06-16 00:56:42.370] [info]  [00:56:42] [Render thread/INFO]: [LC] Loading RCOIIRRHOORIOROOROICRHHOR...
+[2024-06-16 00:56:42.374] [info]  [00:56:42] [Render thread/INFO]: [LC] Loading CIOCCOCHORHIOCCRHOROCHORC...
+[2024-06-16 00:56:42.756] [info]  [00:56:42] [Render thread/INFO]: [LC] Loading IOCOHCCRCOHRICRRHOOICHIHO...
+[2024-06-16 00:56:42.756] [info]  [00:56:42] [Render thread/INFO]: [LC] Loading HCCRHOOCOROIOOIIRIIIRCHOC...
+[2024-06-16 00:56:42.758] [info]  [00:56:42] [Render thread/INFO]: [LC Lang] Couldn't get a valid language so we're setting it to ENGLISH.
+[2024-06-16 00:56:42.759] [info]  [00:56:42] [Render thread/INFO]: [LC Lang] Language set as ENGLISH (en_US).
+[2024-06-16 00:56:42.759] [info]  [00:56:42] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-16 00:56:42.762] [info]  [00:56:42] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-16 00:56:42.787] [info]  [00:56:42] [Render thread/INFO]: [LC] Loading ORIIIRHHROIRHOCOOOIOORIOC...
+[2024-06-16 00:56:42.860] [info]  [00:56:42] [Render thread/INFO]: [LC] Loading ROCROOOIIOIRHIIRRCRRHRICO...
+[2024-06-16 00:56:43.630] [info]  [00:56:43] [Render thread/INFO]: [LC] Loading OCIOHHHRIHOIHCRHICIIRCIIR...
+[2024-06-16 00:56:43.634] [info]  [00:56:43] [Render thread/INFO]: [LC] Loading RHCRCHHICCCIIHIIIHIIRROOO...
+[2024-06-16 00:56:43.636] [info]  [00:56:43] [Render thread/INFO]: [LC] Loading CRCIRCHCIOCCIHRCHCHOHICRI...
+[2024-06-16 00:56:43.640] [info]  [00:56:43] [Render thread/INFO]: [LC] Loading HHRIIHHROCICOCHRCICRIOHRH...
+[2024-06-16 00:56:43.646] [info]  [00:56:43] [Render thread/INFO]: [LC] Loading IHCRIIIICOROROOCCIHHHHCRI...
+[2024-06-16 00:56:43.650] [info]  [00:56:43] [Render thread/INFO]: [LC] Loading IOCOHCCRCOHRICRRHOOICHIHO...
+[2024-06-16 00:56:43.653] [info]  [00:56:43] [Render thread/INFO]: [LC] Loading ICHIRCHRHOCCOHHORCHICRHOI...
+[2024-06-16 00:56:43.654] [info]  [00:56:43] [Render thread/INFO]: [LC] Loading CCOCCHORCHCOCCROCHOIOICOI...
+[2024-06-16 00:56:43.654] [info]  [00:56:43] [Render thread/INFO]: [LC] Loading CCIIHHRHCCHRRHROOHIOCHOCC...
+[2024-06-16 00:56:43.655] [info]  [00:56:43] [Render thread/INFO]: [LC] Loading OHHHOIOOOOIOCHRICROCCHCIH...
+[2024-06-16 00:56:43.655] [info]  [00:56:43] [Render thread/INFO]: [LC] Loading IIOOIICCICOCHCIIHOHRCHICO...
+[2024-06-16 00:56:43.665] [info]  [00:56:43] [Render thread/INFO]: [LC] Loading IIIICORICOICIRRHCHIIHROIC...
+[2024-06-16 00:56:43.720] [info]  [00:56:43] [Render thread/WARN]: [LC] Couldn't find dev cosmetics file: cosmetics/dev_cosmetics.json
+[2024-06-16 00:56:43.861] [info]  [00:56:43] [Render thread/INFO]: [LC] Loading OCRCIRRIRCHCHIORHOHICRRIC...
+[2024-06-16 00:56:43.862] [info]  [00:56:43] [Render thread/INFO]: [LC] Loading CORORICIOIOHIICRIHIRIORCC...
+[2024-06-16 00:56:43.869] [info]  [00:56:43] [Render thread/INFO]: [LC] Loading IRHIIORRHIIOOIICRHCOCOIRO...
+[2024-06-16 00:56:43.870] [info]  [00:56:43] [Render thread/INFO]: [LC] Loading CRCIRCHCIOCCIHRCHCHOHICRI...
+[2024-06-16 00:56:43.871] [info]  [00:56:43] [Render thread/INFO]: [LC] Loading IOCOHCCRCOHRICRRHOOICHIHO...
+[2024-06-16 00:56:43.872] [info]  [00:56:43] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[2024-06-16 00:56:43.930] [info]  [00:56:43] [Render thread/INFO]: [LC] Finished making managers.
+[2024-06-16 00:56:43.931] [info]  [00:56:43] [Render thread/INFO]: [LC] Setting up listeners...
+[2024-06-16 00:56:43.953] [info]  [00:56:43] [Render thread/INFO]: [LC] Setting up fixes...
+[2024-06-16 00:56:43.976] [info]  [00:56:43] [WebSocketConnectReadThread-125/INFO]: [LC IPC] Connection established
+[2024-06-16 00:56:44.700] [info]  [00:56:44] [Render thread/ERROR]: [LC ThirdParty] Couldn't load third party mods
+[2024-06-16 00:56:44.701] [info]  [00:56:44] [Render thread/INFO]: [LC Lang] Language set as ENGLISH (en_US).
+[2024-06-16 00:56:44.701] [info]  [00:56:44] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-16 00:56:44.703] [info]  [00:56:44] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-16 00:56:44.715] [info]  [00:56:44] [Render thread/INFO]: [LC Ichor] Disabling NEU because there is no valid link.
+[2024-06-16 00:56:44.716] [info]  [00:56:44] [Render thread/INFO]: [LC Ichor] Disabling SBA because there is no valid link.
+[2024-06-16 00:56:44.716] [info]  [00:56:44] [Render thread/INFO]: [LC] Lunar.start
+[2024-06-16 00:56:44.722] [info]  [00:56:44] [Render thread/INFO]: [LC Accounts] Attempting to load account [04f44ced712a4c3a9fdd0c02a755b9db]
+[2024-06-16 00:56:44.725] [info]  [00:56:44] [Render thread/INFO]: [LC Accounts] Loaded content for [MengHong001] Token IAT
+[2024-06-16 00:56:44.726] [info]  [00:56:44] [Render thread/INFO]: [LC Accounts] Setting currentAccount to what was on disk: MengHong001
+[2024-06-16 00:56:44.726] [info]  [00:56:44] [Render thread/INFO]: [LC Accounts] Setting account 'MengHong001' as the current session.
+[2024-06-16 00:56:44.726] [info]  [00:56:44] [Render thread/INFO]: [LC] Setting user: MengHong001
+[2024-06-16 00:56:44.728] [info]  [00:56:44] [Thread-10/INFO]: [LC Assets] Establishing connection
+[2024-06-16 00:56:44.728] [info]  [00:56:44] [Thread-10/INFO]: [LC Assets] Connecting to Authenticator to obtain JWT, no previous connection.
+[2024-06-16 00:56:44.751] [info]  [00:56:44] [Thread-10/INFO]: [LC Authentication] Instantiate
+[2024-06-16 00:56:45.015] [info]  [00:56:45] [WebSocketConnectReadThread-129/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[2024-06-16 00:56:45.956] [info]  [00:56:45] [Render thread/INFO]: [LC Accounts] Removed all accounts [0 count]
+[2024-06-16 00:56:45.957] [info]  [00:56:45] [Render thread/INFO]: [LC Accounts] Starting Refreshing MengHong001 with 84153043ms till expired (Valid: true).
+[2024-06-16 00:56:45.958] [info]  [00:56:45] [Render thread/INFO]: [LC Accounts] Refreshing MengHong001 (Valid: true).
+[2024-06-16 00:56:46.841] [info]  [00:56:46] [Render thread/INFO]: [LC Lang] Language set as ENGLISH (en_US).
+[2024-06-16 00:56:46.841] [info]  [00:56:46] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-16 00:56:46.843] [info]  [00:56:46] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-16 00:56:46.880] [info]  [00:56:46] [WebSocketConnectReadThread-129/INFO]: [LC Assets] Instantiate
+[2024-06-16 00:56:46.911] [info]  [00:56:46] [WebSocketConnectReadThread-129/INFO]: [LC Auth] Connection closed (1000, "Issued.")
+[2024-06-16 00:56:46.972] [info]  [00:56:46] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-06-16 00:56:46.972] [info]  [00:56:46] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-06-16 00:56:46.973] [info]  [00:56:46] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-06-16 00:56:46.973] [info]  [00:56:46] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-06-16 00:56:46.973] [info]  [00:56:46] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-06-16 00:56:46.973] [info]  [00:56:46] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-06-16 00:56:47.053] [info]  [00:56:47] [Render thread/ERROR]: [LC Cosmetics] Could not load the model at lunar:cosmetics/models/bodywear/katanasheathed/katanasheathed.obj for cosmetic katanasheathed since it does not exist
+[2024-06-16 00:56:48.233] [info]  [00:56:48] [WebSocketConnectReadThread-143/INFO]: [LC Assets] Connection established as MengHong001
+[2024-06-16 00:56:48.552] [info]  [00:56:48] [Render thread/WARN]: [LC] Couldn't find geckolib cosmetic file: lunar:cosmetics/models/gek/wings/bat_wings/bat_wings.gek.json
+[2024-06-16 00:56:48.616] [info]  [00:56:48] [Render thread/WARN]: [LC] Couldn't find geckolib cosmetic file: lunar:cosmetics/models/gek/pets/general/lundam/textures/teal.gek.json
+[2024-06-16 00:56:48.617] [info]  [00:56:48] [Render thread/WARN]: [LC] Couldn't find geckolib cosmetic file: lunar:cosmetics/models/gek/pets/general/lundam/textures/orange.gek.json
+[2024-06-16 00:56:48.664] [info]  [00:56:48] [Render thread/INFO]: [LC] Loaded geckolib cosmetics.
+[2024-06-16 00:56:48.665] [info]  [00:56:48] [Render thread/INFO]: [LC] Loading cosmetic compatibility json
+[2024-06-16 00:56:48.708] [info]  [00:56:48] [Render thread/INFO]: [LC] Compiled cosmetic compatability presets
+[2024-06-16 00:56:48.720] [info]  [00:56:48] [Render thread/INFO]: [LC] Launching
+[2024-06-16 00:56:48.721] [info]  [00:56:48] [Render thread/INFO]: [LC] Finished Lunar initialization.
+[2024-06-16 00:56:48.722] [info]  [00:56:48] [Render thread/INFO]: [LC] LUNARCLIENT_STATUS_STARTED
+[2024-06-16 00:56:49.156] [info]  [00:56:49] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[2024-06-16 00:56:49.157] [info]  [00:56:49] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[2024-06-16 00:56:49.332] [info]  [00:56:49] [ForkJoinPool.commonPool-worker-2/INFO]: [LC Accounts] Finished refreshing MengHong001 (Valid: true).
+[2024-06-16 00:56:49.333] [info]  [00:56:49] [ForkJoinPool.commonPool-worker-2/INFO]: [LC Accounts] Finished refreshing the current account. 0 accounts left.
+[2024-06-16 00:56:49.333] [info]  [00:56:49] [ForkJoinPool.commonPool-worker-2/INFO]: [LC Accounts] Logging into account MengHong001 
+[2024-06-16 00:56:49.333] [info]  [00:56:49] [ForkJoinPool.commonPool-worker-2/INFO]: [LC Accounts] Setting account 'MengHong001' as the current session.
+[2024-06-16 00:56:49.334] [info]  [00:56:49] [ForkJoinPool.commonPool-worker-2/INFO]: [LC] Setting user: MengHong001
+[2024-06-16 00:56:49.436] [info]  [00:56:49] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[2024-06-16 00:56:49.437] [info]  [00:56:49] [Render thread/INFO]: Sound engine started
+[2024-06-16 00:56:49.527] [info]  [00:56:49] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[2024-06-16 00:56:49.534] [info]  [00:56:49] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[2024-06-16 00:56:49.535] [info]  [00:56:49] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[2024-06-16 00:56:49.536] [info]  [00:56:49] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[2024-06-16 00:56:49.536] [info]  [00:56:49] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[2024-06-16 00:56:49.543] [info]  [00:56:49] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[2024-06-16 00:56:49.544] [info]  [00:56:49] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[2024-06-16 00:56:49.545] [info]  [00:56:49] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[2024-06-16 00:56:49.546] [info]  [00:56:49] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[2024-06-16 00:56:49.704] [info]  [00:56:49] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[2024-06-16 00:56:49.776] [info]  [00:56:49] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[2024-06-16 00:56:49.777] [info]  [00:56:49] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[2024-06-16 00:56:49.778] [info]  [00:56:49] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[2024-06-16 00:57:00.986] [info]  [00:57:00] [Render thread/INFO]: Flushed changes to Minecraft configuration
+[2024-06-16 00:57:12.394] [info]  [00:57:12] [Render thread/INFO]: Flushed changes to Minecraft configuration
+[2024-06-16 00:57:15.047] [info]  [00:57:15] [Render thread/INFO]: Flushed changes to Minecraft configuration
+[2024-06-16 00:57:18.169] [info]  [00:57:18] [Render thread/INFO]: Flushed changes to Minecraft configuration
+[2024-06-16 00:57:36.953] [info]  [00:57:36] [Render thread/INFO]: Connecting to dobii.lol, 25565
+[2024-06-16 00:57:38.372] [error] Jun 16, 2024 12:57:38 AM com.replaymod.replaystudio.lib.viaversion.protocols.protocol1_13to1_12_2.blockconnections.ConnectionData init
+[2024-06-16 00:57:38.373] [error] INFO: Loading block connection mappings ...
+[2024-06-16 00:57:38.474] [error] Jun 16, 2024 12:57:38 AM com.replaymod.replaystudio.lib.viaversion.protocols.protocol1_13to1_12_2.storage.BlockConnectionStorage <clinit>
+[2024-06-16 00:57:38.474] [error] INFO: Using FastUtil Long2ObjectOpenHashMap for block connections
+[2024-06-16 00:57:38.799] [info]  [00:57:38] [Render thread/INFO]: Reloading pipeline on dimension change: null => NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-16 00:57:38.800] [info]  [00:57:38] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-16 00:57:38.881] [info]  [00:57:38] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 00:57:38.947] [info]  [00:57:38] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 00:57:38.968] [info]  [00:57:38] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 00:57:39.221] [info]  [00:57:39] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 00:57:39.249] [info]  [00:57:39] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 00:57:39.260] [info]  [00:57:39] [Render thread/INFO]: [System] [CHAT] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 
+[2024-06-16 00:57:39.425] [info]  [00:57:39] [Render thread/INFO]: [System] [CHAT] MengHong001 joined the game
+[2024-06-16 00:57:39.446] [info]  [00:57:39] [Render thread/INFO]: [System] [CHAT] Use the command /login <password>.
+[2024-06-16 00:57:39.460] [info]  [00:57:39] [Render thread/INFO]: Loaded 14 advancements
+[2024-06-16 00:57:39.551] [info]  [00:57:39] [Render thread/WARN]: Unknown custom packed identifier: worldedit:cui
+[2024-06-16 00:57:44.546] [info]  [00:57:44] [Render thread/INFO]: [System] [CHAT] You have successfully logged.
+[2024-06-16 00:57:44.546] [info]  [00:57:44] [Render thread/WARN]: Unknown custom packed identifier: nlogin:addon
+[2024-06-16 00:57:49.700] [info]  [00:57:49] [Render thread/INFO]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='overworld'} => NamespacedId{namespace='minecraft', name='nffa'}
+[2024-06-16 00:57:49.701] [info]  [00:57:49] [Render thread/INFO]: Destroying pipeline NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-16 00:57:49.701] [info]  [00:57:49] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='nffa'}
+[2024-06-16 00:57:49.702] [info]  [00:57:49] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 00:57:49.706] [info]  [00:57:49] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 00:57:49.712] [info]  [00:57:49] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 00:57:49.715] [info]  [00:57:49] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 00:57:49.719] [info]  [00:57:49] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 00:57:49.722] [info]  [00:57:49] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 00:57:49.728] [info]  [00:57:49] [Render thread/INFO]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='nffa'} => NamespacedId{namespace='minecraft', name='nffa'}
+[2024-06-16 00:57:49.729] [info]  [00:57:49] [Render thread/INFO]: Destroying pipeline NamespacedId{namespace='minecraft', name='nffa'}
+[2024-06-16 00:57:49.729] [info]  [00:57:49] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='nffa'}
+[2024-06-16 00:57:49.729] [info]  [00:57:49] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 00:57:49.732] [info]  [00:57:49] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 00:57:49.733] [info]  [00:57:49] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 00:57:49.736] [info]  [00:57:49] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 00:57:49.737] [info]  [00:57:49] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 00:57:49.740] [info]  [00:57:49] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 00:57:50.018] [info]  [00:57:50] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 00:57:50.021] [info]  [00:57:50] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 00:57:50.063] [info]  [00:57:50] [Render thread/INFO]: [System] [CHAT] MengHong001 joined the game
+[2024-06-16 00:57:50.068] [info]  [00:57:50] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=3.95, y=37.00, z=-11.96] does not have attribute null
+[2024-06-16 00:57:50.068] [info]  [00:57:50] [Render thread/INFO]: Loaded 59 advancements
+[2024-06-16 00:57:50.073] [info]  [00:57:50] [Render thread/WARN]: Unknown custom packed identifier: worldedit:cui
+[2024-06-16 00:57:50.680] [info]  [00:57:50] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=3.95, y=37.00, z=-11.96] does not have attribute null
+[2024-06-16 00:57:50.688] [info]  [00:57:50] [Render thread/INFO]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='nffa'} => NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-16 00:57:50.688] [info]  [00:57:50] [Render thread/INFO]: Destroying pipeline NamespacedId{namespace='minecraft', name='nffa'}
+[2024-06-16 00:57:50.689] [info]  [00:57:50] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-16 00:57:50.689] [info]  [00:57:50] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 00:57:50.692] [info]  [00:57:50] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 00:57:50.693] [info]  [00:57:50] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 00:57:50.696] [info]  [00:57:50] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 00:57:50.696] [info]  [00:57:50] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 00:57:50.698] [info]  [00:57:50] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 00:57:50.710] [info]  [00:57:50] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=30.52, y=114.00, z=48.36] does not have attribute null
+[2024-06-16 00:57:50.711] [info]  [00:57:50] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=30.52, y=114.00, z=48.36] does not have attribute null
+[2024-06-16 00:57:54.582] [info]  [00:57:54] [Render thread/INFO]: [Not Secure] [CHAT] hengisking ▸ do map?
+[2024-06-16 00:57:57.750] [info]  [00:57:57] [Render thread/INFO]: [Not Secure] [CHAT] MengRetune ▸ no
+[2024-06-16 00:58:00.208] [info]  [00:58:00] [Render thread/INFO]: Flushed changes to Minecraft configuration
+[2024-06-16 00:58:04.589] [info]  [00:58:04] [Render thread/INFO]: Flushed changes to Minecraft configuration
+[2024-06-16 00:58:12.791] [info]  [00:58:12] [Render thread/INFO]: Flushed changes to Minecraft configuration
+[2024-06-16 00:58:21.516] [info]  [00:58:21] [Render thread/INFO]: Flushed changes to Minecraft configuration
+[2024-06-16 00:58:24.218] [info]  [00:58:24] [Render thread/INFO]: [System] [CHAT] hengisking was slain by MengRetune
+[2024-06-16 00:58:24.318] [info]  [00:58:24] [Render thread/WARN]: Entity RemotePlayer['hengisking'/119112, l='ClientLevel', x=30.52, y=114.00, z=48.36] does not have attribute null
+[2024-06-16 00:58:26.954] [info]  [00:58:26] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=30.40, y=106.50, z=80.56] does not have attribute null
+[2024-06-16 00:58:26.958] [info]  [00:58:26] [Render thread/INFO]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='overworld'} => NamespacedId{namespace='minecraft', name='nffa'}
+[2024-06-16 00:58:26.958] [info]  [00:58:26] [Render thread/INFO]: Destroying pipeline NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-16 00:58:26.959] [info]  [00:58:26] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='nffa'}
+[2024-06-16 00:58:26.959] [info]  [00:58:26] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 00:58:26.963] [info]  [00:58:26] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 00:58:26.964] [info]  [00:58:26] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 00:58:26.967] [info]  [00:58:26] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 00:58:26.968] [info]  [00:58:26] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 00:58:26.970] [info]  [00:58:26] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 00:58:26.973] [info]  [00:58:26] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-16 00:58:26.973] [info]  [00:58:26] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-16 00:58:26.973] [info]  [00:58:26] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-16 00:58:26.974] [info]  [00:58:26] [Render thread/INFO]: [System] [CHAT] Healed by CONSOLE.
+[2024-06-16 00:58:26.974] [info]  [00:58:26] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=0.52, y=37.00, z=-0.58] does not have attribute null
+[2024-06-16 00:58:45.657] [info]  [00:58:45] [Render thread/INFO]: [System] [CHAT] MengRetune was slain by hengisking
+[2024-06-16 00:58:53.420] [info]  [00:58:53] [Render thread/INFO]: [Not Secure] [CHAT] MengRetune ▸ lg crit men
+[2024-06-16 00:58:54.568] [info]  [00:58:54] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=11.34, y=37.00, z=1.51] does not have attribute null
+[2024-06-16 00:58:56.220] [info]  [00:58:56] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=10.01, y=38.25, z=4.77] does not have attribute null
+[2024-06-16 00:59:04.983] [info]  [00:59:04] [Render thread/INFO]: [Not Secure] [CHAT] hengisking ▸ ot phg
+[2024-06-16 00:59:20.617] [info]  [00:59:20] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-24.47, y=40.02, z=-19.15] does not have attribute null
+[2024-06-16 00:59:28.355] [info]  [00:59:28] [Render thread/INFO]: [System] [CHAT] MengRetune was slain by hengisking
+[2024-06-16 00:59:36.681] [info]  [00:59:36] [Render thread/INFO]: [Not Secure] [CHAT] MengRetune ▸ hery nguy dek kab kak jm
+[2024-06-16 00:59:36.756] [info]  [00:59:36] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=19.86, y=37.80, z=-12.39] does not have attribute null
+[2024-06-16 00:59:41.441] [info]  [00:59:41] [Render thread/INFO]: [Not Secure] [CHAT] hengisking ▸ bro lg ler ey
+[2024-06-16 00:59:45.687] [info]  [00:59:45] [Render thread/INFO]: [Not Secure] [CHAT] MengRetune ▸ pojav
+[2024-06-16 00:59:50.238] [info]  [00:59:50] [Render thread/INFO]: [Not Secure] [CHAT] hengisking ▸ orr
+[2024-06-16 00:59:50.549] [info]  [00:59:50] [Render thread/INFO]: [Not Secure] [CHAT] MengRetune ▸ nhuy dek pek
+[2024-06-16 01:00:11.159] [info]  [01:00:11] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:11.162] [info]  [01:00:11] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:11.167] [info]  [01:00:11] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:11.170] [info]  [01:00:11] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:11.173] [info]  [01:00:11] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-06-16 01:00:18.207] [info]  [01:00:18] [Render thread/INFO]: [System] [CHAT] MengRetune was slain by hengisking
+[2024-06-16 01:00:30.443] [info]  [01:00:30] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:30.446] [info]  [01:00:30] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:30.450] [info]  [01:00:30] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:30.453] [info]  [01:00:30] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:30.456] [info]  [01:00:30] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-06-16 01:00:52.516] [info]  [01:00:52] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:52.520] [info]  [01:00:52] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:52.524] [info]  [01:00:52] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:52.526] [info]  [01:00:52] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:52.530] [info]  [01:00:52] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:52.532] [info]  [01:00:52] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:52.536] [info]  [01:00:52] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-06-16 01:00:53.128] [info]  [01:00:53] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:53.131] [info]  [01:00:53] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:53.134] [info]  [01:00:53] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:53.136] [info]  [01:00:53] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:53.140] [info]  [01:00:53] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:53.142] [info]  [01:00:53] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:53.145] [info]  [01:00:53] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:53.148] [info]  [01:00:53] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:53.151] [info]  [01:00:53] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:53.154] [info]  [01:00:53] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:53.157] [info]  [01:00:53] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:53.160] [info]  [01:00:53] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:53.163] [info]  [01:00:53] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:53.165] [info]  [01:00:53] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:53.168] [info]  [01:00:53] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:53.170] [info]  [01:00:53] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:53.174] [info]  [01:00:53] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-06-16 01:00:53.919] [info]  [01:00:53] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:53.922] [info]  [01:00:53] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:53.926] [info]  [01:00:53] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:53.928] [info]  [01:00:53] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:53.931] [info]  [01:00:53] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:53.933] [info]  [01:00:53] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:53.936] [info]  [01:00:53] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:53.939] [info]  [01:00:53] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:53.942] [info]  [01:00:53] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:53.945] [info]  [01:00:53] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:53.949] [info]  [01:00:53] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:53.951] [info]  [01:00:53] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:53.954] [info]  [01:00:53] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:53.956] [info]  [01:00:53] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:53.960] [info]  [01:00:53] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:53.963] [info]  [01:00:53] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:53.966] [info]  [01:00:53] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:53.969] [info]  [01:00:53] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:53.972] [info]  [01:00:53] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:53.974] [info]  [01:00:53] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:53.979] [info]  [01:00:53] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-06-16 01:00:55.317] [info]  [01:00:55] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:55.320] [info]  [01:00:55] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:55.324] [info]  [01:00:55] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:55.326] [info]  [01:00:55] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:55.329] [info]  [01:00:55] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:55.331] [info]  [01:00:55] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:55.334] [info]  [01:00:55] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:55.337] [info]  [01:00:55] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:55.340] [info]  [01:00:55] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:55.342] [info]  [01:00:55] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:55.345] [info]  [01:00:55] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:55.347] [info]  [01:00:55] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:55.351] [info]  [01:00:55] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-06-16 01:00:56.044] [info]  [01:00:56] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:56.047] [info]  [01:00:56] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:56.050] [info]  [01:00:56] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:56.052] [info]  [01:00:56] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:56.055] [info]  [01:00:56] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:56.057] [info]  [01:00:56] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:56.060] [info]  [01:00:56] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:56.063] [info]  [01:00:56] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:56.066] [info]  [01:00:56] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:56.069] [info]  [01:00:56] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:56.072] [info]  [01:00:56] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:56.075] [info]  [01:00:56] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:56.078] [info]  [01:00:56] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:00:56.080] [info]  [01:00:56] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:00:56.084] [info]  [01:00:56] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-06-16 01:01:03.612] [info]  [01:01:03] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-06-16 01:01:03.964] [info]  [01:01:03] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:01:03.966] [info]  [01:01:03] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:01:03.985] [info]  [01:01:03] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:01:03.986] [info]  [01:01:03] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:01:06.764] [info]  [01:01:06] [Render thread/INFO]: [System] [CHAT] MengRetune was slain by hengisking
+[2024-06-16 01:01:09.178] [info]  [01:01:09] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-06-16 01:01:09.487] [info]  [01:01:09] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:01:09.490] [info]  [01:01:09] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:01:09.494] [info]  [01:01:09] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:01:09.496] [info]  [01:01:09] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:01:11.373] [info]  [01:01:11] [Render thread/INFO]: [Not Secure] [CHAT] MengRetune ▸ lol anh hery
+[2024-06-16 01:01:16.736] [info]  [01:01:16] [Render thread/INFO]: [System] [CHAT] 🧿 ᴛᴇʟᴇᴘᴏʀᴛ ► ᴛᴇʟᴇᴘᴏʀᴛᴀᴛɪᴏɴ ᴡɪʟʟ ᴄᴏᴍᴍᴇɴᴄᴇ ɪɴ 3 ꜱᴇᴄᴏɴᴅꜱ.
+[2024-06-16 01:01:18.280] [info]  [01:01:18] [Render thread/INFO]: [Not Secure] [CHAT] hengisking ▸ hahah
+[2024-06-16 01:01:19.766] [info]  [01:01:19] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=13.88, y=37.00, z=-2.38] does not have attribute null
+[2024-06-16 01:01:19.772] [info]  [01:01:19] [Render thread/INFO]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='nffa'} => NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-16 01:01:19.773] [info]  [01:01:19] [Render thread/INFO]: Destroying pipeline NamespacedId{namespace='minecraft', name='nffa'}
+[2024-06-16 01:01:19.773] [info]  [01:01:19] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-16 01:01:19.773] [info]  [01:01:19] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:01:19.777] [info]  [01:01:19] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:01:19.777] [info]  [01:01:19] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:01:19.780] [info]  [01:01:19] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:01:19.780] [info]  [01:01:19] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:01:19.783] [info]  [01:01:19] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:01:19.785] [info]  [01:01:19] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=30.52, y=114.00, z=48.36] does not have attribute null
+[2024-06-16 01:01:19.785] [info]  [01:01:19] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=30.52, y=114.00, z=48.36] does not have attribute null
+[2024-06-16 01:01:19.786] [info]  [01:01:19] [Render thread/INFO]: [System] [CHAT] 🧿 ᴛᴇʟᴇᴘᴏʀᴛ ► ᴛᴇʟᴇᴘᴏʀᴛɪɴɢ
+[2024-06-16 01:01:27.911] [info]  [01:01:27] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=37.69, y=107.00, z=78.72] does not have attribute null
+[2024-06-16 01:01:27.918] [info]  [01:01:27] [Render thread/INFO]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='overworld'} => NamespacedId{namespace='minecraft', name='dffa'}
+[2024-06-16 01:01:27.918] [info]  [01:01:27] [Render thread/INFO]: Destroying pipeline NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-16 01:01:27.919] [info]  [01:01:27] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='dffa'}
+[2024-06-16 01:01:27.919] [info]  [01:01:27] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:01:27.922] [info]  [01:01:27] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:01:27.923] [info]  [01:01:27] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:01:27.925] [info]  [01:01:27] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:01:27.926] [info]  [01:01:27] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:01:27.927] [info]  [01:01:27] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:01:27.929] [info]  [01:01:27] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:01:27.930] [info]  [01:01:27] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:01:27.930] [info]  [01:01:27] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:01:27.930] [info]  [01:01:27] [Render thread/INFO]: [System] [CHAT] Healed by CONSOLE.
+[2024-06-16 01:01:27.930] [info]  [01:01:27] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:01:27.972] [info]  [01:01:27] [Render thread/WARN]: Entity RemotePlayer['hengisking'/119112, l='ClientLevel', x=-74.59, y=-3.00, z=2.25] does not have attribute null
+[2024-06-16 01:01:27.972] [info]  [01:01:27] [Render thread/WARN]: Entity RemotePlayer['MengRetune'/119113, l='ClientLevel', x=-72.38, y=-2.50, z=2.21] does not have attribute null
+[2024-06-16 01:01:43.268] [info]  [01:01:43] [Render thread/INFO]: [System] [CHAT] hengisking was slain by MengRetune
+[2024-06-16 01:01:43.319] [info]  [01:01:43] [Render thread/WARN]: Entity RemotePlayer['hengisking'/119112, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:01:46.615] [info]  [01:01:46] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛYou are now in combat with MengRetune so do not quit.
+[2024-06-16 01:01:46.724] [info]  [01:01:46] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-71.44, y=-3.00, z=5.81] does not have attribute null
+[2024-06-16 01:01:47.230] [info]  [01:01:47] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-70.86, y=-3.00, z=4.78] does not have attribute null
+[2024-06-16 01:01:47.617] [info]  [01:01:47] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-71.40, y=-3.00, z=6.34] does not have attribute null
+[2024-06-16 01:01:47.735] [info]  [01:01:47] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-71.10, y=-2.06, z=4.92] does not have attribute null
+[2024-06-16 01:01:48.213] [info]  [01:01:48] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-70.66, y=-3.00, z=3.60] does not have attribute null
+[2024-06-16 01:01:48.616] [info]  [01:01:48] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-71.09, y=-3.00, z=5.23] does not have attribute null
+[2024-06-16 01:01:48.717] [info]  [01:01:48] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-71.49, y=-2.36, z=4.73] does not have attribute null
+[2024-06-16 01:01:49.228] [info]  [01:01:49] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-71.25, y=-3.00, z=4.73] does not have attribute null
+[2024-06-16 01:01:49.362] [info]  [01:01:49] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-71.19, y=-3.00, z=5.19] does not have attribute null
+[2024-06-16 01:01:49.714] [info]  [01:01:49] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-71.43, y=-2.21, z=4.31] does not have attribute null
+[2024-06-16 01:01:50.211] [info]  [01:01:50] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-72.11, y=-3.00, z=5.73] does not have attribute null
+[2024-06-16 01:01:50.716] [info]  [01:01:50] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-71.83, y=-3.00, z=7.47] does not have attribute null
+[2024-06-16 01:01:51.228] [info]  [01:01:51] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-71.39, y=-3.00, z=8.99] does not have attribute null
+[2024-06-16 01:01:54.729] [info]  [01:01:54] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-71.86, y=-3.00, z=14.29] does not have attribute null
+[2024-06-16 01:01:55.218] [info]  [01:01:55] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-70.43, y=-2.70, z=14.32] does not have attribute null
+[2024-06-16 01:01:55.715] [info]  [01:01:55] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-72.11, y=-3.00, z=13.55] does not have attribute null
+[2024-06-16 01:01:56.219] [info]  [01:01:56] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-73.40, y=-3.00, z=11.88] does not have attribute null
+[2024-06-16 01:01:57.815] [info]  [01:01:57] [Render thread/INFO]: [Not Secure] [CHAT] hengisking ▸ tor oy nh men minh
+[2024-06-16 01:01:58.926] [info]  [01:01:58] [Render thread/WARN]: Entity RemotePlayer['hengisking'/119112, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:01:59.463] [info]  [01:01:59] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-79.44, y=-2.50, z=8.33] does not have attribute null
+[2024-06-16 01:01:59.463] [info]  [01:01:59] [Render thread/INFO]: [System] [CHAT] Healed by CONSOLE.
+[2024-06-16 01:01:59.463] [info]  [01:01:59] [Render thread/INFO]: [System] [CHAT] MengRetune was slain by MengHong001
+[2024-06-16 01:01:59.522] [info]  [01:01:59] [Render thread/WARN]: Entity RemotePlayer['MengRetune'/119113, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:02:00.461] [info]  [01:02:00] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛYou are not in combat anymore and allowed to quit.
+[2024-06-16 01:02:02.678] [info]  [01:02:02] [Render thread/INFO]: [Not Secure] [CHAT] MengRetune ▸ no
+[2024-06-16 01:02:05.672] [info]  [01:02:05] [Render thread/INFO]: [Not Secure] [CHAT] MengHong001 ▸ gg
+[2024-06-16 01:02:06.062] [info]  [01:02:06] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛhengisking is now in combat with you so do not quit.
+[2024-06-16 01:02:06.062] [info]  [01:02:06] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-68.81, y=-3.00, z=13.97] does not have attribute null
+[2024-06-16 01:02:06.515] [info]  [01:02:06] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-67.29, y=-2.37, z=16.42] does not have attribute null
+[2024-06-16 01:02:07.019] [info]  [01:02:07] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-67.85, y=-3.00, z=15.23] does not have attribute null
+[2024-06-16 01:02:07.925] [info]  [01:02:07] [Render thread/WARN]: Entity RemotePlayer['MengRetune'/119113, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:02:09.905] [info]  [01:02:09] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-71.24, y=-3.00, z=7.18] does not have attribute null
+[2024-06-16 01:02:10.368] [info]  [01:02:10] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-72.46, y=-2.37, z=9.21] does not have attribute null
+[2024-06-16 01:02:10.816] [info]  [01:02:10] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-71.72, y=-3.00, z=8.36] does not have attribute null
+[2024-06-16 01:02:10.866] [info]  [01:02:10] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-72.02, y=-2.60, z=9.00] does not have attribute null
+[2024-06-16 01:02:11.363] [info]  [01:02:11] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-73.16, y=-3.00, z=10.34] does not have attribute null
+[2024-06-16 01:02:11.648] [info]  [01:02:11] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-72.40, y=-3.00, z=9.38] does not have attribute null
+[2024-06-16 01:02:11.866] [info]  [01:02:11] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-72.92, y=-2.06, z=10.16] does not have attribute null
+[2024-06-16 01:02:12.363] [info]  [01:02:12] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-72.76, y=-3.00, z=9.51] does not have attribute null
+[2024-06-16 01:02:12.607] [info]  [01:02:12] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-71.77, y=-3.00, z=8.65] does not have attribute null
+[2024-06-16 01:02:12.868] [info]  [01:02:12] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-72.65, y=-1.85, z=9.98] does not have attribute null
+[2024-06-16 01:02:13.162] [info]  [01:02:13] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-73.16, y=-3.00, z=10.11] does not have attribute null
+[2024-06-16 01:02:13.363] [info]  [01:02:13] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-73.14, y=-2.64, z=10.99] does not have attribute null
+[2024-06-16 01:02:13.866] [info]  [01:02:13] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-73.19, y=-3.00, z=10.55] does not have attribute null
+[2024-06-16 01:02:14.362] [info]  [01:02:14] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-71.61, y=-3.00, z=10.03] does not have attribute null
+[2024-06-16 01:02:14.865] [info]  [01:02:14] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-69.45, y=-3.00, z=10.73] does not have attribute null
+[2024-06-16 01:02:15.377] [info]  [01:02:15] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-69.28, y=-3.00, z=8.64] does not have attribute null
+[2024-06-16 01:02:15.704] [info]  [01:02:15] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-68.56, y=-3.00, z=9.54] does not have attribute null
+[2024-06-16 01:02:15.863] [info]  [01:02:15] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-68.93, y=-2.17, z=10.02] does not have attribute null
+[2024-06-16 01:02:16.364] [info]  [01:02:16] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-68.83, y=-3.00, z=9.38] does not have attribute null
+[2024-06-16 01:02:16.507] [info]  [01:02:16] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-68.25, y=-3.00, z=8.82] does not have attribute null
+[2024-06-16 01:02:16.868] [info]  [01:02:16] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-69.31, y=-1.96, z=10.18] does not have attribute null
+[2024-06-16 01:02:17.056] [info]  [01:02:17] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-69.20, y=-3.00, z=10.43] does not have attribute null
+[2024-06-16 01:02:17.365] [info]  [01:02:17] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-68.53, y=-3.00, z=10.26] does not have attribute null
+[2024-06-16 01:02:18.808] [info]  [01:02:18] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-69.13, y=-3.00, z=10.87] does not have attribute null
+[2024-06-16 01:02:19.858] [info]  [01:02:19] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-68.38, y=-3.00, z=11.95] does not have attribute null
+[2024-06-16 01:02:21.368] [info]  [01:02:21] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-66.24, y=-3.00, z=10.82] does not have attribute null
+[2024-06-16 01:02:22.715] [info]  [01:02:22] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-65.74, y=-3.00, z=10.27] does not have attribute null
+[2024-06-16 01:02:23.705] [info]  [01:02:23] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-65.57, y=-3.00, z=11.49] does not have attribute null
+[2024-06-16 01:02:24.510] [info]  [01:02:24] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-66.24, y=-3.00, z=11.47] does not have attribute null
+[2024-06-16 01:02:25.362] [info]  [01:02:25] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-66.42, y=-3.00, z=12.24] does not have attribute null
+[2024-06-16 01:02:25.555] [info]  [01:02:25] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-65.76, y=-3.00, z=12.17] does not have attribute null
+[2024-06-16 01:02:26.218] [info]  [01:02:26] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-67.44, y=-3.00, z=12.79] does not have attribute null
+[2024-06-16 01:02:27.003] [info]  [01:02:27] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-65.64, y=-3.00, z=12.71] does not have attribute null
+[2024-06-16 01:02:28.005] [info]  [01:02:28] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-65.64, y=-3.00, z=13.41] does not have attribute null
+[2024-06-16 01:02:28.516] [info]  [01:02:28] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-66.12, y=-3.00, z=13.98] does not have attribute null
+[2024-06-16 01:02:29.103] [info]  [01:02:29] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-67.45, y=-3.00, z=14.91] does not have attribute null
+[2024-06-16 01:02:29.104] [info]  [01:02:29] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛYou are not in combat anymore and allowed to quit.
+[2024-06-16 01:02:29.104] [info]  [01:02:29] [Render thread/INFO]: [System] [CHAT] MengHong001 was slain by hengisking
+[2024-06-16 01:02:29.157] [info]  [01:02:29] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-67.76, y=-2.64, z=15.16] does not have attribute null
+[2024-06-16 01:02:29.157] [info]  [01:02:29] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:02:29.158] [info]  [01:02:29] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:02:29.188] [info]  [01:02:29] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-69.25, y=-3.00, z=0.71] does not have attribute null
+[2024-06-16 01:02:29.196] [info]  [01:02:29] [Render thread/INFO]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='dffa'} => NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-16 01:02:29.197] [info]  [01:02:29] [Render thread/INFO]: Destroying pipeline NamespacedId{namespace='minecraft', name='dffa'}
+[2024-06-16 01:02:29.197] [info]  [01:02:29] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-16 01:02:29.198] [info]  [01:02:29] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:02:29.200] [info]  [01:02:29] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:02:29.201] [info]  [01:02:29] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:02:29.203] [info]  [01:02:29] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:02:29.203] [info]  [01:02:29] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:02:29.205] [info]  [01:02:29] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:02:29.207] [info]  [01:02:29] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=30.52, y=114.00, z=48.36] does not have attribute null
+[2024-06-16 01:02:29.208] [info]  [01:02:29] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=30.52, y=114.00, z=48.36] does not have attribute null
+[2024-06-16 01:02:34.706] [info]  [01:02:34] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=36.68, y=107.00, z=78.38] does not have attribute null
+[2024-06-16 01:02:34.714] [info]  [01:02:34] [Render thread/INFO]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='overworld'} => NamespacedId{namespace='minecraft', name='dffa'}
+[2024-06-16 01:02:34.715] [info]  [01:02:34] [Render thread/INFO]: Destroying pipeline NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-16 01:02:34.715] [info]  [01:02:34] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='dffa'}
+[2024-06-16 01:02:34.715] [info]  [01:02:34] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:02:34.717] [info]  [01:02:34] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:02:34.719] [info]  [01:02:34] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:02:34.721] [info]  [01:02:34] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:02:34.722] [info]  [01:02:34] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:02:34.723] [info]  [01:02:34] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:02:34.725] [info]  [01:02:34] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:02:34.726] [info]  [01:02:34] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:02:34.726] [info]  [01:02:34] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:02:34.726] [info]  [01:02:34] [Render thread/INFO]: [System] [CHAT] Healed by CONSOLE.
+[2024-06-16 01:02:34.766] [info]  [01:02:34] [Render thread/WARN]: Entity RemotePlayer['hengisking'/119112, l='ClientLevel', x=-60.93, y=-1.91, z=8.35] does not have attribute null
+[2024-06-16 01:02:34.766] [info]  [01:02:34] [Render thread/WARN]: Entity RemotePlayer['MengRetune'/119113, l='ClientLevel', x=-60.44, y=-2.04, z=5.39] does not have attribute null
+[2024-06-16 01:02:48.257] [info]  [01:02:48] [Render thread/INFO]: [System] [CHAT] MengRetune was slain by hengisking
+[2024-06-16 01:02:48.307] [info]  [01:02:48] [Render thread/WARN]: Entity RemotePlayer['MengRetune'/119113, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:02:50.408] [info]  [01:02:50] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛhengisking is now in combat with you so do not quit.
+[2024-06-16 01:02:50.408] [info]  [01:02:50] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-52.05, y=-3.00, z=9.26] does not have attribute null
+[2024-06-16 01:02:50.868] [info]  [01:02:50] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-51.51, y=-2.70, z=8.79] does not have attribute null
+[2024-06-16 01:02:51.272] [info]  [01:02:51] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-53.07, y=-3.00, z=9.77] does not have attribute null
+[2024-06-16 01:02:51.365] [info]  [01:02:51] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-52.68, y=-2.60, z=9.35] does not have attribute null
+[2024-06-16 01:02:51.870] [info]  [01:02:51] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-51.42, y=-3.00, z=8.82] does not have attribute null
+[2024-06-16 01:02:52.365] [info]  [01:02:52] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-52.92, y=-3.00, z=9.82] does not have attribute null
+[2024-06-16 01:02:52.366] [info]  [01:02:52] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-52.92, y=-3.00, z=9.82] does not have attribute null
+[2024-06-16 01:02:52.871] [info]  [01:02:52] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-51.88, y=-3.00, z=7.93] does not have attribute null
+[2024-06-16 01:02:52.955] [info]  [01:02:52] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-51.95, y=-3.00, z=8.01] does not have attribute null
+[2024-06-16 01:02:53.368] [info]  [01:02:53] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-51.30, y=-2.42, z=7.41] does not have attribute null
+[2024-06-16 01:02:53.656] [info]  [01:02:53] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-51.37, y=-3.00, z=8.26] does not have attribute null
+[2024-06-16 01:02:53.865] [info]  [01:02:53] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-51.34, y=-1.91, z=7.61] does not have attribute null
+[2024-06-16 01:02:54.275] [info]  [01:02:54] [Render thread/WARN]: Entity RemotePlayer['MengRetune'/119113, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:02:54.367] [info]  [01:02:54] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-51.79, y=-3.00, z=8.20] does not have attribute null
+[2024-06-16 01:02:54.418] [info]  [01:02:54] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-51.92, y=-3.00, z=8.34] does not have attribute null
+[2024-06-16 01:02:54.865] [info]  [01:02:54] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-51.14, y=-2.37, z=6.40] does not have attribute null
+[2024-06-16 01:02:55.369] [info]  [01:02:55] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-51.55, y=-3.00, z=7.97] does not have attribute null
+[2024-06-16 01:02:55.862] [info]  [01:02:55] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-52.82, y=-3.00, z=8.08] does not have attribute null
+[2024-06-16 01:02:56.355] [info]  [01:02:56] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-54.67, y=-3.00, z=8.20] does not have attribute null
+[2024-06-16 01:02:56.364] [info]  [01:02:56] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-54.67, y=-3.00, z=8.20] does not have attribute null
+[2024-06-16 01:02:56.868] [info]  [01:02:56] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-54.87, y=-3.00, z=6.88] does not have attribute null
+[2024-06-16 01:02:57.365] [info]  [01:02:57] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-53.39, y=-3.00, z=7.20] does not have attribute null
+[2024-06-16 01:02:57.869] [info]  [01:02:57] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-53.91, y=-1.75, z=9.55] does not have attribute null
+[2024-06-16 01:02:58.364] [info]  [01:02:58] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-52.76, y=-1.83, z=10.84] does not have attribute null
+[2024-06-16 01:02:59.102] [info]  [01:02:59] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-52.55, y=-1.82, z=9.93] does not have attribute null
+[2024-06-16 01:03:00.515] [info]  [01:03:00] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-50.19, y=-2.50, z=11.86] does not have attribute null
+[2024-06-16 01:03:01.168] [info]  [01:03:01] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-50.71, y=-3.00, z=10.73] does not have attribute null
+[2024-06-16 01:03:01.855] [info]  [01:03:01] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-50.28, y=-2.25, z=10.49] does not have attribute null
+[2024-06-16 01:03:02.367] [info]  [01:03:02] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-46.54, y=-2.50, z=10.10] does not have attribute null
+[2024-06-16 01:03:03.416] [info]  [01:03:03] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-50.75, y=-2.82, z=8.67] does not have attribute null
+[2024-06-16 01:03:03.970] [info]  [01:03:03] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-50.89, y=-2.88, z=8.22] does not have attribute null
+[2024-06-16 01:03:04.505] [info]  [01:03:04] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-49.27, y=-2.20, z=7.97] does not have attribute null
+[2024-06-16 01:03:04.506] [info]  [01:03:04] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-49.27, y=-2.20, z=7.97] does not have attribute null
+[2024-06-16 01:03:04.506] [info]  [01:03:04] [Render thread/INFO]: [System] [CHAT] Healed by CONSOLE.
+[2024-06-16 01:03:04.506] [info]  [01:03:04] [Render thread/INFO]: [System] [CHAT] hengisking was slain by MengHong001
+[2024-06-16 01:03:04.556] [info]  [01:03:04] [Render thread/WARN]: Entity RemotePlayer['hengisking'/119112, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:03:05.513] [info]  [01:03:05] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛYou are not in combat anymore and allowed to quit.
+[2024-06-16 01:03:07.156] [info]  [01:03:07] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛYou are now in combat with MengRetune so do not quit.
+[2024-06-16 01:03:07.273] [info]  [01:03:07] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-57.83, y=-3.00, z=9.03] does not have attribute null
+[2024-06-16 01:03:07.767] [info]  [01:03:07] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-59.14, y=-2.70, z=9.23] does not have attribute null
+[2024-06-16 01:03:08.270] [info]  [01:03:08] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-58.08, y=-3.00, z=8.06] does not have attribute null
+[2024-06-16 01:03:08.522] [info]  [01:03:08] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-57.35, y=-2.58, z=7.27] does not have attribute null
+[2024-06-16 01:03:09.017] [info]  [01:03:09] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-58.83, y=-1.95, z=10.53] does not have attribute null
+[2024-06-16 01:03:09.515] [info]  [01:03:09] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-58.45, y=-3.00, z=9.36] does not have attribute null
+[2024-06-16 01:03:13.020] [info]  [01:03:13] [Render thread/WARN]: Entity RemotePlayer['hengisking'/119112, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:03:15.418] [info]  [01:03:15] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-55.24, y=-2.20, z=6.98] does not have attribute null
+[2024-06-16 01:03:15.912] [info]  [01:03:15] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-56.60, y=-3.00, z=7.21] does not have attribute null
+[2024-06-16 01:03:16.414] [info]  [01:03:16] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-54.34, y=-3.00, z=8.34] does not have attribute null
+[2024-06-16 01:03:17.179] [info]  [01:03:17] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-50.80, y=-2.88, z=6.55] does not have attribute null
+[2024-06-16 01:03:17.665] [info]  [01:03:17] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-50.47, y=-1.98, z=7.88] does not have attribute null
+[2024-06-16 01:03:17.732] [info]  [01:03:17] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-50.65, y=-2.50, z=7.94] does not have attribute null
+[2024-06-16 01:03:18.169] [info]  [01:03:18] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-50.06, y=-1.75, z=7.56] does not have attribute null
+[2024-06-16 01:03:18.667] [info]  [01:03:18] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-51.47, y=-1.83, z=6.42] does not have attribute null
+[2024-06-16 01:03:19.161] [info]  [01:03:19] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-52.70, y=-2.25, z=5.66] does not have attribute null
+[2024-06-16 01:03:19.664] [info]  [01:03:19] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-51.54, y=-3.00, z=4.94] does not have attribute null
+[2024-06-16 01:03:20.828] [info]  [01:03:20] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-51.48, y=-2.25, z=4.88] does not have attribute null
+[2024-06-16 01:03:21.314] [info]  [01:03:21] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-48.15, y=-2.19, z=6.48] does not have attribute null
+[2024-06-16 01:03:21.818] [info]  [01:03:21] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-49.08, y=-3.00, z=5.93] does not have attribute null
+[2024-06-16 01:03:21.919] [info]  [01:03:21] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-49.40, y=-3.00, z=5.64] does not have attribute null
+[2024-06-16 01:03:21.919] [info]  [01:03:21] [Render thread/INFO]: [System] [CHAT] Healed by CONSOLE.
+[2024-06-16 01:03:21.920] [info]  [01:03:21] [Render thread/INFO]: [System] [CHAT] MengRetune was slain by MengHong001
+[2024-06-16 01:03:21.978] [info]  [01:03:21] [Render thread/WARN]: Entity RemotePlayer['MengRetune'/119113, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:03:22.964] [info]  [01:03:22] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛYou are not in combat anymore and allowed to quit.
+[2024-06-16 01:03:27.820] [info]  [01:03:27] [Render thread/WARN]: Entity RemotePlayer['MengRetune'/119113, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:03:29.906] [info]  [01:03:29] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛYou are now in combat with hengisking so do not quit.
+[2024-06-16 01:03:46.063] [info]  [01:03:46] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛYou are not in combat anymore and allowed to quit.
+[2024-06-16 01:03:57.022] [info]  [01:03:57] [Render thread/INFO]: [System] [CHAT] hengisking was slain by MengRetune
+[2024-06-16 01:03:57.073] [info]  [01:03:57] [Render thread/WARN]: Entity RemotePlayer['hengisking'/119112, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:04:01.417] [info]  [01:04:01] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛYou are now in combat with MengRetune so do not quit.
+[2024-06-16 01:04:01.418] [info]  [01:04:01] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-76.46, y=-3.00, z=-12.22] does not have attribute null
+[2024-06-16 01:04:01.915] [info]  [01:04:01] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-76.08, y=-3.00, z=-10.82] does not have attribute null
+[2024-06-16 01:04:02.319] [info]  [01:04:02] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-76.94, y=-3.00, z=-12.37] does not have attribute null
+[2024-06-16 01:04:02.413] [info]  [01:04:02] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-76.72, y=-2.29, z=-11.73] does not have attribute null
+[2024-06-16 01:04:02.916] [info]  [01:04:02] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-76.31, y=-3.00, z=-10.86] does not have attribute null
+[2024-06-16 01:04:03.414] [info]  [01:04:03] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-76.01, y=-3.00, z=-12.82] does not have attribute null
+[2024-06-16 01:04:03.415] [info]  [01:04:03] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-76.01, y=-3.00, z=-12.82] does not have attribute null
+[2024-06-16 01:04:03.719] [info]  [01:04:03] [Render thread/WARN]: Entity RemotePlayer['hengisking'/119112, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:04:03.915] [info]  [01:04:03] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-76.46, y=-2.70, z=-12.18] does not have attribute null
+[2024-06-16 01:04:04.411] [info]  [01:04:04] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-76.74, y=-3.00, z=-14.52] does not have attribute null
+[2024-06-16 01:04:04.922] [info]  [01:04:04] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-76.58, y=-3.00, z=-15.64] does not have attribute null
+[2024-06-16 01:04:05.317] [info]  [01:04:05] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-76.81, y=-3.00, z=-17.03] does not have attribute null
+[2024-06-16 01:04:05.812] [info]  [01:04:05] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-75.92, y=-2.69, z=-14.56] does not have attribute null
+[2024-06-16 01:04:06.320] [info]  [01:04:06] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-75.75, y=-3.00, z=-16.61] does not have attribute null
+[2024-06-16 01:04:06.362] [info]  [01:04:06] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-75.75, y=-3.00, z=-16.61] does not have attribute null
+[2024-06-16 01:04:06.815] [info]  [01:04:06] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-75.23, y=-2.37, z=-14.24] does not have attribute null
+[2024-06-16 01:04:06.965] [info]  [01:04:06] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-75.39, y=-3.00, z=-14.23] does not have attribute null
+[2024-06-16 01:04:07.317] [info]  [01:04:07] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-74.88, y=-1.96, z=-13.72] does not have attribute null
+[2024-06-16 01:04:07.815] [info]  [01:04:07] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-75.12, y=-3.00, z=-15.17] does not have attribute null
+[2024-06-16 01:04:07.933] [info]  [01:04:07] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-75.33, y=-3.00, z=-15.79] does not have attribute null
+[2024-06-16 01:04:08.319] [info]  [01:04:08] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-74.58, y=-1.96, z=-14.04] does not have attribute null
+[2024-06-16 01:04:08.480] [info]  [01:04:08] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-74.68, y=-3.00, z=-13.82] does not have attribute null
+[2024-06-16 01:04:08.816] [info]  [01:04:08] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-74.29, y=-3.00, z=-13.44] does not have attribute null
+[2024-06-16 01:04:09.079] [info]  [01:04:09] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-74.52, y=-3.00, z=-14.54] does not have attribute null
+[2024-06-16 01:04:09.316] [info]  [01:04:09] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-73.64, y=-1.91, z=-13.45] does not have attribute null
+[2024-06-16 01:04:09.628] [info]  [01:04:09] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-73.20, y=-3.00, z=-13.14] does not have attribute null
+[2024-06-16 01:04:09.812] [info]  [01:04:09] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-73.18, y=-3.00, z=-12.85] does not have attribute null
+[2024-06-16 01:04:10.426] [info]  [01:04:10] [Render thread/INFO]: [Not Secure] [CHAT] hengisking ▸ yos do map
+[2024-06-16 01:04:10.677] [info]  [01:04:10] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-76.08, y=-3.00, z=-15.52] does not have attribute null
+[2024-06-16 01:04:11.173] [info]  [01:04:11] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-75.39, y=-2.50, z=-15.52] does not have attribute null
+[2024-06-16 01:04:13.813] [info]  [01:04:13] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-83.21, y=-1.75, z=-16.86] does not have attribute null
+[2024-06-16 01:04:13.923] [info]  [01:04:13] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-83.50, y=-2.20, z=-16.45] does not have attribute null
+[2024-06-16 01:04:15.927] [info]  [01:04:15] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-84.39, y=-2.58, z=-17.27] does not have attribute null
+[2024-06-16 01:04:17.812] [info]  [01:04:17] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-85.28, y=-1.33, z=-19.51] does not have attribute null
+[2024-06-16 01:04:18.670] [info]  [01:04:18] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-88.38, y=-2.00, z=-17.97] does not have attribute null
+[2024-06-16 01:04:19.260] [info]  [01:04:19] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-88.37, y=-1.70, z=-17.14] does not have attribute null
+[2024-06-16 01:04:19.260] [info]  [01:04:19] [Render thread/INFO]: [System] [CHAT] Healed by CONSOLE.
+[2024-06-16 01:04:19.261] [info]  [01:04:19] [Render thread/INFO]: [System] [CHAT] MengRetune was slain by MengHong001
+[2024-06-16 01:04:19.327] [info]  [01:04:19] [Render thread/WARN]: Entity RemotePlayer['MengRetune'/119113, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:04:20.317] [info]  [01:04:20] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛYou are not in combat anymore and allowed to quit.
+[2024-06-16 01:04:21.665] [info]  [01:04:21] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛhengisking is now in combat with you so do not quit.
+[2024-06-16 01:04:21.665] [info]  [01:04:21] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-79.37, y=-3.00, z=-16.90] does not have attribute null
+[2024-06-16 01:04:22.171] [info]  [01:04:22] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-77.72, y=-3.00, z=-18.74] does not have attribute null
+[2024-06-16 01:04:22.456] [info]  [01:04:22] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-78.41, y=-3.00, z=-17.86] does not have attribute null
+[2024-06-16 01:04:22.665] [info]  [01:04:22] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-77.85, y=-1.91, z=-18.65] does not have attribute null
+[2024-06-16 01:04:23.171] [info]  [01:04:23] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-78.70, y=-3.00, z=-18.33] does not have attribute null
+[2024-06-16 01:04:23.455] [info]  [01:04:23] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-79.47, y=-3.00, z=-17.76] does not have attribute null
+[2024-06-16 01:04:23.665] [info]  [01:04:23] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-78.66, y=-1.91, z=-18.95] does not have attribute null
+[2024-06-16 01:04:24.054] [info]  [01:04:24] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-78.73, y=-2.58, z=-18.75] does not have attribute null
+[2024-06-16 01:04:24.164] [info]  [01:04:24] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-78.40, y=-1.94, z=-19.36] does not have attribute null
+[2024-06-16 01:04:24.671] [info]  [01:04:24] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-78.27, y=-3.00, z=-20.09] does not have attribute null
+[2024-06-16 01:04:24.721] [info]  [01:04:24] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-78.38, y=-3.00, z=-19.94] does not have attribute null
+[2024-06-16 01:04:25.168] [info]  [01:04:25] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-77.40, y=-2.12, z=-21.45] does not have attribute null
+[2024-06-16 01:04:25.268] [info]  [01:04:25] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-77.42, y=-2.69, z=-21.51] does not have attribute null
+[2024-06-16 01:04:25.663] [info]  [01:04:25] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-76.87, y=-1.33, z=-22.08] does not have attribute null
+[2024-06-16 01:04:25.806] [info]  [01:04:25] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-77.03, y=-1.32, z=-21.83] does not have attribute null
+[2024-06-16 01:04:25.856] [info]  [01:04:25] [Render thread/INFO]: [Not Secure] [CHAT] MengRetune ▸ sam heng men
+[2024-06-16 01:04:26.168] [info]  [01:04:26] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-74.94, y=-2.08, z=-22.27] does not have attribute null
+[2024-06-16 01:04:26.662] [info]  [01:04:26] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-75.06, y=-2.38, z=-22.70] does not have attribute null
+[2024-06-16 01:04:26.963] [info]  [01:04:26] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-75.75, y=-1.25, z=-22.88] does not have attribute null
+[2024-06-16 01:04:27.165] [info]  [01:04:27] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-73.50, y=-1.40, z=-23.00] does not have attribute null
+[2024-06-16 01:04:27.568] [info]  [01:04:27] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-72.69, y=-2.50, z=-22.84] does not have attribute null
+[2024-06-16 01:04:27.668] [info]  [01:04:27] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-72.31, y=-1.86, z=-22.68] does not have attribute null
+[2024-06-16 01:04:28.164] [info]  [01:04:28] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-72.39, y=-2.50, z=-23.25] does not have attribute null
+[2024-06-16 01:04:28.668] [info]  [01:04:28] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-74.44, y=-1.70, z=-24.27] does not have attribute null
+[2024-06-16 01:04:29.163] [info]  [01:04:29] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-73.09, y=-2.50, z=-23.67] does not have attribute null
+[2024-06-16 01:04:29.526] [info]  [01:04:29] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-71.38, y=-1.75, z=-22.28] does not have attribute null
+[2024-06-16 01:04:29.668] [info]  [01:04:29] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-72.47, y=-1.03, z=-22.93] does not have attribute null
+[2024-06-16 01:04:30.165] [info]  [01:04:30] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-75.18, y=-2.29, z=-24.08] does not have attribute null
+[2024-06-16 01:04:30.563] [info]  [01:04:30] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-74.02, y=-1.32, z=-23.37] does not have attribute null
+[2024-06-16 01:04:30.723] [info]  [01:04:30] [Render thread/WARN]: Entity RemotePlayer['MengRetune'/119113, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:04:31.908] [info]  [01:04:31] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-71.00, y=-1.98, z=-20.80] does not have attribute null
+[2024-06-16 01:04:32.411] [info]  [01:04:32] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-70.94, y=-1.75, z=-21.14] does not have attribute null
+[2024-06-16 01:04:32.965] [info]  [01:04:32] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-71.01, y=-1.83, z=-21.97] does not have attribute null
+[2024-06-16 01:04:34.166] [info]  [01:04:34] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-72.63, y=-2.50, z=-23.24] does not have attribute null
+[2024-06-16 01:04:34.961] [info]  [01:04:34] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-72.80, y=-2.38, z=-24.62] does not have attribute null
+[2024-06-16 01:04:35.465] [info]  [01:04:35] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-72.74, y=-1.70, z=-24.54] does not have attribute null
+[2024-06-16 01:04:36.013] [info]  [01:04:36] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-72.75, y=-1.48, z=-24.29] does not have attribute null
+[2024-06-16 01:04:36.669] [info]  [01:04:36] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-72.59, y=-1.70, z=-24.23] does not have attribute null
+[2024-06-16 01:04:36.670] [info]  [01:04:36] [Render thread/INFO]: [System] [CHAT] Healed by CONSOLE.
+[2024-06-16 01:04:36.670] [info]  [01:04:36] [Render thread/INFO]: [System] [CHAT] hengisking was slain by MengHong001
+[2024-06-16 01:04:36.720] [info]  [01:04:36] [Render thread/WARN]: Entity RemotePlayer['hengisking'/119112, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:04:37.711] [info]  [01:04:37] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛYou are not in combat anymore and allowed to quit.
+[2024-06-16 01:04:40.234] [info]  [01:04:40] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛMengRetune is now in combat with you so do not quit.
+[2024-06-16 01:04:40.235] [info]  [01:04:40] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-70.18, y=-3.00, z=-14.31] does not have attribute null
+[2024-06-16 01:04:40.721] [info]  [01:04:40] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-71.03, y=-3.00, z=-14.20] does not have attribute null
+[2024-06-16 01:04:41.217] [info]  [01:04:41] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-70.73, y=-1.98, z=-11.92] does not have attribute null
+[2024-06-16 01:04:41.235] [info]  [01:04:41] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-70.69, y=-2.20, z=-11.72] does not have attribute null
+[2024-06-16 01:04:41.721] [info]  [01:04:41] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-70.39, y=-1.82, z=-14.25] does not have attribute null
+[2024-06-16 01:04:42.225] [info]  [01:04:42] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-70.45, y=-1.75, z=-12.51] does not have attribute null
+[2024-06-16 01:04:42.318] [info]  [01:04:42] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-70.52, y=-1.75, z=-12.27] does not have attribute null
+[2024-06-16 01:04:42.713] [info]  [01:04:42] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-70.68, y=-3.00, z=-13.56] does not have attribute null
+[2024-06-16 01:04:42.888] [info]  [01:04:42] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-70.08, y=-3.00, z=-12.96] does not have attribute null
+[2024-06-16 01:04:43.217] [info]  [01:04:43] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-70.68, y=-2.09, z=-13.05] does not have attribute null
+[2024-06-16 01:04:43.719] [info]  [01:04:43] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-69.35, y=-3.00, z=-12.67] does not have attribute null
+[2024-06-16 01:04:44.215] [info]  [01:04:44] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-68.50, y=-2.50, z=-11.47] does not have attribute null
+[2024-06-16 01:04:44.325] [info]  [01:04:44] [Render thread/WARN]: Entity RemotePlayer['hengisking'/119112, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:04:44.718] [info]  [01:04:44] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-68.73, y=-1.98, z=-10.14] does not have attribute null
+[2024-06-16 01:04:44.828] [info]  [01:04:44] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-68.85, y=-2.88, z=-9.79] does not have attribute null
+[2024-06-16 01:04:45.324] [info]  [01:04:45] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-69.66, y=-2.20, z=-10.29] does not have attribute null
+[2024-06-16 01:04:45.376] [info]  [01:04:45] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-69.63, y=-2.50, z=-10.21] does not have attribute null
+[2024-06-16 01:04:45.813] [info]  [01:04:45] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-69.36, y=-1.75, z=-10.98] does not have attribute null
+[2024-06-16 01:04:46.317] [info]  [01:04:46] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-68.71, y=-1.83, z=-10.17] does not have attribute null
+[2024-06-16 01:04:46.813] [info]  [01:04:46] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-68.51, y=-3.00, z=-8.42] does not have attribute null
+[2024-06-16 01:04:47.317] [info]  [01:04:47] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-68.28, y=-3.00, z=-5.80] does not have attribute null
+[2024-06-16 01:04:47.476] [info]  [01:04:47] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-68.67, y=-2.25, z=-4.74] does not have attribute null
+[2024-06-16 01:04:47.965] [info]  [01:04:47] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-69.32, y=-1.46, z=-8.29] does not have attribute null
+[2024-06-16 01:04:48.462] [info]  [01:04:48] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-69.03, y=-3.00, z=-7.45] does not have attribute null
+[2024-06-16 01:04:48.522] [info]  [01:04:48] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-68.93, y=-3.00, z=-6.96] does not have attribute null
+[2024-06-16 01:04:48.968] [info]  [01:04:48] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-69.47, y=-2.42, z=-7.56] does not have attribute null
+[2024-06-16 01:04:49.975] [info]  [01:04:49] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-68.80, y=-2.88, z=-4.01] does not have attribute null
+[2024-06-16 01:04:51.168] [info]  [01:04:51] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-67.23, y=-2.50, z=-1.74] does not have attribute null
+[2024-06-16 01:04:52.017] [info]  [01:04:52] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-66.49, y=-2.00, z=-0.97] does not have attribute null
+[2024-06-16 01:04:52.966] [info]  [01:04:52] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-67.83, y=-3.00, z=-2.64] does not have attribute null
+[2024-06-16 01:04:53.720] [info]  [01:04:53] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-65.81, y=-3.00, z=-2.03] does not have attribute null
+[2024-06-16 01:04:55.265] [info]  [01:04:55] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-67.29, y=-1.75, z=-0.20] does not have attribute null
+[2024-06-16 01:04:56.966] [info]  [01:04:56] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-63.65, y=-3.00, z=-4.22] does not have attribute null
+[2024-06-16 01:04:57.226] [info]  [01:04:57] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-63.89, y=-3.00, z=-2.75] does not have attribute null
+[2024-06-16 01:04:58.884] [info]  [01:04:58] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-64.75, y=-3.00, z=0.25] does not have attribute null
+[2024-06-16 01:04:59.731] [info]  [01:04:59] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-65.09, y=-1.82, z=0.27] does not have attribute null
+[2024-06-16 01:05:00.379] [info]  [01:05:00] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-64.30, y=-1.82, z=-1.90] does not have attribute null
+[2024-06-16 01:05:00.925] [info]  [01:05:00] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-63.47, y=-1.83, z=-3.40] does not have attribute null
+[2024-06-16 01:05:00.967] [info]  [01:05:00] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-63.47, y=-1.83, z=-3.40] does not have attribute null
+[2024-06-16 01:05:01.981] [info]  [01:05:01] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-64.35, y=-2.58, z=-3.69] does not have attribute null
+[2024-06-16 01:05:02.923] [info]  [01:05:02] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-64.60, y=-3.00, z=-4.12] does not have attribute null
+[2024-06-16 01:05:02.924] [info]  [01:05:02] [Render thread/INFO]: [System] [CHAT] ᴄᴏᴍʙᴀᴛYou are not in combat anymore and allowed to quit.
+[2024-06-16 01:05:02.924] [info]  [01:05:02] [Render thread/INFO]: [System] [CHAT] MengHong001 was slain by MengRetune
+[2024-06-16 01:05:03.009] [info]  [01:05:03] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-64.22, y=-2.60, z=-4.71] does not have attribute null
+[2024-06-16 01:05:03.010] [info]  [01:05:03] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:05:03.010] [info]  [01:05:03] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:05:03.017] [info]  [01:05:03] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=-69.24, y=-3.00, z=0.73] does not have attribute null
+[2024-06-16 01:05:03.025] [info]  [01:05:03] [Render thread/INFO]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='dffa'} => NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-16 01:05:03.025] [info]  [01:05:03] [Render thread/INFO]: Destroying pipeline NamespacedId{namespace='minecraft', name='dffa'}
+[2024-06-16 01:05:03.025] [info]  [01:05:03] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-16 01:05:03.026] [info]  [01:05:03] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:05:03.028] [info]  [01:05:03] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:05:03.029] [info]  [01:05:03] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:05:03.031] [info]  [01:05:03] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:05:03.032] [info]  [01:05:03] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:05:03.034] [info]  [01:05:03] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:05:03.036] [info]  [01:05:03] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=30.52, y=114.00, z=48.36] does not have attribute null
+[2024-06-16 01:05:03.036] [info]  [01:05:03] [Render thread/WARN]: Entity LocalPlayer['MengHong001'/119115, l='ClientLevel', x=30.52, y=114.00, z=48.36] does not have attribute null
+[2024-06-16 01:05:06.494] [info]  [01:05:06] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:05:20.107] [info]  [01:05:20] [Render thread/INFO]: Connecting to makongmc.lol, 25565
+[2024-06-16 01:05:21.695] [info]  [01:05:21] [Render thread/INFO]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='overworld'} => NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-16 01:05:21.696] [info]  [01:05:21] [Render thread/INFO]: Destroying pipeline NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-16 01:05:21.696] [info]  [01:05:21] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-16 01:05:21.699] [info]  [01:05:21] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:05:21.703] [info]  [01:05:21] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:05:21.707] [info]  [01:05:21] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:05:21.709] [info]  [01:05:21] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:05:21.722] [info]  [01:05:21] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:05:21.724] [info]  [01:05:21] [Render thread/INFO]: [System] [CHAT] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 
+[2024-06-16 01:05:21.876] [info]  [01:05:21] [Render thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:entity_type] are present in data pack: minecraft:can_breathe_under_water, minecraft:non_controlling_rider, minecraft:undead, minecraft:zombies
+[2024-06-16 01:05:21.879] [info]  [01:05:21] [Render thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: minecraft:all_hanging_signs, minecraft:bamboo_blocks, minecraft:camel_sand_step_sound_blocks, minecraft:ceiling_hanging_signs, minecraft:cherry_logs, minecraft:combination_step_sound_blocks, minecraft:concrete_powder, minecraft:enchantment_power_provider, minecraft:enchantment_power_transmitter, minecraft:maintains_farmland, minecraft:replaceable, minecraft:replaceable_by_trees, minecraft:sniffer_diggable_block, minecraft:sniffer_egg_hatch_boost, minecraft:stone_buttons, minecraft:trail_ruins_replaceable, minecraft:vibration_resonators, minecraft:wall_hanging_signs
+[2024-06-16 01:05:21.881] [info]  [01:05:21] [Render thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: minecraft:bamboo_blocks, minecraft:bookshelf_books, minecraft:breaks_decorated_pots, minecraft:cherry_logs, minecraft:decorated_pot_ingredients, minecraft:decorated_pot_sherds, minecraft:hanging_signs, minecraft:noteblock_top_instruments, minecraft:sniffer_food, minecraft:stone_buttons, minecraft:trim_materials, minecraft:trim_templates, minecraft:trimmable_armor, minecraft:villager_plantable_seeds
+[2024-06-16 01:05:22.160] [info]  [01:05:22] [Render thread/INFO]: Loaded 10 advancements
+[2024-06-16 01:05:22.160] [info]  [01:05:22] [Render thread/WARN]: Unknown custom packed identifier: worldedit:cui
+[2024-06-16 01:05:22.161] [info]  [01:05:22] [Render thread/INFO]: [System] [CHAT] Use the command /login <password>.
+[2024-06-16 01:05:25.743] [info]  [01:05:25] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:05:31.637] [info]  [01:05:31] [Render thread/INFO]: [STDERR]: Can't translate key 1
+[2024-06-16 01:05:32.936] [info]  [01:05:32] [Render thread/INFO]: [STDERR]: Can't translate key 1
+[2024-06-16 01:05:59.265] [info]  [01:05:59] [Render thread/INFO]: Connecting to makongmc.lol, 25565
+[2024-06-16 01:06:00.392] [info]  [01:06:00] [Render thread/INFO]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='overworld'} => NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-16 01:06:00.392] [info]  [01:06:00] [Render thread/INFO]: Destroying pipeline NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-16 01:06:00.392] [info]  [01:06:00] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-16 01:06:00.395] [info]  [01:06:00] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:06:00.398] [info]  [01:06:00] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:06:00.401] [info]  [01:06:00] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:06:00.404] [info]  [01:06:00] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:06:00.407] [info]  [01:06:00] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:06:00.408] [info]  [01:06:00] [Render thread/INFO]: [System] [CHAT] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 
+[2024-06-16 01:06:00.449] [info]  [01:06:00] [Render thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:entity_type] are present in data pack: minecraft:can_breathe_under_water, minecraft:non_controlling_rider, minecraft:undead, minecraft:zombies
+[2024-06-16 01:06:00.450] [info]  [01:06:00] [Render thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: minecraft:all_hanging_signs, minecraft:bamboo_blocks, minecraft:camel_sand_step_sound_blocks, minecraft:ceiling_hanging_signs, minecraft:cherry_logs, minecraft:combination_step_sound_blocks, minecraft:concrete_powder, minecraft:enchantment_power_provider, minecraft:enchantment_power_transmitter, minecraft:maintains_farmland, minecraft:replaceable, minecraft:replaceable_by_trees, minecraft:sniffer_diggable_block, minecraft:sniffer_egg_hatch_boost, minecraft:stone_buttons, minecraft:trail_ruins_replaceable, minecraft:vibration_resonators, minecraft:wall_hanging_signs
+[2024-06-16 01:06:00.450] [info]  [01:06:00] [Render thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: minecraft:bamboo_blocks, minecraft:bookshelf_books, minecraft:breaks_decorated_pots, minecraft:cherry_logs, minecraft:decorated_pot_ingredients, minecraft:decorated_pot_sherds, minecraft:hanging_signs, minecraft:noteblock_top_instruments, minecraft:sniffer_food, minecraft:stone_buttons, minecraft:trim_materials, minecraft:trim_templates, minecraft:trimmable_armor, minecraft:villager_plantable_seeds
+[2024-06-16 01:06:00.610] [info]  [01:06:00] [Render thread/INFO]: Loaded 10 advancements
+[2024-06-16 01:06:00.611] [info]  [01:06:00] [Render thread/WARN]: Unknown custom packed identifier: worldedit:cui
+[2024-06-16 01:06:00.612] [info]  [01:06:00] [Render thread/INFO]: [System] [CHAT] Use the command /login <password>.
+[2024-06-16 01:06:02.691] [info]  [01:06:02] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:06:21.026] [info]  [01:06:21] [Render thread/INFO]: Connecting to mazersmp.com, 25565
+[2024-06-16 01:06:36.941] [info]  [01:06:36] [Render thread/INFO]: Connecting to mikitamc.ink, 25565
+[2024-06-16 01:06:37.918] [info]  [01:06:37] [Render thread/INFO]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='overworld'} => NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-16 01:06:37.919] [info]  [01:06:37] [Render thread/INFO]: Destroying pipeline NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-16 01:06:37.919] [info]  [01:06:37] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[2024-06-16 01:06:37.921] [info]  [01:06:37] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:06:37.925] [info]  [01:06:37] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:06:37.927] [info]  [01:06:37] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:06:37.929] [info]  [01:06:37] [Render thread/INFO]: [System] [CHAT] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 
+[2024-06-16 01:06:37.930] [info]  [01:06:37] [Render thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: minecraft:replaceable_plants
+[2024-06-16 01:06:38.083] [info]  [01:06:38] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:06:38.085] [info]  [01:06:38] [Render thread/INFO]: Started 10 worker threads
+[2024-06-16 01:06:38.116] [info]  [01:06:38] [Render thread/INFO]: [System] [CHAT] + MengHong001 Connected
+[2024-06-16 01:06:38.117] [info]  [01:06:38] [Render thread/INFO]: Loaded 12 advancements
+[2024-06-16 01:06:38.117] [info]  [01:06:38] [Render thread/INFO]: [System] [CHAT] +---------------***---------------+
+[2024-06-16 01:06:38.118] [info]  [01:06:38] [Render thread/INFO]: [System] [CHAT] 
+[2024-06-16 01:06:38.118] [info]  [01:06:38] [Render thread/INFO]: [System] [CHAT]     Welcome, MengHong001 to the server
+[2024-06-16 01:06:38.118] [info]  [01:06:38] [Render thread/INFO]: [System] [CHAT] 
+[2024-06-16 01:06:38.118] [info]  [01:06:38] [Render thread/INFO]: [System] [CHAT]   WEBSITE www.examplemc.net
+[2024-06-16 01:06:38.119] [info]  [01:06:38] [Render thread/INFO]: [System] [CHAT]   STORE store.examplemc.net
+[2024-06-16 01:06:38.119] [info]  [01:06:38] [Render thread/INFO]: [System] [CHAT]   DISCORD discord.examplemc.net
+[2024-06-16 01:06:38.119] [info]  [01:06:38] [Render thread/INFO]: [System] [CHAT] 
+[2024-06-16 01:06:38.119] [info]  [01:06:38] [Render thread/INFO]: [System] [CHAT]             Powered By DeluxeHub
+[2024-06-16 01:06:38.119] [info]  [01:06:38] [Render thread/INFO]: [System] [CHAT] +---------------***---------------+
+[2024-06-16 01:06:38.155] [info]  [01:06:38] [Render thread/WARN]: Unknown custom packed identifier: worldedit:cui
+[2024-06-16 01:06:40.986] [info]  [01:06:40] [Render thread/INFO]: Stopping worker threads
+[2024-06-16 01:06:42.768] [info]  [01:06:42] [Render thread/INFO]: Stopping!
+[2024-06-16 01:06:42.769] [info]  [01:06:42] [WebSocketConnectReadThread-125/INFO]: [LC IPC] Connection closed (1000, "")

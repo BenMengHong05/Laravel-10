@@ -1,0 +1,949 @@
+[2024-06-22 21:54:12.672] [error] NOTE: Picked up JDK_JAVA_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-22 21:54:12.676] [error] Picked up JAVA_TOOL_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-22 21:54:12.676] [error] Picked up _JAVA_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-22 21:54:12.878] [info]  [21:54:12] [Genesis/main/INFO] Found external file: Fabric-API-v1_21_0-0.100.1.jar
+[2024-06-22 21:54:12.881] [info]  [21:54:12] [Genesis/main/
+[2024-06-22 21:54:12.882] [info]  INFO] Found external file: Sodium-v1_21_0-0.5.9.jar
+[2024-06-22 21:54:12.883] [info]  [21:54:12] [Genesis/main/INFO] Found external file: Iris-v1_21_0-1.7.1.jar
+[2024-06-22 21:54:12.883] [info]  [21:54:12] [Genesis/main/INFO] Found external file: hypixel-quickplay-data.json
+[2024-06-22 21:54:12.883] [info]  [21:54:12] [Genesis/main/INFO] Found external file: hypixel-bedwars-data.json
+[2024-06-22 21:54:12.884] [info]  [21:54:12] [Genesis/main/INFO] Found external file: hypixel-skyblock-dungeon-rooms.json
+[2024-06-22 21:54:12.937] [info]  [21:54:12] [Genesis/main/INFO] Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 066b048ed2b02a814af31aa987e7b5d0e0f61bcc
+[2024-06-22 21:54:12.938] [info]  [21:54:12] [Genesis/main/INFO
+[2024-06-22 21:54:12.938] [info]  ] Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 28a38ca2951a5a3d14864038fd7c0b14d854cc00
+[2024-06-22 21:54:12.949] [info]  [21:54:12] [Genesis/main/INFO] Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 5acb844b73c492e6a58653cfa9a89eea9fc74e0f
+[2024-06-22 21:54:12.950] [info]  [21:54:12] [Genesis/main/INFO] 
+[2024-06-22 21:54:12.951] [info]  Found classpath URL: lunar-lang.jar with SHA-1 hash b62ace71a2e3fbe72c5c5d98781a4a1099a178f4
+[2024-06-22 21:54:12.951] [info]  [21:54:12] [Genesis/main/INFO] Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+[2024-06-22 21:54:12.986] [info]  [21:54:12] [Genesis/main/INFO] Found classpath URL: lunar.jar with SHA-1 hash cba1e212029224212287e9a05651b905c1f712cd
+[2024-06-22 21:54:12.998] [info]  [21:54:12] [Genesis/main/INFO] Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash bb19e620daa7014ce79b156bad89e8de16a8b6ce
+[2024-06-22 21:54:13.000] [info]  [21:54:12] [Genesis/main
+[2024-06-22 21:54:13.001] [info]  /INFO] Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 74d30060a1f6851320b9bba9c70c2b7fd256f0eb
+[2024-06-22 21:54:13.636] [info]  [21:54:13] [Genesis/main/INFO] Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+[2024-06-22 21:54:13.710] [info]  [21:54:13] [Genesis/GameBootstrap/main/INFO] Launching Minecraft 1.21 v1_21_0 (parsed from 1.21)
+[2024-06-22 21:54:14.308] [info]  [21:54:14] [Ichor+Fabric/main/INFO] Using custom local mod path: C:\Users\Asus\.lunarclient\profiles\9805af22-4032-42a9-91ec-97e451c42727\mods
+[2024-06-22 21:54:18.231] [info]  [21:54:18] [Ichor/main/WARN] Fabric Mod indium is missing an external file!
+[2024-06-22 21:54:18.251] [info]  LUNARCLIENT_STATUS_PREINIT
+[2024-06-22 21:54:18.251] [info]  [
+[2024-06-22 21:54:18.252] [info]  21:54:18] [Genesis/GameBootstrap/main/INFO] Starting game!
+[2024-06-22 21:54:18.687] [info]  [21:54:18] [IchorPipeline/main/INFO] Built mapping set for com.moonsworth.lunar.ichor.CRCIRCHCIOCCIHRCHCHOHICRI.RHOCIORRHROCOHOOCRHHRRHCI.IHCRIIIICOROROOCCIHHHHCRI.RHCRCHHICCCIIHIIIHIIRROOO 292ms on thread main
+[2024-06-22 21:54:19.088] [info]  [21:54:19] [IchorPipeline/main/INFO] Loading Mixin runtime for META_MIXIN
+[2024-06-22 21:54:19.309] [info]  [21:54:19] [Ichor/mixin(META_MIXIN)/INFO] SpongePowered MIXIN Subsystem Version=0.8.5 Source=Unknown Service=Ichor Env=CLIENT
+[2024-06-22 21:54:19.986] [info]  [21:54:19] [IchorPipeline/main/INFO] Loading Mixin runtime for MIXIN
+[2024-06-22 21:54:20.525] [info]  [21:54:20] [Ichor/mixin(MIXIN)/INFO] SpongePowered MIXIN Subsystem Version=0.8.5 Source=Unknown Service=Ichor Env=CLIENT
+[2024-06-22 21:54:21.277] [info]  [21:54:21] [IchorPipeline/main/INFO] Done loading Mixin runtimes in 2189ms
+[2024-06-22 21:54:21.278] [info]  
+[2024-06-22 21:54:21.278] [info]  [21:54:21] [IchorPipeline/main/INFO] Setting up mixins for META_MIXIN
+[2024-06-22 21:54:21.382] [info]  [21:54:21] [IchorPipeline/main/INFO] Setting up mixins for MIXIN
+[2024-06-22 21:54:21.383] [info]  [21:54:21] [Ichor/main/INFO
+[2024-06-22 21:54:21.384] [info]  ] Mixin config mixins.modern.json doesn't exist in IchorClassLoader(MIXIN)
+[2024-06-22 21:54:21.384] [info]  [21:54:21] [Ichor/main/INFO] Mixin config mixins.modern_lunar.json doesn't exist in IchorClassLoader(MIXIN)
+[2024-06-22 21:54:21.710] [info]  [21:54:21] [IchorPipeline/main/INFO] Done registering Mixins in 433ms
+[2024-06-22 21:54:21.711] [info]  [21:54:21] [IchorPipeline/main/INFO] Going to default mixins stage for META_MIXIN
+[2024-06-22 21:54:22.468] [info]  [21:54:22] [IchorPipeline/main/INFO] Going to default mixins stage for MIXIN
+[2024-06-22 21:54:23.566] [info]  [21:54:23] [main/INFO]: Loaded configuration file for Sodium: 42 options available, 3 override(s) found
+[2024-06-22 21:54:23.721] [info]  [21:54:23] [main/INFO]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
+[2024-06-22 21:54:30.188] [info]  [21:54:30] [Ichor/MixinExtras|Service(META_MIXIN)/INFO] Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[2024-06-22 21:54:31.469] [info]  [21:54:31] [main/WARN]: Force-disabling mixin 'features.render.entity.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-06-22 21:54:31.470] [info]  [21:54:31] [main/WARN]: Force-disabling mixin 'features.render.entity.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-06-22 21:54:31.472] [info]  [21:54:31] [main/WARN]: Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-06-22 21:54:31.475] [info]  [21:54:31] [main/WARN]: Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-06-22 21:54:31.476] [info]  [21:54:31] [main/WARN]: Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [iris]) disables it and children
+[2024-06-22 21:54:31.498] [info]  [21:54:31] [main/WARN]: Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[2024-06-22 21:54:31.499] [info]  [21:54:31] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[2024-06-22 21:54:31.501] [info]  [21:54:31] [main/WARN]: Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[2024-06-22 21:54:31.990] [info]  [21:54:31] [IchorPipeline/main/INFO] Mixin runtimes prepared in 10280ms
+[2024-06-22 21:54:31.991] [info]  [21:54:31] [IchorPipeline
+[2024-06-22 21:54:31.991] [info]  /main/INFO] Initialized Mixin in 12903ms
+[2024-06-22 21:54:31.994] [info]  [21:54:31] [Ichor/MixinExtras|Service(MIXIN)/INFO] Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[2024-06-22 21:54:32.885] [info]  [Bridge] Setting Bridge Implementation to com.moonsworth.lunar.IIIICORICOICIRRHCHIIHROIC.IOCOHCCRCOHRICRRHOOICHIHO
+[2024-06-22 21:54:34.502] [info]  [Bridge] Found textures dir: C:\Users\Asus\.lunarclient\textures
+[2024-06-22 21:54:35.673] [info]  [21:54:35] [Datafixer Bootstrap/INFO]: 226 Datafixer optimizations took 339 milliseconds
+[2024-06-22 21:54:42.062] [info]  [21:54:42] [main/INFO]: Completely ignored arguments: [--workingDirectory, ., --webosrDir, C:\Users\Asus\.lunarclient\offline\multiver\natives, --classpathDir, ., --ichorExternalFiles, Fabric-API-v1_21_0-0.100.1.jar,Sodium-v1_21_0-0.5.9.jar,Iris-v1_21_0-1.7.1.jar,hypixel-quickplay-data.json,hypixel-bedwars-data.json,hypixel-skyblock-dungeon-rooms.json, --ichorClassPath, common-0.1.0-SNAPSHOT-all.jar,lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar,genesis-0.1.0-SNAPSHOT-all.jar,lunar-lang.jar,lunar-emote.jar,lunar.jar,modern-0.1.0-SNAPSHOT-all.jar,lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar, --uiDir, C:\Users\Asus\.lunarclient\ui]
+[2024-06-22 21:54:42.647] [info]  [21:54:42] [IchorPipeline/
+[2024-06-22 21:54:42.648] [info]  Render thread/INFO] Launching main ModInitializer
+[2024-06-22 21:54:42.648] [info]  [21:54:42] [IchorPipeline/Render thread/INFO] Launching Entrypoint(main) in Genesis
+[2024-06-22 21:54:42.648] [info]  [21:54:42] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.networking.CommonPacketsImpl::init()
+[2024-06-22 21:54:42.649] [info]  
+[2024-06-22 21:54:42.718] [info]  [21:54:42] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.networking.NetworkingImpl::init()
+[2024-06-22 21:54:42.721] [info]  [21:54:42] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.resource.conditions.ResourceConditionsImpl
+[2024-06-22 21:54:42.738] [info]  [21:54:42] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.tag.convention.v2.TranslationConventionLogWarnings
+[2024-06-22 21:54:42.740] [info]  [21:54:42] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.tag.convention.ConventionLogWarnings
+[2024-06-22 21:54:42.764] [info]  [21:54:42] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.event.lifecycle.LifecycleEventsImpl
+[2024-06-22 21:54:42.769] [info]  [21:54:42] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.command.v1.LegacyHandler
+[2024-06-22 21:54:42.776] [info]  [21:54:42] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.lookup.ApiLookupImpl
+[2024-06-22 21:54:42.786] [info]  [21:54:42] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.registry.sync.FabricRegistryInit
+[2024-06-22 21:54:42.790] [info]  [21:54:42] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.screenhandler.Networking
+[2024-06-22 21:54:42.793] [info]  [21:54:42] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.recipe.ingredient.CustomIngredientInit
+[2024-06-22 21:54:42.807] [info]  [21:54:42] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.recipe.ingredient.CustomIngredientSync
+[2024-06-22 21:54:42.810] [info]  [21:54:42] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.attachment.AttachmentEntrypoint
+[2024-06-22 21:54:42.818] [info]  [21:54:42] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.event.interaction.InteractionEventsRouter
+[2024-06-22 21:54:42.824] [info]  [21:54:42] [IchorPipeline/Render thread/INFO] Entrypoint(main) had 12 invokes.
+[2024-06-22 21:54:42.825] [info]  [
+[2024-06-22 21:54:42.825] [info]  21:54:42] [IchorPipeline/Render thread/INFO] Launching client ClientModInitializer
+[2024-06-22 21:54:42.825] [info]  [21:54:42] [IchorPipeline/Render thread/INFO] Launching Entrypoint(client) in Genesis
+[2024-06-22 21:54:42.825] [info]  [21:54:42] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.networking.client.ClientNetworkingImpl::clientInit()
+[2024-06-22 21:54:43.004] [info]  [21:54:43] [Ichor/Render thread/INFO] Found Entrypoint(client) dev.isxander.zoomify.Zoomify
+[2024-06-22 21:54:43.094] [info]  [21:54:43] [Render thread/ERROR]: Failed to decode entry initialZoom: No key initialZoom in MapLike[{"zoomify_gui_category_behaviour":{"zoomify_gui_initialzoom_name":4,"zoomify_gui_zoomintime_name":1.0,"zoomify_gui_zoomouttime_name":0.5,"zoomify_gui_zoomintransition_name":12,"zoomify_gui_zoomouttransition_name":12,"zoomify_gui_affecthandfov_name":true,"zoomify_gui_retainzoomsteps_name":false},"zoomify_gui_category_scrolling":{"zoomify_gui_scrollzoom_name":true,"zoomify_gui_scrollzoomamount_name":3,"zoomify_gui_scrollzoomsmoothness_name":70,"zoomify_gui_linearlikesteps_name":true},"zoomify_gui_category_controls":{"zoomify_gui_zoomkeybehaviour_name":0,"zoomify_gui_keybindscrolling_name":false,"zoomify_gui_relativesensitivity_name":100,"zoomify_gui_relativeviewbobbing_name":true,"zoomify_gui_cinematiccam_name":0},"zoomify_gui_category_spyglass":{"zoomify_gui_spyglassbehaviour_name":0,"zoomify_gui_spyglassoverlayvisibility_name":1,"zoomify_gui_spyglasssoundbehaviour_name":3},"zoomify_gui_category_secondary":{"zoomify_gui_secondaryzoomamount_name":4,"zoomify_gui_secondaryzoomintime_name":10.0,"zoomify_gui_secondaryzoomouttime_name":1.0,"zoomify_gui_secondaryzoomhidehudonzoom_name":true}}]
+[2024-06-22 21:54:43.095] [info]  [21:54:43] [Render thread/ERROR]: Failed to decode entry zoomInTime: No key zoomInTime in MapLike[{"zoomify_gui_category_behaviour":{"zoomify_gui_initialzoom_name":4,"zoomify_gui_zoomintime_name":1.0,"zoomify_gui_zoomouttime_name":0.5,"zoomify_gui_zoomintransition_name":12,"zoomify_gui_zoomouttransition_name":12,"zoomify_gui_affecthandfov_name":true,"zoomify_gui_retainzoomsteps_name":false},"zoomify_gui_category_scrolling":{"zoomify_gui_scrollzoom_name":true,"zoomify_gui_scrollzoomamount_name":3,"zoomify_gui_scrollzoomsmoothness_name":70,"zoomify_gui_linearlikesteps_name":true},"zoomify_gui_category_controls":{"zoomify_gui_zoomkeybehaviour_name":0,"zoomify_gui_keybindscrolling_name":false,"zoomify_gui_relativesensitivity_name":100,"zoomify_gui_relativeviewbobbing_name":true,"zoomify_gui_cinematiccam_name":0},"zoomify_gui_category_spyglass":{"zoomify_gui_spyglassbehaviour_name":0,"zoomify_gui_spyglassoverlayvisibility_name":1,"zoomify_gui_spyglasssoundbehaviour_name":3},"zoomify_gui_category_secondary":{"zoomify_gui_secondaryzoomamount_name":4,"zoomify_gui_secondaryzoomintime_name":10.0,"zoomify_gui_secondaryzoomouttime_name":1.0,"zoomify_gui_secondaryzoomhidehudonzoom_name":true}}]
+[2024-06-22 21:54:43.095] [info]  [21:54:43] [Render thread/ERROR]: Failed to decode entry zoomOutTime: No key zoomOutTime in MapLike[{"zoomify_gui_category_behaviour":{"zoomify_gui_initialzoom_name":4,"zoomify_gui_zoomintime_name":1.0,"zoomify_gui_zoomouttime_name":0.5,"zoomify_gui_zoomintransition_name":12,"zoomify_gui_zoomouttransition_name":12,"zoomify_gui_affecthandfov_name":true,"zoomify_gui_retainzoomsteps_name":false},"zoomify_gui_category_scrolling":{"zoomify_gui_scrollzoom_name":true,"zoomify_gui_scrollzoomamount_name":3,"zoomify_gui_scrollzoomsmoothness_name":70,"zoomify_gui_linearlikesteps_name":true},"zoomify_gui_category_controls":{"zoomify_gui_zoomkeybehaviour_name":0,"zoomify_gui_keybindscrolling_name":false,"zoomify_gui_relativesensitivity_name":100,"zoomify_gui_relativeviewbobbing_name":true,"zoomify_gui_cinematiccam_name":0},"zoomify_gui_category_spyglass":{"zoomify_gui_spyglassbehaviour_name":0,"zoomify_gui_spyglassoverlayvisibility_name":1,"zoomify_gui_spyglasssoundbehaviour_name":3},"zoomify_gui_category_secondary":{"zoomify_gui_secondaryzoomamount_name":4,"zoomify_gui_secondaryzoomintime_name":10.0,"zoomify_gui_secondaryzoomouttime_name":1.0,"zoomify_gui_secondaryzoomhidehudonzoom_name":true}}]
+[2024-06-22 21:54:43.096] [info]  [21:54:43] [Render thread/ERROR]: Failed to decode entry zoomInTransition: No key zoomInTransition in MapLike[{"zoomify_gui_category_behaviour":{"zoomify_gui_initialzoom_name":4,"zoomify_gui_zoomintime_name":1.0,"zoomify_gui_zoomouttime_name":0.5,"zoomify_gui_zoomintransition_name":12,"zoomify_gui_zoomouttransition_name":12,"zoomify_gui_affecthandfov_name":true,"zoomify_gui_retainzoomsteps_name":false},"zoomify_gui_category_scrolling":{"zoomify_gui_scrollzoom_name":true,"zoomify_gui_scrollzoomamount_name":3,"zoomify_gui_scrollzoomsmoothness_name":70,"zoomify_gui_linearlikesteps_name":true},"zoomify_gui_category_controls":{"zoomify_gui_zoomkeybehaviour_name":0,"zoomify_gui_keybindscrolling_name":false,"zoomify_gui_relativesensitivity_name":100,"zoomify_gui_relativeviewbobbing_name":true,"zoomify_gui_cinematiccam_name":0},"zoomify_gui_category_spyglass":{"zoomify_gui_spyglassbehaviour_name":0,"zoomify_gui_spyglassoverlayvisibility_name":1,"zoomify_gui_spyglasssoundbehaviour_name":3},"zoomify_gui_category_secondary":{"zoomify_gui_secondaryzoomamount_name":4,"zoomify_gui_secondaryzoomintime_name":10.0,"zoomify_gui_secondaryzoomouttime_name":1.0,"zoomify_gui_secondaryzoomhidehudonzoom_name":true}}]
+[2024-06-22 21:54:43.096] [info]  [21:54:43] [Render thread/ERROR]: Failed to decode entry zoomOutTransition: No key zoomOutTransition in MapLike[{"zoomify_gui_category_behaviour":{"zoomify_gui_initialzoom_name":4,"zoomify_gui_zoomintime_name":1.0,"zoomify_gui_zoomouttime_name":0.5,"zoomify_gui_zoomintransition_name":12,"zoomify_gui_zoomouttransition_name":12,"zoomify_gui_affecthandfov_name":true,"zoomify_gui_retainzoomsteps_name":false},"zoomify_gui_category_scrolling":{"zoomify_gui_scrollzoom_name":true,"zoomify_gui_scrollzoomamount_name":3,"zoomify_gui_scrollzoomsmoothness_name":70,"zoomify_gui_linearlikesteps_name":true},"zoomify_gui_category_controls":{"zoomify_gui_zoomkeybehaviour_name":0,"zoomify_gui_keybindscrolling_name":false,"zoomify_gui_relativesensitivity_name":100,"zoomify_gui_relativeviewbobbing_name":true,"zoomify_gui_cinematiccam_name":0},"zoomify_gui_category_spyglass":{"zoomify_gui_spyglassbehaviour_name":0,"zoomify_gui_spyglassoverlayvisibility_name":1,"zoomify_gui_spyglasssoundbehaviour_name":3},"zoomify_gui_category_secondary":{"zoomify_gui_secondaryzoomamount_name":4,"zoomify_gui_secondaryzoomintime_name":10.0,"zoomify_gui_secondaryzoomouttime_name":1.0,"zoomify_gui_secondaryzoomhidehudonzoom_name":true}}]
+[2024-06-22 21:54:43.097] [info]  [21:54:43] [Render thread/ERROR]: Failed to decode entry affectHandFov: No key affectHandFov in MapLike[{"zoomify_gui_category_behaviour":{"zoomify_gui_initialzoom_name":4,"zoomify_gui_zoomintime_name":1.0,"zoomify_gui_zoomouttime_name":0.5,"zoomify_gui_zoomintransition_name":12,"zoomify_gui_zoomouttransition_name":12,"zoomify_gui_affecthandfov_name":true,"zoomify_gui_retainzoomsteps_name":false},"zoomify_gui_category_scrolling":{"zoomify_gui_scrollzoom_name":true,"zoomify_gui_scrollzoomamount_name":3,"zoomify_gui_scrollzoomsmoothness_name":70,"zoomify_gui_linearlikesteps_name":true},"zoomify_gui_category_controls":{"zoomify_gui_zoomkeybehaviour_name":0,"zoomify_gui_keybindscrolling_name":false,"zoomify_gui_relativesensitivity_name":100,"zoomify_gui_relativeviewbobbing_name":true,"zoomify_gui_cinematiccam_name":0},"zoomify_gui_category_spyglass":{"zoomify_gui_spyglassbehaviour_name":0,"zoomify_gui_spyglassoverlayvisibility_name":1,"zoomify_gui_spyglasssoundbehaviour_name":3},"zoomify_gui_category_secondary":{"zoomify_gui_secondaryzoomamount_name":4,"zoomify_gui_secondaryzoomintime_name":10.0,"zoomify_gui_secondaryzoomouttime_name":1.0,"zoomify_gui_secondaryzoomhidehudonzoom_name":true}}]
+[2024-06-22 21:54:43.097] [info]  [21:54:43] [Render thread/ERROR]: Failed to decode entry retainZoomSteps: No key retainZoomSteps in MapLike[{"zoomify_gui_category_behaviour":{"zoomify_gui_initialzoom_name":4,"zoomify_gui_zoomintime_name":1.0,"zoomify_gui_zoomouttime_name":0.5,"zoomify_gui_zoomintransition_name":12,"zoomify_gui_zoomouttransition_name":12,"zoomify_gui_affecthandfov_name":true,"zoomify_gui_retainzoomsteps_name":false},"zoomify_gui_category_scrolling":{"zoomify_gui_scrollzoom_name":true,"zoomify_gui_scrollzoomamount_name":3,"zoomify_gui_scrollzoomsmoothness_name":70,"zoomify_gui_linearlikesteps_name":true},"zoomify_gui_category_controls":{"zoomify_gui_zoomkeybehaviour_name":0,"zoomify_gui_keybindscrolling_name":false,"zoomify_gui_relativesensitivity_name":100,"zoomify_gui_relativeviewbobbing_name":true,"zoomify_gui_cinematiccam_name":0},"zoomify_gui_category_spyglass":{"zoomify_gui_spyglassbehaviour_name":0,"zoomify_gui_spyglassoverlayvisibility_name":1,"zoomify_gui_spyglasssoundbehaviour_name":3},"zoomify_gui_category_secondary":{"zoomify_gui_secondaryzoomamount_name":4,"zoomify_gui_secondaryzoomintime_name":10.0,"zoomify_gui_secondaryzoomouttime_name":1.0,"zoomify_gui_secondaryzoomhidehudonzoom_name":true}}]
+[2024-06-22 21:54:43.097] [info]  [21:54:43] [Render thread/ERROR]: Failed to decode entry linearLikeSteps: No key linearLikeSteps in MapLike[{"zoomify_gui_category_behaviour":{"zoomify_gui_initialzoom_name":4,"zoomify_gui_zoomintime_name":1.0,"zoomify_gui_zoomouttime_name":0.5,"zoomify_gui_zoomintransition_name":12,"zoomify_gui_zoomouttransition_name":12,"zoomify_gui_affecthandfov_name":true,"zoomify_gui_retainzoomsteps_name":false},"zoomify_gui_category_scrolling":{"zoomify_gui_scrollzoom_name":true,"zoomify_gui_scrollzoomamount_name":3,"zoomify_gui_scrollzoomsmoothness_name":70,"zoomify_gui_linearlikesteps_name":true},"zoomify_gui_category_controls":{"zoomify_gui_zoomkeybehaviour_name":0,"zoomify_gui_keybindscrolling_name":false,"zoomify_gui_relativesensitivity_name":100,"zoomify_gui_relativeviewbobbing_name":true,"zoomify_gui_cinematiccam_name":0},"zoomify_gui_category_spyglass":{"zoomify_gui_spyglassbehaviour_name":0,"zoomify_gui_spyglassoverlayvisibility_name":1,"zoomify_gui_spyglasssoundbehaviour_name":3},"zoomify_gui_category_secondary":{"zoomify_gui_secondaryzoomamount_name":4,"zoomify_gui_secondaryzoomintime_name":10.0,"zoomify_gui_secondaryzoomouttime_name":1.0,"zoomify_gui_secondaryzoomhidehudonzoom_name":true}}]
+[2024-06-22 21:54:43.098] [info]  [21:54:43] [Render thread/ERROR]: Failed to decode entry scrollZoom: No key scrollZoom in MapLike[{"zoomify_gui_category_behaviour":{"zoomify_gui_initialzoom_name":4,"zoomify_gui_zoomintime_name":1.0,"zoomify_gui_zoomouttime_name":0.5,"zoomify_gui_zoomintransition_name":12,"zoomify_gui_zoomouttransition_name":12,"zoomify_gui_affecthandfov_name":true,"zoomify_gui_retainzoomsteps_name":false},"zoomify_gui_category_scrolling":{"zoomify_gui_scrollzoom_name":true,"zoomify_gui_scrollzoomamount_name":3,"zoomify_gui_scrollzoomsmoothness_name":70,"zoomify_gui_linearlikesteps_name":true},"zoomify_gui_category_controls":{"zoomify_gui_zoomkeybehaviour_name":0,"zoomify_gui_keybindscrolling_name":false,"zoomify_gui_relativesensitivity_name":100,"zoomify_gui_relativeviewbobbing_name":true,"zoomify_gui_cinematiccam_name":0},"zoomify_gui_category_spyglass":{"zoomify_gui_spyglassbehaviour_name":0,"zoomify_gui_spyglassoverlayvisibility_name":1,"zoomify_gui_spyglasssoundbehaviour_name":3},"zoomify_gui_category_secondary":{"zoomify_gui_secondaryzoomamount_name":4,"zoomify_gui_secondaryzoomintime_name":10.0,"zoomify_gui_secondaryzoomouttime_name":1.0,"zoomify_gui_secondaryzoomhidehudonzoom_name":true}}]
+[2024-06-22 21:54:43.098] [info]  [21:54:43] [Render thread/ERROR]: Failed to decode entry scrollZoomAmount: No key scrollZoomAmount in MapLike[{"zoomify_gui_category_behaviour":{"zoomify_gui_initialzoom_name":4,"zoomify_gui_zoomintime_name":1.0,"zoomify_gui_zoomouttime_name":0.5,"zoomify_gui_zoomintransition_name":12,"zoomify_gui_zoomouttransition_name":12,"zoomify_gui_affecthandfov_name":true,"zoomify_gui_retainzoomsteps_name":false},"zoomify_gui_category_scrolling":{"zoomify_gui_scrollzoom_name":true,"zoomify_gui_scrollzoomamount_name":3,"zoomify_gui_scrollzoomsmoothness_name":70,"zoomify_gui_linearlikesteps_name":true},"zoomify_gui_category_controls":{"zoomify_gui_zoomkeybehaviour_name":0,"zoomify_gui_keybindscrolling_name":false,"zoomify_gui_relativesensitivity_name":100,"zoomify_gui_relativeviewbobbing_name":true,"zoomify_gui_cinematiccam_name":0},"zoomify_gui_category_spyglass":{"zoomify_gui_spyglassbehaviour_name":0,"zoomify_gui_spyglassoverlayvisibility_name":1,"zoomify_gui_spyglasssoundbehaviour_name":3},"zoomify_gui_category_secondary":{"zoomify_gui_secondaryzoomamount_name":4,"zoomify_gui_secondaryzoomintime_name":10.0,"zoomify_gui_secondaryzoomouttime_name":1.0,"zoomify_gui_secondaryzoomhidehudonzoom_name":true}}]
+[2024-06-22 21:54:43.098] [info]  [21:54:43] [Render thread/ERROR]: Failed to decode entry scrollZoomSmoothness: No key scrollZoomSmoothness in MapLike[{"zoomify_gui_category_behaviour":{"zoomify_gui_initialzoom_name":4,"zoomify_gui_zoomintime_name":1.0,"zoomify_gui_zoomouttime_name":0.5,"zoomify_gui_zoomintransition_name":12,"zoomify_gui_zoomouttransition_name":12,"zoomify_gui_affecthandfov_name":true,"zoomify_gui_retainzoomsteps_name":false},"zoomify_gui_category_scrolling":{"zoomify_gui_scrollzoom_name":true,"zoomify_gui_scrollzoomamount_name":3,"zoomify_gui_scrollzoomsmoothness_name":70,"zoomify_gui_linearlikesteps_name":true},"zoomify_gui_category_controls":{"zoomify_gui_zoomkeybehaviour_name":0,"zoomify_gui_keybindscrolling_name":false,"zoomify_gui_relativesensitivity_name":100,"zoomify_gui_relativeviewbobbing_name":true,"zoomify_gui_cinematiccam_name":0},"zoomify_gui_category_spyglass":{"zoomify_gui_spyglassbehaviour_name":0,"zoomify_gui_spyglassoverlayvisibility_name":1,"zoomify_gui_spyglasssoundbehaviour_name":3},"zoomify_gui_category_secondary":{"zoomify_gui_secondaryzoomamount_name":4,"zoomify_gui_secondaryzoomintime_name":10.0,"zoomify_gui_secondaryzoomouttime_name":1.0,"zoomify_gui_secondaryzoomhidehudonzoom_name":true}}]
+[2024-06-22 21:54:43.099] [info]  [21:54:43] [Render thread/ERROR]: Failed to decode entry zoomKeyBehaviour: No key zoomKeyBehaviour in MapLike[{"zoomify_gui_category_behaviour":{"zoomify_gui_initialzoom_name":4,"zoomify_gui_zoomintime_name":1.0,"zoomify_gui_zoomouttime_name":0.5,"zoomify_gui_zoomintransition_name":12,"zoomify_gui_zoomouttransition_name":12,"zoomify_gui_affecthandfov_name":true,"zoomify_gui_retainzoomsteps_name":false},"zoomify_gui_category_scrolling":{"zoomify_gui_scrollzoom_name":true,"zoomify_gui_scrollzoomamount_name":3,"zoomify_gui_scrollzoomsmoothness_name":70,"zoomify_gui_linearlikesteps_name":true},"zoomify_gui_category_controls":{"zoomify_gui_zoomkeybehaviour_name":0,"zoomify_gui_keybindscrolling_name":false,"zoomify_gui_relativesensitivity_name":100,"zoomify_gui_relativeviewbobbing_name":true,"zoomify_gui_cinematiccam_name":0},"zoomify_gui_category_spyglass":{"zoomify_gui_spyglassbehaviour_name":0,"zoomify_gui_spyglassoverlayvisibility_name":1,"zoomify_gui_spyglasssoundbehaviour_name":3},"zoomify_gui_category_secondary":{"zoomify_gui_secondaryzoomamount_name":4,"zoomify_gui_secondaryzoomintime_name":10.0,"zoomify_gui_secondaryzoomouttime_name":1.0,"zoomify_gui_secondaryzoomhidehudonzoom_name":true}}]
+[2024-06-22 21:54:43.099] [info]  [21:54:43] [Render thread/ERROR]: Failed to decode entry _keybindScrolling: No key _keybindScrolling in MapLike[{"zoomify_gui_category_behaviour":{"zoomify_gui_initialzoom_name":4,"zoomify_gui_zoomintime_name":1.0,"zoomify_gui_zoomouttime_name":0.5,"zoomify_gui_zoomintransition_name":12,"zoomify_gui_zoomouttransition_name":12,"zoomify_gui_affecthandfov_name":true,"zoomify_gui_retainzoomsteps_name":false},"zoomify_gui_category_scrolling":{"zoomify_gui_scrollzoom_name":true,"zoomify_gui_scrollzoomamount_name":3,"zoomify_gui_scrollzoomsmoothness_name":70,"zoomify_gui_linearlikesteps_name":true},"zoomify_gui_category_controls":{"zoomify_gui_zoomkeybehaviour_name":0,"zoomify_gui_keybindscrolling_name":false,"zoomify_gui_relativesensitivity_name":100,"zoomify_gui_relativeviewbobbing_name":true,"zoomify_gui_cinematiccam_name":0},"zoomify_gui_category_spyglass":{"zoomify_gui_spyglassbehaviour_name":0,"zoomify_gui_spyglassoverlayvisibility_name":1,"zoomify_gui_spyglasssoundbehaviour_name":3},"zoomify_gui_category_secondary":{"zoomify_gui_secondaryzoomamount_name":4,"zoomify_gui_secondaryzoomintime_name":10.0,"zoomify_gui_secondaryzoomouttime_name":1.0,"zoomify_gui_secondaryzoomhidehudonzoom_name":true}}]
+[2024-06-22 21:54:43.099] [info]  [21:54:43] [Render thread/ERROR]: Failed to decode entry relativeSensitivity: No key relativeSensitivity in MapLike[{"zoomify_gui_category_behaviour":{"zoomify_gui_initialzoom_name":4,"zoomify_gui_zoomintime_name":1.0,"zoomify_gui_zoomouttime_name":0.5,"zoomify_gui_zoomintransition_name":12,"zoomify_gui_zoomouttransition_name":12,"zoomify_gui_affecthandfov_name":true,"zoomify_gui_retainzoomsteps_name":false},"zoomify_gui_category_scrolling":{"zoomify_gui_scrollzoom_name":true,"zoomify_gui_scrollzoomamount_name":3,"zoomify_gui_scrollzoomsmoothness_name":70,"zoomify_gui_linearlikesteps_name":true},"zoomify_gui_category_controls":{"zoomify_gui_zoomkeybehaviour_name":0,"zoomify_gui_keybindscrolling_name":false,"zoomify_gui_relativesensitivity_name":100,"zoomify_gui_relativeviewbobbing_name":true,"zoomify_gui_cinematiccam_name":0},"zoomify_gui_category_spyglass":{"zoomify_gui_spyglassbehaviour_name":0,"zoomify_gui_spyglassoverlayvisibility_name":1,"zoomify_gui_spyglasssoundbehaviour_name":3},"zoomify_gui_category_secondary":{"zoomify_gui_secondaryzoomamount_name":4,"zoomify_gui_secondaryzoomintime_name":10.0,"zoomify_gui_secondaryzoomouttime_name":1.0,"zoomify_gui_secondaryzoomhidehudonzoom_name":true}}]
+[2024-06-22 21:54:43.099] [info]  [21:54:43] [Render thread/ERROR]: Failed to decode entry relativeViewBobbing: No key relativeViewBobbing in MapLike[{"zoomify_gui_category_behaviour":{"zoomify_gui_initialzoom_name":4,"zoomify_gui_zoomintime_name":1.0,"zoomify_gui_zoomouttime_name":0.5,"zoomify_gui_zoomintransition_name":12,"zoomify_gui_zoomouttransition_name":12,"zoomify_gui_affecthandfov_name":true,"zoomify_gui_retainzoomsteps_name":false},"zoomify_gui_category_scrolling":{"zoomify_gui_scrollzoom_name":true,"zoomify_gui_scrollzoomamount_name":3,"zoomify_gui_scrollzoomsmoothness_name":70,"zoomify_gui_linearlikesteps_name":true},"zoomify_gui_category_controls":{"zoomify_gui_zoomkeybehaviour_name":0,"zoomify_gui_keybindscrolling_name":false,"zoomify_gui_relativesensitivity_name":100,"zoomify_gui_relativeviewbobbing_name":true,"zoomify_gui_cinematiccam_name":0},"zoomify_gui_category_spyglass":{"zoomify_gui_spyglassbehaviour_name":0,"zoomify_gui_spyglassoverlayvisibility_name":1,"zoomify_gui_spyglasssoundbehaviour_name":3},"zoomify_gui_category_secondary":{"zoomify_gui_secondaryzoomamount_name":4,"zoomify_gui_secondaryzoomintime_name":10.0,"zoomify_gui_secondaryzoomouttime_name":1.0,"zoomify_gui_secondaryzoomhidehudonzoom_name":true}}]
+[2024-06-22 21:54:43.100] [info]  [21:54:43] [Render thread/ERROR]: Failed to decode entry cinematicCamera: No key cinematicCamera in MapLike[{"zoomify_gui_category_behaviour":{"zoomify_gui_initialzoom_name":4,"zoomify_gui_zoomintime_name":1.0,"zoomify_gui_zoomouttime_name":0.5,"zoomify_gui_zoomintransition_name":12,"zoomify_gui_zoomouttransition_name":12,"zoomify_gui_affecthandfov_name":true,"zoomify_gui_retainzoomsteps_name":false},"zoomify_gui_category_scrolling":{"zoomify_gui_scrollzoom_name":true,"zoomify_gui_scrollzoomamount_name":3,"zoomify_gui_scrollzoomsmoothness_name":70,"zoomify_gui_linearlikesteps_name":true},"zoomify_gui_category_controls":{"zoomify_gui_zoomkeybehaviour_name":0,"zoomify_gui_keybindscrolling_name":false,"zoomify_gui_relativesensitivity_name":100,"zoomify_gui_relativeviewbobbing_name":true,"zoomify_gui_cinematiccam_name":0},"zoomify_gui_category_spyglass":{"zoomify_gui_spyglassbehaviour_name":0,"zoomify_gui_spyglassoverlayvisibility_name":1,"zoomify_gui_spyglasssoundbehaviour_name":3},"zoomify_gui_category_secondary":{"zoomify_gui_secondaryzoomamount_name":4,"zoomify_gui_secondaryzoomintime_name":10.0,"zoomify_gui_secondaryzoomouttime_name":1.0,"zoomify_gui_secondaryzoomhidehudonzoom_name":true}}]
+[2024-06-22 21:54:43.100] [info]  [21:54:43] [Render thread/ERROR]: Failed to decode entry spyglassBehaviour: No key spyglassBehaviour in MapLike[{"zoomify_gui_category_behaviour":{"zoomify_gui_initialzoom_name":4,"zoomify_gui_zoomintime_name":1.0,"zoomify_gui_zoomouttime_name":0.5,"zoomify_gui_zoomintransition_name":12,"zoomify_gui_zoomouttransition_name":12,"zoomify_gui_affecthandfov_name":true,"zoomify_gui_retainzoomsteps_name":false},"zoomify_gui_category_scrolling":{"zoomify_gui_scrollzoom_name":true,"zoomify_gui_scrollzoomamount_name":3,"zoomify_gui_scrollzoomsmoothness_name":70,"zoomify_gui_linearlikesteps_name":true},"zoomify_gui_category_controls":{"zoomify_gui_zoomkeybehaviour_name":0,"zoomify_gui_keybindscrolling_name":false,"zoomify_gui_relativesensitivity_name":100,"zoomify_gui_relativeviewbobbing_name":true,"zoomify_gui_cinematiccam_name":0},"zoomify_gui_category_spyglass":{"zoomify_gui_spyglassbehaviour_name":0,"zoomify_gui_spyglassoverlayvisibility_name":1,"zoomify_gui_spyglasssoundbehaviour_name":3},"zoomify_gui_category_secondary":{"zoomify_gui_secondaryzoomamount_name":4,"zoomify_gui_secondaryzoomintime_name":10.0,"zoomify_gui_secondaryzoomouttime_name":1.0,"zoomify_gui_secondaryzoomhidehudonzoom_name":true}}]
+[2024-06-22 21:54:43.101] [info]  [21:54:43] [Render thread/ERROR]: Failed to decode entry spyglassOverlayVisibility: No key spyglassOverlayVisibility in MapLike[{"zoomify_gui_category_behaviour":{"zoomify_gui_initialzoom_name":4,"zoomify_gui_zoomintime_name":1.0,"zoomify_gui_zoomouttime_name":0.5,"zoomify_gui_zoomintransition_name":12,"zoomify_gui_zoomouttransition_name":12,"zoomify_gui_affecthandfov_name":true,"zoomify_gui_retainzoomsteps_name":false},"zoomify_gui_category_scrolling":{"zoomify_gui_scrollzoom_name":true,"zoomify_gui_scrollzoomamount_name":3,"zoomify_gui_scrollzoomsmoothness_name":70,"zoomify_gui_linearlikesteps_name":true},"zoomify_gui_category_controls":{"zoomify_gui_zoomkeybehaviour_name":0,"zoomify_gui_keybindscrolling_name":false,"zoomify_gui_relativesensitivity_name":100,"zoomify_gui_relativeviewbobbing_name":true,"zoomify_gui_cinematiccam_name":0},"zoomify_gui_category_spyglass":{"zoomify_gui_spyglassbehaviour_name":0,"zoomify_gui_spyglassoverlayvisibility_name":1,"zoomify_gui_spyglasssoundbehaviour_name":3},"zoomify_gui_category_secondary":{"zoomify_gui_secondaryzoomamount_name":4,"zoomify_gui_secondaryzoomintime_name":10.0,"zoomify_gui_secondaryzoomouttime_name":1.0,"zoomify_gui_secondaryzoomhidehudonzoom_name":true}}]
+[2024-06-22 21:54:43.101] [info]  [21:54:43] [Render thread/ERROR]: Failed to decode entry spyglassSoundBehaviour: No key spyglassSoundBehaviour in MapLike[{"zoomify_gui_category_behaviour":{"zoomify_gui_initialzoom_name":4,"zoomify_gui_zoomintime_name":1.0,"zoomify_gui_zoomouttime_name":0.5,"zoomify_gui_zoomintransition_name":12,"zoomify_gui_zoomouttransition_name":12,"zoomify_gui_affecthandfov_name":true,"zoomify_gui_retainzoomsteps_name":false},"zoomify_gui_category_scrolling":{"zoomify_gui_scrollzoom_name":true,"zoomify_gui_scrollzoomamount_name":3,"zoomify_gui_scrollzoomsmoothness_name":70,"zoomify_gui_linearlikesteps_name":true},"zoomify_gui_category_controls":{"zoomify_gui_zoomkeybehaviour_name":0,"zoomify_gui_keybindscrolling_name":false,"zoomify_gui_relativesensitivity_name":100,"zoomify_gui_relativeviewbobbing_name":true,"zoomify_gui_cinematiccam_name":0},"zoomify_gui_category_spyglass":{"zoomify_gui_spyglassbehaviour_name":0,"zoomify_gui_spyglassoverlayvisibility_name":1,"zoomify_gui_spyglasssoundbehaviour_name":3},"zoomify_gui_category_secondary":{"zoomify_gui_secondaryzoomamount_name":4,"zoomify_gui_secondaryzoomintime_name":10.0,"zoomify_gui_secondaryzoomouttime_name":1.0,"zoomify_gui_secondaryzoomhidehudonzoom_name":true}}]
+[2024-06-22 21:54:43.101] [info]  [21:54:43] [Render thread/ERROR]: Failed to decode entry secondaryZoomAmount: No key secondaryZoomAmount in MapLike[{"zoomify_gui_category_behaviour":{"zoomify_gui_initialzoom_name":4,"zoomify_gui_zoomintime_name":1.0,"zoomify_gui_zoomouttime_name":0.5,"zoomify_gui_zoomintransition_name":12,"zoomify_gui_zoomouttransition_name":12,"zoomify_gui_affecthandfov_name":true,"zoomify_gui_retainzoomsteps_name":false},"zoomify_gui_category_scrolling":{"zoomify_gui_scrollzoom_name":true,"zoomify_gui_scrollzoomamount_name":3,"zoomify_gui_scrollzoomsmoothness_name":70,"zoomify_gui_linearlikesteps_name":true},"zoomify_gui_category_controls":{"zoomify_gui_zoomkeybehaviour_name":0,"zoomify_gui_keybindscrolling_name":false,"zoomify_gui_relativesensitivity_name":100,"zoomify_gui_relativeviewbobbing_name":true,"zoomify_gui_cinematiccam_name":0},"zoomify_gui_category_spyglass":{"zoomify_gui_spyglassbehaviour_name":0,"zoomify_gui_spyglassoverlayvisibility_name":1,"zoomify_gui_spyglasssoundbehaviour_name":3},"zoomify_gui_category_secondary":{"zoomify_gui_secondaryzoomamount_name":4,"zoomify_gui_secondaryzoomintime_name":10.0,"zoomify_gui_secondaryzoomouttime_name":1.0,"zoomify_gui_secondaryzoomhidehudonzoom_name":true}}]
+[2024-06-22 21:54:43.102] [info]  [21:54:43] [Render thread/ERROR]: Failed to decode entry secondaryZoomInTime: No key secondaryZoomInTime in MapLike[{"zoomify_gui_category_behaviour":{"zoomify_gui_initialzoom_name":4,"zoomify_gui_zoomintime_name":1.0,"zoomify_gui_zoomouttime_name":0.5,"zoomify_gui_zoomintransition_name":12,"zoomify_gui_zoomouttransition_name":12,"zoomify_gui_affecthandfov_name":true,"zoomify_gui_retainzoomsteps_name":false},"zoomify_gui_category_scrolling":{"zoomify_gui_scrollzoom_name":true,"zoomify_gui_scrollzoomamount_name":3,"zoomify_gui_scrollzoomsmoothness_name":70,"zoomify_gui_linearlikesteps_name":true},"zoomify_gui_category_controls":{"zoomify_gui_zoomkeybehaviour_name":0,"zoomify_gui_keybindscrolling_name":false,"zoomify_gui_relativesensitivity_name":100,"zoomify_gui_relativeviewbobbing_name":true,"zoomify_gui_cinematiccam_name":0},"zoomify_gui_category_spyglass":{"zoomify_gui_spyglassbehaviour_name":0,"zoomify_gui_spyglassoverlayvisibility_name":1,"zoomify_gui_spyglasssoundbehaviour_name":3},"zoomify_gui_category_secondary":{"zoomify_gui_secondaryzoomamount_name":4,"zoomify_gui_secondaryzoomintime_name":10.0,"zoomify_gui_secondaryzoomouttime_name":1.0,"zoomify_gui_secondaryzoomhidehudonzoom_name":true}}]
+[2024-06-22 21:54:43.102] [info]  [21:54:43] [Render thread/ERROR]: Failed to decode entry secondaryZoomOutTime: No key secondaryZoomOutTime in MapLike[{"zoomify_gui_category_behaviour":{"zoomify_gui_initialzoom_name":4,"zoomify_gui_zoomintime_name":1.0,"zoomify_gui_zoomouttime_name":0.5,"zoomify_gui_zoomintransition_name":12,"zoomify_gui_zoomouttransition_name":12,"zoomify_gui_affecthandfov_name":true,"zoomify_gui_retainzoomsteps_name":false},"zoomify_gui_category_scrolling":{"zoomify_gui_scrollzoom_name":true,"zoomify_gui_scrollzoomamount_name":3,"zoomify_gui_scrollzoomsmoothness_name":70,"zoomify_gui_linearlikesteps_name":true},"zoomify_gui_category_controls":{"zoomify_gui_zoomkeybehaviour_name":0,"zoomify_gui_keybindscrolling_name":false,"zoomify_gui_relativesensitivity_name":100,"zoomify_gui_relativeviewbobbing_name":true,"zoomify_gui_cinematiccam_name":0},"zoomify_gui_category_spyglass":{"zoomify_gui_spyglassbehaviour_name":0,"zoomify_gui_spyglassoverlayvisibility_name":1,"zoomify_gui_spyglasssoundbehaviour_name":3},"zoomify_gui_category_secondary":{"zoomify_gui_secondaryzoomamount_name":4,"zoomify_gui_secondaryzoomintime_name":10.0,"zoomify_gui_secondaryzoomouttime_name":1.0,"zoomify_gui_secondaryzoomhidehudonzoom_name":true}}]
+[2024-06-22 21:54:43.102] [info]  [21:54:43] [Render thread/ERROR]: Failed to decode entry secondaryHideHUDOnZoom: No key secondaryHideHUDOnZoom in MapLike[{"zoomify_gui_category_behaviour":{"zoomify_gui_initialzoom_name":4,"zoomify_gui_zoomintime_name":1.0,"zoomify_gui_zoomouttime_name":0.5,"zoomify_gui_zoomintransition_name":12,"zoomify_gui_zoomouttransition_name":12,"zoomify_gui_affecthandfov_name":true,"zoomify_gui_retainzoomsteps_name":false},"zoomify_gui_category_scrolling":{"zoomify_gui_scrollzoom_name":true,"zoomify_gui_scrollzoomamount_name":3,"zoomify_gui_scrollzoomsmoothness_name":70,"zoomify_gui_linearlikesteps_name":true},"zoomify_gui_category_controls":{"zoomify_gui_zoomkeybehaviour_name":0,"zoomify_gui_keybindscrolling_name":false,"zoomify_gui_relativesensitivity_name":100,"zoomify_gui_relativeviewbobbing_name":true,"zoomify_gui_cinematiccam_name":0},"zoomify_gui_category_spyglass":{"zoomify_gui_spyglassbehaviour_name":0,"zoomify_gui_spyglassoverlayvisibility_name":1,"zoomify_gui_spyglasssoundbehaviour_name":3},"zoomify_gui_category_secondary":{"zoomify_gui_secondaryzoomamount_name":4,"zoomify_gui_secondaryzoomintime_name":10.0,"zoomify_gui_secondaryzoomouttime_name":1.0,"zoomify_gui_secondaryzoomhidehudonzoom_name":true}}]
+[2024-06-22 21:54:43.102] [info]  [21:54:43] [Render thread/ERROR]: Failed to decode entry _firstLaunch: No key _firstLaunch in MapLike[{"zoomify_gui_category_behaviour":{"zoomify_gui_initialzoom_name":4,"zoomify_gui_zoomintime_name":1.0,"zoomify_gui_zoomouttime_name":0.5,"zoomify_gui_zoomintransition_name":12,"zoomify_gui_zoomouttransition_name":12,"zoomify_gui_affecthandfov_name":true,"zoomify_gui_retainzoomsteps_name":false},"zoomify_gui_category_scrolling":{"zoomify_gui_scrollzoom_name":true,"zoomify_gui_scrollzoomamount_name":3,"zoomify_gui_scrollzoomsmoothness_name":70,"zoomify_gui_linearlikesteps_name":true},"zoomify_gui_category_controls":{"zoomify_gui_zoomkeybehaviour_name":0,"zoomify_gui_keybindscrolling_name":false,"zoomify_gui_relativesensitivity_name":100,"zoomify_gui_relativeviewbobbing_name":true,"zoomify_gui_cinematiccam_name":0},"zoomify_gui_category_spyglass":{"zoomify_gui_spyglassbehaviour_name":0,"zoomify_gui_spyglassoverlayvisibility_name":1,"zoomify_gui_spyglasssoundbehaviour_name":3},"zoomify_gui_category_secondary":{"zoomify_gui_secondaryzoomamount_name":4,"zoomify_gui_secondaryzoomintime_name":10.0,"zoomify_gui_secondaryzoomouttime_name":1.0,"zoomify_gui_secondaryzoomhidehudonzoom_name":true}}]
+[2024-06-22 21:54:43.121] [info]  [21:54:43] [IchorPipeline/Render thread/INFO] Entrypoint(client) failed to load dev.isxander.zoomify.Zoomify in Genesis
+[2024-06-22 21:54:43.122] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: java.lang.IllegalStateException: Failed to launch entrypoint dev.isxander.zoomify.Zoomify
+[2024-06-22 21:54:43.122] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-22 21:54:43.122] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IRCIHCHCCHHOCORRHRCCORROC.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-22 21:54:43.123] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.md7a6319$lambda$ichor$fabric$clientInitializer$0$9(SourceFile:4876)
+[2024-06-22 21:54:43.123] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: 	at java.base/java.util.Optional.ifPresentOrElse(Unknown Source)
+[2024-06-22 21:54:43.123] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.handler$zjo000$ichor$fabric$clientInitializer(SourceFile:4874)
+[2024-06-22 21:54:43.124] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.<init>(SourceFile:441)
+[2024-06-22 21:54:43.124] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.redirect$zbe000$impl$main$minecraft(SourceFile:656)
+[2024-06-22 21:54:43.124] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.main(SourceFile:239)
+[2024-06-22 21:54:43.124] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[2024-06-22 21:54:43.125] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-06-22 21:54:43.125] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source)
+[2024-06-22 21:54:43.125] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[2024-06-22 21:54:43.125] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-06-22 21:54:43.126] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-22 21:54:43.126] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source)
+[2024-06-22 21:54:43.126] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source)
+[2024-06-22 21:54:43.126] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: Caused by: java.lang.IllegalStateException: Failed to instantiate external Entrypoint(client): dev.isxander.zoomify.Zoomify
+[2024-06-22 21:54:43.126] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-22 21:54:43.127] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: 	at java.base/java.util.HashMap.computeIfAbsent(Unknown Source)
+[2024-06-22 21:54:43.127] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-22 21:54:43.127] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: 	... 15 more
+[2024-06-22 21:54:43.127] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: Caused by: java.lang.NoSuchMethodException: dev.isxander.zoomify.Zoomify.<init>()
+[2024-06-22 21:54:43.128] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.Class.getConstructor0(Unknown Source)
+[2024-06-22 21:54:43.128] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.Class.getConstructor(Unknown Source)
+[2024-06-22 21:54:43.128] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-22 21:54:43.128] [info]  [21:54:43] [Render thread/INFO]: [STDERR]: 	... 17 more
+[2024-06-22 21:54:43.129] [info]  [21:54:43] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.client.indigo.Indigo
+[2024-06-22 21:54:43.144] [info]  [21:54:43] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[2024-06-22 21:54:43.144] [info]  [21:54:43] [Ichor/Render thread/INFO] Found Entrypoint(client) xaero.minimap.XaeroMinimapFabric
+[2024-06-22 21:54:43.313] [info]  [21:54:43] [Render thread/INFO]: Loading Xaero's Minimap - Stage 1/2
+[2024-06-22 21:54:44.006] [info]  [21:54:44] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.recipe.ingredient.client.CustomIngredientSyncClient
+[2024-06-22 21:54:44.006] [info]  [21:54:44] [Ichor/Render thread/INFO] Found Entrypoint(client) me.flashyreese.mods.sodiumextra.client.SodiumExtraClientMod
+[2024-06-22 21:54:44.023] [info]  [21:54:44] [Ichor/Render thread/INFO] Found Entrypoint(client) me.shedaniel.autoconfig.example.ExampleInits::exampleCommonInit()
+[2024-06-22 21:54:44.055] [info]  [21:54:44] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.client.rendering.v0.RenderingCallbackInvoker
+[2024-06-22 21:54:44.059] [info]  [21:54:44] [Ichor/Render thread/INFO] Found Entrypoint(client) dev.tr7zw.notenoughanimations.NEAnimationsMod
+[2024-06-22 21:54:44.151] [info]  [21:54:44] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.client.event.lifecycle.ClientLifecycleEventsImpl
+[2024-06-22 21:54:44.155] [info]  [21:54:44] [Ichor/Render thread/INFO] Found Entrypoint(client) me.pepperbell.continuity.client.ContinuityClient
+[2024-06-22 21:54:44.293] [info]  [21:54:44] [Ichor/Render thread/INFO] Found Entrypoint(client) dev.isxander.yacl3.platform.PlatformEntrypoint
+[2024-06-22 21:54:44.347] [info]  [21:54:44] [Render thread/INFO]: Config file 'C:\Users\Asus\AppData\Roaming\.minecraft\yacl.json5' does not exist. Creating it with default values.
+[2024-06-22 21:54:44.347] [info]  [21:54:44] [Render thread/INFO]: Serializing class dev.isxander.yacl3.platform.YACLConfig to 'C:\Users\Asus\AppData\Roaming\.minecraft\yacl.json5'
+[2024-06-22 21:54:44.356] [info]  [21:54:44] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.client.registry.sync.FabricRegistryClientInit
+[2024-06-22 21:54:44.358] [info]  [21:54:44] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.screenhandler.client.ClientNetworking
+[2024-06-22 21:54:44.369] [info]  [21:54:44] [Ichor/Render thread/INFO] Found Entrypoint(client) me.jellysquid.mods.sodium.client.SodiumClientMod
+[2024-06-22 21:54:44.392] [info]  [21:54:44] [Render thread/ERROR]: Failed to update fingerprint
+[2024-06-22 21:54:44.393] [info]  java.lang.NullPointerException: Cannot invoke "net.minecraft.client.User.getProfileId()" because the return value of "net.minecraft.client.Minecraft.getUser()" is null
+[2024-06-22 21:54:44.393] [info]  	at Genesis/me.jellysquid.mods.sodium.client.data.fingerprint.FingerprintMeasure.create(FingerprintMeasure.java:19) ~[?:?]
+[2024-06-22 21:54:44.393] [info]  	at Genesis/me.jellysquid.mods.sodium.client.SodiumClientMod.updateFingerprint(SodiumClientMod.java:97) ~[?:?]
+[2024-06-22 21:54:44.394] [info]  	at Genesis/me.jellysquid.mods.sodium.client.SodiumClientMod.onInitializeClient(SodiumClientMod.java:40) ~[?:?]
+[2024-06-22 21:54:44.394] [info]  	at com.moonsworth.lunar.ichor.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source) ~[genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-22 21:54:44.394] [info]  	at com.moonsworth.lunar.ichor.IRCIHCHCCHHOCORRHRCCORROC.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source) ~[genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-22 21:54:44.394] [info]  	at Genesis/net.minecraft.client.Minecraft.md7a6319$lambda$ichor$fabric$clientInitializer$0$9(SourceFile:4876) ~[?:?]
+[2024-06-22 21:54:44.395] [info]  	at java.base/java.util.Optional.ifPresentOrElse(Unknown Source) [?:?]
+[2024-06-22 21:54:44.395] [info]  	at Genesis/net.minecraft.client.Minecraft.handler$zjo000$ichor$fabric$clientInitializer(SourceFile:4874) [?:?]
+[2024-06-22 21:54:44.395] [info]  	at Genesis/net.minecraft.client.Minecraft.<init>(SourceFile:441) [?:?]
+[2024-06-22 21:54:44.395] [info]  	at Genesis/net.minecraft.client.main.Main.redirect$zbe000$impl$main$minecraft(SourceFile:656) [?:?]
+[2024-06-22 21:54:44.395] [info]  	at Genesis/net.minecraft.client.main.Main.main(SourceFile:239) [?:?]
+[2024-06-22 21:54:44.396] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+[2024-06-22 21:54:44.396] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+[2024-06-22 21:54:44.396] [info]  	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-22 21:54:44.396] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+[2024-06-22 21:54:44.396] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+[2024-06-22 21:54:44.397] [info]  	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-22 21:54:44.397] [info]  	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-22 21:54:44.397] [info]  	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-22 21:54:44.397] [info]  [21:54:44] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.event.interaction.client.InteractionEventsRouterClient
+[2024-06-22 21:54:44.398] [info]  [21:54:44] [IchorPipeline/Render thread/INFO] Entrypoint(client) had 13 invokes.
+[2024-06-22 21:54:44.576] [info]  [21:54:44] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[2024-06-22 21:54:44.600] [info]  [21:54:44] [Render thread/INFO]: Setting user: Player370
+[2024-06-22 21:54:44.672] [info]  [21:54:44] [Ichor/mixin(MIXIN)/WARN] Method overwrite conflict for bridge$isFancyGraphics in mixins.modern_bridge_combined.json:HHRIIHHROCICOCHRCICRIOHRH.CCIIHHRHCCHRRHROOHIOCHOCC.CRCIRCHCIOCCIHRCHCHOHICRI from mod (unknown), previously written by com.moonsworth.lunar.IIIICORICOICIRRHCHIIHROIC.CRCIRCHCIOCCIHRCHCHOHICRI.HHRIIHHROCICOCHRCICRIOHRH.CCIIHHRHCCHRRHROOHIOCHOCC.IOCOHCCRCOHRICRRHOOICHIHO. Skipping method.
+[2024-06-22 21:54:44.673] [info]  [21:54:44] [Ichor/mixin(MIXIN)/WARN] Method overwrite conflict for bridge$setFrameRateLimit in mixins.modern_bridge_combined.json:HHRIIHHROCICOCHRCICRIOHRH.CCIIHHRHCCHRRHROOHIOCHOCC.CRCIRCHCIOCCIHRCHCHOHICRI from mod (unknown), previously written by com.moonsworth.lunar.IIIICORICOICIRRHCHIIHROIC.CRCIRCHCIOCCIHRCHCHOHICRI.HHRIIHHROCICOCHRCICRIOHRH.CCIIHHRHCCHRRHROOHIOCHOCC.IOCOHCCRCOHRICRRHOOICHIHO. Skipping method.
+[2024-06-22 21:54:44.965] [info]  [21:54:44] [Render thread/INFO]: [LC] Loaded File: Options
+[2024-06-22 21:54:45.008] [info]  [21:54:45] [ForkJoinPool.commonPool-worker-1/WARN]: [Iris Update Check] Cached update file detected, using that!
+[2024-06-22 21:54:45.333] [info]  [21:54:45] [Render thread/INFO]: Backend library: LWJGL version 3.3.3-snapshot
+[2024-06-22 21:54:46.099] [info]  [21:54:46] [Render thread/INFO]: [STDOUT]: LUNARCLIENT_STATUS_INIT
+[2024-06-22 21:54:46.245] [info]  [21:54:46] [Render thread/INFO]: Debug functionality is disabled.
+[2024-06-22 21:54:46.251] [info]  [21:54:46] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[2024-06-22 21:54:46.272] [info]  [21:54:46] [Render thread/INFO]: Shaders are disabled because no valid shaderpack is selected
+[2024-06-22 21:54:46.397] [info]  [21:54:46] [Render thread/WARN]: Missing metadata in pack file/Cleanestpvppack.zip
+[2024-06-22 21:54:46.400] [info]  [21:54:46] [Render thread/WARN]: Missing metadata in pack file/Cold.zip
+[2024-06-22 21:54:46.409] [info]  [21:54:46] [Render thread/WARN]: Missing metadata in pack file/§bSharpness 25k.zip
+[2024-06-22 21:54:46.410] [info]  [21:54:46] [Render thread/WARN]: Missing metadata in pack file/§c§ GlitchCPVP pack.zip
+[2024-06-22 21:54:46.418] [info]  [21:54:46] [Render thread/WARN]: Removed resource pack file/§eItzRealMes Overlay.zip from options because it is no longer compatible
+[2024-06-22 21:54:46.419] [info]  [21:54:46] [Render thread/WARN]: Removed resource pack xaerominimap from options because it is no longer compatible
+[2024-06-22 21:54:46.419] [info]  [21:54:46] [Render thread/WARN]: Removed resource pack yet_another_config_lib_v3 from options because it is no longer compatible
+[2024-06-22 21:54:47.218] [info]  [21:54:47] [Render thread/INFO]: Hardware information:
+[2024-06-22 21:54:47.218] [info]  [21:54:47] [Render thread/INFO]: CPU: 16x AMD Ryzen 7 6800HS with Radeon Graphics 
+[2024-06-22 21:54:47.219] [info]  [21:54:47] [Render thread/INFO]: GPU: AMD Radeon(TM) Graphics (Supports OpenGL 3.2.0 Core Profile Context 22.40.84.06.231130)
+[2024-06-22 21:54:47.219] [info]  [21:54:47] [Render thread/INFO]: OS: Windows 11 (10.0)
+[2024-06-22 21:54:48.025] [info]  [21:54:48] [Render thread/INFO]: Reloading ResourceManager: lunar, vanilla, fabric, caffeineconfig, cloth-config, continuity, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, iris, notenoughanimations, sodium, sodium-extra, xaerominimap, yet_another_config_lib_v3, zoomify, file/FMDO.zip
+[2024-06-22 21:54:48.269] [info]  [21:54:48] [Worker-Main-8/INFO]: Found unifont_all_no_pua-15.1.05.hex, loading
+[2024-06-22 21:54:48.270] [info]  [21:54:48] [Worker-Main-9/INFO]: Found unifont_jp_patch-15.1.05.hex, loading
+[2024-06-22 21:54:48.368] [info]  [21:54:48] [Render thread/INFO]: [STDOUT]: [Bridge] Setting Minecraft Client instance to net.minecraft.client.Minecraft
+[2024-06-22 21:54:49.725] [info]  [21:54:49] [Ichor/Render thread/INFO] Creating MultiBridgeModern instance: CRCIRCHCIOCCIHRCHCHOHICRI
+[2024-06-22 21:54:49.984] [info]  [21:54:49] [Render thread/INFO]: [LC] Starting Lunar client...
+[2024-06-22 21:54:50.633] [info]  [21:54:50] [Render thread/INFO]: [LC] Loading RCOIIRRHOORIOROOROICRHHOR...
+[2024-06-22 21:54:50.637] [info]  [21:54:50] [Render thread/INFO]: [LC] Loading CIOCCOCHORHIOCCRHOROCHORC...
+[2024-06-22 21:54:50.987] [info]  [21:54:50] [Render thread/INFO]: [LC] Loading IOCOHCCRCOHRICRRHOOICHIHO...
+[2024-06-22 21:54:50.994] [info]  [21:54:50] [Render thread/INFO]: [LC] Loading HCCRHOOCOROIOOIIRIIIRCHOC...
+[2024-06-22 21:54:51.002] [info]  [21:54:51] [Render thread/INFO]: [LC Lang] Couldn't get a valid language so we're setting it to ENGLISH.
+[2024-06-22 21:54:51.002] [info]  [21:54:51] [Render thread/INFO]: [LC Lang] Language set as ENGLISH (en_US).
+[2024-06-22 21:54:51.003] [info]  [21:54:51] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-22 21:54:51.007] [info]  [21:54:51] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-22 21:54:51.051] [info]  [21:54:51] [Render thread/INFO]: [LC] Loading ORIIIRHHROIRHOCOOOIOORIOC...
+[2024-06-22 21:54:51.128] [info]  [21:54:51] [Render thread/INFO]: [LC] Loading ROCROOOIIOIRHIIRRCRRHRICO...
+[2024-06-22 21:54:52.496] [info]  [21:54:52] [Render thread/INFO]: [LC] Loading OCIOHHHRIHOIHCRHICIIRCIIR...
+[2024-06-22 21:54:52.503] [info]  [21:54:52] [Render thread/INFO]: [LC] Loading RHCRCHHICCCIIHIIIHIIRROOO...
+[2024-06-22 21:54:52.516] [info]  [21:54:52] [Render thread/INFO]: [LC] Loading CRCIRCHCIOCCIHRCHCHOHICRI...
+[2024-06-22 21:54:52.522] [info]  [21:54:52] [Render thread/INFO]: [LC] Loading HHRIIHHROCICOCHRCICRIOHRH...
+[2024-06-22 21:54:52.538] [info]  [21:54:52] [Render thread/INFO]: [LC] Loading IHCRIIIICOROROOCCIHHHHCRI...
+[2024-06-22 21:54:52.564] [info]  [21:54:52] [Render thread/INFO]: [LC] Loading IOCOHCCRCOHRICRRHOOICHIHO...
+[2024-06-22 21:54:52.580] [info]  [21:54:52] [Render thread/INFO]: [LC] Loading ICHIRCHRHOCCOHHORCHICRHOI...
+[2024-06-22 21:54:52.625] [info]  [21:54:52] [Render thread/INFO]: [LC] Loading CCOCCHORCHCOCCROCHOIOICOI...
+[2024-06-22 21:54:52.637] [info]  [21:54:52] [Render thread/INFO]: [LC] Loading CCIIHHRHCCHRRHROOHIOCHOCC...
+[2024-06-22 21:54:52.640] [info]  [21:54:52] [Render thread/INFO]: [LC] Loading OHHHOIOOOOIOCHRICROCCHCIH...
+[2024-06-22 21:54:52.641] [info]  [21:54:52] [Render thread/INFO]: [LC] Loading IIOOIICCICOCHCIIHOHRCHICO...
+[2024-06-22 21:54:52.665] [info]  [21:54:52] [Render thread/INFO]: [LC] Loading IIIICORICOICIRRHCHIIHROIC...
+[2024-06-22 21:54:52.697] [info]  [21:54:52] [Render thread/WARN]: [LC] Couldn't find dev cosmetics file: cosmetics/dev_cosmetics.json
+[2024-06-22 21:54:52.998] [info]  [21:54:52] [Render thread/INFO]: [LC] Loading OCRCIRRIRCHCHIORHOHICRRIC...
+[2024-06-22 21:54:53.019] [info]  [21:54:53] [Render thread/INFO]: [LC] Loading CORORICIOIOHIICRIHIRIORCC...
+[2024-06-22 21:54:53.067] [info]  [21:54:53] [Render thread/INFO]: [LC] Loading IRHIIORRHIIOOIICRHCOCOIRO...
+[2024-06-22 21:54:53.075] [info]  [21:54:53] [Render thread/INFO]: [LC] Loading CRCIRCHCIOCCIHRCHCHOHICRI...
+[2024-06-22 21:54:53.081] [info]  [21:54:53] [Render thread/INFO]: [LC] Loading IOCOHCCRCOHRICRRHOOICHIHO...
+[2024-06-22 21:54:53.107] [info]  [21:54:53] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[2024-06-22 21:54:53.468] [info]  [21:54:53] [Render thread/INFO]: [LC] Finished making managers.
+[2024-06-22 21:54:53.469] [info]  [21:54:53] [Render thread/INFO]: [LC] Setting up listeners...
+[2024-06-22 21:54:53.494] [info]  [21:54:53] [Render thread/INFO]: [LC] Setting up fixes...
+[2024-06-22 21:54:53.554] [info]  [21:54:53] [WebSocketConnectReadThread-112/INFO]: [LC IPC] Connection established
+[2024-06-22 21:54:54.285] [info]  [21:54:54] [Render thread/ERROR]: [LC ThirdParty] Couldn't load third party mods
+[2024-06-22 21:54:54.286] [info]  [21:54:54] [Render thread/INFO]: [LC Lang] Language set as ENGLISH (en_US).
+[2024-06-22 21:54:54.287] [info]  [21:54:54] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-22 21:54:54.289] [info]  [21:54:54] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-22 21:54:54.312] [info]  [21:54:54] [Render thread/INFO]: [LC Ichor] Disabling ReplayMod because there is no valid link.
+[2024-06-22 21:54:54.313] [info]  [21:54:54] [Render thread/INFO]: [LC Ichor] Disabling NEU because there is no valid link.
+[2024-06-22 21:54:54.314] [info]  [21:54:54] [Render thread/INFO]: [LC Ichor] Disabling SBA because there is no valid link.
+[2024-06-22 21:54:54.314] [info]  [21:54:54] [Render thread/INFO]: [LC] Lunar.start
+[2024-06-22 21:54:54.315] [info]  [21:54:54] [Render thread/INFO]: [LC Accounts] Attempting to load account [04f44ced712a4c3a9fdd0c02a755b9db]
+[2024-06-22 21:54:54.344] [info]  [21:54:54] [Render thread/INFO]: [LC Accounts] Loaded content for [MengHong001] Token IAT
+[2024-06-22 21:54:54.344] [info]  [21:54:54] [Render thread/INFO]: [LC Accounts] Setting currentAccount to what was on disk: MengHong001
+[2024-06-22 21:54:54.345] [info]  [21:54:54] [Render thread/INFO]: [LC Accounts] Setting account 'MengHong001' as the current session.
+[2024-06-22 21:54:54.345] [info]  [21:54:54] [Render thread/INFO]: [LC] Setting user: MengHong001
+[2024-06-22 21:54:54.354] [info]  [21:54:54] [Thread-12/INFO]: [LC Assets] Establishing connection
+[2024-06-22 21:54:54.354] [info]  [21:54:54] [Thread-12/INFO]: [LC Assets] Connecting to Authenticator to obtain JWT, no previous connection.
+[2024-06-22 21:54:54.382] [info]  [21:54:54] [Thread-12/INFO]: [LC Authentication] Instantiate
+[2024-06-22 21:54:54.804] [info]  [21:54:54] [WebSocketConnectReadThread-117/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[2024-06-22 21:54:55.083] [info]  [21:54:55] [Render thread/INFO]: [LC Accounts] Removed all accounts [0 count]
+[2024-06-22 21:54:55.094] [info]  [21:54:55] [Render thread/INFO]: [LC Accounts] Starting Refreshing MengHong001 with 65724907ms till expired (Valid: true).
+[2024-06-22 21:54:55.095] [info]  [21:54:55] [Render thread/INFO]: [LC Accounts] Refreshing MengHong001 (Valid: true).
+[2024-06-22 21:54:55.753] [info]  [21:54:55] [WebSocketConnectReadThread-117/INFO]: [LC Assets] Instantiate
+[2024-06-22 21:54:55.828] [info]  [21:54:55] [WebSocketConnectReadThread-117/INFO]: [LC Auth] Connection closed (1000, "Issued.")
+[2024-06-22 21:54:55.833] [info]  [21:54:55] [Render thread/INFO]: [LC Lang] Language set as ENGLISH (en_US).
+[2024-06-22 21:54:55.835] [info]  [21:54:55] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-22 21:54:55.837] [info]  [21:54:55] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-22 21:54:56.846] [info]  [21:54:56] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-06-22 21:54:56.847] [info]  [21:54:56] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-06-22 21:54:56.847] [info]  [21:54:56] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-06-22 21:54:56.847] [info]  [21:54:56] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-06-22 21:54:56.847] [info]  [21:54:56] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-06-22 21:54:56.848] [info]  [21:54:56] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-06-22 21:54:56.993] [info]  [21:54:56] [Render thread/ERROR]: [LC Cosmetics] Could not load the model at lunar:cosmetics/models/bodywear/katanasheathed/katanasheathed.obj for cosmetic katanasheathed since it does not exist
+[2024-06-22 21:54:57.088] [info]  [21:54:57] [WebSocketConnectReadThread-129/INFO]: [LC Assets] Connection established as MengHong001
+[2024-06-22 21:54:57.916] [info]  [21:54:57] [Render thread/WARN]: [LC] Couldn't find geckolib cosmetic file: lunar:cosmetics/models/gek/wings/bat_wings/bat_wings.gek.json
+[2024-06-22 21:54:58.064] [info]  [21:54:58] [Render thread/WARN]: [LC] Couldn't find geckolib cosmetic file: lunar:space_backpack
+[2024-06-22 21:54:58.065] [info]  [21:54:58] [Render thread/INFO]: [LC] Loaded geckolib cosmetics.
+[2024-06-22 21:54:58.066] [info]  [21:54:58] [Render thread/INFO]: [LC] Loading cosmetic compatibility json
+[2024-06-22 21:54:58.132] [info]  [21:54:58] [Render thread/INFO]: [LC] Compiled cosmetic compatability presets
+[2024-06-22 21:54:58.134] [info]  [21:54:58] [ForkJoinPool.commonPool-worker-2/INFO]: [LC Accounts] Finished refreshing MengHong001 (Valid: true).
+[2024-06-22 21:54:58.134] [info]  [21:54:58] [ForkJoinPool.commonPool-worker-2/INFO]: [LC Accounts] Finished refreshing the current account. 0 accounts left.
+[2024-06-22 21:54:58.135] [info]  [21:54:58] [ForkJoinPool.commonPool-worker-2/INFO]: [LC Accounts] Logging into account MengHong001 
+[2024-06-22 21:54:58.135] [info]  [21:54:58] [ForkJoinPool.commonPool-worker-2/INFO]: [LC Accounts] Setting account 'MengHong001' as the current session.
+[2024-06-22 21:54:58.136] [info]  [21:54:58] [ForkJoinPool.commonPool-worker-2/INFO]: [LC] Setting user: MengHong001
+[2024-06-22 21:54:58.143] [info]  [21:54:58] [Render thread/INFO]: [LC] Launching
+[2024-06-22 21:54:58.144] [info]  [21:54:58] [Render thread/INFO]: [LC] Finished Lunar initialization.
+[2024-06-22 21:54:58.145] [info]  [21:54:58] [Render thread/INFO]: [LC] LUNARCLIENT_STATUS_STARTED
+[2024-06-22 21:54:58.392] [info]  [21:54:58] [Render thread/INFO]: Loading Xaero's Minimap - Stage 2/2
+[2024-06-22 21:54:59.861] [info]  [21:54:59] [Render thread/ERROR]: suppressed exception
+[2024-06-22 21:54:59.862] [info]  java.net.SocketTimeoutException: Read timed out
+[2024-06-22 21:54:59.862] [info]  	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.863] [info]  	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.863] [info]  	at java.base/java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.863] [info]  	at java.base/sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.863] [info]  	at java.base/sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.863] [info]  	at java.base/java.security.AccessController.doPrivileged(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.864] [info]  	at java.base/sun.net.www.protocol.http.HttpURLConnection.getChainedException(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.864] [info]  	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.864] [info]  	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.864] [info]  	at Genesis/xaero.common.patreon.Patreon.checkPatreon(Patreon.java:73) [?:?]
+[2024-06-22 21:54:59.864] [info]  	at Genesis/xaero.common.HudMod.loadLater(HudMod.java:233) [?:?]
+[2024-06-22 21:54:59.864] [info]  	at Genesis/xaero.minimap.XaeroMinimapFabric.tryLoadLater(XaeroMinimapFabric.java:65) [?:?]
+[2024-06-22 21:54:59.865] [info]  	at Genesis/net.minecraft.client.Minecraft.handler$cfd002$onTickStart(SourceFile:10869) [?:?]
+[2024-06-22 21:54:59.865] [info]  	at Genesis/net.minecraft.client.Minecraft.tick(SourceFile) [?:?]
+[2024-06-22 21:54:59.865] [info]  	at Genesis/net.minecraft.client.Minecraft.runTick(SourceFile:1246) [?:?]
+[2024-06-22 21:54:59.865] [info]  	at Genesis/net.minecraft.client.Minecraft.run(SourceFile:882) [?:?]
+[2024-06-22 21:54:59.865] [info]  	at Genesis/net.minecraft.client.main.Main.main(SourceFile:256) [?:?]
+[2024-06-22 21:54:59.866] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.866] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.866] [info]  	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-22 21:54:59.866] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.867] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.867] [info]  	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-22 21:54:59.867] [info]  	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-22 21:54:59.868] [info]  	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-22 21:54:59.868] [info]  Caused by: java.net.SocketTimeoutException: Read timed out
+[2024-06-22 21:54:59.868] [info]  	at java.base/sun.nio.ch.NioSocketImpl.timedRead(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.868] [info]  	at java.base/sun.nio.ch.NioSocketImpl.implRead(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.868] [info]  	at java.base/sun.nio.ch.NioSocketImpl.read(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.869] [info]  	at java.base/sun.nio.ch.NioSocketImpl$1.read(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.869] [info]  	at java.base/java.net.Socket$SocketInputStream.read(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.869] [info]  	at java.base/java.io.BufferedInputStream.fill(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.869] [info]  	at java.base/java.io.BufferedInputStream.read1(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.869] [info]  	at java.base/java.io.BufferedInputStream.implRead(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.870] [info]  	at java.base/java.io.BufferedInputStream.read(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.870] [info]  	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.870] [info]  	at java.base/sun.net.www.http.HttpClient.parseHTTP(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.870] [info]  	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.870] [info]  	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.870] [info]  	at java.base/sun.net.www.protocol.http.HttpURLConnection.getHeaderField(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.871] [info]  	at java.base/java.net.URLConnection.getHeaderFieldLong(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.871] [info]  	at java.base/java.net.URLConnection.getContentLengthLong(Unknown Source) ~[?:?]
+[2024-06-22 21:54:59.871] [info]  	at Genesis/xaero.common.patreon.Patreon.checkPatreon(Patreon.java:71) ~[?:?]
+[2024-06-22 21:54:59.871] [info]  	... 15 more
+[2024-06-22 21:55:01.124] [info]  [21:55:01] [Render thread/ERROR]: suppressed exception
+[2024-06-22 21:55:01.124] [info]  java.net.SocketTimeoutException: Read timed out
+[2024-06-22 21:55:01.125] [info]  	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.125] [info]  	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.125] [info]  	at java.base/java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.125] [info]  	at java.base/sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.126] [info]  	at java.base/sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.126] [info]  	at java.base/java.security.AccessController.doPrivileged(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.126] [info]  	at java.base/sun.net.www.protocol.http.HttpURLConnection.getChainedException(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.126] [info]  	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.127] [info]  	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.127] [info]  	at Genesis/xaero.common.misc.Internet.checkModVersion(Internet.java:55) [?:?]
+[2024-06-22 21:55:01.127] [info]  	at Genesis/xaero.common.HudMod.loadLater(HudMod.java:234) [?:?]
+[2024-06-22 21:55:01.127] [info]  	at Genesis/xaero.minimap.XaeroMinimapFabric.tryLoadLater(XaeroMinimapFabric.java:65) [?:?]
+[2024-06-22 21:55:01.127] [info]  	at Genesis/net.minecraft.client.Minecraft.handler$cfd002$onTickStart(SourceFile:10869) [?:?]
+[2024-06-22 21:55:01.127] [info]  	at Genesis/net.minecraft.client.Minecraft.tick(SourceFile) [?:?]
+[2024-06-22 21:55:01.128] [info]  	at Genesis/net.minecraft.client.Minecraft.runTick(SourceFile:1246) [?:?]
+[2024-06-22 21:55:01.128] [info]  	at Genesis/net.minecraft.client.Minecraft.run(SourceFile:882) [?:?]
+[2024-06-22 21:55:01.128] [info]  	at Genesis/net.minecraft.client.main.Main.main(SourceFile:256) [?:?]
+[2024-06-22 21:55:01.128] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.129] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.129] [info]  	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-22 21:55:01.129] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.129] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.129] [info]  	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-22 21:55:01.130] [info]  	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-22 21:55:01.130] [info]  	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-22 21:55:01.130] [info]  Caused by: java.net.SocketTimeoutException: Read timed out
+[2024-06-22 21:55:01.130] [info]  	at java.base/sun.nio.ch.NioSocketImpl.timedRead(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.130] [info]  	at java.base/sun.nio.ch.NioSocketImpl.implRead(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.131] [info]  	at java.base/sun.nio.ch.NioSocketImpl.read(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.131] [info]  	at java.base/sun.nio.ch.NioSocketImpl$1.read(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.131] [info]  	at java.base/java.net.Socket$SocketInputStream.read(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.131] [info]  	at java.base/java.io.BufferedInputStream.fill(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.131] [info]  	at java.base/java.io.BufferedInputStream.read1(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.131] [info]  	at java.base/java.io.BufferedInputStream.implRead(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.132] [info]  	at java.base/java.io.BufferedInputStream.read(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.132] [info]  	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.132] [info]  	at java.base/sun.net.www.http.HttpClient.parseHTTP(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.132] [info]  	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.133] [info]  	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.133] [info]  	at java.base/sun.net.www.protocol.http.HttpURLConnection.getHeaderField(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.133] [info]  	at java.base/java.net.URLConnection.getHeaderFieldLong(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.133] [info]  	at java.base/java.net.URLConnection.getContentLengthLong(Unknown Source) ~[?:?]
+[2024-06-22 21:55:01.133] [info]  	at Genesis/xaero.common.misc.Internet.checkModVersion(Internet.java:53) ~[?:?]
+[2024-06-22 21:55:01.134] [info]  	... 15 more
+[2024-06-22 21:55:01.134] [info]  [21:55:01] [Render thread/INFO]: Registered player tracker system: minimap_synced
+[2024-06-22 21:55:01.134] [info]  [21:55:01] [Render thread/INFO]: No Optifine!
+[2024-06-22 21:55:01.134] [info]  [21:55:01] [Render thread/INFO]: Xaero's Minimap: No Vivecraft!
+[2024-06-22 21:55:01.135] [info]  [21:55:01] [Render thread/INFO]: Xaero's Minimap: Iris found!
+[2024-06-22 21:55:01.385] [info]  [21:55:01] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[2024-06-22 21:55:01.386] [info]  [21:55:01] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[2024-06-22 21:55:01.824] [info]  [21:55:01] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[2024-06-22 21:55:01.825] [info]  [21:55:01] [Render thread/INFO]: Sound engine started
+[2024-06-22 21:55:01.908] [info]  [21:55:01] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[2024-06-22 21:55:01.921] [info]  [21:55:01] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[2024-06-22 21:55:01.921] [info]  [21:55:01] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[2024-06-22 21:55:01.922] [info]  [21:55:01] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[2024-06-22 21:55:01.923] [info]  [21:55:01] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[2024-06-22 21:55:01.930] [info]  [21:55:01] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[2024-06-22 21:55:01.931] [info]  [21:55:01] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[2024-06-22 21:55:01.931] [info]  [21:55:01] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[2024-06-22 21:55:01.932] [info]  [21:55:01] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[2024-06-22 21:55:02.372] [info]  [21:55:02] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[2024-06-22 21:55:02.373] [info]  [21:55:02] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[2024-06-22 21:55:02.374] [info]  [21:55:02] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[2024-06-22 21:55:02.374] [info]  [21:55:02] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[2024-06-22 21:55:02.375] [info]  [21:55:02] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[2024-06-22 21:55:02.418] [info]  [21:55:02] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[2024-06-22 21:55:02.506] [info]  [21:55:02] [Render thread/INFO]: Successfully reloaded the minimap shaders!
+[2024-06-22 21:55:02.517] [info]  [21:55:02] [Render thread/INFO]: Successfully loaded image 'zoomify:textures/demo/third-person-hud.webp'
+[2024-06-22 21:55:02.518] [info]  [21:55:02] [Render thread/INFO]: Successfully loaded image 'zoomify:textures/demo/third-person-view.webp'
+[2024-06-22 21:55:02.520] [info]  [21:55:02] [Render thread/INFO]: Successfully loaded image 'zoomify:textures/demo/zoom-hand.webp'
+[2024-06-22 21:55:02.523] [info]  [21:55:02] [Render thread/INFO]: Successfully loaded image 'zoomify:textures/demo/zoom-world.webp'
+[2024-06-22 21:55:02.524] [info]  [21:55:02] [Render thread/INFO]: Zoomify detected first launch!
+[2024-06-22 21:55:18.253] [info]  [21:55:18] [Render thread/INFO]: Loaded 1290 recipes
+[2024-06-22 21:55:18.429] [info]  [21:55:18] [Render thread/INFO]: Loaded 1399 advancements
+[2024-06-22 21:55:18.793] [info]  [21:55:18] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 2.622 ms
+[2024-06-22 21:55:18.803] [info]  [21:55:18] [Server thread/INFO]: Starting integrated minecraft server version 1.21
+[2024-06-22 21:55:18.804] [info]  [21:55:18] [Server thread/INFO]: Generating keypair
+[2024-06-22 21:55:19.714] [info]  [21:55:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[2024-06-22 21:55:19.997] [info]  [21:55:19] [Render thread/INFO]: Preparing spawn area: 0%
+[2024-06-22 21:55:20.161] [info]  [21:55:20] [Render thread/INFO]: Time elapsed: 433 ms
+[2024-06-22 21:55:20.284] [info]  [21:55:20] [Server thread/INFO]: Changing view distance to 2, from 10
+[2024-06-22 21:55:20.285] [info]  [21:55:20] [Server thread/INFO]: Changing simulation distance to 5, from 0
+[2024-06-22 21:55:21.159] [info]  [21:55:21] [Server thread/INFO]: MengHong001[local:E:7ba83633] logged in with entity id 91 at (-145.34696482026948, 64.0, -118.14134253577807)
+[2024-06-22 21:55:21.204] [info]  [21:55:21] [Server thread/WARN]: Received invalid channel identifier "lunarclient:pm"
+[2024-06-22 21:55:21.238] [info]  [21:55:21] [Server thread/INFO]: MengHong001 joined the game
+[2024-06-22 21:55:21.300] [info]  [21:55:21] [Render thread/INFO]: New Xaero hud session initialized!
+[2024-06-22 21:55:21.331] [info]  [21:55:21] [Render thread/INFO]: Reloading pipeline on dimension change: null => minecraft:overworld
+[2024-06-22 21:55:21.332] [info]  [21:55:21] [Render thread/INFO]: Creating pipeline for dimension minecraft:overworld
+[2024-06-22 21:55:21.631] [info]  [21:55:21] [Render thread/INFO]: Started 10 worker threads
+[2024-06-22 21:55:21.796] [info]  [21:55:21] [Render thread/INFO]: Stopping worker threads
+[2024-06-22 21:55:21.820] [info]  [21:55:21] [Render thread/INFO]: Started 10 worker threads
+[2024-06-22 21:55:21.857] [info]  [21:55:21] [Render thread/INFO]: Stopping worker threads
+[2024-06-22 21:55:21.864] [info]  [21:55:21] [Render thread/INFO]: Started 10 worker threads
+[2024-06-22 21:55:21.922] [info]  [21:55:21] [Render thread/INFO]: Loaded 81 advancements
+[2024-06-22 21:55:21.971] [info]  [21:55:21] [Render thread/INFO]: Minimap updated server level id: -1673993685 for world ResourceKey[minecraft:dimension / minecraft:overworld]
+[2024-06-22 21:55:22.299] [info]  [21:55:22] [Render thread/INFO]: Reloading entity icon resources...
+[2024-06-22 21:55:22.335] [info]  [21:55:22] [Render thread/INFO]: Reloaded entity icon resources!
+[2024-06-22 21:55:22.702] [info]  [21:55:22] [Render thread/WARN]: Class xaero.common.minimap.render.radar.EntityIconModelPartsRenderer$VertexConsumerWrapper does not support optimized vertex writing code paths, which may cause reduced rendering performance
+[2024-06-22 21:55:27.511] [info]  [21:55:27] [Server thread/INFO]: Saving and pausing game...
+[2024-06-22 21:55:27.531] [info]  [21:55:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:overworld
+[2024-06-22 21:55:27.551] [info]  [21:55:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_end
+[2024-06-22 21:55:27.556] [info]  [21:55:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_nether
+[2024-06-22 21:55:50.105] [info]  [21:55:50] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-06-22 21:55:51.091] [info]  [21:55:51] [Render thread/INFO]: Stopping worker threads
+[2024-06-22 21:55:51.095] [info]  [21:55:51] [Render thread/INFO]: Started 10 worker threads
+[2024-06-22 21:55:51.097] [info]  [21:55:51] [Render thread/INFO]: Stopping worker threads
+[2024-06-22 21:55:51.100] [info]  [21:55:51] [Render thread/INFO]: Started 10 worker threads
+[2024-06-22 21:55:55.610] [info]  [21:55:55] [Server thread/INFO]: Saving and pausing game...
+[2024-06-22 21:55:55.621] [info]  [21:55:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:overworld
+[2024-06-22 21:55:55.628] [info]  [21:55:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_end
+[2024-06-22 21:55:55.629] [info]  [21:55:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_nether
+[2024-06-22 21:56:26.859] [info]  [21:56:26] [Server thread/INFO]: Saving and pausing game...
+[2024-06-22 21:56:26.866] [info]  [21:56:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:overworld
+[2024-06-22 21:56:26.874] [info]  [21:56:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_end
+[2024-06-22 21:56:26.877] [info]  [21:56:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_nether
+[2024-06-22 21:56:32.209] [info]  [21:56:32] [Server thread/INFO]: Saving and pausing game...
+[2024-06-22 21:56:32.221] [info]  [21:56:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:overworld
+[2024-06-22 21:56:32.226] [info]  [21:56:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_end
+[2024-06-22 21:56:32.227] [info]  [21:56:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_nether
+[2024-06-22 21:56:42.073] [info]  [21:56:42] [Render thread/INFO]: Stopping worker threads
+[2024-06-22 21:56:42.077] [info]  [21:56:42] [Render thread/INFO]: Started 10 worker threads
+[2024-06-22 21:56:42.079] [info]  [21:56:42] [Render thread/INFO]: Flushed changes to Minecraft configuration
+[2024-06-22 21:56:44.123] [info]  [21:56:44] [Server thread/INFO]: Changing view distance to 7, from 2
+[2024-06-22 21:56:44.130] [info]  [21:56:44] [Render thread/INFO]: Stopping worker threads
+[2024-06-22 21:56:44.135] [info]  [21:56:44] [Render thread/INFO]: Started 10 worker threads
+[2024-06-22 21:56:47.562] [info]  [21:56:47] [Server thread/INFO]: Saving and pausing game...
+[2024-06-22 21:56:47.582] [info]  [21:56:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:overworld
+[2024-06-22 21:56:47.605] [info]  [21:56:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_end
+[2024-06-22 21:56:47.607] [info]  [21:56:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_nether
+[2024-06-22 21:56:57.909] [info]  [21:56:57] [Server thread/INFO]: Saving and pausing game...
+[2024-06-22 21:56:57.917] [info]  [21:56:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:overworld
+[2024-06-22 21:56:57.927] [info]  [21:56:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_end
+[2024-06-22 21:56:57.930] [info]  [21:56:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_nether
+[2024-06-22 21:57:22.645] [info]  [21:57:22] [Render thread/WARN]: Failed to load texture: minecraft:textures/gui/icons.png
+[2024-06-22 21:57:22.646] [info]  java.io.FileNotFoundException: minecraft:textures/gui/icons.png
+[2024-06-22 21:57:22.646] [info]  	at Genesis/net.minecraft.server.packs.resources.ResourceProvider.lambda$getResourceOrThrow$1(SourceFile:23) ~[?:?]
+[2024-06-22 21:57:22.646] [info]  	at java.base/java.util.Optional.orElseThrow(Unknown Source) ~[?:?]
+[2024-06-22 21:57:22.647] [info]  	at Genesis/net.minecraft.server.packs.resources.ResourceProvider.getResourceOrThrow(SourceFile:23) ~[?:?]
+[2024-06-22 21:57:22.647] [info]  	at Genesis/net.minecraft.client.renderer.texture.SimpleTexture$TextureImage.load(SourceFile:83) ~[?:?]
+[2024-06-22 21:57:22.647] [info]  	at Genesis/net.minecraft.client.renderer.texture.SimpleTexture.getTextureImage(SourceFile:58) ~[?:?]
+[2024-06-22 21:57:22.647] [info]  	at Genesis/net.minecraft.client.renderer.texture.SimpleTexture.load(SourceFile:29) ~[?:?]
+[2024-06-22 21:57:22.647] [info]  	at Genesis/net.minecraft.client.renderer.texture.TextureManager.loadTexture(SourceFile:96) ~[?:?]
+[2024-06-22 21:57:22.648] [info]  	at Genesis/net.minecraft.client.renderer.texture.TextureManager.register(SourceFile:68) ~[?:?]
+[2024-06-22 21:57:22.648] [info]  	at Genesis/net.minecraft.client.renderer.texture.TextureManager._bind(SourceFile:61) ~[?:?]
+[2024-06-22 21:57:22.648] [info]  	at Genesis/net.minecraft.client.renderer.texture.TextureManager.bindForSetup(SourceFile:51) ~[?:?]
+[2024-06-22 21:57:22.648] [info]  	at Genesis/net.minecraft.client.renderer.texture.TextureManager.bridge$bindTexture(SourceFile:559) ~[?:?]
+[2024-06-22 21:57:22.649] [info]  	at Genesis/com.moonsworth.lunar.client.CCOCCHORCHCOCCROCHOIOICOI.IOCOHCCRCOHRICRRHOOICHIHO.HRIROOCRRICCRIOOHOIOCCOCH.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source) ~[?:?]
+[2024-06-22 21:57:22.649] [info]  	at Genesis/com.moonsworth.lunar.client.IIIICORICOICIRRHCHIIHROIC.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source) ~[?:?]
+[2024-06-22 21:57:22.649] [info]  	at Genesis/net.minecraft.client.gui.Gui.lunar$renderHealthBarEvent(SourceFile:2087) ~[?:?]
+[2024-06-22 21:57:22.649] [info]  	at Genesis/net.minecraft.client.gui.Gui.handler$zef000$lunar$renderPlayerHealth(SourceFile:2082) ~[?:?]
+[2024-06-22 21:57:22.649] [info]  	at Genesis/net.minecraft.client.gui.Gui.renderPlayerHealth(SourceFile:902) ~[?:?]
+[2024-06-22 21:57:22.650] [info]  	at Genesis/net.minecraft.client.gui.Gui.renderHotbarAndDecorations(SourceFile:541) ~[?:?]
+[2024-06-22 21:57:22.650] [info]  	at Genesis/net.minecraft.client.gui.LayeredDraw.renderInner(SourceFile:36) ~[?:?]
+[2024-06-22 21:57:22.650] [info]  	at Genesis/net.minecraft.client.gui.LayeredDraw.lambda$add$0(SourceFile:22) ~[?:?]
+[2024-06-22 21:57:22.650] [info]  	at Genesis/net.minecraft.client.gui.LayeredDraw.renderInner(SourceFile:36) ~[?:?]
+[2024-06-22 21:57:22.651] [info]  	at Genesis/net.minecraft.client.gui.LayeredDraw.render(SourceFile:29) ~[?:?]
+[2024-06-22 21:57:22.651] [info]  	at Genesis/net.minecraft.client.gui.Gui.render(SourceFile:218) ~[?:?]
+[2024-06-22 21:57:22.651] [info]  	at Genesis/net.minecraft.client.renderer.GameRenderer.md7a6319$lambda$lunar$renderGui$0$c(SourceFile:2267) ~[?:?]
+[2024-06-22 21:57:22.651] [info]  	at Genesis/com.moonsworth.lunar.client.CCIIHHRHCCHRRHROOHIOCHOCC.RHOCIORRHROCOHOOCRHHRRHCI.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source) [?:?]
+[2024-06-22 21:57:22.651] [info]  	at Genesis/net.minecraft.client.renderer.GameRenderer.lunar$renderGui(SourceFile:2265) [?:?]
+[2024-06-22 21:57:22.652] [info]  	at Genesis/net.minecraft.client.renderer.GameRenderer.redirect$zgh000$lunar$renderGui$v1_21(SourceFile:2181) [?:?]
+[2024-06-22 21:57:22.652] [info]  	at Genesis/net.minecraft.client.renderer.GameRenderer.render(SourceFile:896) [?:?]
+[2024-06-22 21:57:22.652] [info]  	at Genesis/net.minecraft.client.Minecraft.runTick(SourceFile:1285) [?:?]
+[2024-06-22 21:57:22.652] [info]  	at Genesis/net.minecraft.client.Minecraft.run(SourceFile:882) [?:?]
+[2024-06-22 21:57:22.652] [info]  	at Genesis/net.minecraft.client.main.Main.main(SourceFile:256) [?:?]
+[2024-06-22 21:57:22.653] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+[2024-06-22 21:57:22.653] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+[2024-06-22 21:57:22.653] [info]  	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-22 21:57:22.654] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+[2024-06-22 21:57:22.654] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+[2024-06-22 21:57:22.654] [info]  	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-22 21:57:22.654] [info]  	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-22 21:57:22.654] [info]  	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-22 21:57:23.515] [info]  [21:57:23] [Render thread/INFO]: Loaded 81 advancements
+[2024-06-22 21:57:23.860] [info]  [21:57:23] [Server thread/INFO]: Saving and pausing game...
+[2024-06-22 21:57:23.868] [info]  [21:57:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:overworld
+[2024-06-22 21:57:23.873] [info]  [21:57:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_end
+[2024-06-22 21:57:23.873] [info]  [21:57:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_nether
+[2024-06-22 21:57:41.359] [info]  [21:57:41] [Server thread/INFO]: Saving and pausing game...
+[2024-06-22 21:57:41.366] [info]  [21:57:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:overworld
+[2024-06-22 21:57:41.370] [info]  [21:57:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_end
+[2024-06-22 21:57:41.371] [info]  [21:57:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_nether
+[2024-06-22 21:57:49.970] [info]  [21:57:49] [Render thread/INFO]: Loaded 92 advancements
+[2024-06-22 21:57:57.219] [info]  [21:57:57] [Render thread/INFO]: Loaded 95 advancements
+[2024-06-22 21:58:18.563] [info]  [21:58:18] [Server thread/INFO]: MengHong001 has made the advancement [Stone Age]
+[2024-06-22 21:58:18.598] [info]  [21:58:18] [Render thread/INFO]: [System] [CHAT] MengHong001 has made the advancement [Stone Age]
+[2024-06-22 21:58:18.617] [info]  [21:58:18] [Render thread/INFO]: Loaded 110 advancements
+[2024-06-22 21:58:24.987] [info]  [21:58:24] [Server thread/INFO]: MengHong001 has made the advancement [Getting an Upgrade]
+[2024-06-22 21:58:24.993] [info]  [21:58:24] [Render thread/INFO]: [System] [CHAT] MengHong001 has made the advancement [Getting an Upgrade]
+[2024-06-22 21:58:25.021] [info]  [21:58:25] [Render thread/INFO]: Loaded 114 advancements
+[2024-06-22 21:58:27.369] [info]  [21:58:27] [Render thread/INFO]: Loaded 115 advancements
+[2024-06-22 21:59:08.909] [info]  [21:59:08] [Server thread/INFO]: Saving and pausing game...
+[2024-06-22 21:59:08.917] [info]  [21:59:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:overworld
+[2024-06-22 21:59:08.927] [info]  [21:59:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_end
+[2024-06-22 21:59:08.930] [info]  [21:59:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_nether
+[2024-06-22 21:59:55.960] [info]  [21:59:55] [Server thread/INFO]: Saving and pausing game...
+[2024-06-22 21:59:55.968] [info]  [21:59:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:overworld
+[2024-06-22 21:59:55.972] [info]  [21:59:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_end
+[2024-06-22 21:59:55.973] [info]  [21:59:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_nether
+[2024-06-22 22:01:09.817] [info]  [22:01:09] [Render thread/INFO]: Loaded 116 advancements
+[2024-06-22 22:01:14.909] [info]  [22:01:14] [Server thread/INFO]: Saving and pausing game...
+[2024-06-22 22:01:14.917] [info]  [22:01:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:overworld
+[2024-06-22 22:01:14.927] [info]  [22:01:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_end
+[2024-06-22 22:01:14.929] [info]  [22:01:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_nether
+[2024-06-22 22:01:30.709] [info]  [22:01:30] [Server thread/INFO]: Saving and pausing game...
+[2024-06-22 22:01:30.717] [info]  [22:01:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:overworld
+[2024-06-22 22:01:30.726] [info]  [22:01:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_end
+[2024-06-22 22:01:30.729] [info]  [22:01:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_nether
+[2024-06-22 22:01:43.034] [info]  [22:01:43] [Render thread/INFO]: Flushed changes to Minecraft configuration
+[2024-06-22 22:01:43.035] [info]  [22:01:43] [Render thread/INFO]: Flushed changes to Sodium configuration
+[2024-06-22 22:02:09.609] [info]  [22:02:09] [Server thread/INFO]: Saving and pausing game...
+[2024-06-22 22:02:09.617] [info]  [22:02:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:overworld
+[2024-06-22 22:02:09.630] [info]  [22:02:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_end
+[2024-06-22 22:02:09.633] [info]  [22:02:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_nether
+[2024-06-22 22:02:11.110] [info]  [22:02:11] [Server thread/INFO]: Saving and pausing game...
+[2024-06-22 22:02:11.117] [info]  [22:02:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:overworld
+[2024-06-22 22:02:11.123] [info]  [22:02:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_end
+[2024-06-22 22:02:11.127] [info]  [22:02:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_nether
+[2024-06-22 22:02:47.663] [info]  [22:02:47] [Render thread/INFO]: Loaded 123 advancements
+[2024-06-22 22:03:08.621] [info]  [22:03:08] [Render thread/INFO]: Loaded 126 advancements
+[2024-06-22 22:04:28.867] [info]  [22:04:28] [Render thread/INFO]: Loaded 127 advancements
+[2024-06-22 22:05:19.719] [info]  [22:05:19] [Render thread/INFO]: Loaded 127 advancements
+[2024-06-22 22:05:33.374] [info]  [22:05:33] [Server thread/INFO]: MengHong001 has made the advancement [Acquire Hardware]
+[2024-06-22 22:05:33.382] [info]  [22:05:33] [Render thread/INFO]: [System] [CHAT] MengHong001 has made the advancement [Acquire Hardware]
+[2024-06-22 22:05:33.417] [info]  [22:05:33] [Render thread/INFO]: Loaded 154 advancements
+[2024-06-22 22:05:45.664] [info]  [22:05:45] [Server thread/INFO]: MengHong001 has made the advancement [Isn't It Iron Pick]
+[2024-06-22 22:05:45.668] [info]  [22:05:45] [Render thread/INFO]: [System] [CHAT] MengHong001 has made the advancement [Isn't It Iron Pick]
+[2024-06-22 22:05:45.718] [info]  [22:05:45] [Render thread/INFO]: Loaded 158 advancements
+[2024-06-22 22:07:59.866] [info]  [22:07:59] [Render thread/INFO]: Loaded 158 advancements
+[2024-06-22 22:08:10.376] [info]  [22:08:10] [Server thread/INFO]: MengHong001 has made the advancement [Monster Hunter]
+[2024-06-22 22:08:10.383] [info]  [22:08:10] [Render thread/INFO]: [System] [CHAT] MengHong001 has made the advancement [Monster Hunter]
+[2024-06-22 22:08:10.419] [info]  [22:08:10] [Render thread/INFO]: Loaded 161 advancements
+[2024-06-22 22:08:11.418] [info]  [22:08:11] [Render thread/INFO]: Loaded 162 advancements
+[2024-06-22 22:08:11.865] [info]  [22:08:11] [Render thread/INFO]: Loaded 162 advancements
+[2024-06-22 22:08:22.867] [info]  [22:08:22] [Render thread/INFO]: Loaded 162 advancements
+[2024-06-22 22:08:47.816] [info]  [22:08:47] [Render thread/INFO]: Loaded 171 advancements
+[2024-06-22 22:08:56.367] [info]  [22:08:56] [Render thread/INFO]: Loaded 171 advancements
+[2024-06-22 22:09:34.386] [info]  [22:09:34] [Server thread/INFO]: MengHong001 has made the advancement [Sweet Dreams]
+[2024-06-22 22:09:34.389] [info]  [22:09:34] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[2024-06-22 22:09:34.389] [info]  [22:09:34] [Render thread/INFO]: [System] [CHAT] MengHong001 has made the advancement [Sweet Dreams]
+[2024-06-22 22:09:34.418] [info]  [22:09:34] [Render thread/INFO]: Loaded 171 advancements
+[2024-06-22 22:13:00.676] [info]  [22:13:00] [Render thread/ERROR]: Reported exception thrown!
+[2024-06-22 22:13:00.677] [info]  net.minecraft.ReportedException: Rendering entity in world
+[2024-06-22 22:13:00.677] [info]  	at Genesis/net.minecraft.client.renderer.entity.EntityRenderDispatcher.render(SourceFile:185) ~[?:?]
+[2024-06-22 22:13:00.677] [info]  	at Genesis/net.minecraft.client.renderer.LevelRenderer.renderEntity(SourceFile:1312) ~[?:?]
+[2024-06-22 22:13:00.678] [info]  	at Genesis/net.minecraft.client.renderer.LevelRenderer.renderLevel(SourceFile:1071) ~[?:?]
+[2024-06-22 22:13:00.678] [info]  	at Genesis/net.minecraft.client.renderer.GameRenderer.renderLevel(SourceFile:1087) ~[?:?]
+[2024-06-22 22:13:00.678] [info]  	at Genesis/net.minecraft.client.renderer.GameRenderer.render(SourceFile:850) ~[?:?]
+[2024-06-22 22:13:00.678] [info]  	at Genesis/net.minecraft.client.Minecraft.runTick(SourceFile:1285) ~[?:?]
+[2024-06-22 22:13:00.678] [info]  	at Genesis/net.minecraft.client.Minecraft.run(SourceFile:882) [?:?]
+[2024-06-22 22:13:00.679] [info]  	at Genesis/net.minecraft.client.main.Main.main(SourceFile:256) [?:?]
+[2024-06-22 22:13:00.679] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+[2024-06-22 22:13:00.679] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+[2024-06-22 22:13:00.679] [info]  	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-22 22:13:00.679] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+[2024-06-22 22:13:00.680] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+[2024-06-22 22:13:00.680] [info]  	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-22 22:13:00.680] [info]  	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-22 22:13:00.680] [info]  	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-22 22:13:00.681] [info]  Caused by: java.lang.NullPointerException: Cannot invoke "net.fabricmc.fabric.api.renderer.v1.Renderer.meshBuilder()" because the return value of "net.fabricmc.fabric.api.renderer.v1.RendererAccess.getRenderer()" is null
+[2024-06-22 22:13:00.681] [info]  	at Genesis/me.pepperbell.continuity.impl.client.ProcessingContextImpl.<init>(ProcessingContextImpl.java:18) ~[?:?]
+[2024-06-22 22:13:00.681] [info]  	at Genesis/me.pepperbell.continuity.client.model.CtmBakedModel$CtmQuadTransform.<init>(CtmBakedModel.java:86) ~[?:?]
+[2024-06-22 22:13:00.681] [info]  	at Genesis/me.pepperbell.continuity.client.model.ModelObjectsContainer.<init>(ModelObjectsContainer.java:10) ~[?:?]
+[2024-06-22 22:13:00.681] [info]  	at java.base/java.lang.ThreadLocal$SuppliedThreadLocal.initialValue(Unknown Source) ~[?:?]
+[2024-06-22 22:13:00.682] [info]  	at java.base/java.lang.ThreadLocal.setInitialValue(Unknown Source) ~[?:?]
+[2024-06-22 22:13:00.682] [info]  	at java.base/java.lang.ThreadLocal.get(Unknown Source) ~[?:?]
+[2024-06-22 22:13:00.682] [info]  	at java.base/java.lang.ThreadLocal.get(Unknown Source) ~[?:?]
+[2024-06-22 22:13:00.682] [info]  	at Genesis/me.pepperbell.continuity.client.model.ModelObjectsContainer.get(ModelObjectsContainer.java:18) ~[?:?]
+[2024-06-22 22:13:00.682] [info]  	at Genesis/me.pepperbell.continuity.impl.client.ContinuityFeatureStatesImpl.get(ContinuityFeatureStatesImpl.java:16) ~[?:?]
+[2024-06-22 22:13:00.683] [info]  	at Genesis/me.pepperbell.continuity.api.client.ContinuityFeatureStates.get(ContinuityFeatureStates.java:10) ~[?:?]
+[2024-06-22 22:13:00.683] [info]  	at Genesis/net.minecraft.client.renderer.entity.FallingBlockRenderer.handler$zkd000$continuity$beforeRenderModel(SourceFile:515) ~[?:?]
+[2024-06-22 22:13:00.683] [info]  	at Genesis/net.minecraft.client.renderer.entity.FallingBlockRenderer.render(SourceFile:45) ~[?:?]
+[2024-06-22 22:13:00.683] [info]  	at Genesis/net.minecraft.client.renderer.entity.FallingBlockRenderer.render(SourceFile:17) ~[?:?]
+[2024-06-22 22:13:00.683] [info]  	at Genesis/net.minecraft.client.renderer.entity.EntityRenderDispatcher.render(SourceFile:148) ~[?:?]
+[2024-06-22 22:13:00.684] [info]  	... 15 more
+[2024-06-22 22:13:01.012] [info]  [22:13:01] [Server thread/INFO]: Stopping server
+[2024-06-22 22:13:01.013] [info]  [22:13:01] [Server thread/INFO]: Saving players
+[2024-06-22 22:13:01.023] [info]  [22:13:01] [Server thread/INFO]: Saving worlds
+[2024-06-22 22:13:01.174] [info]  [22:13:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:overworld
+[2024-06-22 22:13:01.463] [info]  [22:13:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_end
+[2024-06-22 22:13:01.465] [info]  [22:13:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_nether
+[2024-06-22 22:13:01.472] [info]  [22:13:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (MengHong001): All chunks are saved
+[2024-06-22 22:13:01.472] [info]  [22:13:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[2024-06-22 22:13:01.473] [info]  [22:13:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[2024-06-22 22:13:01.473] [info]  [22:13:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[2024-06-22 22:13:01.518] [info]  [22:13:01] [Render thread/INFO]: Xaero hud session finalized.
+[2024-06-22 22:13:01.550] [info]  [22:13:01] [Render thread/INFO]: Stopping worker threads
+[2024-06-22 22:13:01.885] [info]  [22:13:01] [Render thread/INFO]: [LC] ==============================
+[2024-06-22 22:13:01.885] [info]  [22:13:01] [Render thread/INFO]: [LC] Report Id: LCCR-345044ddc4e64019af26914dc4831437
+[2024-06-22 22:13:01.886] [info]  [22:13:01] [Render thread/INFO]: [LC] MC version: 1.21
+[2024-06-22 22:13:01.886] [info]  [22:13:01] [Render thread/INFO]: [LC] Branch: version/1-21
+[2024-06-22 22:13:01.886] [info]  [22:13:01] [Render thread/INFO]: [LC] Commit: 291fdea00f6d8268bb702af311d0be7385a53239 (291fdea)
+[2024-06-22 22:13:01.887] [info]  [22:13:01] [Render thread/INFO]: [LC] Modules: [sodium, lunar-platform, common, fabric, lunar]
+[2024-06-22 22:13:01.887] [info]  [22:13:01] [Render thread/INFO]: [LC] OS: Windows 11
+[2024-06-22 22:13:01.887] [info]  [22:13:01] [Render thread/INFO]: [LC] Arch: AMD64
+[2024-06-22 22:13:01.887] [info]  [22:13:01] [Render thread/INFO]: [LC] Launcher Version: 3.2.10
+[2024-06-22 22:13:01.887] [info]  [22:13:01] [Render thread/INFO]: [LC] Launcher ID: c2c2a3db-1108-4b5c-a3fd-43dcdbe28e90
+[2024-06-22 22:13:01.888] [info]  [22:13:01] [Render thread/INFO]: [LC] Sentry Trace ID: fc3c0e4e2a389e5607f97c6ebd77b901
+[2024-06-22 22:13:01.888] [info]  [22:13:01] [Render thread/INFO]: [LC] ==============================
+[2024-06-22 22:13:08.887] [info]  ---- Minecraft Crash Report ----
+[2024-06-22 22:13:08.887] [info]  // You're mean.
+[2024-06-22 22:13:08.888] [info]  
+[2024-06-22 22:13:08.888] [info]  Time: 2024-06-22 22:13:08
+[2024-06-22 22:13:08.888] [info]  Description: Rendering entity in world
+[2024-06-22 22:13:08.888] [info]  
+[2024-06-22 22:13:08.889] [info]  java.lang.NullPointerException: Cannot invoke "net.fabricmc.fabric.api.renderer.v1.Renderer.meshBuilder()" because the return value of "net.fabricmc.fabric.api.renderer.v1.RendererAccess.getRenderer()" is null
+[2024-06-22 22:13:08.889] [info]  	at Genesis//me.pepperbell.continuity.impl.client.ProcessingContextImpl.<init>(ProcessingContextImpl.java:18)
+[2024-06-22 22:13:08.889] [info]  	at Genesis//me.pepperbell.continuity.client.model.CtmBakedModel$CtmQuadTransform.<init>(CtmBakedModel.java:86)
+[2024-06-22 22:13:08.889] [info]  	at Genesis//me.pepperbell.continuity.client.model.ModelObjectsContainer.<init>(ModelObjectsContainer.java:10)
+[2024-06-22 22:13:08.889] [info]  	at java.base@21.0.1/java.lang.ThreadLocal$SuppliedThreadLocal.initialValue(Unknown Source)
+[2024-06-22 22:13:08.890] [info]  	at java.base@21.0.1/java.lang.ThreadLocal.setInitialValue(Unknown Source)
+[2024-06-22 22:13:08.890] [info]  	at java.base@21.0.1/java.lang.ThreadLocal.get(Unknown Source)
+[2024-06-22 22:13:08.890] [info]  	at java.base@21.0.1/java.lang.ThreadLocal.get(Unknown Source)
+[2024-06-22 22:13:08.890] [info]  	at Genesis//me.pepperbell.continuity.client.model.ModelObjectsContainer.get(ModelObjectsContainer.java:18)
+[2024-06-22 22:13:08.890] [info]  	at Genesis//me.pepperbell.continuity.impl.client.ContinuityFeatureStatesImpl.get(ContinuityFeatureStatesImpl.java:16)
+[2024-06-22 22:13:08.891] [info]  	at Genesis//me.pepperbell.continuity.api.client.ContinuityFeatureStates.get(ContinuityFeatureStates.java:10)
+[2024-06-22 22:13:08.891] [info]  	at Genesis//net.minecraft.client.renderer.entity.FallingBlockRenderer.handler_continuity$beforeRenderModel(SourceFile:515)
+[2024-06-22 22:13:08.891] [info]  	at Genesis//net.minecraft.client.renderer.entity.FallingBlockRenderer.render(SourceFile:45)
+[2024-06-22 22:13:08.891] [info]  	at Genesis//net.minecraft.client.renderer.entity.FallingBlockRenderer.render(SourceFile:17)
+[2024-06-22 22:13:08.891] [info]  	at Genesis//net.minecraft.client.renderer.entity.EntityRenderDispatcher.render(SourceFile:148)
+[2024-06-22 22:13:08.892] [info]  	at Genesis//net.minecraft.client.renderer.LevelRenderer.renderEntity(SourceFile:1312)
+[2024-06-22 22:13:08.892] [info]  	at Genesis//net.minecraft.client.renderer.LevelRenderer.renderLevel(SourceFile:1071)
+[2024-06-22 22:13:08.892] [info]  	at Genesis//net.minecraft.client.renderer.GameRenderer.renderLevel(SourceFile:1087)
+[2024-06-22 22:13:08.892] [info]  	at Genesis//net.minecraft.client.renderer.GameRenderer.render(SourceFile:850)
+[2024-06-22 22:13:08.892] [info]  	at Genesis//net.minecraft.client.Minecraft.runTick(SourceFile:1285)
+[2024-06-22 22:13:08.893] [info]  	at Genesis//net.minecraft.client.Minecraft.run(SourceFile:882)
+[2024-06-22 22:13:08.893] [info]  	at Genesis//net.minecraft.client.main.Main.main(SourceFile:256)
+[2024-06-22 22:13:08.893] [info]  	at java.base@21.0.1/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[2024-06-22 22:13:08.893] [info]  	at java.base@21.0.1/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-06-22 22:13:08.893] [info]  	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source)
+[2024-06-22 22:13:08.894] [info]  	at java.base@21.0.1/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[2024-06-22 22:13:08.894] [info]  	at java.base@21.0.1/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-06-22 22:13:08.894] [info]  	at app//com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-22 22:13:08.894] [info]  	at app//com.moonsworth.lunar.genesis.Genesis.run(Unknown Source)
+[2024-06-22 22:13:08.894] [info]  	at app//com.moonsworth.lunar.genesis.Genesis.main(Unknown Source)
+[2024-06-22 22:13:08.895] [info]  
+[2024-06-22 22:13:08.895] [info]  
+[2024-06-22 22:13:08.895] [info]  A detailed walkthrough of the error, its code path and all known details is as follows:
+[2024-06-22 22:13:08.895] [info]  ---------------------------------------------------------------------------------------
+[2024-06-22 22:13:08.895] [info]  
+[2024-06-22 22:13:08.896] [info]  -- Head --
+[2024-06-22 22:13:08.896] [info]  Thread: Render thread
+[2024-06-22 22:13:08.896] [info]  Stacktrace:
+[2024-06-22 22:13:08.896] [info]  	at Genesis//me.pepperbell.continuity.impl.client.ProcessingContextImpl.<init>(ProcessingContextImpl.java:18)
+[2024-06-22 22:13:08.896] [info]  	at Genesis//me.pepperbell.continuity.client.model.CtmBakedModel$CtmQuadTransform.<init>(CtmBakedModel.java:86)
+[2024-06-22 22:13:08.897] [info]  	at Genesis//me.pepperbell.continuity.client.model.ModelObjectsContainer.<init>(ModelObjectsContainer.java:10)
+[2024-06-22 22:13:08.897] [info]  	at java.base/java.lang.ThreadLocal$SuppliedThreadLocal.initialValue(Unknown Source)
+[2024-06-22 22:13:08.897] [info]  	at java.base/java.lang.ThreadLocal.setInitialValue(Unknown Source)
+[2024-06-22 22:13:08.897] [info]  	at java.base/java.lang.ThreadLocal.get(Unknown Source)
+[2024-06-22 22:13:08.897] [info]  	at java.base/java.lang.ThreadLocal.get(Unknown Source)
+[2024-06-22 22:13:08.898] [info]  	at Genesis//me.pepperbell.continuity.client.model.ModelObjectsContainer.get(ModelObjectsContainer.java:18)
+[2024-06-22 22:13:08.898] [info]  	at Genesis//me.pepperbell.continuity.impl.client.ContinuityFeatureStatesImpl.get(ContinuityFeatureStatesImpl.java:16)
+[2024-06-22 22:13:08.898] [info]  	at Genesis//me.pepperbell.continuity.api.client.ContinuityFeatureStates.get(ContinuityFeatureStates.java:10)
+[2024-06-22 22:13:08.898] [info]  	at Genesis//net.minecraft.client.renderer.entity.FallingBlockRenderer.handler$zkd000$continuity$beforeRenderModel(SourceFile:515)
+[2024-06-22 22:13:08.898] [info]  	at Genesis//net.minecraft.client.renderer.entity.FallingBlockRenderer.render(SourceFile:45)
+[2024-06-22 22:13:08.899] [info]  	at Genesis//net.minecraft.client.renderer.entity.FallingBlockRenderer.render(SourceFile:17)
+[2024-06-22 22:13:08.899] [info]  	at Genesis//net.minecraft.client.renderer.entity.EntityRenderDispatcher.render(SourceFile:148)
+[2024-06-22 22:13:08.899] [info]  	at Genesis//net.minecraft.client.renderer.LevelRenderer.renderEntity(SourceFile:1312)
+[2024-06-22 22:13:08.899] [info]  	at Genesis//net.minecraft.client.renderer.LevelRenderer.renderLevel(SourceFile:1071)
+[2024-06-22 22:13:08.900] [info]  	at Genesis//net.minecraft.client.renderer.GameRenderer.renderLevel(SourceFile:1087)
+[2024-06-22 22:13:08.900] [info]  
+[2024-06-22 22:13:08.900] [info]  -- Entity being rendered --
+[2024-06-22 22:13:08.900] [info]  Details:
+[2024-06-22 22:13:08.901] [info]  	Entity Type: minecraft:falling_block (net.minecraft.world.entity.item.FallingBlockEntity)
+[2024-06-22 22:13:08.901] [info]  	Entity ID: 6583
+[2024-06-22 22:13:08.901] [info]  	Entity Name: Falling Gravel
+[2024-06-22 22:13:08.901] [info]  	Entity's Exact location: 197.50, 65.00, -167.50
+[2024-06-22 22:13:08.901] [info]  	Entity's Block location: World: (197,65,-168), Section: (at 5,1,8 in 12,4,-11; chunk contains blocks 192,-64,-176 to 207,319,-161), Region: (0,-1; contains chunks 0,-32 to 31,-1, blocks 0,-64,-512 to 511,319,-1)
+[2024-06-22 22:13:08.901] [info]  	Entity's Momentum: 0.00, 0.00, 0.00
+[2024-06-22 22:13:08.902] [info]  	Entity's Passengers: []
+[2024-06-22 22:13:08.902] [info]  	Entity's Vehicle: null
+[2024-06-22 22:13:08.902] [info]  	Immitating BlockState: Block{minecraft:gravel}
+[2024-06-22 22:13:08.902] [info]  Stacktrace:
+[2024-06-22 22:13:08.902] [info]  	at Genesis//net.minecraft.client.renderer.entity.EntityRenderDispatcher.render(SourceFile:148)
+[2024-06-22 22:13:08.903] [info]  	at Genesis//net.minecraft.client.renderer.LevelRenderer.renderEntity(SourceFile:1312)
+[2024-06-22 22:13:08.903] [info]  	at Genesis//net.minecraft.client.renderer.LevelRenderer.renderLevel(SourceFile:1071)
+[2024-06-22 22:13:08.903] [info]  	at Genesis//net.minecraft.client.renderer.GameRenderer.renderLevel(SourceFile:1087)
+[2024-06-22 22:13:08.903] [info]  	at Genesis//net.minecraft.client.renderer.GameRenderer.render(SourceFile:850)
+[2024-06-22 22:13:08.903] [info]  	at Genesis//net.minecraft.client.Minecraft.runTick(SourceFile:1285)
+[2024-06-22 22:13:08.904] [info]  	at Genesis//net.minecraft.client.Minecraft.run(SourceFile:882)
+[2024-06-22 22:13:08.904] [info]  	at Genesis//net.minecraft.client.main.Main.main(SourceFile:256)
+[2024-06-22 22:13:08.904] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[2024-06-22 22:13:08.904] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-06-22 22:13:08.904] [info]  	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source)
+[2024-06-22 22:13:08.905] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[2024-06-22 22:13:08.905] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-06-22 22:13:08.905] [info]  	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-22 22:13:08.905] [info]  	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source)
+[2024-06-22 22:13:08.905] [info]  	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source)
+[2024-06-22 22:13:08.906] [info]  
+[2024-06-22 22:13:08.906] [info]  -- Renderer details --
+[2024-06-22 22:13:08.906] [info]  Details:
+[2024-06-22 22:13:08.907] [info]  	Assigned renderer: net.minecraft.client.renderer.entity.FallingBlockRenderer@3da21d27
+[2024-06-22 22:13:08.907] [info]  	Location: -4.38,2.38,-2.83 - World: (-5,2,-3), Section: (at 11,2,13 in -1,0,-1; chunk contains blocks -16,-64,-16 to -1,319,-1), Region: (-1,-1; contains chunks -32,-32 to -1,-1, blocks -512,-64,-512 to -1,319,-1)
+[2024-06-22 22:13:08.907] [info]  	Rotation: 0.0
+[2024-06-22 22:13:08.908] [info]  	Delta: 0.89965105
+[2024-06-22 22:13:08.908] [info]  Stacktrace:
+[2024-06-22 22:13:08.908] [info]  	at Genesis//net.minecraft.client.renderer.entity.EntityRenderDispatcher.render(SourceFile:148)
+[2024-06-22 22:13:08.909] [info]  	at Genesis//net.minecraft.client.renderer.LevelRenderer.renderEntity(SourceFile:1312)
+[2024-06-22 22:13:08.909] [info]  	at Genesis//net.minecraft.client.renderer.LevelRenderer.renderLevel(SourceFile:1071)
+[2024-06-22 22:13:08.909] [info]  	at Genesis//net.minecraft.client.renderer.GameRenderer.renderLevel(SourceFile:1087)
+[2024-06-22 22:13:08.909] [info]  	at Genesis//net.minecraft.client.renderer.GameRenderer.render(SourceFile:850)
+[2024-06-22 22:13:08.910] [info]  	at Genesis//net.minecraft.client.Minecraft.runTick(SourceFile:1285)
+[2024-06-22 22:13:08.910] [info]  	at Genesis//net.minecraft.client.Minecraft.run(SourceFile:882)
+[2024-06-22 22:13:08.910] [info]  	at Genesis//net.minecraft.client.main.Main.main(SourceFile:256)
+[2024-06-22 22:13:08.910] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[2024-06-22 22:13:08.911] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-06-22 22:13:08.911] [info]  	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source)
+[2024-06-22 22:13:08.911] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[2024-06-22 22:13:08.911] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-06-22 22:13:08.911] [info]  	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-22 22:13:08.912] [info]  	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source)
+[2024-06-22 22:13:08.912] [info]  	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source)
+[2024-06-22 22:13:08.912] [info]  
+[2024-06-22 22:13:08.912] [info]  -- Uptime --
+[2024-06-22 22:13:08.913] [info]  Details:
+[2024-06-22 22:13:08.913] [info]  	JVM uptime: 1128.004s
+[2024-06-22 22:13:08.913] [info]  	Wall uptime: 1098.034s
+[2024-06-22 22:13:08.913] [info]  	High-res time: 1095.309s
+[2024-06-22 22:13:08.914] [info]  	Client ticks: 21500 ticks / 1075.000s
+[2024-06-22 22:13:08.914] [info]  Stacktrace:
+[2024-06-22 22:13:08.914] [info]  	at Genesis//net.minecraft.client.Minecraft.fillReport(SourceFile:2501)
+[2024-06-22 22:13:08.914] [info]  	at Genesis//net.minecraft.client.Minecraft.emergencySaveAndCrash(SourceFile:949)
+[2024-06-22 22:13:08.915] [info]  	at Genesis//net.minecraft.client.Minecraft.run(SourceFile:902)
+[2024-06-22 22:13:08.915] [info]  	at Genesis//net.minecraft.client.main.Main.main(SourceFile:256)
+[2024-06-22 22:13:08.915] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[2024-06-22 22:13:08.915] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-06-22 22:13:08.916] [info]  	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source)
+[2024-06-22 22:13:08.916] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[2024-06-22 22:13:08.916] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-06-22 22:13:08.916] [info]  	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-22 22:13:08.916] [info]  	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source)
+[2024-06-22 22:13:08.917] [info]  	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source)
+[2024-06-22 22:13:08.917] [info]  
+[2024-06-22 22:13:08.917] [info]  -- Affected level --
+[2024-06-22 22:13:08.917] [info]  Details:
+[2024-06-22 22:13:08.917] [info]  	All players: 1 total; [LocalPlayer['MengHong001'/91, l='ClientLevel', x=201.90, y=61.00, z=-164.67]]
+[2024-06-22 22:13:08.918] [info]  	Chunk stats: 1024, 249
+[2024-06-22 22:13:08.918] [info]  	Level dimension: minecraft:overworld
+[2024-06-22 22:13:08.918] [info]  	Level spawn location: World: (0,72,0), Section: (at 0,8,0 in 0,4,0; chunk contains blocks 0,-64,0 to 15,319,15), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,-64,0 to 511,319,511)
+[2024-06-22 22:13:08.918] [info]  	Level time: 19272 game time, 28022 day time
+[2024-06-22 22:13:08.918] [info]  	Server brand: vanilla
+[2024-06-22 22:13:08.919] [info]  	Server type: Integrated singleplayer server
+[2024-06-22 22:13:08.919] [info]  	Tracked entity count: 144
+[2024-06-22 22:13:08.919] [info]  
+[2024-06-22 22:13:08.919] [info]  -- Last reload --
+[2024-06-22 22:13:08.919] [info]  Details:
+[2024-06-22 22:13:08.920] [info]  	Reload number: 1
+[2024-06-22 22:13:08.920] [info]  	Reload reason: initial
+[2024-06-22 22:13:08.920] [info]  	Finished: Yes
+[2024-06-22 22:13:08.920] [info]  	Packs: lunar, vanilla, fabric, caffeineconfig, cloth-config, continuity, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, iris, notenoughanimations, sodium, sodium-extra, xaerominimap, yet_another_config_lib_v3, zoomify, file/FMDO.zip
+[2024-06-22 22:13:08.920] [info]  
+[2024-06-22 22:13:08.921] [info]  -- System Details --
+[2024-06-22 22:13:08.921] [info]  Details:
+[2024-06-22 22:13:08.921] [info]  	Minecraft Version: 1.21
+[2024-06-22 22:13:08.921] [info]  	Minecraft Version ID: 1.21
+[2024-06-22 22:13:08.922] [info]  	Operating System: Windows 11 (amd64) version 10.0
+[2024-06-22 22:13:08.922] [info]  	Java Version: 21.0.1, Azul Systems, Inc.
+[2024-06-22 22:13:08.922] [info]  	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Azul Systems, Inc.
+[2024-06-22 22:13:08.922] [info]  	Memory: 580862592 bytes (553 MiB) / 2688548864 bytes (2564 MiB) up to 3221225472 bytes (3072 MiB)
+[2024-06-22 22:13:08.922] [info]  	CPUs: 16
+[2024-06-22 22:13:08.923] [info]  	Processor Vendor: AuthenticAMD
+[2024-06-22 22:13:08.923] [info]  	Processor Name: AMD Ryzen 7 6800HS with Radeon Graphics         
+[2024-06-22 22:13:08.923] [info]  	Identifier: AuthenticAMD Family 25 Model 68 Stepping 1
+[2024-06-22 22:13:08.923] [info]  	Microarchitecture: Zen 3
+[2024-06-22 22:13:08.923] [info]  	Frequency (GHz): 3.19
+[2024-06-22 22:13:08.924] [info]  	Number of physical packages: 1
+[2024-06-22 22:13:08.924] [info]  	Number of physical CPUs: 8
+[2024-06-22 22:13:08.924] [info]  	Number of logical CPUs: 16
+[2024-06-22 22:13:08.924] [info]  	Graphics card #0 name: NVIDIA GeForce RTX 3050 Laptop GPU
+[2024-06-22 22:13:08.924] [info]  	Graphics card #0 vendor: NVIDIA
+[2024-06-22 22:13:08.925] [info]  	Graphics card #0 VRAM (MiB): 4096.00
+[2024-06-22 22:13:08.925] [info]  	Graphics card #0 deviceId: VideoController1
+[2024-06-22 22:13:08.925] [info]  	Graphics card #0 versionInfo: 31.0.15.4633
+[2024-06-22 22:13:08.925] [info]  	Graphics card #1 name: AMD Radeon(TM) Graphics
+[2024-06-22 22:13:08.925] [info]  	Graphics card #1 vendor: Advanced Micro Devices, Inc.
+[2024-06-22 22:13:08.926] [info]  	Graphics card #1 VRAM (MiB): 512.00
+[2024-06-22 22:13:08.926] [info]  	Graphics card #1 deviceId: VideoController2
+[2024-06-22 22:13:08.926] [info]  	Graphics card #1 versionInfo: 31.0.14084.6002
+[2024-06-22 22:13:08.926] [info]  	Memory slot #0 capacity (MiB): 16384.00
+[2024-06-22 22:13:08.926] [info]  	Memory slot #0 clockSpeed (GHz): 4.80
+[2024-06-22 22:13:08.927] [info]  	Memory slot #0 type: Unknown
+[2024-06-22 22:13:08.927] [info]  	Memory slot #1 capacity (MiB): 16384.00
+[2024-06-22 22:13:08.927] [info]  	Memory slot #1 clockSpeed (GHz): 4.80
+[2024-06-22 22:13:08.927] [info]  	Memory slot #1 type: Unknown
+[2024-06-22 22:13:08.927] [info]  	Virtual memory max (MiB): 64780.88
+[2024-06-22 22:13:08.928] [info]  	Virtual memory used (MiB): 16111.12
+[2024-06-22 22:13:08.928] [info]  	Swap memory total (MiB): 32768.00
+[2024-06-22 22:13:08.928] [info]  	Swap memory used (MiB): 0.00
+[2024-06-22 22:13:08.928] [info]  	Space in storage for jna.tmpdir (MiB): <path not set>
+[2024-06-22 22:13:08.928] [info]  	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): <path not set>
+[2024-06-22 22:13:08.929] [info]  	Space in storage for io.netty.native.workdir (MiB): <path not set>
+[2024-06-22 22:13:08.929] [info]  	Space in storage for java.io.tmpdir (MiB): available: 110019.58, total: 462472.31
+[2024-06-22 22:13:08.929] [info]  	Space in storage for workdir (MiB): available: 110019.58, total: 462472.31
+[2024-06-22 22:13:08.929] [info]  	JVM Flags: 6 total; -XX:+DisableAttachMechanism -XX:+DisableAttachMechanism -XX:+UseStringDeduplication -Xmx3072m -XX:+DisableAttachMechanism -XX:+DisableAttachMechanism
+[2024-06-22 22:13:08.929] [info]  	Fabric Mods: 
+[2024-06-22 22:13:08.930] [info]  		cloth-config: Cloth Config v15 15.0.127
+[2024-06-22 22:13:08.930] [info]  			cloth-basic-math: cloth-basic-math 0.6.1
+[2024-06-22 22:13:08.930] [info]  		continuity: Continuity 3.0.0-beta.5+1.21
+[2024-06-22 22:13:08.930] [info]  		fabric-api: Fabric API 0.100.3+1.21
+[2024-06-22 22:13:08.930] [info]  			fabric-api-base: Fabric API Base 0.4.42+6573ed8cd1
+[2024-06-22 22:13:08.931] [info]  			fabric-api-lookup-api-v1: Fabric API Lookup API (v1) 1.6.67+b5597344d1
+[2024-06-22 22:13:08.931] [info]  			fabric-biome-api-v1: Fabric Biome API (v1) 13.0.28+6fc22b99d1
+[2024-06-22 22:13:08.931] [info]  			fabric-block-api-v1: Fabric Block API (v1) 1.0.22+0af3f5a7d1
+[2024-06-22 22:13:08.931] [info]  			fabric-block-view-api-v2: Fabric BlockView API (v2) 1.0.10+6573ed8cd1
+[2024-06-22 22:13:08.931] [info]  			fabric-blockrenderlayer-v1: Fabric BlockRenderLayer Registration (v1) 1.1.52+0af3f5a7d1
+[2024-06-22 22:13:08.932] [info]  			fabric-client-tags-api-v1: Fabric Client Tags 1.1.15+6573ed8cd1
+[2024-06-22 22:13:08.932] [info]  			fabric-command-api-v1: Fabric Command API (v1) 1.2.48+f71b366fd1
+[2024-06-22 22:13:08.932] [info]  			fabric-command-api-v2: Fabric Command API (v2) 2.2.27+6a6dfa19d1
+[2024-06-22 22:13:08.932] [info]  			fabric-commands-v0: Fabric Commands (v0) 0.2.65+df3654b3d1
+[2024-06-22 22:13:08.932] [info]  			fabric-content-registries-v0: Fabric Content Registries (v0) 8.0.13+b5597344d1
+[2024-06-22 22:13:08.933] [info]  			fabric-convention-tags-v1: Fabric Convention Tags 2.0.14+7f945d5bd1
+[2024-06-22 22:13:08.933] [info]  			fabric-convention-tags-v2: Fabric Convention Tags (v2) 2.3.1+8a3b5617d1
+[2024-06-22 22:13:08.933] [info]  			fabric-crash-report-info-v1: Fabric Crash Report Info (v1) 0.2.29+0af3f5a7d1
+[2024-06-22 22:13:08.933] [info]  			fabric-data-attachment-api-v1: Fabric Data Attachment API (v1) 1.1.23+6a6dfa19d1
+[2024-06-22 22:13:08.933] [info]  			fabric-data-generation-api-v1: Fabric Data Generation API (v1) 20.2.8+16c4ae25d1
+[2024-06-22 22:13:08.934] [info]  			fabric-dimensions-v1: Fabric Dimensions API (v1) 4.0.0+6fc22b99d1
+[2024-06-22 22:13:08.934] [info]  			fabric-entity-events-v1: Fabric Entity Events (v1) 1.6.12+6fc22b99d1
+[2024-06-22 22:13:08.934] [info]  			fabric-events-interaction-v0: Fabric Events Interaction (v0) 0.7.10+e633f883d1
+[2024-06-22 22:13:08.934] [info]  			fabric-game-rule-api-v1: Fabric Game Rule API (v1) 1.0.52+6573ed8cd1
+[2024-06-22 22:13:08.935] [info]  			fabric-item-api-v1: Fabric Item API (v1) 11.0.0+afdfc921d1
+[2024-06-22 22:13:08.935] [info]  			fabric-item-group-api-v1: Fabric Item Group API (v1) 4.1.1+cb5ced13d1
+[2024-06-22 22:13:08.935] [info]  			fabric-key-binding-api-v1: Fabric Key Binding API (v1) 1.0.47+0af3f5a7d1
+[2024-06-22 22:13:08.935] [info]  			fabric-keybindings-v0: Fabric Key Bindings (v0) 0.2.45+df3654b3d1
+[2024-06-22 22:13:08.936] [info]  			fabric-lifecycle-events-v1: Fabric Lifecycle Events (v1) 2.3.11+8f3583aed1
+[2024-06-22 22:13:08.936] [info]  			fabric-loot-api-v2: Fabric Loot API (v2) 3.0.10+6573ed8cd1
+[2024-06-22 22:13:08.936] [info]  			fabric-message-api-v1: Fabric Message API (v1) 6.0.13+6573ed8cd1
+[2024-06-22 22:13:08.936] [info]  			fabric-model-loading-api-v1: Fabric Model Loading API (v1) 2.0.0+fe474d6bd1
+[2024-06-22 22:13:08.936] [info]  			fabric-networking-api-v1: Fabric Networking API (v1) 4.2.0+ab7edbacd1
+[2024-06-22 22:13:08.937] [info]  			fabric-object-builder-api-v1: Fabric Object Builder API (v1) 15.1.11+d1321076d1
+[2024-06-22 22:13:08.937] [info]  			fabric-particles-v1: Fabric Particles (v1) 4.0.2+6573ed8cd1
+[2024-06-22 22:13:08.937] [info]  			fabric-recipe-api-v1: Fabric Recipe API (v1) 5.0.9+6573ed8cd1
+[2024-06-22 22:13:08.937] [info]  			fabric-registry-sync-v0: Fabric Registry Sync (v0) 5.0.22+ab7edbacd1
+[2024-06-22 22:13:08.937] [info]  			fabric-renderer-api-v1: Fabric Renderer API (v1) 3.2.16+fe474d6bd1
+[2024-06-22 22:13:08.938] [info]  			fabric-renderer-indigo: Fabric Renderer - Indigo 1.6.4+48fb1586d1
+[2024-06-22 22:13:08.938] [info]  			fabric-renderer-registries-v1: Fabric Renderer Registries (v1) 3.2.66+df3654b3d1
+[2024-06-22 22:13:08.938] [info]  			fabric-rendering-data-attachment-v1: Fabric Rendering Data Attachment (v1) 0.3.48+73761d2ed1
+[2024-06-22 22:13:08.938] [info]  			fabric-rendering-fluids-v1: Fabric Rendering Fluids (v1) 3.1.6+b5597344d1
+[2024-06-22 22:13:08.938] [info]  			fabric-rendering-v0: Fabric Rendering (v0) 1.1.69+df3654b3d1
+[2024-06-22 22:13:08.939] [info]  			fabric-rendering-v1: Fabric Rendering (v1) 5.0.3+d1321076d1
+[2024-06-22 22:13:08.939] [info]  			fabric-resource-conditions-api-v1: Fabric Resource Conditions API (v1) 4.2.1+d153f344d1
+[2024-06-22 22:13:08.939] [info]  			fabric-resource-loader-v0: Fabric Resource Loader (v0) 1.1.4+cb5ced13d1
+[2024-06-22 22:13:08.939] [info]  			fabric-screen-api-v1: Fabric Screen API (v1) 2.0.24+b5597344d1
+[2024-06-22 22:13:08.940] [info]  			fabric-screen-handler-api-v1: Fabric Screen Handler API (v1) 1.3.79+b5597344d1
+[2024-06-22 22:13:08.940] [info]  			fabric-sound-api-v1: Fabric Sound API (v1) 1.0.23+6573ed8cd1
+[2024-06-22 22:13:08.940] [info]  			fabric-transfer-api-v1: Fabric Transfer API (v1) 5.1.14+b5597344d1
+[2024-06-22 22:13:08.940] [info]  			fabric-transitive-access-wideners-v1: Fabric Transitive Access Wideners (v1) 6.0.12+6573ed8cd1
+[2024-06-22 22:13:08.940] [info]  		fabric-language-kotlin: Fabric Language Kotlin 1.11.0+kotlin.2.0.0
+[2024-06-22 22:13:08.941] [info]  			org_jetbrains_kotlin_kotlin-reflect: kotlin-reflect 2.0.0
+[2024-06-22 22:13:08.941] [info]  			org_jetbrains_kotlin_kotlin-stdlib: kotlin-stdlib 2.0.0
+[2024-06-22 22:13:08.941] [info]  			org_jetbrains_kotlin_kotlin-stdlib-jdk7: kotlin-stdlib-jdk7 2.0.0
+[2024-06-22 22:13:08.941] [info]  			org_jetbrains_kotlin_kotlin-stdlib-jdk8: kotlin-stdlib-jdk8 2.0.0
+[2024-06-22 22:13:08.941] [info]  			org_jetbrains_kotlinx_atomicfu-jvm: atomicfu-jvm 0.24.0
+[2024-06-22 22:13:08.942] [info]  			org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm: kotlinx-coroutines-core-jvm 1.8.1
+[2024-06-22 22:13:08.942] [info]  			org_jetbrains_kotlinx_kotlinx-coroutines-jdk8: kotlinx-coroutines-jdk8 1.8.1
+[2024-06-22 22:13:08.942] [info]  			org_jetbrains_kotlinx_kotlinx-datetime-jvm: kotlinx-datetime-jvm 0.6.0
+[2024-06-22 22:13:08.942] [info]  			org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm: kotlinx-serialization-cbor-jvm 1.6.3
+[2024-06-22 22:13:08.942] [info]  			org_jetbrains_kotlinx_kotlinx-serialization-core-jvm: kotlinx-serialization-core-jvm 1.6.3
+[2024-06-22 22:13:08.943] [info]  			org_jetbrains_kotlinx_kotlinx-serialization-json-jvm: kotlinx-serialization-json-jvm 1.6.3
+[2024-06-22 22:13:08.943] [info]  		fabricloader: fabricloader 0.15.11
+[2024-06-22 22:13:08.943] [info]  		ichor: ichor 0.0.0
+[2024-06-22 22:13:08.943] [info]  		iris: Iris 1.7.1+mc1.21
+[2024-06-22 22:13:08.944] [info]  			io_github_douira_glsl-transformer: glsl-transformer 2.0.1
+[2024-06-22 22:13:08.944] [info]  			org_anarres_jcpp: jcpp 1.4.14
+[2024-06-22 22:13:08.944] [info]  			org_antlr_antlr4-runtime: antlr4-runtime 4.13.1
+[2024-06-22 22:13:08.944] [info]  		java: OpenJDK 64-Bit Server VM 21
+[2024-06-22 22:13:08.944] [info]  		minecraft: Minecraft 1.21
+[2024-06-22 22:13:08.945] [info]  		mixinextras: mixinextras 0.3.5
+[2024-06-22 22:13:08.945] [info]  		notenoughanimations: NotEnoughAnimations 1.7.4
+[2024-06-22 22:13:08.945] [info]  		sodium: Sodium 0.5.9+mc1.21
+[2024-06-22 22:13:08.945] [info]  		sodium-extra: Sodium Extra 0.5.7+mc1.21
+[2024-06-22 22:13:08.945] [info]  			caffeineconfig: CaffeineConfig 1.3.0+1.17
+[2024-06-22 22:13:08.946] [info]  		xaerominimap: Xaero's Minimap 24.2.1
+[2024-06-22 22:13:08.946] [info]  		yet_another_config_lib_v3: YetAnotherConfigLib 3.5.0+1.21-fabric
+[2024-06-22 22:13:08.946] [info]  			com_twelvemonkeys_common_common-image: common-image 3.10.0
+[2024-06-22 22:13:08.946] [info]  			com_twelvemonkeys_common_common-io: common-io 3.10.0
+[2024-06-22 22:13:08.946] [info]  			com_twelvemonkeys_common_common-lang: common-lang 3.10.0
+[2024-06-22 22:13:08.947] [info]  			com_twelvemonkeys_imageio_imageio-core: imageio-core 3.10.0
+[2024-06-22 22:13:08.947] [info]  			com_twelvemonkeys_imageio_imageio-metadata: imageio-metadata 3.10.0
+[2024-06-22 22:13:08.947] [info]  			com_twelvemonkeys_imageio_imageio-webp: imageio-webp 3.10.0
+[2024-06-22 22:13:08.947] [info]  			org_quiltmc_parsers_gson: gson 0.2.1
+[2024-06-22 22:13:08.947] [info]  			org_quiltmc_parsers_json: json 0.2.1
+[2024-06-22 22:13:08.948] [info]  		zoomify: Zoomify 2.14.0+1.21
+[2024-06-22 22:13:08.948] [info]  			com_akuleshov7_ktoml-core-jvm: ktoml-core-jvm 0.5.1
+[2024-06-22 22:13:08.948] [info]  	Loaded Shaderpack: (off)
+[2024-06-22 22:13:08.948] [info]  	Launched Version: 1.21
+[2024-06-22 22:13:08.949] [info]  	Backend library: LWJGL version 3.3.3-snapshot
+[2024-06-22 22:13:08.949] [info]  	Backend API: AMD Radeon(TM) Graphics GL version 3.2.0 Core Profile Context 22.40.84.06.231130, ATI Technologies Inc.
+[2024-06-22 22:13:08.949] [info]  	Window size: 1920x1009
+[2024-06-22 22:13:08.949] [info]  	GFLW Platform: win32
+[2024-06-22 22:13:08.949] [info]  	GL Caps: Using framebuffer using OpenGL 3.2
+[2024-06-22 22:13:08.950] [info]  	GL debug messages: 
+[2024-06-22 22:13:08.950] [info]  	Is Modded: Definitely; Client brand changed to 'lunarclient:291fdea/version/1-21'; Server jar signature invalidated
+[2024-06-22 22:13:08.950] [info]  	Universe: 400921fb54442d18
+[2024-06-22 22:13:08.950] [info]  	Type: Integrated Server (map_client.txt)
+[2024-06-22 22:13:08.950] [info]  	Graphics mode: fancy
+[2024-06-22 22:13:08.950] [info]  	Render Distance: 7/7 chunks
+[2024-06-22 22:13:08.951] [info]  	Resource Packs: lunar, vanilla, fabric, caffeineconfig, cloth-config, continuity, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, iris, notenoughanimations, sodium, sodium-extra, xaerominimap (incompatible), yet_another_config_lib_v3 (incompatible), zoomify, file/FMDO.zip (incompatible)
+[2024-06-22 22:13:08.951] [info]  	Current Language: en_us
+[2024-06-22 22:13:08.951] [info]  	Locale: 
+[2024-06-22 22:13:08.951] [info]  	System encoding: Cp1252
+[2024-06-22 22:13:08.951] [info]  	File encoding: UTF-8
+[2024-06-22 22:13:08.952] [info]  	CPU: 16x AMD Ryzen 7 6800HS with Radeon Graphics 
+[2024-06-22 22:13:08.952] [info]  	Server Running: true
+[2024-06-22 22:13:08.952] [info]  	Player Count: 1 / 12; [ServerPlayer['MengHong001'/91, l='ServerLevel[MengHong001]', x=201.90, y=61.00, z=-164.67]]
+[2024-06-22 22:13:08.952] [info]  	Active Data Packs: vanilla, fabric, fabric-convention-tags-v2, lunar
+[2024-06-22 22:13:08.952] [info]  	Available Data Packs: bundle, fabric, fabric-convention-tags-v2, lunar, trade_rebalance, vanilla
+[2024-06-22 22:13:08.953] [info]  	Enabled Feature Flags: minecraft:vanilla
+[2024-06-22 22:13:08.953] [info]  	World Generation: Stable
+[2024-06-22 22:13:08.953] [info]  	World Seed: -2331546516813763336
+[2024-06-22 22:13:08.953] [info]  #@!@# Game crashed! Crash report saved to: #@!@# C:\Users\Asus\AppData\Roaming\.minecraft\crash-reports\crash-2024-06-22_22.13.08-client.txt
+[2024-06-22 22:13:08.954] [info]  [21:54:14] [WARN] [FabricLoader/Resolution]: Warnings were found!
+[2024-06-22 22:13:08.954] [info]   - Mod 'Sodium Extra' (sodium-extra) 0.5.7+mc1.21 recommends version 1.4.2 or later of reeses-sodium-options, which is missing!
+[2024-06-22 22:13:08.954] [info]  	 - You should install version 1.4.2 or later of reeses-sodium-options for the optimal experience.

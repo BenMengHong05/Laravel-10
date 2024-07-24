@@ -1,0 +1,349 @@
+[2024-06-20 21:42:28.280] [error] NOTE: Picked up JDK_JAVA_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-20 21:42:28.283] [error] Picked up JAVA_TOOL_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-20 21:42:28.283] [error] Picked up _JAVA_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-20 21:42:28.492] [info]  [21:42:28] [Genesis/main/
+[2024-06-20 21:42:28.492] [info]  INFO] Found external file: Fabric-API-v1_20_4-0.91.3.jar
+[2024-06-20 21:42:28.496] [info]  [21:42:28] [Genesis/main/INFO] Found external file: FerriteCore-v1_20_4-6.0.3.jar
+[2024-06-20 21:42:28.504] [info]  [21:42:28] [Genesis/main/INFO] Found external file: Lithium-v1_20_4-0.12.1.jar
+[2024-06-20 21:42:28.505] [info]  [21:42:28] [Genesis/main/INFO] Found external file: Noxesium-v1_20_4-1.2.0.jar
+[2024-06-20 21:42:28.505] [info]  [21:42:28] [Genesis/main/INFO] Found external file: Noxesium_API-v1_20_4-1.2.0.jar
+[2024-06-20 21:42:28.505] [info]  [21:42:28] [Genesis/main/INFO] Found external file: ReplayMod-v1_20_4-2.6.14.jar
+[2024-06-20 21:42:28.505] [info]  [21:42:28] [Genesis/main/INFO] Found external file: Sodium-v1_20_4-0.5.8.jar
+[2024-06-20 21:42:28.506] [info]  [21:42:28] [Genesis/main/INFO] Found external file: Indium-v1_20_4-1.0.30.jar
+[2024-06-20 21:42:28.506] [info]  [21:42:28] [Genesis/main/INFO] Found external file: Iris-v1_20_4-1.6.17.jar
+[2024-06-20 21:42:28.506] [info]  [21:42:28] [Genesis/main/INFO] Found external file: hypixel-quickplay-data.json
+[2024-06-20 21:42:28.506] [info]  [21:42:28] [Genesis/main/INFO] Found external file: hypixel-bedwars-data.json
+[2024-06-20 21:42:28.507] [info]  [21:42:28] [Genesis/main/INFO] Found external file: hypixel-skyblock-dungeon-rooms.json
+[2024-06-20 21:42:28.549] [info]  [21:42:28] [Genesis/main/INFO] Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+[2024-06-20 21:42:28.551] [info]  [21:42:28] [Genesis/main/INFO] Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+[2024-06-20 21:42:28.562] [info]  [21:42:28] [Genesis/main/INFO
+[2024-06-20 21:42:28.563] [info]  ] Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+[2024-06-20 21:42:28.564] [info]  [21:42:28] [Genesis/
+[2024-06-20 21:42:28.564] [info]  main/INFO] Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+[2024-06-20 21:42:28.564] [info]  [21:42:28] [Genesis/
+[2024-06-20 21:42:28.565] [info]  main/INFO] Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+[2024-06-20 21:42:28.600] [info]  [21:42:28] [Genesis/main/INFO] Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+[2024-06-20 21:42:28.612] [info]  [21:42:28] [Genesis/main/INFO
+[2024-06-20 21:42:28.612] [info]  ] Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+[2024-06-20 21:42:28.613] [info]  [21:42:28] [Genesis/main/INFO] Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+[2024-06-20 21:42:28.613] [info]  [21:42:28] [
+[2024-06-20 21:42:28.613] [info]  Genesis/main/INFO] Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+[2024-06-20 21:42:28.614] [info]  [21:42:28] [Genesis/
+[2024-06-20 21:42:28.614] [info]  main/INFO] Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+[2024-06-20 21:42:28.615] [info]  [21:42:28] [Genesis/
+[2024-06-20 21:42:28.616] [info]  main/INFO] Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+[2024-06-20 21:42:28.618] [info]  [21:42:28
+[2024-06-20 21:42:28.618] [info]  ] [Genesis/main/INFO] Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+[2024-06-20 21:42:29.282] [info]  [21:42:29] [Genesis/main/INFO] 
+[2024-06-20 21:42:29.283] [info]  Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+[2024-06-20 21:42:29.371] [info]  [21:42:29] [Genesis/GameBootstrap/main/INFO] Launching Minecraft 1.20.4 v1_20_4 (parsed from 1.20.4)
+[2024-06-20 21:42:30.258] [info]  [21:42:30] [Ichor+Fabric/main/INFO] Using custom local mod path: C:\Users\Asus\.lunarclient\profiles\e97224fe-ccef-4ecb-829f-b8294c15bfb1\versions\0.0.2\mods
+[2024-06-20 21:43:00.835] [info]  LUNARCLIENT_STATUS_PREINIT
+[2024-06-20 21:43:00.836] [info]  [21:43:00] [Genesis/GameBootstrap/main/INFO] Starting game!
+[2024-06-20 21:43:01.265] [info]  [21:43:01] [IchorPipeline/main/INFO] Built mapping set for com.moonsworth.lunar.ichor.CRCIRCHCIOCCIHRCHCHOHICRI.RHOCIORRHROCOHOOCRHHRRHCI.IHCRIIIICOROROOCCIHHHHCRI.RHCRCHHICCCIIHIIIHIIRROOO 318ms on thread main
+[2024-06-20 21:43:01.665] [info]  [21:43:01] [IchorPipeline/main/INFO] Loading Mixin runtime for META_MIXIN
+[2024-06-20 21:43:01.923] [info]  [21:43:01] [Ichor/mixin(META_MIXIN)/INFO] SpongePowered MIXIN Subsystem Version=0.8.5 Source=Unknown Service=Ichor Env=CLIENT
+[2024-06-20 21:43:02.545] [info]  [21:43:02] [IchorPipeline/main/INFO] Loading Mixin runtime for MIXIN
+[2024-06-20 21:43:03.164] [info]  [21:43:03] [Ichor/mixin(MIXIN)/INFO] SpongePowered MIXIN Subsystem Version=0.8.5 Source=Unknown Service=Ichor Env=CLIENT
+[2024-06-20 21:43:03.919] [info]  [21:43:03] [IchorPipeline/main/INFO] Done loading Mixin runtimes in 2255ms
+[2024-06-20 21:43:03.920] [info]  [21:43:03] [IchorPipeline/main/INFO] Setting up mixins for META_MIXIN
+[2024-06-20 21:43:04.033] [info]  [21:43:04] [Ichor/main/INFO] Mixin config mixins.meta.ichor.noxesium.v1_20_4.json doesn't exist in IchorClassLoader(META_MIXIN)
+[2024-06-20 21:43:04.034] [info]  [21:43:04] [IchorPipeline/main/INFO] 
+[2024-06-20 21:43:04.035] [info]  Setting up mixins for MIXIN
+[2024-06-20 21:43:04.036] [info]  [21:43:04] [Ichor/main/INFO] Mixin config mixins.modern.json doesn't exist in IchorClassLoader(MIXIN)
+[2024-06-20 21:43:04.037] [info]  [21:43:04] [Ichor/main/INFO] Mixin config mixins.modern_lunar.json doesn't exist in IchorClassLoader(MIXIN)
+[2024-06-20 21:43:04.308] [info]  [21:43:04] [IchorPipeline/main/INFO] Done registering Mixins in 389ms
+[2024-06-20 21:43:04.309] [info]  [21:43:04] [IchorPipeline/main/INFO] Going to default mixins stage for META_MIXIN
+[2024-06-20 21:43:05.275] [info]  [21:43:05] [IchorPipeline/main/INFO] Going to default mixins stage for MIXIN
+[2024-06-20 21:43:05.290] [info]  [21:43:05] [Ichor/MixinExtras|Service(META_MIXIN)/INFO] Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[2024-06-20 21:43:06.777] [info]  [21:43:06] [main/INFO]: Loaded configuration file for Lithium: 129 options available, 1 override(s) found
+[2024-06-20 21:43:06.878] [info]  [21:43:06] [main/INFO]: Loaded configuration file for Sodium: 42 options available, 3 override(s) found
+[2024-06-20 21:43:12.806] [info]  [21:43:12] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/render/ChunkVisibility (checked [net.optifine.render.ChunkVisibility]).
+[2024-06-20 21:43:12.806] [info]  [21:43:12] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/optifine/render/ChunkVisibility (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/render/ChunkVisibility (checked [net.optifine.render.ChunkVisibility]).)
+[2024-06-20 21:43:12.807] [info]  [21:43:12] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for shadersmod/client/ShadersRender (checked [shadersmod.client.ShadersRender]).
+[2024-06-20 21:43:12.807] [info]  [21:43:12] [Ichor/mixin(MIXIN)/WARN] Error loading class: shadersmod/client/ShadersRender (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for shadersmod/client/ShadersRender (checked [shadersmod.client.ShadersRender]).)
+[2024-06-20 21:43:12.807] [info]  [21:43:12] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/shaders/ShadersRender (checked [net.optifine.shaders.ShadersRender]).
+[2024-06-20 21:43:12.808] [info]  [21:43:12] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/optifine/shaders/ShadersRender (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/shaders/ShadersRender (checked [net.optifine.shaders.ShadersRender]).)
+[2024-06-20 21:43:13.057] [info]  [21:43:13] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/fabricmc/fabric/impl/resource/loader/FabricModResourcePack (checked [net.fabricmc.fabric.impl.resource.loader.FabricModResourcePack]).
+[2024-06-20 21:43:13.058] [info]  [21:43:13] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/fabricmc/fabric/impl/resource/loader/FabricModResourcePack (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/fabricmc/fabric/impl/resource/loader/FabricModResourcePack (checked [net.fabricmc.fabric.impl.resource.loader.FabricModResourcePack]).)
+[2024-06-20 21:43:13.058] [info]  [21:43:13] [Ichor/mixin(MIXIN)/WARN] @Mixin target net.fabricmc.fabric.impl.resource.loader.FabricModResourcePack was not found mixins.lunar.fabric.v1_20_4.json:RHOCIORRHROCOHOOCRHHRRHCI from mod (unknown)
+[2024-06-20 21:43:15.040] [info]  [21:43:15] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[2024-06-20 21:43:15.714] [info]  [21:43:15] [main/WARN]: Force-disabling mixin 'features.render.entity.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-06-20 21:43:15.716] [info]  [21:43:15] [main/WARN]: Force-disabling mixin 'features.render.entity.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-06-20 21:43:15.716] [info]  [21:43:15] [main/WARN]: Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-06-20 21:43:15.719] [info]  [21:43:15] [main/WARN]: Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-06-20 21:43:15.720] [info]  [21:43:15] [main/WARN]: Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [iris]) disables it and children
+[2024-06-20 21:43:15.737] [info]  [21:43:15] [main/WARN]: Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[2024-06-20 21:43:15.739] [info]  [21:43:15] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[2024-06-20 21:43:15.740] [info]  [21:43:15] [main/WARN]: Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[2024-06-20 21:43:16.129] [info]  [21:43:16] [IchorPipeline/main/INFO] Mixin runtimes prepared in 11806ms
+[2024-06-20 21:43:16.129] [info]  [21:43:16] [IchorPipeline/main/INFO] Initialized Mixin in 14461ms
+[2024-06-20 21:43:16.135] [info]  [21:43:16] [Ichor/MixinExtras|Service(MIXIN)/INFO] Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[2024-06-20 21:43:17.007] [info]  [Bridge] Setting Bridge Implementation to com.moonsworth.lunar.IIIICORICOICIRRHCHIIHROIC.IOCOHCCRCOHRICRRHOOICHIHO
+[2024-06-20 21:43:18.430] [info]  [Bridge] Found textures dir: C:\Users\Asus\.lunarclient\textures
+[2024-06-20 21:43:18.453] [info]  [21:43:18] [main/INFO]: Completely ignored arguments: [--workingDirectory, ., --webosrDir, C:\Users\Asus\.lunarclient\offline\multiver\natives, --classpathDir, ., --ichorExternalFiles, Fabric-API-v1_20_4-0.91.3.jar,FerriteCore-v1_20_4-6.0.3.jar,Lithium-v1_20_4-0.12.1.jar,Noxesium-v1_20_4-1.2.0.jar,Noxesium_API-v1_20_4-1.2.0.jar,ReplayMod-v1_20_4-2.6.14.jar,Sodium-v1_20_4-0.5.8.jar,Indium-v1_20_4-1.0.30.jar,Iris-v1_20_4-1.6.17.jar,hypixel-quickplay-data.json,hypixel-bedwars-data.json,hypixel-skyblock-dungeon-rooms.json, --ichorClassPath, common-0.1.0-SNAPSHOT-all.jar,lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar,genesis-0.1.0-SNAPSHOT-all.jar,lunar-lang.jar,lunar-emote.jar,lunar.jar,modern-0.1.0-SNAPSHOT-all.jar,lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar,lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar,lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar,lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar,lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar, --uiDir, C:\Users\Asus\.lunarclient\ui]
+[2024-06-20 21:43:23.769] [info]  [21:43:23] [Datafixer Bootstrap/INFO]: 198 Datafixer optimizations took 112 milliseconds
+[2024-06-20 21:43:27.286] [info]  [21:43:27] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[2024-06-20 21:43:27.310] [info]  [21:43:27] [Render thread/INFO]: Setting user: Player367
+[2024-06-20 21:43:27.356] [info]  [21:43:27] [IchorPipeline/Render thread/INFO] Launching main ModInitializer
+[2024-06-20 21:43:27.356] [info]  [21:43:27] [IchorPipeline/Render thread/INFO] Launching Entrypoint(main) in Genesis
+[2024-06-20 21:43:27.357] [info]  [21:43:27] [Ichor/Render thread/INFO] Found Entrypoint(main) me.fallenbreath.conditionalmixin.ConditionalMixinMod
+[2024-06-20 21:43:27.357] [info]  [21:43:27] [
+[2024-06-20 21:43:27.357] [info]  Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.command.v1.LegacyHandler
+[2024-06-20 21:43:27.366] [info]  [21:43:27] [Ichor/
+[2024-06-20 21:43:27.367] [info]  Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.attachment.AttachmentEntrypoint
+[2024-06-20 21:43:27.374] [info]  [21:43:27] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.event.lifecycle.v0.LegacyEventInvokers
+[2024-06-20 21:43:27.414] [info]  [21:43:27] [Ichor/Render thread/INFO] Found Entrypoint(main) net.asodev.islandutils.IslandUtils
+[2024-06-20 21:43:27.482] [info]  [21:43:27] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.registry.sync.FabricRegistryInit
+[2024-06-20 21:43:27.483] [info]  [21:43:27] [ForkJoinPool.commonPool-worker-1/INFO]: Requesting resource pack...
+[2024-06-20 21:43:27.484] [info]  [21:43:27] [ForkJoinPool.commonPool-worker-1/INFO]: Current resource pack version: null
+[2024-06-20 21:43:27.485] [info]  [21:43:27] [ForkJoinPool.commonPool-worker-1/INFO]: Requesting resource pack: https://raw.githubusercontent.com/AsoDesu/islandutils-assets/master/pack.json
+[2024-06-20 21:43:27.738] [info]  [21:43:27] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.networking.CommonPacketsImpl::init()
+[2024-06-20 21:43:27.747] [info]  [21:43:27] [Ichor/Render thread/INFO] Found Entrypoint(main) me.jellysquid.mods.lithium.common.LithiumMod
+[2024-06-20 21:43:27.789] [info]  [21:43:27] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.event.lifecycle.LifecycleEventsImpl
+[2024-06-20 21:43:27.801] [info]  [21:43:27] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.event.interaction.InteractionEventsRouter
+[2024-06-20 21:43:27.815] [info]  [21:43:27] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.recipe.ingredient.CustomIngredientInit
+[2024-06-20 21:43:27.841] [info]  [21:43:27] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.recipe.ingredient.CustomIngredientSync
+[2024-06-20 21:43:27.846] [info]  [21:43:27] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.lookup.ApiLookupImpl
+[2024-06-20 21:43:27.852] [info]  [21:43:27] [IchorPipeline/Render thread/INFO] Entrypoint(main) had 12 invokes.
+[2024-06-20 21:43:27.853] [info]  [21:43:27] [IchorPipeline/Render thread/INFO] Launching client ClientModInitializer
+[2024-06-20 21:43:27.854] [info]  [21:43:27] [IchorPipeline/Render thread/INFO] Launching Entrypoint(client) in Genesis
+[2024-06-20 21:43:27.854] [info]  [21:43:27] [Ichor/Render thread/INFO] Found Entrypoint(client) link.infra.indium.Indium
+[2024-06-20 21:43:27.854] [info]  [21:43:27] [Download-2/ERROR]: Failed to fetch user properties
+[2024-06-20 21:43:27.854] [info]  com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
+[2024-06-20 21:43:27.854] [info]  	at Genesis/com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:59) ~[?:?]
+[2024-06-20 21:43:27.855] [info]  	at Genesis/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:150) ~[?:?]
+[2024-06-20 21:43:27.855] [info]  	at Genesis/net.minecraft.client.Minecraft.lambda$new$2(SourceFile:467) ~[?:?]
+[2024-06-20 21:43:27.855] [info]  	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) ~[?:?]
+[2024-06-20 21:43:27.855] [info]  	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) ~[?:?]
+[2024-06-20 21:43:27.856] [info]  	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) ~[?:?]
+[2024-06-20 21:43:27.856] [info]  	at java.base/java.lang.Thread.run(Unknown Source) [?:?]
+[2024-06-20 21:43:27.856] [info]  Caused by: com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 401
+[2024-06-20 21:43:27.856] [info]  	at Genesis/com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:100) ~[?:?]
+[2024-06-20 21:43:27.856] [info]  	at Genesis/com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:57) ~[?:?]
+[2024-06-20 21:43:27.857] [info]  	at Genesis/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:121) ~[?:?]
+[2024-06-20 21:43:27.857] [info]  	... 5 more
+[2024-06-20 21:43:28.001] [info]  [21:43:28] [ForkJoinPool.commonPool-worker-1/INFO]: Received Resource Pack: 13
+[2024-06-20 21:43:28.002] [info]  [21:43:28] [ForkJoinPool.commonPool-worker-1/INFO]: Downloading resource pack...
+[2024-06-20 21:43:28.200] [info]  [21:43:28] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.event.lifecycle.v0.client.LegacyClientEventInvokers
+[2024-06-20 21:43:28.204] [info]  [21:43:28] [Ichor/Render thread/INFO] Found Entrypoint(client) com.noxcrew.noxesium.NoxesiumMod
+[2024-06-20 21:43:28.451] [info]  [21:43:28] [Ichor/Render thread/INFO] Found Entrypoint(client) com.terraformersmc.modmenu.ModMenu
+[2024-06-20 21:43:28.587] [info]  [21:43:28] [Worker-Main-1/INFO]: Checking mod updates...
+[2024-06-20 21:43:28.609] [info]  [21:43:28] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.client.container.ScreenProviderRegistryImpl::init()
+[2024-06-20 21:43:28.614] [info]  [21:43:28] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.screenhandler.client.ClientNetworking
+[2024-06-20 21:43:28.626] [info]  [21:43:28] [Ichor/Render thread/INFO] Found Entrypoint(client) me.shedaniel.autoconfig.example.ExampleInits::exampleCommonInit()
+[2024-06-20 21:43:28.652] [info]  [21:43:28] [Ichor/Render thread/INFO] Found Entrypoint(client) net.asodev.islandutils.IslandUtilsClient
+[2024-06-20 21:43:28.671] [info]  [21:43:28] [Render thread/INFO]: [DEBUG] Setup fallback renderer for SplitUI
+[2024-06-20 21:43:28.682] [info]  [21:43:28] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.client.rendering.v0.RenderingCallbackInvoker
+[2024-06-20 21:43:28.685] [info]  [21:43:28] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.client.registry.sync.FabricRegistryClientInit
+[2024-06-20 21:43:28.695] [info]  [21:43:28] [Ichor/Render thread/INFO] Found Entrypoint(client) ca.fxco.moreculling.MoreCulling
+[2024-06-20 21:43:28.751] [info]  [21:43:28] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.networking.client.ClientNetworkingImpl::clientInit()
+[2024-06-20 21:43:28.798] [info]  [21:43:28] [Ichor/Render thread/INFO] Found Entrypoint(client) dev.isxander.yacl3.platform.fabric.YACLFabricEntrypoint
+[2024-06-20 21:43:28.801] [info]  [21:43:28] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.client.event.lifecycle.ClientLifecycleEventsImpl
+[2024-06-20 21:43:28.804] [info]  [21:43:28] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.event.interaction.client.InteractionEventsRouterClient
+[2024-06-20 21:43:28.806] [info]  [21:43:28] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.client.indigo.Indigo
+[2024-06-20 21:43:28.813] [info]  [21:43:28] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[2024-06-20 21:43:28.814] [info]  [21:43:28] [Ichor/Render thread/INFO] Found Entrypoint(client) com.replaymod.core.ReplayModBackend
+[2024-06-20 21:43:29.090] [info]  [21:43:29] [Worker-Main-1/INFO]: Update available for 'replaymod@1.20.4-2.6.14', (-> 1.20.4-2.6.15)
+[2024-06-20 21:43:29.091] [info]  [21:43:29] [Worker-Main-1/INFO]: Update available for 'iris@1.6.17', (-> 1.7.1+1.20.4)
+[2024-06-20 21:43:29.092] [info]  [21:43:29] [Worker-Main-1/INFO]: Update available for 'indium@1.0.30+mc1.20.4', (-> 1.0.31+mc1.20.4)
+[2024-06-20 21:43:29.092] [info]  [21:43:29] [Worker-Main-1/INFO]: Update available for 'noxesium@1.2.0+669ccb7', (-> 1.2.2)
+[2024-06-20 21:43:29.093] [info]  [21:43:29] [Worker-Main-1/INFO]: Update available for 'modmenu@9.1.0-beta.1', (-> 9.2.0)
+[2024-06-20 21:43:29.093] [info]  [21:43:29] [Worker-Main-1/INFO]: Update available for 'fabric-api@0.97.0+1.20.4', (-> 0.97.1+1.20.4)
+[2024-06-20 21:43:29.093] [info]  [21:43:29] [Worker-Main-1/INFO]: Update available for 'moreculling@1.20.4-0.23.1', (-> 0.24.0)
+[2024-06-20 21:43:29.094] [info]  [21:43:29] [Worker-Main-1/INFO]: Update available for 'yet_another_config_lib_v3@3.3.2+1.20.4', (-> 3.5.0+1.20.4-fabric)
+[2024-06-20 21:43:29.186] [info]  [21:43:29] [Render thread/INFO]: [STDOUT]: ReplayModBackendMixin_v1_19.onInitializeClient: initializing ReplayMod
+[2024-06-20 21:43:29.256] [info]  [21:43:29] [Ichor/Render thread/INFO] Found Entrypoint(client) me.jellysquid.mods.sodium.client.SodiumClientMod
+[2024-06-20 21:43:29.280] [info]  [21:43:29] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.recipe.ingredient.client.CustomIngredientSyncClient
+[2024-06-20 21:43:29.281] [info]  [21:43:29] [IchorPipeline/Render thread/INFO] Entrypoint(client) had 16 invokes.
+[2024-06-20 21:43:29.337] [info]  [21:43:29] [Ichor/mixin(MIXIN)/WARN] Method overwrite conflict for bridge$isFancyGraphics in mixins.modern_bridge_combined.json:HHRIIHHROCICOCHRCICRIOHRH.CCIIHHRHCCHRRHROOHIOCHOCC.CRCIRCHCIOCCIHRCHCHOHICRI from mod (unknown), previously written by com.moonsworth.lunar.IIIICORICOICIRRHCHIIHROIC.CRCIRCHCIOCCIHRCHCHOHICRI.HHRIIHHROCICOCHRCICRIOHRH.CCIIHHRHCCHRRHROOHIOCHOCC.IOCOHCCRCOHRICRRHOOICHIHO. Skipping method.
+[2024-06-20 21:43:29.338] [info]  [21:43:29] [Ichor/mixin(MIXIN)/WARN] Method overwrite conflict for bridge$setFrameRateLimit in mixins.modern_bridge_combined.json:HHRIIHHROCICOCHRCICRIOHRH.CCIIHHRHCCHRRHROOHIOCHOCC.CRCIRCHCIOCCIHRCHCHOHICRI from mod (unknown), previously written by com.moonsworth.lunar.IIIICORICOICIRRHCHIIHROIC.CRCIRCHCIOCCIHRCHCHOHICRI.HHRIIHHROCICOCHRCICRIOHRH.CCIIHHRHCCHRRHROOHIOCHOCC.IOCOHCCRCOHRICRRHOOICHIHO. Skipping method.
+[2024-06-20 21:43:29.505] [info]  [21:43:29] [Render thread/INFO]: [LC] Loaded File: Options
+[2024-06-20 21:43:29.758] [info]  [21:43:29] [Render thread/INFO]: Backend library: LWJGL version 3.3.3-snapshot
+[2024-06-20 21:43:30.115] [info]  [21:43:30] [Render thread/WARN]: Not all requirements met, disabling nvidium
+[2024-06-20 21:43:30.121] [info]  [21:43:30] [Render thread/INFO]: OpenGL Vendor: ATI Technologies Inc.
+[2024-06-20 21:43:30.122] [info]  [21:43:30] [Render thread/INFO]: OpenGL Renderer: AMD Radeon(TM) Graphics
+[2024-06-20 21:43:30.122] [info]  [21:43:30] [Render thread/INFO]: OpenGL Version: 3.2.0 Core Profile Context 22.40.84.06.231130
+[2024-06-20 21:43:30.171] [info]  [21:43:30] [Render thread/INFO]: [STDOUT]: LUNARCLIENT_STATUS_INIT
+[2024-06-20 21:43:30.351] [info]  [21:43:30] [Render thread/INFO]: Debug functionality is disabled.
+[2024-06-20 21:43:30.359] [info]  [21:43:30] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[2024-06-20 21:43:30.368] [info]  [21:43:30] [Render thread/INFO]: Shaders are disabled because no valid shaderpack is selected
+[2024-06-20 21:43:30.369] [info]  [21:43:30] [Render thread/INFO]: Shaders are disabled
+[2024-06-20 21:43:30.422] [info]  [21:43:30] [Render thread/WARN]: Missing metadata in pack file/Cleanestpvppack.zip
+[2024-06-20 21:43:30.423] [info]  [21:43:30] [Render thread/WARN]: Missing metadata in pack file/Cold.zip
+[2024-06-20 21:43:30.424] [info]  [21:43:30] [Render thread/WARN]: Missing metadata in pack file/§bSharpness 25k.zip
+[2024-06-20 21:43:30.424] [info]  [21:43:30] [Render thread/WARN]: Missing metadata in pack file/§c§ GlitchCPVP pack.zip
+[2024-06-20 21:43:30.428] [info]  [21:43:30] [Render thread/WARN]: Removed resource pack replaymod from options because it is no longer compatible
+[2024-06-20 21:43:30.944] [info]  [21:43:30] [Render thread/WARN]: [Indium] Vanilla smooth lighter unavailable. Indium lighter will be used even if not configured.
+[2024-06-20 21:43:31.000] [info]  [21:43:30] [Render thread/INFO]: Hardware information:
+[2024-06-20 21:43:31.001] [info]  [21:43:31] [Render thread/INFO]: CPU: 16x AMD Ryzen 7 6800HS with Radeon Graphics 
+[2024-06-20 21:43:31.001] [info]  [21:43:31] [Render thread/INFO]: GPU: AMD Radeon(TM) Graphics (Supports OpenGL 3.2.0 Core Profile Context 22.40.84.06.231130)
+[2024-06-20 21:43:31.001] [info]  [21:43:31] [Render thread/INFO]: OS: Windows 11 (10.0)
+[2024-06-20 21:43:32.093] [info]  [21:43:32] [Render thread/INFO]: Reloading ResourceManager: lunar, vanilla, fabric, cloth-config, conditional-mixin, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-model-loading-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, indium, iris, islandutils, lithium, modmenu, moreculling, noxesium, nvidium, replaymod, sodium, yet_another_config_lib_v3, file/3-_DonutCrystal.zip, replaymod_lang
+[2024-06-20 21:43:32.327] [info]  [21:43:32] [Worker-Main-10/INFO]: Found unifont_all_no_pua-15.1.04.hex, loading
+[2024-06-20 21:43:32.335] [info]  [21:43:32] [Worker-Main-9/WARN]: Failed to load builder (island:icons: builder #10 from pack islandutils), rejecting
+[2024-06-20 21:43:32.336] [info]  java.io.FileNotFoundException: mcc:textures/_fonts/cancel.png
+[2024-06-20 21:43:32.336] [info]  	at Genesis/net.minecraft.server.packs.resources.ResourceProvider.lambda$getResourceOrThrow$0(SourceFile:21) ~[?:?]
+[2024-06-20 21:43:32.337] [info]  	at java.base/java.util.Optional.orElseThrow(Unknown Source) ~[?:?]
+[2024-06-20 21:43:32.337] [info]  	at Genesis/net.minecraft.server.packs.resources.ResourceProvider.getResourceOrThrow(SourceFile:21) ~[?:?]
+[2024-06-20 21:43:32.337] [info]  	at Genesis/net.minecraft.server.packs.resources.ResourceProvider.open(SourceFile:25) ~[?:?]
+[2024-06-20 21:43:32.337] [info]  	at Genesis/net.minecraft.client.gui.font.providers.BitmapProvider$Definition.load(SourceFile:132) ~[?:?]
+[2024-06-20 21:43:32.338] [info]  	at Genesis/net.minecraft.client.gui.font.FontManager.lambda$safeLoad$11(SourceFile:194) ~[?:?]
+[2024-06-20 21:43:32.338] [info]  	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) [?:?]
+[2024-06-20 21:43:32.338] [info]  	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) [?:?]
+[2024-06-20 21:43:32.339] [info]  	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:?]
+[2024-06-20 21:43:32.339] [info]  	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source) [?:?]
+[2024-06-20 21:43:32.339] [info]  	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source) [?:?]
+[2024-06-20 21:43:32.340] [info]  	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:?]
+[2024-06-20 21:43:32.340] [info]  	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:?]
+[2024-06-20 21:43:32.340] [info]  [21:43:32] [Worker-Main-2/WARN]: Failed to load builder (island:icons: builder #9 from pack islandutils), rejecting
+[2024-06-20 21:43:32.340] [info]  java.io.FileNotFoundException: mcc:textures/_fonts/tick_small.png
+[2024-06-20 21:43:32.341] [info]  	at Genesis/net.minecraft.server.packs.resources.ResourceProvider.lambda$getResourceOrThrow$0(SourceFile:21) ~[?:?]
+[2024-06-20 21:43:32.341] [info]  	at java.base/java.util.Optional.orElseThrow(Unknown Source) ~[?:?]
+[2024-06-20 21:43:32.341] [info]  	at Genesis/net.minecraft.server.packs.resources.ResourceProvider.getResourceOrThrow(SourceFile:21) ~[?:?]
+[2024-06-20 21:43:32.342] [info]  	at Genesis/net.minecraft.server.packs.resources.ResourceProvider.open(SourceFile:25) ~[?:?]
+[2024-06-20 21:43:32.342] [info]  	at Genesis/net.minecraft.client.gui.font.providers.BitmapProvider$Definition.load(SourceFile:132) ~[?:?]
+[2024-06-20 21:43:32.342] [info]  	at Genesis/net.minecraft.client.gui.font.FontManager.lambda$safeLoad$11(SourceFile:194) ~[?:?]
+[2024-06-20 21:43:32.342] [info]  	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) [?:?]
+[2024-06-20 21:43:32.343] [info]  	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) [?:?]
+[2024-06-20 21:43:32.343] [info]  	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:?]
+[2024-06-20 21:43:32.343] [info]  	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source) [?:?]
+[2024-06-20 21:43:32.344] [info]  	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source) [?:?]
+[2024-06-20 21:43:32.344] [info]  	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:?]
+[2024-06-20 21:43:32.344] [info]  	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:?]
+[2024-06-20 21:43:32.345] [info]  [21:43:32] [Worker-Main-2/WARN]: Failed to load builder (island:icons: builder #7 from pack islandutils), rejecting
+[2024-06-20 21:43:32.345] [info]  java.io.FileNotFoundException: mcc:textures/_fonts/crafting.png
+[2024-06-20 21:43:32.346] [info]  	at Genesis/net.minecraft.server.packs.resources.ResourceProvider.lambda$getResourceOrThrow$0(SourceFile:21) ~[?:?]
+[2024-06-20 21:43:32.346] [info]  	at java.base/java.util.Optional.orElseThrow(Unknown Source) ~[?:?]
+[2024-06-20 21:43:32.346] [info]  	at Genesis/net.minecraft.server.packs.resources.ResourceProvider.getResourceOrThrow(SourceFile:21) ~[?:?]
+[2024-06-20 21:43:32.346] [info]  	at Genesis/net.minecraft.server.packs.resources.ResourceProvider.open(SourceFile:25) ~[?:?]
+[2024-06-20 21:43:32.347] [info]  	at Genesis/net.minecraft.client.gui.font.providers.BitmapProvider$Definition.load(SourceFile:132) ~[?:?]
+[2024-06-20 21:43:32.347] [info]  	at Genesis/net.minecraft.client.gui.font.FontManager.lambda$safeLoad$11(SourceFile:194) ~[?:?]
+[2024-06-20 21:43:32.347] [info]  	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) [?:?]
+[2024-06-20 21:43:32.348] [info]  	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) [?:?]
+[2024-06-20 21:43:32.348] [info]  	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:?]
+[2024-06-20 21:43:32.348] [info]  	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source) [?:?]
+[2024-06-20 21:43:32.349] [info]  	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source) [?:?]
+[2024-06-20 21:43:32.349] [info]  	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:?]
+[2024-06-20 21:43:32.349] [info]  	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:?]
+[2024-06-20 21:43:32.349] [info]  [21:43:32] [Worker-Main-9/WARN]: Failed to load builder (island:icons: builder #6 from pack islandutils), rejecting
+[2024-06-20 21:43:32.350] [info]  java.io.FileNotFoundException: mcc:textures/_fonts/fusion_crafting.png
+[2024-06-20 21:43:32.350] [info]  	at Genesis/net.minecraft.server.packs.resources.ResourceProvider.lambda$getResourceOrThrow$0(SourceFile:21) ~[?:?]
+[2024-06-20 21:43:32.350] [info]  	at java.base/java.util.Optional.orElseThrow(Unknown Source) ~[?:?]
+[2024-06-20 21:43:32.351] [info]  	at Genesis/net.minecraft.server.packs.resources.ResourceProvider.getResourceOrThrow(SourceFile:21) ~[?:?]
+[2024-06-20 21:43:32.351] [info]  	at Genesis/net.minecraft.server.packs.resources.ResourceProvider.open(SourceFile:25) ~[?:?]
+[2024-06-20 21:43:32.351] [info]  	at Genesis/net.minecraft.client.gui.font.providers.BitmapProvider$Definition.load(SourceFile:132) ~[?:?]
+[2024-06-20 21:43:32.352] [info]  	at Genesis/net.minecraft.client.gui.font.FontManager.lambda$safeLoad$11(SourceFile:194) ~[?:?]
+[2024-06-20 21:43:32.352] [info]  	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) [?:?]
+[2024-06-20 21:43:32.352] [info]  	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) [?:?]
+[2024-06-20 21:43:32.353] [info]  	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:?]
+[2024-06-20 21:43:32.353] [info]  	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source) [?:?]
+[2024-06-20 21:43:32.353] [info]  	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source) [?:?]
+[2024-06-20 21:43:32.353] [info]  	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:?]
+[2024-06-20 21:43:32.354] [info]  	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:?]
+[2024-06-20 21:43:32.354] [info]  [21:43:32] [Render thread/INFO]: YACL is reloading images
+[2024-06-20 21:43:32.354] [info]  [21:43:32] [Worker-Main-9/WARN]: Failed to load builder (island:icons: builder #1 from pack islandutils), rejecting
+[2024-06-20 21:43:32.355] [info]  java.io.FileNotFoundException: mcc:textures/island_interface/social/icon.png
+[2024-06-20 21:43:32.355] [info]  	at Genesis/net.minecraft.server.packs.resources.ResourceProvider.lambda$getResourceOrThrow$0(SourceFile:21) ~[?:?]
+[2024-06-20 21:43:32.355] [info]  	at java.base/java.util.Optional.orElseThrow(Unknown Source) ~[?:?]
+[2024-06-20 21:43:32.356] [info]  	at Genesis/net.minecraft.server.packs.resources.ResourceProvider.getResourceOrThrow(SourceFile:21) ~[?:?]
+[2024-06-20 21:43:32.356] [info]  	at Genesis/net.minecraft.server.packs.resources.ResourceProvider.open(SourceFile:25) ~[?:?]
+[2024-06-20 21:43:32.356] [info]  	at Genesis/net.minecraft.client.gui.font.providers.BitmapProvider$Definition.load(SourceFile:132) ~[?:?]
+[2024-06-20 21:43:32.357] [info]  	at Genesis/net.minecraft.client.gui.font.FontManager.lambda$safeLoad$11(SourceFile:194) ~[?:?]
+[2024-06-20 21:43:32.357] [info]  	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) [?:?]
+[2024-06-20 21:43:32.357] [info]  	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) [?:?]
+[2024-06-20 21:43:32.358] [info]  	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:?]
+[2024-06-20 21:43:32.358] [info]  	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source) [?:?]
+[2024-06-20 21:43:32.358] [info]  	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source) [?:?]
+[2024-06-20 21:43:32.359] [info]  	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:?]
+[2024-06-20 21:43:32.359] [info]  	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:?]
+[2024-06-20 21:43:32.412] [info]  [21:43:32] [Render thread/INFO]: YACL has found 0 images
+[2024-06-20 21:43:32.445] [info]  [21:43:32] [Render thread/INFO]: Cached all modded block culling states
+[2024-06-20 21:43:32.446] [info]  [21:43:32] [Render thread/INFO]: [STDOUT]: [Bridge] Setting Minecraft Client instance to net.minecraft.client.Minecraft
+[2024-06-20 21:43:33.400] [info]  [21:43:33] [Ichor/Render thread/INFO] Creating MultiBridgeModern instance: CRCIRCHCIOCCIHRCHCHOHICRI
+[2024-06-20 21:43:33.571] [info]  [21:43:33] [Render thread/INFO]: [LC] Starting Lunar client...
+[2024-06-20 21:43:34.114] [info]  [21:43:34] [Render thread/INFO]: [LC] Loading RCOIIRRHOORIOROOROICRHHOR...
+[2024-06-20 21:43:34.119] [info]  [21:43:34] [Render thread/INFO]: [LC] Loading CIOCCOCHORHIOCCRHOROCHORC...
+[2024-06-20 21:43:34.523] [info]  [21:43:34] [Render thread/INFO]: [LC] Loading IOCOHCCRCOHRICRRHOOICHIHO...
+[2024-06-20 21:43:34.530] [info]  [21:43:34] [Render thread/INFO]: [LC] Loading HCCRHOOCOROIOOIIRIIIRCHOC...
+[2024-06-20 21:43:34.539] [info]  [21:43:34] [Render thread/INFO]: [LC Lang] Couldn't get a valid language so we're setting it to ENGLISH.
+[2024-06-20 21:43:34.539] [info]  [21:43:34] [Render thread/INFO]: [LC Lang] Language set as ENGLISH (en_US).
+[2024-06-20 21:43:34.540] [info]  [21:43:34] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-20 21:43:34.542] [info]  [21:43:34] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-20 21:43:34.569] [info]  [21:43:34] [Render thread/INFO]: [LC] Loading ORIIIRHHROIRHOCOOOIOORIOC...
+[2024-06-20 21:43:34.651] [info]  [21:43:34] [Render thread/INFO]: [LC] Loading ROCROOOIIOIRHIIRRCRRHRICO...
+[2024-06-20 21:43:36.013] [info]  [21:43:36] [Render thread/INFO]: [LC] Loading OCIOHHHRIHOIHCRHICIIRCIIR...
+[2024-06-20 21:43:36.021] [info]  [21:43:36] [Render thread/INFO]: [LC] Loading RHCRCHHICCCIIHIIIHIIRROOO...
+[2024-06-20 21:43:36.034] [info]  [21:43:36] [Render thread/INFO]: [LC] Loading CRCIRCHCIOCCIHRCHCHOHICRI...
+[2024-06-20 21:43:36.043] [info]  [21:43:36] [Render thread/INFO]: [LC] Loading HHRIIHHROCICOCHRCICRIOHRH...
+[2024-06-20 21:43:36.060] [info]  [21:43:36] [Render thread/INFO]: [LC] Loading IHCRIIIICOROROOCCIHHHHCRI...
+[2024-06-20 21:43:36.078] [info]  [21:43:36] [Render thread/INFO]: [LC] Loading IOCOHCCRCOHRICRRHOOICHIHO...
+[2024-06-20 21:43:36.092] [info]  [21:43:36] [Render thread/INFO]: [LC] Loading ICHIRCHRHOCCOHHORCHICRHOI...
+[2024-06-20 21:43:36.095] [info]  [21:43:36] [Render thread/INFO]: [LC] Loading CCOCCHORCHCOCCROCHOIOICOI...
+[2024-06-20 21:43:36.106] [info]  [21:43:36] [Render thread/INFO]: [LC] Loading CCIIHHRHCCHRRHROOHIOCHOCC...
+[2024-06-20 21:43:36.110] [info]  [21:43:36] [Render thread/INFO]: [LC] Loading OHHHOIOOOOIOCHRICROCCHCIH...
+[2024-06-20 21:43:36.111] [info]  [21:43:36] [Render thread/INFO]: [LC] Loading IIOOIICCICOCHCIIHOHRCHICO...
+[2024-06-20 21:43:36.132] [info]  [21:43:36] [Render thread/INFO]: [LC] Loading IIIICORICOICIRRHCHIIHROIC...
+[2024-06-20 21:43:36.160] [info]  [21:43:36] [Render thread/WARN]: [LC] Couldn't find dev cosmetics file: cosmetics/dev_cosmetics.json
+[2024-06-20 21:43:36.359] [info]  [21:43:36] [Render thread/INFO]: [LC] Loading OCRCIRRIRCHCHIORHOHICRRIC...
+[2024-06-20 21:43:36.366] [info]  [21:43:36] [Render thread/INFO]: [LC] Loading CORORICIOIOHIICRIHIRIORCC...
+[2024-06-20 21:43:36.387] [info]  [21:43:36] [Render thread/INFO]: [LC] Loading IRHIIORRHIIOOIICRHCOCOIRO...
+[2024-06-20 21:43:36.390] [info]  [21:43:36] [Render thread/INFO]: [LC] Loading CRCIRCHCIOCCIHRCHCHOHICRI...
+[2024-06-20 21:43:36.391] [info]  [21:43:36] [Render thread/INFO]: [LC] Loading IOCOHCCRCOHRICRRHOOICHIHO...
+[2024-06-20 21:43:36.400] [info]  [21:43:36] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[2024-06-20 21:43:36.655] [info]  [21:43:36] [Render thread/INFO]: [LC] Finished making managers.
+[2024-06-20 21:43:36.655] [info]  [21:43:36] [Render thread/INFO]: [LC] Setting up listeners...
+[2024-06-20 21:43:36.682] [info]  [21:43:36] [Render thread/INFO]: [LC] Setting up fixes...
+[2024-06-20 21:43:36.756] [info]  [21:43:36] [WebSocketConnectReadThread-125/INFO]: [LC IPC] Connection established
+[2024-06-20 21:43:38.046] [info]  [21:43:38] [Render thread/ERROR]: [LC ThirdParty] Couldn't load third party mods
+[2024-06-20 21:43:38.047] [info]  [21:43:38] [Render thread/INFO]: [LC Lang] Language set as ENGLISH (en_US).
+[2024-06-20 21:43:38.048] [info]  [21:43:38] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-20 21:43:38.049] [info]  [21:43:38] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-20 21:43:38.067] [info]  [21:43:38] [Render thread/INFO]: [LC Ichor] Disabling NEU because there is no valid link.
+[2024-06-20 21:43:38.068] [info]  [21:43:38] [Render thread/INFO]: [LC Ichor] Disabling SBA because there is no valid link.
+[2024-06-20 21:43:38.068] [info]  [21:43:38] [Render thread/INFO]: [LC] Lunar.start
+[2024-06-20 21:43:38.074] [info]  [21:43:38] [Render thread/INFO]: [LC Accounts] Attempting to load account [04f44ced712a4c3a9fdd0c02a755b9db]
+[2024-06-20 21:43:38.105] [info]  [21:43:38] [Render thread/INFO]: [LC Accounts] Loaded content for [MengHong001] Token IAT
+[2024-06-20 21:43:38.105] [info]  [21:43:38] [Render thread/INFO]: [LC Accounts] Setting currentAccount to what was on disk: MengHong001
+[2024-06-20 21:43:38.106] [info]  [21:43:38] [Render thread/INFO]: [LC Accounts] Setting account 'MengHong001' as the current session.
+[2024-06-20 21:43:38.106] [info]  [21:43:38] [Render thread/INFO]: [LC] Setting user: MengHong001
+[2024-06-20 21:43:38.114] [info]  [21:43:38] [Thread-12/INFO]: [LC Assets] Establishing connection
+[2024-06-20 21:43:38.114] [info]  [21:43:38] [Thread-12/INFO]: [LC Assets] Connecting to Authenticator to obtain JWT, no previous connection.
+[2024-06-20 21:43:38.140] [info]  [21:43:38] [Thread-12/INFO]: [LC Authentication] Instantiate
+[2024-06-20 21:43:38.826] [info]  [21:43:38] [Render thread/INFO]: [LC Accounts] Removed all accounts [0 count]
+[2024-06-20 21:43:38.829] [info]  [21:43:38] [Render thread/INFO]: [LC Accounts] Starting Refreshing MengHong001 with 77897172ms till expired (Valid: true).
+[2024-06-20 21:43:38.830] [info]  [21:43:38] [Render thread/INFO]: [LC Accounts] Refreshing MengHong001 (Valid: true).
+[2024-06-20 21:43:39.447] [info]  [21:43:39] [WebSocketConnectReadThread-130/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[2024-06-20 21:43:39.776] [info]  [21:43:39] [Render thread/INFO]: [LC Lang] Language set as ENGLISH (en_US).
+[2024-06-20 21:43:39.777] [info]  [21:43:39] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-20 21:43:39.782] [info]  [21:43:39] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-20 21:43:40.037] [info]  [21:43:40] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-06-20 21:43:40.038] [info]  [21:43:40] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-06-20 21:43:40.039] [info]  [21:43:40] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-06-20 21:43:40.039] [info]  [21:43:40] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-06-20 21:43:40.039] [info]  [21:43:40] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-06-20 21:43:40.040] [info]  [21:43:40] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-06-20 21:43:40.212] [info]  [21:43:40] [Render thread/ERROR]: [LC Cosmetics] Could not load the model at lunar:cosmetics/models/bodywear/katanasheathed/katanasheathed.obj for cosmetic katanasheathed since it does not exist
+[2024-06-20 21:43:40.281] [info]  [21:43:40] [WebSocketConnectReadThread-130/INFO]: [LC Assets] Instantiate
+[2024-06-20 21:43:40.311] [info]  [21:43:40] [WebSocketConnectReadThread-130/INFO]: [LC Auth] Connection closed (1000, "Issued.")
+[2024-06-20 21:43:41.289] [info]  [21:43:41] [Render thread/WARN]: [LC] Couldn't find geckolib cosmetic file: lunar:cosmetics/models/gek/wings/bat_wings/bat_wings.gek.json
+[2024-06-20 21:43:41.425] [info]  [21:43:41] [Render thread/WARN]: [LC] Couldn't find geckolib cosmetic file: lunar:space_backpack
+[2024-06-20 21:43:41.426] [info]  [21:43:41] [Render thread/INFO]: [LC] Loaded geckolib cosmetics.
+[2024-06-20 21:43:41.426] [info]  [21:43:41] [Render thread/INFO]: [LC] Loading cosmetic compatibility json
+[2024-06-20 21:43:41.495] [info]  [21:43:41] [Render thread/INFO]: [LC] Compiled cosmetic compatability presets
+[2024-06-20 21:43:41.557] [info]  [21:43:41] [Render thread/WARN]: [LC] Assets
+[2024-06-20 21:43:41.558] [info]  [21:43:41] [Render thread/INFO]: [LC] Launching
+[2024-06-20 21:43:41.559] [info]  [21:43:41] [Render thread/INFO]: [LC] Finished Lunar initialization.
+[2024-06-20 21:43:41.560] [info]  [21:43:41] [Render thread/INFO]: [LC] LUNARCLIENT_STATUS_STARTED
+[2024-06-20 21:43:41.599] [info]  [21:43:41] [WebSocketConnectReadThread-144/INFO]: [LC Assets] Connection established as MengHong001
+[2024-06-20 21:43:42.167] [info]  [21:43:42] [ForkJoinPool.commonPool-worker-3/INFO]: [LC Accounts] Finished refreshing MengHong001 (Valid: true).
+[2024-06-20 21:43:42.168] [info]  [21:43:42] [ForkJoinPool.commonPool-worker-3/INFO]: [LC Accounts] Finished refreshing the current account. 0 accounts left.
+[2024-06-20 21:43:42.168] [info]  [21:43:42] [ForkJoinPool.commonPool-worker-3/INFO]: [LC Accounts] Logging into account MengHong001 
+[2024-06-20 21:43:42.169] [info]  [21:43:42] [ForkJoinPool.commonPool-worker-3/INFO]: [LC Accounts] Setting account 'MengHong001' as the current session.
+[2024-06-20 21:43:42.169] [info]  [21:43:42] [ForkJoinPool.commonPool-worker-3/INFO]: [LC] Setting user: MengHong001
+[2024-06-20 21:43:42.194] [info]  [21:43:42] [Render thread/INFO]: Stopping!
+[2024-06-20 21:43:42.194] [info]  [21:43:42] [WebSocketConnectReadThread-125/INFO]: [LC IPC] Connection closed (1000, "")
+[2024-06-20 21:43:42.233] [info]  [21:43:42] [ForkJoinPool.commonPool-worker-3/WARN]: [LC AuthUtil] Not reported (AUTH is not enabled)
+[2024-06-20 21:43:42.234] [info]  [21:43:42] [ForkJoinPool.commonPool-worker-3/INFO]: [LC Accounts] Failed to refresh account MengHong001. Attempts left: 4
+[2024-06-20 21:43:42.234] [info]  [21:43:42] [ForkJoinPool.commonPool-worker-3/INFO]: [LC Accounts] Refreshing MengHong001 (Valid: true).
+[2024-06-20 21:43:42.264] [info]  [21:42:56] [WARN] [FabricLoader/Metadata]: Mod com_github_jncrmx_discord-game-sdk4j uses the version v0.5.5 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'v0'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version

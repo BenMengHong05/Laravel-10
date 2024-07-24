@@ -1,0 +1,1080 @@
+[2024-05-04 16:03:29.219] [info]  [Electron] Logger initialized for window at C:\Users\Asus\.lunarclient\logs\launcher\window.log (Prefix: Window)
+[2024-05-04 16:03:29.352] [info]  [Window] Setting up (Silent startup: false)...
+[2024-05-04 16:03:29.420] [info]  [Window] Setup complete!
+[2024-05-04 16:03:30.029] [info]  [Window] [updater] [Console] 16:03:30.007 › [Sentry] Initializing Sentry in updater renderer...
+[2024-05-04 16:03:30.030] [info]  [Window] [updater] [Console] 16:03:30.008 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-04 16:03:30.030] [info]  [Window] [updater] [Console] 16:03:30.008 ›          * Sample rate: 0.01
+[2024-05-04 16:03:30.031] [info]  [Window] [updater] [Console] 16:03:30.008 ›          * Debug: disabled
+[2024-05-04 16:03:30.032] [info]  [Window] [updater] [Console] 16:03:30.008 ›          * ANR: disabled
+[2024-05-04 16:03:30.061] [info]  [Window] [friends] [Console] 16:03:30.050 › [Sentry] Initializing Sentry in friends renderer...
+[2024-05-04 16:03:30.061] [info]  [Window] [friends] [Console] 16:03:30.051 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-04 16:03:30.062] [info]  [Window] [friends] [Console] 16:03:30.051 ›          * Sample rate: 0.01
+[2024-05-04 16:03:30.062] [info]  [Window] [friends] [Console] 16:03:30.051 ›          * Debug: disabled
+[2024-05-04 16:03:30.062] [info]  [Window] [friends] [Console] 16:03:30.051 ›          * ANR: disabled
+[2024-05-04 16:03:30.075] [info]  [Window] [chat] [Console] 16:03:30.061 › [Sentry] Initializing Sentry in chat renderer...
+[2024-05-04 16:03:30.075] [info]  [Window] [chat] [Console] 16:03:30.062 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-04 16:03:30.075] [info]  [Window] [chat] [Console] 16:03:30.062 ›          * Sample rate: 0.01
+[2024-05-04 16:03:30.076] [info]  [Window] [chat] [Console] 16:03:30.062 ›          * Debug: disabled
+[2024-05-04 16:03:30.076] [info]  [Window] [chat] [Console] 16:03:30.062 ›          * ANR: disabled
+[2024-05-04 16:03:30.078] [info]  [Window] Renderer ready for window 'updater'
+[2024-05-04 16:03:30.103] [info]  [Window] Renderer ready for window 'friends'
+[2024-05-04 16:03:30.152] [info]  [Window] Renderer ready for window 'chat'
+[2024-05-04 16:03:30.438] [info]  [Window] [main] [Console] 16:03:30.409 › [Sentry] Initializing Sentry in app renderer...
+[2024-05-04 16:03:30.440] [info]  [Window] [main] [Console] 16:03:30.410 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-04 16:03:30.442] [info]  [Window] [main] [Console] 16:03:30.410 ›          * Sample rate: 0.01
+[2024-05-04 16:03:30.443] [info]  [Window] [main] [Console] 16:03:30.410 ›          * Debug: disabled
+[2024-05-04 16:03:30.443] [info]  [Window] [main] [Console] 16:03:30.410 ›          * ANR: disabled
+[2024-05-04 16:03:30.486] [info]  [Window] Renderer ready for window 'main'
+[2024-05-04 16:03:33.910] [info]  [Window] Rewriting /versions to /versions/lunar...
+[2024-05-04 16:17:53.710] [info]  [Window] Second instance was detected, showing main window in primary...
+[2024-05-04 16:50:39.872] [error] [Window] [updater] Render Process has unexpectedly disappeared...
+[2024-05-04 16:50:39.873] [error] [Window]          * Reason: killed
+[2024-05-04 16:50:39.874] [error] [Window]          * Exit Code: 1073807364
+[2024-05-10 09:20:50.769] [info]  [Electron] Logger initialized for window at C:\Users\Asus\.lunarclient\logs\launcher\window.log (Prefix: Window)
+[2024-05-10 09:20:50.936] [info]  [Window] Setting up (Silent startup: true)...
+[2024-05-10 09:20:51.043] [info]  [Window] Setup complete!
+[2024-05-10 09:20:51.599] [info]  [Window] [updater] [Console] 09:20:51.585 › [Sentry] Initializing Sentry in updater renderer...
+[2024-05-10 09:20:51.600] [info]  [Window] [updater] [Console] 09:20:51.586 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-10 09:20:51.600] [info]  [Window] [updater] [Console] 09:20:51.586 ›          * Sample rate: 0.01
+[2024-05-10 09:20:51.600] [info]  [Window] [updater] [Console] 09:20:51.586 ›          * Debug: disabled
+[2024-05-10 09:20:51.601] [info]  [Window] [updater] [Console] 09:20:51.586 ›          * ANR: disabled
+[2024-05-10 09:20:51.634] [info]  [Window] [friends] [Console] 09:20:51.619 › [Sentry] Initializing Sentry in friends renderer...
+[2024-05-10 09:20:51.635] [info]  [Window] [friends] [Console] 09:20:51.620 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-10 09:20:51.635] [info]  [Window] [friends] [Console] 09:20:51.620 ›          * Sample rate: 0.01
+[2024-05-10 09:20:51.635] [info]  [Window] [friends] [Console] 09:20:51.620 ›          * Debug: disabled
+[2024-05-10 09:20:51.636] [info]  [Window] [friends] [Console] 09:20:51.620 ›          * ANR: disabled
+[2024-05-10 09:20:51.642] [info]  [Window] [chat] [Console] 09:20:51.628 › [Sentry] Initializing Sentry in chat renderer...
+[2024-05-10 09:20:51.642] [info]  [Window] [chat] [Console] 09:20:51.629 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-10 09:20:51.643] [info]  [Window] [chat] [Console] 09:20:51.629 ›          * Sample rate: 0.01
+[2024-05-10 09:20:51.643] [info]  [Window] [chat] [Console] 09:20:51.629 ›          * Debug: disabled
+[2024-05-10 09:20:51.644] [info]  [Window] [chat] [Console] 09:20:51.629 ›          * ANR: disabled
+[2024-05-10 09:20:51.650] [info]  [Window] Renderer ready for window 'updater'
+[2024-05-10 09:20:51.665] [info]  [Window] Renderer ready for window 'friends'
+[2024-05-10 09:20:51.701] [info]  [Window] Renderer ready for window 'chat'
+[2024-05-10 09:20:51.884] [info]  [Window] [main] [Console] 09:20:51.869 › [Sentry] Initializing Sentry in app renderer...
+[2024-05-10 09:20:51.884] [info]  [Window] [main] [Console] 09:20:51.869 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-10 09:20:51.885] [info]  [Window] [main] [Console] 09:20:51.869 ›          * Sample rate: 0.01
+[2024-05-10 09:20:51.885] [info]  [Window] [main] [Console] 09:20:51.870 ›          * Debug: disabled
+[2024-05-10 09:20:51.885] [info]  [Window] [main] [Console] 09:20:51.870 ›          * ANR: disabled
+[2024-05-10 09:20:51.938] [info]  [Window] Renderer ready for window 'main'
+[2024-05-10 10:59:34.922] [error] [Window] [updater] Render Process has unexpectedly disappeared...
+[2024-05-10 10:59:34.922] [error] [Window]          * Reason: killed
+[2024-05-10 10:59:34.923] [error] [Window]          * Exit Code: 1073807364
+[2024-05-10 12:54:31.525] [info]  [Electron] Logger initialized for window at C:\Users\Asus\.lunarclient\logs\launcher\window.log (Prefix: Window)
+[2024-05-10 12:54:31.755] [info]  [Window] Setting up (Silent startup: true)...
+[2024-05-10 12:54:31.808] [info]  [Window] Setup complete!
+[2024-05-10 12:54:32.431] [info]  [Window] [updater] [Console] 12:54:32.423 › [Sentry] Initializing Sentry in updater renderer...
+[2024-05-10 12:54:32.432] [info]  [Window] [updater] [Console] 12:54:32.424 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-10 12:54:32.433] [info]  [Window] [updater] [Console] 12:54:32.424 ›          * Sample rate: 0.01
+[2024-05-10 12:54:32.433] [info]  [Window] [updater] [Console] 12:54:32.424 ›          * Debug: disabled
+[2024-05-10 12:54:32.433] [info]  [Window] [updater] [Console] 12:54:32.424 ›          * ANR: disabled
+[2024-05-10 12:54:32.466] [info]  [Window] [friends] [Console] 12:54:32.459 › [Sentry] Initializing Sentry in friends renderer...
+[2024-05-10 12:54:32.467] [info]  [Window] [friends] [Console] 12:54:32.460 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-10 12:54:32.468] [info]  [Window] [friends] [Console] 12:54:32.460 ›          * Sample rate: 0.01
+[2024-05-10 12:54:32.468] [info]  [Window] [friends] [Console] 12:54:32.460 ›          * Debug: disabled
+[2024-05-10 12:54:32.469] [info]  [Window] [friends] [Console] 12:54:32.460 ›          * ANR: disabled
+[2024-05-10 12:54:32.485] [info]  [Window] [chat] [Console] 12:54:32.479 › [Sentry] Initializing Sentry in chat renderer...
+[2024-05-10 12:54:32.486] [info]  [Window] [chat] [Console] 12:54:32.480 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-10 12:54:32.487] [info]  [Window] [chat] [Console] 12:54:32.480 ›          * Sample rate: 0.01
+[2024-05-10 12:54:32.487] [info]  [Window] [chat] [Console] 12:54:32.480 ›          * Debug: disabled
+[2024-05-10 12:54:32.488] [info]  [Window] [chat] [Console] 12:54:32.480 ›          * ANR: disabled
+[2024-05-10 12:54:32.494] [info]  [Window] Renderer ready for window 'updater'
+[2024-05-10 12:54:32.505] [info]  [Window] Renderer ready for window 'friends'
+[2024-05-10 12:54:32.557] [info]  [Window] Renderer ready for window 'chat'
+[2024-05-10 12:54:32.779] [info]  [Window] [main] [Console] 12:54:32.761 › [Sentry] Initializing Sentry in app renderer...
+[2024-05-10 12:54:32.780] [info]  [Window] [main] [Console] 12:54:32.762 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-10 12:54:32.780] [info]  [Window] [main] [Console] 12:54:32.762 ›          * Sample rate: 0.01
+[2024-05-10 12:54:32.781] [info]  [Window] [main] [Console] 12:54:32.762 ›          * Debug: disabled
+[2024-05-10 12:54:32.781] [info]  [Window] [main] [Console] 12:54:32.762 ›          * ANR: disabled
+[2024-05-10 12:54:32.837] [info]  [Window] Renderer ready for window 'main'
+[2024-05-10 18:39:13.645] [error] [Window] [chat] Render Process has unexpectedly disappeared...
+[2024-05-10 18:39:13.647] [error] [Window]          * Reason: killed
+[2024-05-10 18:39:13.648] [error] [Window]          * Exit Code: 1073807364
+[2024-05-11 12:14:35.995] [info]  [Electron] Logger initialized for window at C:\Users\Asus\.lunarclient\logs\launcher\window.log (Prefix: Window)
+[2024-05-11 12:14:36.167] [info]  [Window] Setting up (Silent startup: true)...
+[2024-05-11 12:14:36.228] [info]  [Window] Setup complete!
+[2024-05-11 12:14:37.164] [info]  [Window] [updater] [Console] 12:14:37.148 › [Sentry] Initializing Sentry in updater renderer...
+[2024-05-11 12:14:37.165] [info]  [Window] [updater] [Console] 12:14:37.149 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-11 12:14:37.165] [info]  [Window] [updater] [Console] 12:14:37.149 ›          * Sample rate: 0.01
+[2024-05-11 12:14:37.165] [info]  [Window] [updater] [Console] 12:14:37.149 ›          * Debug: disabled
+[2024-05-11 12:14:37.166] [info]  [Window] [updater] [Console] 12:14:37.149 ›          * ANR: disabled
+[2024-05-11 12:14:37.189] [info]  [Window] [chat] [Console] 12:14:37.178 › [Sentry] Initializing Sentry in chat renderer...
+[2024-05-11 12:14:37.189] [info]  [Window] [chat] [Console] 12:14:37.179 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-11 12:14:37.190] [info]  [Window] [chat] [Console] 12:14:37.179 ›          * Sample rate: 0.01
+[2024-05-11 12:14:37.190] [info]  [Window] [chat] [Console] 12:14:37.179 ›          * Debug: disabled
+[2024-05-11 12:14:37.190] [info]  [Window] [chat] [Console] 12:14:37.179 ›          * ANR: disabled
+[2024-05-11 12:14:37.195] [info]  [Window] [friends] [Console] 12:14:37.183 › [Sentry] Initializing Sentry in friends renderer...
+[2024-05-11 12:14:37.196] [info]  [Window] [friends] [Console] 12:14:37.183 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-11 12:14:37.196] [info]  [Window] [friends] [Console] 12:14:37.183 ›          * Sample rate: 0.01
+[2024-05-11 12:14:37.196] [info]  [Window] [friends] [Console] 12:14:37.183 ›          * Debug: disabled
+[2024-05-11 12:14:37.196] [info]  [Window] [friends] [Console] 12:14:37.183 ›          * ANR: disabled
+[2024-05-11 12:14:37.215] [info]  [Window] Renderer ready for window 'updater'
+[2024-05-11 12:14:37.224] [info]  [Window] Renderer ready for window 'friends'
+[2024-05-11 12:14:37.254] [info]  [Window] Renderer ready for window 'chat'
+[2024-05-11 12:14:37.452] [info]  [Window] [main] [Console] 12:14:37.439 › [Sentry] Initializing Sentry in app renderer...
+[2024-05-11 12:14:37.453] [info]  [Window] [main] [Console] 12:14:37.439 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-11 12:14:37.453] [info]  [Window] [main] [Console] 12:14:37.439 ›          * Sample rate: 0.01
+[2024-05-11 12:14:37.453] [info]  [Window] [main] [Console] 12:14:37.439 ›          * Debug: disabled
+[2024-05-11 12:14:37.454] [info]  [Window] [main] [Console] 12:14:37.439 ›          * ANR: disabled
+[2024-05-11 12:14:37.505] [info]  [Window] Renderer ready for window 'main'
+[2024-05-11 12:53:05.550] [error] [Window] [main] Render Process has unexpectedly disappeared...
+[2024-05-11 12:53:05.551] [error] [Window]          * Reason: killed
+[2024-05-11 12:53:05.552] [error] [Window]          * Exit Code: 1073807364
+[2024-05-11 15:20:35.857] [info]  [Electron] Logger initialized for window at C:\Users\Asus\.lunarclient\logs\launcher\window.log (Prefix: Window)
+[2024-05-11 15:20:35.996] [info]  [Window] Setting up (Silent startup: true)...
+[2024-05-11 15:20:36.034] [info]  [Window] Setup complete!
+[2024-05-11 15:20:36.542] [info]  [Window] [updater] [Console] 15:20:36.520 › [Sentry] Initializing Sentry in updater renderer...
+[2024-05-11 15:20:36.543] [info]  [Window] [updater] [Console] 15:20:36.521 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-11 15:20:36.544] [info]  [Window] [updater] [Console] 15:20:36.522 ›          * Sample rate: 0.01
+[2024-05-11 15:20:36.544] [info]  [Window] [updater] [Console] 15:20:36.522 ›          * Debug: disabled
+[2024-05-11 15:20:36.545] [info]  [Window] [updater] [Console] 15:20:36.522 ›          * ANR: disabled
+[2024-05-11 15:20:36.576] [info]  [Window] [friends] [Console] 15:20:36.560 › [Sentry] Initializing Sentry in friends renderer...
+[2024-05-11 15:20:36.577] [info]  [Window] [friends] [Console] 15:20:36.561 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-11 15:20:36.577] [info]  [Window] [friends] [Console] 15:20:36.561 ›          * Sample rate: 0.01
+[2024-05-11 15:20:36.578] [info]  [Window] [friends] [Console] 15:20:36.561 ›          * Debug: disabled
+[2024-05-11 15:20:36.578] [info]  [Window] [friends] [Console] 15:20:36.561 ›          * ANR: disabled
+[2024-05-11 15:20:36.585] [info]  [Window] [chat] [Console] 15:20:36.568 › [Sentry] Initializing Sentry in chat renderer...
+[2024-05-11 15:20:36.586] [info]  [Window] [chat] [Console] 15:20:36.569 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-11 15:20:36.586] [info]  [Window] [chat] [Console] 15:20:36.569 ›          * Sample rate: 0.01
+[2024-05-11 15:20:36.587] [info]  [Window] [chat] [Console] 15:20:36.569 ›          * Debug: disabled
+[2024-05-11 15:20:36.587] [info]  [Window] [chat] [Console] 15:20:36.569 ›          * ANR: disabled
+[2024-05-11 15:20:36.611] [info]  [Window] Renderer ready for window 'updater'
+[2024-05-11 15:20:36.624] [info]  [Window] Renderer ready for window 'friends'
+[2024-05-11 15:20:36.663] [info]  [Window] Renderer ready for window 'chat'
+[2024-05-11 15:20:36.933] [info]  [Window] [main] [Console] 15:20:36.912 › [Sentry] Initializing Sentry in app renderer...
+[2024-05-11 15:20:36.934] [info]  [Window] [main] [Console] 15:20:36.913 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-11 15:20:36.935] [info]  [Window] [main] [Console] 15:20:36.913 ›          * Sample rate: 0.01
+[2024-05-11 15:20:36.935] [info]  [Window] [main] [Console] 15:20:36.913 ›          * Debug: disabled
+[2024-05-11 15:20:36.935] [info]  [Window] [main] [Console] 15:20:36.913 ›          * ANR: disabled
+[2024-05-11 15:20:37.026] [info]  [Window] Renderer ready for window 'main'
+[2024-05-11 17:36:00.432] [error] [Window] [updater] Render Process has unexpectedly disappeared...
+[2024-05-11 17:36:00.432] [error] [Window]          * Reason: killed
+[2024-05-11 17:36:00.433] [error] [Window]          * Exit Code: 1073807364
+[2024-05-11 19:31:53.858] [info]  [Electron] Logger initialized for window at C:\Users\Asus\.lunarclient\logs\launcher\window.log (Prefix: Window)
+[2024-05-11 19:31:53.993] [info]  [Window] Setting up (Silent startup: true)...
+[2024-05-11 19:31:54.034] [info]  [Window] Setup complete!
+[2024-05-11 19:31:54.913] [info]  [Window] [updater] [Console] 19:31:54.902 › [Sentry] Initializing Sentry in updater renderer...
+[2024-05-11 19:31:54.914] [info]  [Window] [updater] [Console] 19:31:54.903 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-11 19:31:54.914] [info]  [Window] [updater] [Console] 19:31:54.903 ›          * Sample rate: 0.01
+[2024-05-11 19:31:54.915] [info]  [Window] [updater] [Console] 19:31:54.903 ›          * Debug: disabled
+[2024-05-11 19:31:54.915] [info]  [Window] [updater] [Console] 19:31:54.903 ›          * ANR: disabled
+[2024-05-11 19:31:54.937] [info]  [Window] [friends] [Console] 19:31:54.928 › [Sentry] Initializing Sentry in friends renderer...
+[2024-05-11 19:31:54.937] [info]  [Window] [friends] [Console] 19:31:54.929 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-11 19:31:54.938] [info]  [Window] [friends] [Console] 19:31:54.929 ›          * Sample rate: 0.01
+[2024-05-11 19:31:54.938] [info]  [Window] [friends] [Console] 19:31:54.929 ›          * Debug: disabled
+[2024-05-11 19:31:54.938] [info]  [Window] [friends] [Console] 19:31:54.929 ›          * ANR: disabled
+[2024-05-11 19:31:54.941] [info]  [Window] [chat] [Console] 19:31:54.932 › [Sentry] Initializing Sentry in chat renderer...
+[2024-05-11 19:31:54.941] [info]  [Window] [chat] [Console] 19:31:54.933 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-11 19:31:54.942] [info]  [Window] [chat] [Console] 19:31:54.933 ›          * Sample rate: 0.01
+[2024-05-11 19:31:54.942] [info]  [Window] [chat] [Console] 19:31:54.933 ›          * Debug: disabled
+[2024-05-11 19:31:54.943] [info]  [Window] [chat] [Console] 19:31:54.933 ›          * ANR: disabled
+[2024-05-11 19:31:54.965] [info]  [Window] Renderer ready for window 'updater'
+[2024-05-11 19:31:54.970] [info]  [Window] Renderer ready for window 'friends'
+[2024-05-11 19:31:55.002] [info]  [Window] Renderer ready for window 'chat'
+[2024-05-11 19:31:55.190] [info]  [Window] [main] [Console] 19:31:55.179 › [Sentry] Initializing Sentry in app renderer...
+[2024-05-11 19:31:55.191] [info]  [Window] [main] [Console] 19:31:55.179 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-11 19:31:55.191] [info]  [Window] [main] [Console] 19:31:55.179 ›          * Sample rate: 0.01
+[2024-05-11 19:31:55.192] [info]  [Window] [main] [Console] 19:31:55.179 ›          * Debug: disabled
+[2024-05-11 19:31:55.192] [info]  [Window] [main] [Console] 19:31:55.180 ›          * ANR: disabled
+[2024-05-11 19:31:55.242] [info]  [Window] Renderer ready for window 'main'
+[2024-05-12 01:09:32.681] [error] [Window] [chat] Render Process has unexpectedly disappeared...
+[2024-05-12 01:09:32.682] [error] [Window]          * Reason: killed
+[2024-05-12 01:09:32.683] [error] [Window]          * Exit Code: 1073807364
+[2024-05-12 12:37:13.064] [info]  [Electron] Logger initialized for window at C:\Users\Asus\.lunarclient\logs\launcher\window.log (Prefix: Window)
+[2024-05-12 12:37:13.193] [info]  [Window] Setting up (Silent startup: true)...
+[2024-05-12 12:37:13.235] [info]  [Window] Setup complete!
+[2024-05-12 12:37:13.749] [info]  [Window] [updater] [Console] 12:37:13.727 › [Sentry] Initializing Sentry in updater renderer...
+[2024-05-12 12:37:13.750] [info]  [Window] [updater] [Console] 12:37:13.728 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-12 12:37:13.751] [info]  [Window] [updater] [Console] 12:37:13.728 ›          * Sample rate: 0.01
+[2024-05-12 12:37:13.752] [info]  [Window] [updater] [Console] 12:37:13.728 ›          * Debug: disabled
+[2024-05-12 12:37:13.752] [info]  [Window] [updater] [Console] 12:37:13.729 ›          * ANR: disabled
+[2024-05-12 12:37:13.794] [info]  [Window] [friends] [Console] 12:37:13.776 › [Sentry] Initializing Sentry in friends renderer...
+[2024-05-12 12:37:13.795] [info]  [Window] [friends] [Console] 12:37:13.777 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-12 12:37:13.796] [info]  [Window] [friends] [Console] 12:37:13.777 ›          * Sample rate: 0.01
+[2024-05-12 12:37:13.796] [info]  [Window] [friends] [Console] 12:37:13.778 ›          * Debug: disabled
+[2024-05-12 12:37:13.797] [info]  [Window] [friends] [Console] 12:37:13.778 ›          * ANR: disabled
+[2024-05-12 12:37:13.808] [info]  [Window] [chat] [Console] 12:37:13.783 › [Sentry] Initializing Sentry in chat renderer...
+[2024-05-12 12:37:13.808] [info]  [Window] [chat] [Console] 12:37:13.784 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-12 12:37:13.809] [info]  [Window] [chat] [Console] 12:37:13.784 ›          * Sample rate: 0.01
+[2024-05-12 12:37:13.810] [info]  [Window] [chat] [Console] 12:37:13.784 ›          * Debug: disabled
+[2024-05-12 12:37:13.810] [info]  [Window] [chat] [Console] 12:37:13.784 ›          * ANR: disabled
+[2024-05-12 12:37:13.824] [info]  [Window] Renderer ready for window 'updater'
+[2024-05-12 12:37:13.857] [info]  [Window] Renderer ready for window 'friends'
+[2024-05-12 12:37:13.900] [info]  [Window] Renderer ready for window 'chat'
+[2024-05-12 12:37:14.189] [info]  [Window] [main] [Console] 12:37:14.167 › [Sentry] Initializing Sentry in app renderer...
+[2024-05-12 12:37:14.189] [info]  [Window] [main] [Console] 12:37:14.168 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-12 12:37:14.190] [info]  [Window] [main] [Console] 12:37:14.169 ›          * Sample rate: 0.01
+[2024-05-12 12:37:14.190] [info]  [Window] [main] [Console] 12:37:14.169 ›          * Debug: disabled
+[2024-05-12 12:37:14.191] [info]  [Window] [main] [Console] 12:37:14.169 ›          * ANR: disabled
+[2024-05-12 12:37:14.289] [info]  [Window] Renderer ready for window 'main'
+[2024-05-12 13:24:57.075] [error] [Window] [updater] Render Process has unexpectedly disappeared...
+[2024-05-12 13:24:57.077] [error] [Window]          * Reason: killed
+[2024-05-12 13:24:57.078] [error] [Window]          * Exit Code: 1073807364
+[2024-05-12 15:21:55.898] [info]  [Electron] Logger initialized for window at C:\Users\Asus\.lunarclient\logs\launcher\window.log (Prefix: Window)
+[2024-05-12 15:21:55.986] [info]  [Window] Setting up (Silent startup: true)...
+[2024-05-12 15:21:56.029] [info]  [Window] Setup complete!
+[2024-05-12 15:21:56.426] [info]  [Window] [updater] [Console] 15:21:56.413 › [Sentry] Initializing Sentry in updater renderer...
+[2024-05-12 15:21:56.426] [info]  [Window] [updater] [Console] 15:21:56.414 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-12 15:21:56.427] [info]  [Window] [updater] [Console] 15:21:56.414 ›          * Sample rate: 0.01
+[2024-05-12 15:21:56.427] [info]  [Window] [updater] [Console] 15:21:56.414 ›          * Debug: disabled
+[2024-05-12 15:21:56.427] [info]  [Window] [updater] [Console] 15:21:56.414 ›          * ANR: disabled
+[2024-05-12 15:21:56.454] [info]  [Window] [friends] [Console] 15:21:56.444 › [Sentry] Initializing Sentry in friends renderer...
+[2024-05-12 15:21:56.455] [info]  [Window] [friends] [Console] 15:21:56.445 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-12 15:21:56.455] [info]  [Window] [friends] [Console] 15:21:56.445 ›          * Sample rate: 0.01
+[2024-05-12 15:21:56.456] [info]  [Window] [friends] [Console] 15:21:56.445 ›          * Debug: disabled
+[2024-05-12 15:21:56.456] [info]  [Window] [friends] [Console] 15:21:56.445 ›          * ANR: disabled
+[2024-05-12 15:21:56.460] [info]  [Window] [chat] [Console] 15:21:56.450 › [Sentry] Initializing Sentry in chat renderer...
+[2024-05-12 15:21:56.461] [info]  [Window] [chat] [Console] 15:21:56.451 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-12 15:21:56.461] [info]  [Window] [chat] [Console] 15:21:56.451 ›          * Sample rate: 0.01
+[2024-05-12 15:21:56.462] [info]  [Window] [chat] [Console] 15:21:56.451 ›          * Debug: disabled
+[2024-05-12 15:21:56.462] [info]  [Window] [chat] [Console] 15:21:56.451 ›          * ANR: disabled
+[2024-05-12 15:21:56.481] [info]  [Window] Renderer ready for window 'updater'
+[2024-05-12 15:21:56.483] [info]  [Window] Renderer ready for window 'friends'
+[2024-05-12 15:21:56.518] [info]  [Window] Renderer ready for window 'chat'
+[2024-05-12 15:21:56.707] [info]  [Window] [main] [Console] 15:21:56.694 › [Sentry] Initializing Sentry in app renderer...
+[2024-05-12 15:21:56.708] [info]  [Window] [main] [Console] 15:21:56.694 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-12 15:21:56.708] [info]  [Window] [main] [Console] 15:21:56.695 ›          * Sample rate: 0.01
+[2024-05-12 15:21:56.709] [info]  [Window] [main] [Console] 15:21:56.695 ›          * Debug: disabled
+[2024-05-12 15:21:56.709] [info]  [Window] [main] [Console] 15:21:56.695 ›          * ANR: disabled
+[2024-05-12 15:21:56.767] [info]  [Window] Renderer ready for window 'main'
+[2024-05-12 18:48:22.042] [error] [Window] [friends] Render Process has unexpectedly disappeared...
+[2024-05-12 18:48:22.043] [error] [Window]          * Reason: killed
+[2024-05-12 18:48:22.043] [error] [Window]          * Exit Code: 1073807364
+[2024-05-12 21:12:40.554] [info]  [Electron] Logger initialized for window at C:\Users\Asus\.lunarclient\logs\launcher\window.log (Prefix: Window)
+[2024-05-12 21:12:40.684] [info]  [Window] Setting up (Silent startup: true)...
+[2024-05-12 21:12:40.723] [info]  [Window] Setup complete!
+[2024-05-12 21:12:41.242] [info]  [Window] [updater] [Console] 21:12:41.228 › [Sentry] Initializing Sentry in updater renderer...
+[2024-05-12 21:12:41.242] [info]  [Window] [updater] [Console] 21:12:41.229 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-12 21:12:41.243] [info]  [Window] [updater] [Console] 21:12:41.229 ›          * Sample rate: 0.01
+[2024-05-12 21:12:41.243] [info]  [Window] [updater] [Console] 21:12:41.229 ›          * Debug: disabled
+[2024-05-12 21:12:41.243] [info]  [Window] [updater] [Console] 21:12:41.229 ›          * ANR: disabled
+[2024-05-12 21:12:41.271] [info]  [Window] [chat] [Console] 21:12:41.260 › [Sentry] Initializing Sentry in chat renderer...
+[2024-05-12 21:12:41.272] [info]  [Window] [chat] [Console] 21:12:41.261 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-12 21:12:41.272] [info]  [Window] [chat] [Console] 21:12:41.261 ›          * Sample rate: 0.01
+[2024-05-12 21:12:41.273] [info]  [Window] [chat] [Console] 21:12:41.261 ›          * Debug: disabled
+[2024-05-12 21:12:41.273] [info]  [Window] [chat] [Console] 21:12:41.261 ›          * ANR: disabled
+[2024-05-12 21:12:41.274] [info]  [Window] [friends] [Console] 21:12:41.262 › [Sentry] Initializing Sentry in friends renderer...
+[2024-05-12 21:12:41.275] [info]  [Window] [friends] [Console] 21:12:41.262 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-12 21:12:41.275] [info]  [Window] [friends] [Console] 21:12:41.263 ›          * Sample rate: 0.01
+[2024-05-12 21:12:41.276] [info]  [Window] [friends] [Console] 21:12:41.263 ›          * Debug: disabled
+[2024-05-12 21:12:41.276] [info]  [Window] [friends] [Console] 21:12:41.263 ›          * ANR: disabled
+[2024-05-12 21:12:41.290] [info]  [Window] Renderer ready for window 'updater'
+[2024-05-12 21:12:41.301] [info]  [Window] Renderer ready for window 'friends'
+[2024-05-12 21:12:41.329] [info]  [Window] Renderer ready for window 'chat'
+[2024-05-12 21:12:41.531] [info]  [Window] [main] [Console] 21:12:41.516 › [Sentry] Initializing Sentry in app renderer...
+[2024-05-12 21:12:41.532] [info]  [Window] [main] [Console] 21:12:41.516 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-12 21:12:41.532] [info]  [Window] [main] [Console] 21:12:41.517 ›          * Sample rate: 0.01
+[2024-05-12 21:12:41.532] [info]  [Window] [main] [Console] 21:12:41.517 ›          * Debug: disabled
+[2024-05-12 21:12:41.533] [info]  [Window] [main] [Console] 21:12:41.517 ›          * ANR: disabled
+[2024-05-12 21:12:41.586] [info]  [Window] Renderer ready for window 'main'
+[2024-05-13 00:04:38.159] [error] [Window] [updater] Render Process has unexpectedly disappeared...
+[2024-05-13 00:04:38.160] [error] [Window]          * Reason: killed
+[2024-05-13 00:04:38.161] [error] [Window]          * Exit Code: 1073807364
+[2024-05-13 13:51:58.265] [info]  [Electron] Logger initialized for window at C:\Users\Asus\.lunarclient\logs\launcher\window.log (Prefix: Window)
+[2024-05-13 13:51:58.353] [info]  [Window] Setting up (Silent startup: true)...
+[2024-05-13 13:51:58.401] [info]  [Window] Setup complete!
+[2024-05-13 13:51:58.755] [info]  [Window] [updater] [Console] 13:51:58.689 › [Sentry] Initializing Sentry in updater renderer...
+[2024-05-13 13:51:58.756] [info]  [Window] [chat] [Console] 13:51:58.706 › [Sentry] Initializing Sentry in chat renderer...
+[2024-05-13 13:51:58.756] [info]  [Window] [friends] [Console] 13:51:58.703 › [Sentry] Initializing Sentry in friends renderer...
+[2024-05-13 13:51:58.756] [info]  [Window] [updater] [Console] 13:51:58.695 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-13 13:51:58.757] [info]  [Window] [chat] [Console] 13:51:58.706 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-13 13:51:58.757] [info]  [Window] [friends] [Console] 13:51:58.704 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-13 13:51:58.758] [info]  [Window] [updater] [Console] 13:51:58.695 ›          * Sample rate: 0.01
+[2024-05-13 13:51:58.758] [info]  [Window] [updater] [Console] 13:51:58.695 ›          * Debug: disabled
+[2024-05-13 13:51:58.758] [info]  [Window] [friends] [Console] 13:51:58.704 ›          * Sample rate: 0.01
+[2024-05-13 13:51:58.759] [info]  [Window] [chat] [Console] 13:51:58.706 ›          * Sample rate: 0.01
+[2024-05-13 13:51:58.759] [info]  [Window] [updater] [Console] 13:51:58.695 ›          * ANR: disabled
+[2024-05-13 13:51:58.759] [info]  [Window] [chat] [Console] 13:51:58.706 ›          * Debug: disabled
+[2024-05-13 13:51:58.760] [info]  [Window] [friends] [Console] 13:51:58.704 ›          * Debug: disabled
+[2024-05-13 13:51:58.760] [info]  [Window] [chat] [Console] 13:51:58.706 ›          * ANR: disabled
+[2024-05-13 13:51:58.761] [info]  [Window] [friends] [Console] 13:51:58.704 ›          * ANR: disabled
+[2024-05-13 13:51:58.807] [info]  [Window] Renderer ready for window 'friends'
+[2024-05-13 13:51:58.834] [info]  [Window] Renderer ready for window 'updater'
+[2024-05-13 13:51:58.844] [info]  [Window] Renderer ready for window 'chat'
+[2024-05-13 13:51:58.961] [info]  [Window] [main] [Console] 13:51:58.934 › [Sentry] Initializing Sentry in app renderer...
+[2024-05-13 13:51:58.961] [info]  [Window] [main] [Console] 13:51:58.935 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-13 13:51:58.962] [info]  [Window] [main] [Console] 13:51:58.935 ›          * Sample rate: 0.01
+[2024-05-13 13:51:58.962] [info]  [Window] [main] [Console] 13:51:58.935 ›          * Debug: disabled
+[2024-05-13 13:51:58.962] [info]  [Window] [main] [Console] 13:51:58.935 ›          * ANR: disabled
+[2024-05-13 13:51:59.018] [info]  [Window] Renderer ready for window 'main'
+[2024-05-13 15:50:58.104] [error] [Window] [chat] Render Process has unexpectedly disappeared...
+[2024-05-13 15:50:58.104] [error] [Window]          * Reason: killed
+[2024-05-13 15:50:58.105] [error] [Window]          * Exit Code: 1073807364
+[2024-05-13 20:19:59.624] [info]  [Electron] Logger initialized for window at C:\Users\Asus\.lunarclient\logs\launcher\window.log (Prefix: Window)
+[2024-05-13 20:19:59.805] [info]  [Window] Setting up (Silent startup: true)...
+[2024-05-13 20:19:59.876] [info]  [Window] Setup complete!
+[2024-05-13 20:20:00.227] [info]  [Window] [updater] [Console] 20:20:00.213 › [Sentry] Initializing Sentry in updater renderer...
+[2024-05-13 20:20:00.228] [info]  [Window] [updater] [Console] 20:20:00.214 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-13 20:20:00.228] [info]  [Window] [updater] [Console] 20:20:00.214 ›          * Sample rate: 0.01
+[2024-05-13 20:20:00.229] [info]  [Window] [updater] [Console] 20:20:00.214 ›          * Debug: disabled
+[2024-05-13 20:20:00.229] [info]  [Window] [updater] [Console] 20:20:00.214 ›          * ANR: disabled
+[2024-05-13 20:20:00.252] [info]  [Window] [chat] [Console] 20:20:00.240 › [Sentry] Initializing Sentry in chat renderer...
+[2024-05-13 20:20:00.253] [info]  [Window] [chat] [Console] 20:20:00.241 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-13 20:20:00.253] [info]  [Window] [chat] [Console] 20:20:00.241 ›          * Sample rate: 0.01
+[2024-05-13 20:20:00.253] [info]  [Window] [chat] [Console] 20:20:00.241 ›          * Debug: disabled
+[2024-05-13 20:20:00.254] [info]  [Window] [chat] [Console] 20:20:00.241 ›          * ANR: disabled
+[2024-05-13 20:20:00.261] [info]  [Window] [friends] [Console] 20:20:00.246 › [Sentry] Initializing Sentry in friends renderer...
+[2024-05-13 20:20:00.261] [info]  [Window] [friends] [Console] 20:20:00.247 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-13 20:20:00.262] [info]  [Window] [friends] [Console] 20:20:00.247 ›          * Sample rate: 0.01
+[2024-05-13 20:20:00.262] [info]  [Window] [friends] [Console] 20:20:00.247 ›          * Debug: disabled
+[2024-05-13 20:20:00.263] [info]  [Window] [friends] [Console] 20:20:00.247 ›          * ANR: disabled
+[2024-05-13 20:20:00.280] [info]  [Window] Renderer ready for window 'updater'
+[2024-05-13 20:20:00.298] [info]  [Window] Renderer ready for window 'friends'
+[2024-05-13 20:20:00.322] [info]  [Window] Renderer ready for window 'chat'
+[2024-05-13 20:20:00.532] [info]  [Window] [main] [Console] 20:20:00.516 › [Sentry] Initializing Sentry in app renderer...
+[2024-05-13 20:20:00.533] [info]  [Window] [main] [Console] 20:20:00.516 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-13 20:20:00.533] [info]  [Window] [main] [Console] 20:20:00.517 ›          * Sample rate: 0.01
+[2024-05-13 20:20:00.533] [info]  [Window] [main] [Console] 20:20:00.517 ›          * Debug: disabled
+[2024-05-13 20:20:00.534] [info]  [Window] [main] [Console] 20:20:00.517 ›          * ANR: disabled
+[2024-05-13 20:20:00.588] [info]  [Window] Renderer ready for window 'main'
+[2024-05-13 20:57:55.173] [info]  [Electron] Logger initialized for window at C:\Users\Asus\.lunarclient\logs\launcher\window.log (Prefix: Window)
+[2024-05-13 20:57:55.257] [info]  [Window] Setting up (Silent startup: true)...
+[2024-05-13 20:57:55.299] [info]  [Window] Setup complete!
+[2024-05-13 20:57:55.577] [info]  [Window] [updater] [Console] 20:57:55.564 › [Sentry] Initializing Sentry in updater renderer...
+[2024-05-13 20:57:55.579] [info]  [Window] [updater] [Console] 20:57:55.565 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-13 20:57:55.579] [info]  [Window] [updater] [Console] 20:57:55.565 ›          * Sample rate: 0.01
+[2024-05-13 20:57:55.579] [info]  [Window] [updater] [Console] 20:57:55.565 ›          * Debug: disabled
+[2024-05-13 20:57:55.580] [info]  [Window] [updater] [Console] 20:57:55.565 ›          * ANR: disabled
+[2024-05-13 20:57:55.611] [info]  [Window] [chat] [Console] 20:57:55.599 › [Sentry] Initializing Sentry in chat renderer...
+[2024-05-13 20:57:55.612] [info]  [Window] [chat] [Console] 20:57:55.600 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-13 20:57:55.612] [info]  [Window] [chat] [Console] 20:57:55.600 ›          * Sample rate: 0.01
+[2024-05-13 20:57:55.613] [info]  [Window] [chat] [Console] 20:57:55.600 ›          * Debug: disabled
+[2024-05-13 20:57:55.613] [info]  [Window] [chat] [Console] 20:57:55.600 ›          * ANR: disabled
+[2024-05-13 20:57:55.618] [info]  [Window] [friends] [Console] 20:57:55.604 › [Sentry] Initializing Sentry in friends renderer...
+[2024-05-13 20:57:55.618] [info]  [Window] [friends] [Console] 20:57:55.605 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-13 20:57:55.619] [info]  [Window] [friends] [Console] 20:57:55.605 ›          * Sample rate: 0.01
+[2024-05-13 20:57:55.619] [info]  [Window] [friends] [Console] 20:57:55.605 ›          * Debug: disabled
+[2024-05-13 20:57:55.620] [info]  [Window] [friends] [Console] 20:57:55.605 ›          * ANR: disabled
+[2024-05-13 20:57:55.636] [info]  [Window] Renderer ready for window 'updater'
+[2024-05-13 20:57:55.649] [info]  [Window] Renderer ready for window 'friends'
+[2024-05-13 20:57:55.689] [info]  [Window] Renderer ready for window 'chat'
+[2024-05-13 20:57:55.882] [info]  [Window] [main] [Console] 20:57:55.868 › [Sentry] Initializing Sentry in app renderer...
+[2024-05-13 20:57:55.882] [info]  [Window] [main] [Console] 20:57:55.869 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-13 20:57:55.883] [info]  [Window] [main] [Console] 20:57:55.869 ›          * Sample rate: 0.01
+[2024-05-13 20:57:55.883] [info]  [Window] [main] [Console] 20:57:55.869 ›          * Debug: disabled
+[2024-05-13 20:57:55.883] [info]  [Window] [main] [Console] 20:57:55.869 ›          * ANR: disabled
+[2024-05-13 20:57:55.937] [info]  [Window] Renderer ready for window 'main'
+[2024-05-13 23:28:33.641] [error] [Window] [friends] Render Process has unexpectedly disappeared...
+[2024-05-13 23:28:33.642] [error] [Window]          * Reason: killed
+[2024-05-13 23:28:33.643] [error] [Window]          * Exit Code: 1073807364
+[2024-05-13 23:40:52.166] [info]  [Electron] Logger initialized for window at C:\Users\Asus\.lunarclient\logs\launcher\window.log (Prefix: Window)
+[2024-05-13 23:40:52.366] [info]  [Window] Setting up (Silent startup: true)...
+[2024-05-13 23:40:52.405] [info]  [Window] Setup complete!
+[2024-05-13 23:40:52.917] [info]  [Window] [updater] [Console] 23:40:52.874 › [Sentry] Initializing Sentry in updater renderer...
+[2024-05-13 23:40:52.918] [info]  [Window] [updater] [Console] 23:40:52.875 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-13 23:40:52.918] [info]  [Window] [updater] [Console] 23:40:52.875 ›          * Sample rate: 0.01
+[2024-05-13 23:40:52.919] [info]  [Window] [updater] [Console] 23:40:52.875 ›          * Debug: disabled
+[2024-05-13 23:40:52.919] [info]  [Window] [updater] [Console] 23:40:52.875 ›          * ANR: disabled
+[2024-05-13 23:40:52.929] [info]  [Window] Renderer ready for window 'updater'
+[2024-05-13 23:40:52.948] [info]  [Window] [friends] [Console] 23:40:52.927 › [Sentry] Initializing Sentry in friends renderer...
+[2024-05-13 23:40:52.949] [info]  [Window] [friends] [Console] 23:40:52.928 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-13 23:40:52.949] [info]  [Window] [friends] [Console] 23:40:52.928 ›          * Sample rate: 0.01
+[2024-05-13 23:40:52.949] [info]  [Window] [friends] [Console] 23:40:52.928 ›          * Debug: disabled
+[2024-05-13 23:40:52.950] [info]  [Window] [friends] [Console] 23:40:52.928 ›          * ANR: disabled
+[2024-05-13 23:40:52.953] [info]  [Window] [chat] [Console] 23:40:52.931 › [Sentry] Initializing Sentry in chat renderer...
+[2024-05-13 23:40:52.954] [info]  [Window] [chat] [Console] 23:40:52.932 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-13 23:40:52.954] [info]  [Window] [chat] [Console] 23:40:52.932 ›          * Sample rate: 0.01
+[2024-05-13 23:40:52.955] [info]  [Window] [chat] [Console] 23:40:52.932 ›          * Debug: disabled
+[2024-05-13 23:40:52.955] [info]  [Window] [chat] [Console] 23:40:52.932 ›          * ANR: disabled
+[2024-05-13 23:40:52.983] [info]  [Window] Renderer ready for window 'friends'
+[2024-05-13 23:40:53.015] [info]  [Window] Renderer ready for window 'chat'
+[2024-05-13 23:40:53.204] [info]  [Window] [main] [Console] 23:40:53.179 › [Sentry] Initializing Sentry in app renderer...
+[2024-05-13 23:40:53.204] [info]  [Window] [main] [Console] 23:40:53.180 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-13 23:40:53.205] [info]  [Window] [main] [Console] 23:40:53.180 ›          * Sample rate: 0.01
+[2024-05-13 23:40:53.205] [info]  [Window] [main] [Console] 23:40:53.180 ›          * Debug: disabled
+[2024-05-13 23:40:53.205] [info]  [Window] [main] [Console] 23:40:53.180 ›          * ANR: disabled
+[2024-05-13 23:40:53.259] [info]  [Window] Renderer ready for window 'main'
+[2024-05-14 00:28:39.577] [error] [Window] [chat] Render Process has unexpectedly disappeared...
+[2024-05-14 00:28:39.578] [error] [Window]          * Reason: killed
+[2024-05-14 00:28:39.579] [error] [Window]          * Exit Code: 1073807364
+[2024-05-14 12:32:59.931] [info]  [Electron] Logger initialized for window at C:\Users\Asus\.lunarclient\logs\launcher\window.log (Prefix: Window)
+[2024-05-14 12:33:00.109] [info]  [Window] Setting up (Silent startup: true)...
+[2024-05-14 12:33:00.147] [info]  [Window] Setup complete!
+[2024-05-14 12:33:00.606] [info]  [Window] [updater] [Console] 12:33:00.586 › [Sentry] Initializing Sentry in updater renderer...
+[2024-05-14 12:33:00.607] [info]  [Window] [updater] [Console] 12:33:00.587 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-14 12:33:00.607] [info]  [Window] [updater] [Console] 12:33:00.587 ›          * Sample rate: 0.01
+[2024-05-14 12:33:00.607] [info]  [Window] [updater] [Console] 12:33:00.587 ›          * Debug: disabled
+[2024-05-14 12:33:00.607] [info]  [Window] [updater] [Console] 12:33:00.587 ›          * ANR: disabled
+[2024-05-14 12:33:00.619] [info]  [Window] [friends] [Console] 12:33:00.600 › [Sentry] Initializing Sentry in friends renderer...
+[2024-05-14 12:33:00.620] [info]  [Window] [friends] [Console] 12:33:00.601 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-14 12:33:00.620] [info]  [Window] [friends] [Console] 12:33:00.601 ›          * Sample rate: 0.01
+[2024-05-14 12:33:00.621] [info]  [Window] [friends] [Console] 12:33:00.601 ›          * Debug: disabled
+[2024-05-14 12:33:00.621] [info]  [Window] [friends] [Console] 12:33:00.601 ›          * ANR: disabled
+[2024-05-14 12:33:00.637] [info]  [Window] [chat] [Console] 12:33:00.617 › [Sentry] Initializing Sentry in chat renderer...
+[2024-05-14 12:33:00.637] [info]  [Window] [chat] [Console] 12:33:00.618 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-14 12:33:00.638] [info]  [Window] [chat] [Console] 12:33:00.618 ›          * Sample rate: 0.01
+[2024-05-14 12:33:00.638] [info]  [Window] [chat] [Console] 12:33:00.618 ›          * Debug: disabled
+[2024-05-14 12:33:00.638] [info]  [Window] [chat] [Console] 12:33:00.618 ›          * ANR: disabled
+[2024-05-14 12:33:00.655] [info]  [Window] Renderer ready for window 'friends'
+[2024-05-14 12:33:00.667] [info]  [Window] Renderer ready for window 'updater'
+[2024-05-14 12:33:00.715] [info]  [Window] Renderer ready for window 'chat'
+[2024-05-14 12:33:00.931] [info]  [Window] [main] [Console] 12:33:00.908 › [Sentry] Initializing Sentry in app renderer...
+[2024-05-14 12:33:00.932] [info]  [Window] [main] [Console] 12:33:00.909 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-14 12:33:00.932] [info]  [Window] [main] [Console] 12:33:00.909 ›          * Sample rate: 0.01
+[2024-05-14 12:33:00.933] [info]  [Window] [main] [Console] 12:33:00.909 ›          * Debug: disabled
+[2024-05-14 12:33:00.933] [info]  [Window] [main] [Console] 12:33:00.910 ›          * ANR: disabled
+[2024-05-14 12:33:01.000] [info]  [Window] Renderer ready for window 'main'
+[2024-05-14 12:56:05.093] [error] [Window] [updater] Render Process has unexpectedly disappeared...
+[2024-05-14 12:56:05.093] [error] [Window]          * Reason: killed
+[2024-05-14 12:56:05.094] [error] [Window]          * Exit Code: 1073807364
+[2024-05-14 14:22:56.069] [info]  [Electron] Logger initialized for window at C:\Users\Asus\.lunarclient\logs\launcher\window.log (Prefix: Window)
+[2024-05-14 14:22:56.167] [info]  [Window] Setting up (Silent startup: true)...
+[2024-05-14 14:22:56.210] [info]  [Window] Setup complete!
+[2024-05-14 14:22:56.725] [info]  [Window] [updater] [Console] 14:22:56.704 › [Sentry] Initializing Sentry in updater renderer...
+[2024-05-14 14:22:56.725] [info]  [Window] [updater] [Console] 14:22:56.705 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-14 14:22:56.726] [info]  [Window] [updater] [Console] 14:22:56.705 ›          * Sample rate: 0.01
+[2024-05-14 14:22:56.726] [info]  [Window] [updater] [Console] 14:22:56.705 ›          * Debug: disabled
+[2024-05-14 14:22:56.727] [info]  [Window] [updater] [Console] 14:22:56.705 ›          * ANR: disabled
+[2024-05-14 14:22:56.748] [info]  [Window] [friends] [Console] 14:22:56.728 › [Sentry] Initializing Sentry in friends renderer...
+[2024-05-14 14:22:56.749] [info]  [Window] [friends] [Console] 14:22:56.729 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-14 14:22:56.749] [info]  [Window] [friends] [Console] 14:22:56.729 ›          * Sample rate: 0.01
+[2024-05-14 14:22:56.750] [info]  [Window] [friends] [Console] 14:22:56.730 ›          * Debug: disabled
+[2024-05-14 14:22:56.750] [info]  [Window] [friends] [Console] 14:22:56.730 ›          * ANR: disabled
+[2024-05-14 14:22:56.752] [info]  [Window] [chat] [Console] 14:22:56.731 › [Sentry] Initializing Sentry in chat renderer...
+[2024-05-14 14:22:56.754] [info]  [Window] [chat] [Console] 14:22:56.732 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-14 14:22:56.755] [info]  [Window] [chat] [Console] 14:22:56.733 ›          * Sample rate: 0.01
+[2024-05-14 14:22:56.756] [info]  [Window] [chat] [Console] 14:22:56.733 ›          * Debug: disabled
+[2024-05-14 14:22:56.757] [info]  [Window] [chat] [Console] 14:22:56.733 ›          * ANR: disabled
+[2024-05-14 14:22:56.795] [info]  [Window] Renderer ready for window 'updater'
+[2024-05-14 14:22:56.818] [info]  [Window] Renderer ready for window 'friends'
+[2024-05-14 14:22:56.851] [info]  [Window] Renderer ready for window 'chat'
+[2024-05-14 14:22:57.138] [info]  [Window] [main] [Console] 14:22:57.115 › [Sentry] Initializing Sentry in app renderer...
+[2024-05-14 14:22:57.139] [info]  [Window] [main] [Console] 14:22:57.116 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-14 14:22:57.140] [info]  [Window] [main] [Console] 14:22:57.117 ›          * Sample rate: 0.01
+[2024-05-14 14:22:57.140] [info]  [Window] [main] [Console] 14:22:57.117 ›          * Debug: disabled
+[2024-05-14 14:22:57.141] [info]  [Window] [main] [Console] 14:22:57.117 ›          * ANR: disabled
+[2024-05-14 14:22:57.235] [info]  [Window] Renderer ready for window 'main'
+[2024-05-14 19:39:13.797] [error] [Window] [updater] Render Process has unexpectedly disappeared...
+[2024-05-14 19:39:13.799] [error] [Window]          * Reason: killed
+[2024-05-14 19:39:13.800] [error] [Window]          * Exit Code: 1073807364
+[2024-05-14 20:52:16.356] [info]  [Electron] Logger initialized for window at C:\Users\Asus\.lunarclient\logs\launcher\window.log (Prefix: Window)
+[2024-05-14 20:52:16.541] [info]  [Window] Setting up (Silent startup: true)...
+[2024-05-14 20:52:16.580] [info]  [Window] Setup complete!
+[2024-05-14 20:52:17.150] [info]  [Window] [updater] [Console] 20:52:17.143 › [Sentry] Initializing Sentry in updater renderer...
+[2024-05-14 20:52:17.150] [info]  [Window] [updater] [Console] 20:52:17.143 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-14 20:52:17.151] [info]  [Window] [updater] [Console] 20:52:17.143 ›          * Sample rate: 0.01
+[2024-05-14 20:52:17.151] [info]  [Window] [updater] [Console] 20:52:17.144 ›          * Debug: disabled
+[2024-05-14 20:52:17.152] [info]  [Window] [updater] [Console] 20:52:17.144 ›          * ANR: disabled
+[2024-05-14 20:52:17.170] [info]  [Window] [friends] [Console] 20:52:17.164 › [Sentry] Initializing Sentry in friends renderer...
+[2024-05-14 20:52:17.170] [info]  [Window] [friends] [Console] 20:52:17.165 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-14 20:52:17.171] [info]  [Window] [friends] [Console] 20:52:17.165 ›          * Sample rate: 0.01
+[2024-05-14 20:52:17.171] [info]  [Window] [friends] [Console] 20:52:17.165 ›          * Debug: disabled
+[2024-05-14 20:52:17.171] [info]  [Window] [friends] [Console] 20:52:17.165 ›          * ANR: disabled
+[2024-05-14 20:52:17.181] [info]  [Window] [chat] [Console] 20:52:17.174 › [Sentry] Initializing Sentry in chat renderer...
+[2024-05-14 20:52:17.181] [info]  [Window] [chat] [Console] 20:52:17.175 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-14 20:52:17.182] [info]  [Window] [chat] [Console] 20:52:17.175 ›          * Sample rate: 0.01
+[2024-05-14 20:52:17.182] [info]  [Window] [chat] [Console] 20:52:17.175 ›          * Debug: disabled
+[2024-05-14 20:52:17.183] [info]  [Window] [chat] [Console] 20:52:17.176 ›          * ANR: disabled
+[2024-05-14 20:52:17.199] [info]  [Window] Renderer ready for window 'friends'
+[2024-05-14 20:52:17.203] [info]  [Window] Renderer ready for window 'updater'
+[2024-05-14 20:52:17.242] [info]  [Window] Renderer ready for window 'chat'
+[2024-05-14 20:52:17.429] [info]  [Window] [main] [Console] 20:52:17.418 › [Sentry] Initializing Sentry in app renderer...
+[2024-05-14 20:52:17.429] [info]  [Window] [main] [Console] 20:52:17.418 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-14 20:52:17.430] [info]  [Window] [main] [Console] 20:52:17.418 ›          * Sample rate: 0.01
+[2024-05-14 20:52:17.430] [info]  [Window] [main] [Console] 20:52:17.419 ›          * Debug: disabled
+[2024-05-14 20:52:17.430] [info]  [Window] [main] [Console] 20:52:17.419 ›          * ANR: disabled
+[2024-05-14 20:52:17.485] [info]  [Window] Renderer ready for window 'main'
+[2024-05-15 01:05:35.824] [error] [Window] [chat] Render Process has unexpectedly disappeared...
+[2024-05-15 01:05:35.825] [error] [Window]          * Reason: killed
+[2024-05-15 01:05:35.826] [error] [Window]          * Exit Code: 1073807364
+[2024-05-15 10:18:49.871] [info]  [Electron] Logger initialized for window at C:\Users\Asus\.lunarclient\logs\launcher\window.log (Prefix: Window)
+[2024-05-15 10:18:49.988] [info]  [Window] Setting up (Silent startup: true)...
+[2024-05-15 10:18:50.033] [info]  [Window] Setup complete!
+[2024-05-15 10:18:51.056] [info]  [Window] [updater] [Console] 10:18:51.046 › [Sentry] Initializing Sentry in updater renderer...
+[2024-05-15 10:18:51.057] [info]  [Window] [updater] [Console] 10:18:51.046 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-15 10:18:51.057] [info]  [Window] [updater] [Console] 10:18:51.046 ›          * Sample rate: 0.01
+[2024-05-15 10:18:51.057] [info]  [Window] [updater] [Console] 10:18:51.047 ›          * Debug: disabled
+[2024-05-15 10:18:51.058] [info]  [Window] [updater] [Console] 10:18:51.047 ›          * ANR: disabled
+[2024-05-15 10:18:51.083] [info]  [Window] [friends] [Console] 10:18:51.072 › [Sentry] Initializing Sentry in friends renderer...
+[2024-05-15 10:18:51.083] [info]  [Window] [friends] [Console] 10:18:51.073 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-15 10:18:51.084] [info]  [Window] [friends] [Console] 10:18:51.073 ›          * Sample rate: 0.01
+[2024-05-15 10:18:51.084] [info]  [Window] [friends] [Console] 10:18:51.073 ›          * Debug: disabled
+[2024-05-15 10:18:51.084] [info]  [Window] [friends] [Console] 10:18:51.073 ›          * ANR: disabled
+[2024-05-15 10:18:51.096] [info]  [Window] [chat] [Console] 10:18:51.083 › [Sentry] Initializing Sentry in chat renderer...
+[2024-05-15 10:18:51.097] [info]  [Window] [chat] [Console] 10:18:51.084 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-15 10:18:51.097] [info]  [Window] [chat] [Console] 10:18:51.085 ›          * Sample rate: 0.01
+[2024-05-15 10:18:51.098] [info]  [Window] [chat] [Console] 10:18:51.085 ›          * Debug: disabled
+[2024-05-15 10:18:51.098] [info]  [Window] [chat] [Console] 10:18:51.085 ›          * ANR: disabled
+[2024-05-15 10:18:51.113] [info]  [Window] Renderer ready for window 'updater'
+[2024-05-15 10:18:51.120] [info]  [Window] Renderer ready for window 'friends'
+[2024-05-15 10:18:51.160] [info]  [Window] Renderer ready for window 'chat'
+[2024-05-15 10:18:51.359] [info]  [Window] [main] [Console] 10:18:51.344 › [Sentry] Initializing Sentry in app renderer...
+[2024-05-15 10:18:51.359] [info]  [Window] [main] [Console] 10:18:51.345 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-15 10:18:51.360] [info]  [Window] [main] [Console] 10:18:51.345 ›          * Sample rate: 0.01
+[2024-05-15 10:18:51.360] [info]  [Window] [main] [Console] 10:18:51.345 ›          * Debug: disabled
+[2024-05-15 10:18:51.360] [info]  [Window] [main] [Console] 10:18:51.345 ›          * ANR: disabled
+[2024-05-15 10:18:51.419] [info]  [Window] Renderer ready for window 'main'
+[2024-05-15 11:57:42.056] [error] [Window] [chat] Render Process has unexpectedly disappeared...
+[2024-05-15 11:57:42.057] [error] [Window]          * Reason: killed
+[2024-05-15 11:57:42.058] [error] [Window]          * Exit Code: 1073807364
+[2024-05-15 12:34:25.648] [info]  [Electron] Logger initialized for window at C:\Users\Asus\.lunarclient\logs\launcher\window.log (Prefix: Window)
+[2024-05-15 12:34:25.736] [info]  [Window] Setting up (Silent startup: true)...
+[2024-05-15 12:34:25.789] [info]  [Window] Setup complete!
+[2024-05-15 12:34:26.191] [info]  [Window] [updater] [Console] 12:34:26.168 › [Sentry] Initializing Sentry in updater renderer...
+[2024-05-15 12:34:26.192] [info]  [Window] [updater] [Console] 12:34:26.169 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-15 12:34:26.193] [info]  [Window] [updater] [Console] 12:34:26.169 ›          * Sample rate: 0.01
+[2024-05-15 12:34:26.193] [info]  [Window] [updater] [Console] 12:34:26.169 ›          * Debug: disabled
+[2024-05-15 12:34:26.194] [info]  [Window] [updater] [Console] 12:34:26.169 ›          * ANR: disabled
+[2024-05-15 12:34:26.214] [info]  [Window] [friends] [Console] 12:34:26.192 › [Sentry] Initializing Sentry in friends renderer...
+[2024-05-15 12:34:26.216] [info]  [Window] [friends] [Console] 12:34:26.192 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-15 12:34:26.216] [info]  [Window] [friends] [Console] 12:34:26.192 ›          * Sample rate: 0.01
+[2024-05-15 12:34:26.217] [info]  [Window] [friends] [Console] 12:34:26.193 ›          * Debug: disabled
+[2024-05-15 12:34:26.217] [info]  [Window] [friends] [Console] 12:34:26.193 ›          * ANR: disabled
+[2024-05-15 12:34:26.229] [info]  [Window] [chat] [Console] 12:34:26.207 › [Sentry] Initializing Sentry in chat renderer...
+[2024-05-15 12:34:26.230] [info]  [Window] [chat] [Console] 12:34:26.208 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-15 12:34:26.230] [info]  [Window] [chat] [Console] 12:34:26.208 ›          * Sample rate: 0.01
+[2024-05-15 12:34:26.231] [info]  [Window] [chat] [Console] 12:34:26.209 ›          * Debug: disabled
+[2024-05-15 12:34:26.231] [info]  [Window] [chat] [Console] 12:34:26.209 ›          * ANR: disabled
+[2024-05-15 12:34:26.254] [info]  [Window] Renderer ready for window 'friends'
+[2024-05-15 12:34:26.262] [info]  [Window] Renderer ready for window 'updater'
+[2024-05-15 12:34:26.302] [info]  [Window] Renderer ready for window 'chat'
+[2024-05-15 12:34:26.502] [info]  [Window] [main] [Console] 12:34:26.479 › [Sentry] Initializing Sentry in app renderer...
+[2024-05-15 12:34:26.503] [info]  [Window] [main] [Console] 12:34:26.480 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-05-15 12:34:26.503] [info]  [Window] [main] [Console] 12:34:26.480 ›          * Sample rate: 0.01
+[2024-05-15 12:34:26.503] [info]  [Window] [main] [Console] 12:34:26.480 ›          * Debug: disabled
+[2024-05-15 12:34:26.504] [info]  [Window] [main] [Console] 12:34:26.480 ›          * ANR: disabled
+[2024-05-15 12:34:26.556] [info]  [Window] Renderer ready for window 'main'
+[2024-05-15 12:42:33.323] [error] [Window] [friends] Render Process has unexpectedly disappeared...
+[2024-05-15 12:42:33.324] [error] [Window]          * Reason: killed
+[2024-05-15 12:42:33.324] [error] [Window]          * Exit Code: 1073807364
+[2024-06-16 00:07:00.302] [info]  [Electron] Logger initialized for window at C:\Users\Asus\.lunarclient\logs\launcher\window.log (Prefix: Window)
+[2024-06-16 00:07:00.414] [info]  [Window] Setting up (Silent startup: false)...
+[2024-06-16 00:07:00.441] [info]  [Window] [main] Loading file: C:\Users\Asus\AppData\Local\Programs\launcher\resources\app.asar\dist\html\main.html#/
+[2024-06-16 00:07:00.442] [info]  [Window] Setup complete!
+[2024-06-16 00:07:01.224] [debug] [Window] [main] Window ready to show
+[2024-06-16 00:07:01.225] [info]  [Window] [main] [Console] 00:07:01.212 › [Sentry] Initializing Sentry in app renderer...
+[2024-06-16 00:07:01.225] [info]  [Window] [main] [Console] 00:07:01.213 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-06-16 00:07:01.225] [info]  [Window] [main] [Console] 00:07:01.213 ›          * Sample rate: 0.01
+[2024-06-16 00:07:01.226] [info]  [Window] [main] [Console] 00:07:01.213 ›          * Debug: disabled
+[2024-06-16 00:07:01.226] [info]  [Window] [main] [Console] 00:07:01.213 ›          * ANR: disabled
+[2024-06-16 00:07:01.278] [info]  [Window] Renderer ready for window 'main'
+[2024-06-16 00:07:01.296] [debug] [Window] [main] Window focused
+[2024-06-16 00:07:11.556] [debug] [Window] [main] Window focused
+[2024-06-16 00:07:37.943] [debug] [Window] [main] Window focused
+[2024-06-16 00:07:47.334] [info]  [Window] Rewriting /versions to /versions/lunar...
+[2024-06-16 00:07:57.733] [debug] [Window] [main] Window focused
+[2024-06-16 00:08:00.512] [debug] [Window] [main] Window focused
+[2024-06-16 00:08:07.661] [info]  [Window] Rewriting /versions to /versions/lunar...
+[2024-06-16 00:08:10.279] [info]  [Window] Rewriting /versions to /versions/lunar...
+[2024-06-16 00:11:01.633] [debug] [Window] [main] Window focused
+[2024-06-16 00:12:02.328] [debug] [Window] [main] Window focused
+[2024-06-16 00:12:03.626] [debug] [Window] [main] Window focused
+[2024-06-16 00:12:04.623] [debug] [Window] [main] Window focused
+[2024-06-16 00:12:07.675] [info]  [Window] Rewriting /versions to /versions/lunar...
+[2024-06-16 00:12:26.815] [debug] [Window] [main] Window focused
+[2024-06-16 00:12:28.409] [debug] [Window] [main] Window closing...
+[2024-06-16 00:12:28.422] [debug] [Window] [main] Window hidden
+[2024-06-16 00:12:30.511] [info]  [Window] Second instance was detected, showing main window in primary...
+[2024-06-16 00:12:30.526] [debug] [Window] [main] Window focused
+[2024-06-16 00:12:35.512] [info]  [Window] Rewriting /versions to /versions/lunar...
+[2024-06-16 00:13:18.677] [debug] [Window] [main] Window focused
+[2024-06-16 00:13:35.808] [debug] [Window] [main] Window focused
+[2024-06-16 00:13:44.880] [debug] [Window] [main] Window closing...
+[2024-06-16 00:13:44.888] [debug] [Window] [main] Window hidden
+[2024-06-16 00:19:14.285] [debug] [Window] [main] Window hidden
+[2024-06-16 00:27:47.978] [debug] [Window] [main] Window focused
+[2024-06-16 00:27:51.706] [debug] [Window] [main] Window closing...
+[2024-06-16 00:27:51.715] [debug] [Window] [main] Window hidden
+[2024-06-16 00:52:13.777] [info]  [Window] Second instance was detected, showing main window in primary...
+[2024-06-16 00:52:13.792] [debug] [Window] [main] Window focused
+[2024-06-16 00:52:16.642] [info]  [Window] Rewriting /versions to /versions/lunar...
+[2024-06-16 00:52:21.429] [info]  [Window] Rewriting /versions to /versions/lunar...
+[2024-06-16 00:52:30.817] [debug] [Window] [main] Window focused
+[2024-06-16 00:52:32.976] [debug] [Window] [main] Window focused
+[2024-06-16 00:52:41.829] [debug] [Window] [main] Window focused
+[2024-06-16 00:53:18.914] [debug] [Window] [main] Window focused
+[2024-06-16 00:53:19.683] [info]  [Window] Rewriting /versions to /versions/lunar...
+[2024-06-16 00:53:22.514] [warn]  [Window] Couldn't find any Modrinth profiles to select in cache or profiles list, this shouldn't happen...
+[2024-06-16 00:53:22.587] [error] [Window] [main] [Console] Uncaught (in promise) Error: Error invoking remote method 'profiles:getJarsHashes': TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined
+[2024-06-16 00:53:23.572] [error] [Window] [main] [Console] Uncaught (in promise) Error: Error invoking remote method 'profiles:getJarsHashes': TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined
+[2024-06-16 00:54:02.199] [debug] [Window] [main] Window focused
+[2024-06-16 00:54:09.347] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-16 00:54:13.366] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-16 00:54:21.897] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-16 00:54:25.343] [error] [Window] [main] [Console] Uncaught (in promise) Error: Error invoking remote method 'profiles:getJarsHashes': TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined
+[2024-06-16 00:56:19.615] [debug] [Window] [main] Window focused
+[2024-06-16 00:56:40.395] [debug] [Window] [main] Window hidden
+[2024-06-16 01:06:43.626] [debug] [Window] [main] Window focused
+[2024-06-16 01:06:46.149] [info]  [Window] Rewriting /versions to /versions/lunar...
+[2024-06-16 01:06:58.370] [error] [Window] [main] [Console] Uncaught (in promise) Error: Error invoking remote method 'profiles:getJarsHashes': TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined
+[2024-06-16 01:07:03.899] [debug] [Window] [main] Window focused
+[2024-06-16 01:07:05.741] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-16 01:07:11.968] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-16 01:07:17.265] [error] [Window] [main] [Console] Uncaught (in promise) Error: Error invoking remote method 'profiles:getJarsHashes': TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined
+[2024-06-16 01:07:19.068] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-16 01:07:20.413] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-16 01:07:25.262] [debug] [Window] [main] Window closing...
+[2024-06-16 01:07:25.270] [debug] [Window] [main] Window hidden
+[2024-06-16 01:07:41.461] [info]  [Window] Second instance was detected, showing main window in primary...
+[2024-06-16 01:07:41.476] [debug] [Window] [main] Window focused
+[2024-06-16 01:07:52.756] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-16 01:07:56.713] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-16 01:08:17.170] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-16 01:08:31.258] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-16 01:09:07.208] [debug] [Window] [main] Window focused
+[2024-06-16 01:09:08.263] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-16 01:09:11.459] [debug] [Window] [main] Window hidden
+[2024-06-16 01:09:24.270] [debug] [Window] [main] Window focused
+[2024-06-16 01:09:42.406] [debug] [Window] [main] Window focused
+[2024-06-16 01:09:42.934] [debug] [Window] [main] Window focused
+[2024-06-16 01:10:12.575] [debug] [Window] [main] Window focused
+[2024-06-16 01:10:37.411] [debug] [Window] [main] Window focused
+[2024-06-16 01:11:55.154] [debug] [Window] [main] Window focused
+[2024-06-16 01:12:18.498] [debug] [Window] [main] Window focused
+[2024-06-16 01:14:16.389] [debug] [Window] [main] Window focused
+[2024-06-16 01:14:20.431] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-16 01:14:55.580] [debug] [Window] [main] Window focused
+[2024-06-16 01:15:03.125] [debug] [Window] [main] Window focused
+[2024-06-16 01:15:42.335] [debug] [Window] [main] Window focused
+[2024-06-16 01:16:05.557] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-16 01:16:13.871] [debug] [Window] [main] Window focused
+[2024-06-16 01:16:20.839] [debug] [Window] [main] Window focused
+[2024-06-16 01:16:30.724] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-16 01:16:57.158] [debug] [Window] [main] Window focused
+[2024-06-16 01:17:16.075] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-16 01:17:49.293] [debug] [Window] [main] Window focused
+[2024-06-16 01:17:52.624] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-16 01:19:01.007] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-16 01:19:40.224] [debug] [Window] [main] Window focused
+[2024-06-16 01:19:46.323] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-16 01:20:19.442] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-16 01:21:01.206] [debug] [Window] [main] Window focused
+[2024-06-16 01:21:36.224] [debug] [Window] [main] Window focused
+[2024-06-16 01:21:36.313] [debug] [Window] [main] Window closing...
+[2024-06-16 01:21:36.321] [debug] [Window] [main] Window hidden
+[2024-06-16 01:51:23.987] [error] [Window] [main] Render Process has unexpectedly disappeared...
+[2024-06-16 01:51:23.988] [error] [Window]          * Reason: killed
+[2024-06-16 01:51:23.988] [error] [Window]          * Exit Code: 1073807364
+[2024-06-16 01:51:23.989] [warn]  [Window] [main] Reloading window...
+[2024-06-19 17:59:47.689] [info]  [Electron] Logger initialized for window at C:\Users\Asus\.lunarclient\logs\launcher\window.log (Prefix: Window)
+[2024-06-19 17:59:47.816] [info]  [Window] Setting up (Silent startup: false)...
+[2024-06-19 17:59:47.849] [info]  [Window] [main] Loading file: C:\Users\Asus\AppData\Local\Programs\launcher\resources\app.asar\dist\html\main.html#/
+[2024-06-19 17:59:47.850] [info]  [Window] Setup complete!
+[2024-06-19 17:59:52.540] [debug] [Window] [main] Window ready to show
+[2024-06-19 17:59:52.541] [info]  [Window] [main] [Console] 17:59:52.526 › [Sentry] Initializing Sentry in app renderer...
+[2024-06-19 17:59:52.542] [info]  [Window] [main] [Console] 17:59:52.527 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-06-19 17:59:52.542] [info]  [Window] [main] [Console] 17:59:52.527 ›          * Sample rate: 0.01
+[2024-06-19 17:59:52.543] [info]  [Window] [main] [Console] 17:59:52.527 ›          * Debug: disabled
+[2024-06-19 17:59:52.543] [info]  [Window] [main] [Console] 17:59:52.527 ›          * ANR: disabled
+[2024-06-19 17:59:52.621] [info]  [Window] Renderer ready for window 'main'
+[2024-06-19 17:59:52.630] [debug] [Window] [main] Window focused
+[2024-06-19 18:00:08.558] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-19 18:00:52.551] [debug] [Window] [main] Window focused
+[2024-06-19 18:00:54.988] [debug] [Window] [main] Window focused
+[2024-06-19 18:01:00.331] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-19 18:01:22.141] [debug] [Window] [main] Window focused
+[2024-06-19 18:01:44.197] [debug] [Window] [main] Window focused
+[2024-06-19 18:01:52.606] [debug] [Window] [main] Window focused
+[2024-06-19 18:03:02.528] [debug] [Window] [main] Window focused
+[2024-06-19 18:03:10.866] [debug] [Window] [main] Window focused
+[2024-06-19 18:03:19.675] [debug] [Window] [main] Window focused
+[2024-06-19 18:03:44.139] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-19 18:03:51.698] [debug] [Window] [main] Window focused
+[2024-06-19 18:04:16.509] [debug] [Window] [main] Window focused
+[2024-06-19 18:04:28.497] [debug] [Window] [main] Window focused
+[2024-06-19 18:04:34.174] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-19 18:04:41.843] [debug] [Window] [main] Window focused
+[2024-06-19 18:04:48.300] [debug] [Window] [main] Window focused
+[2024-06-19 18:04:51.340] [debug] [Window] [main] Window focused
+[2024-06-19 18:04:56.461] [debug] [Window] [main] Window focused
+[2024-06-19 18:05:01.435] [debug] [Window] [main] Window focused
+[2024-06-19 18:05:07.550] [debug] [Window] [main] Window focused
+[2024-06-19 18:05:23.503] [debug] [Window] [main] Window focused
+[2024-06-19 18:05:26.883] [debug] [Window] [main] Window closing...
+[2024-06-19 18:05:26.892] [debug] [Window] [main] Window hidden
+[2024-06-19 18:06:00.524] [info]  [Window] Second instance was detected, showing main window in primary...
+[2024-06-19 18:06:00.537] [debug] [Window] [main] Window focused
+[2024-06-19 18:06:19.481] [debug] [Window] [main] Window focused
+[2024-06-19 18:06:57.384] [debug] [Window] [main] Window focused
+[2024-06-19 18:07:12.160] [debug] [Window] [main] Window focused
+[2024-06-19 18:07:29.981] [debug] [Window] [main] Window focused
+[2024-06-19 18:07:35.548] [debug] [Window] [main] Window focused
+[2024-06-19 18:07:50.246] [debug] [Window] [main] Window focused
+[2024-06-19 18:08:08.719] [debug] [Window] [main] Window focused
+[2024-06-19 18:08:30.664] [debug] [Window] [main] Window focused
+[2024-06-19 18:09:23.506] [debug] [Window] [main] Window focused
+[2024-06-19 18:09:38.155] [debug] [Window] [main] Window focused
+[2024-06-19 18:09:45.406] [debug] [Window] [main] Window focused
+[2024-06-19 18:09:47.371] [debug] [Window] [main] Window focused
+[2024-06-19 18:09:50.494] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-19 18:10:02.727] [debug] [Window] [main] Window focused
+[2024-06-19 18:10:08.174] [debug] [Window] [main] Window focused
+[2024-06-19 18:10:09.520] [debug] [Window] [main] Window focused
+[2024-06-19 18:10:18.923] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-19 18:13:18.083] [debug] [Window] [main] Window focused
+[2024-06-19 18:13:41.402] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-19 18:14:26.819] [debug] [Window] [main] Window focused
+[2024-06-19 18:14:57.294] [debug] [Window] [main] Window focused
+[2024-06-19 18:15:37.571] [debug] [Window] [main] Window focused
+[2024-06-19 18:15:39.992] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-19 18:17:08.869] [debug] [Window] [main] Window focused
+[2024-06-19 18:18:08.531] [debug] [Window] [main] Window focused
+[2024-06-19 18:18:13.445] [debug] [Window] [main] Window focused
+[2024-06-19 18:18:21.601] [debug] [Window] [main] Window closing...
+[2024-06-19 18:18:21.617] [debug] [Window] [main] Window hidden
+[2024-06-19 18:57:32.260] [info]  [Window] Second instance was detected, showing main window in primary...
+[2024-06-19 18:57:32.275] [debug] [Window] [main] Window focused
+[2024-06-19 18:57:42.198] [debug] [Window] [main] Window focused
+[2024-06-19 18:57:43.602] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-19 18:57:59.873] [debug] [Window] [main] Window focused
+[2024-06-19 18:58:54.325] [debug] [Window] [main] Window focused
+[2024-06-19 18:59:48.466] [debug] [Window] [main] Window focused
+[2024-06-19 19:01:20.380] [debug] [Window] [main] Window focused
+[2024-06-19 19:01:21.690] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-19 19:01:33.370] [debug] [Window] [main] Window focused
+[2024-06-19 19:01:35.237] [debug] [Window] [main] Window focused
+[2024-06-19 19:01:38.635] [debug] [Window] [main] Window focused
+[2024-06-19 19:01:40.328] [debug] [Window] [main] Window focused
+[2024-06-19 19:01:41.427] [debug] [Window] [main] Window focused
+[2024-06-19 19:02:19.441] [debug] [Window] [main] Window focused
+[2024-06-19 19:03:45.708] [debug] [Window] [main] Window focused
+[2024-06-19 19:04:38.791] [debug] [Window] [main] Window focused
+[2024-06-19 19:06:00.369] [debug] [Window] [main] Window focused
+[2024-06-19 19:09:34.129] [debug] [Window] [main] Window focused
+[2024-06-19 19:10:38.846] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-19 19:11:17.064] [debug] [Window] [main] Window closing...
+[2024-06-19 19:11:17.072] [debug] [Window] [main] Window hidden
+[2024-06-19 22:03:46.548] [error] [Window] [main] [Console] Uncaught (in promise) Error: Error invoking remote method 'profiles:fetchFabricLoaderVersions': Error: getaddrinfo ENOTFOUND api.lunarclientprod.com
+[2024-06-19 22:03:46.554] [error] [Window] [main] [Console] Uncaught (in promise) Error: Error invoking remote method 'profiles:getJarsHashes': TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined
+[2024-06-19 22:03:46.581] [error] [Window] [main] [Console] Error: Error invoking remote method 'modrinth:fetchProject': Error: getaddrinfo ENOTFOUND api.lunarclientprod.com
+[2024-06-19 22:03:46.582] [error] [Window] [main] [Console] Error: Error invoking remote method 'modrinth:fetchProject': Error: getaddrinfo ENOTFOUND api.lunarclientprod.com
+[2024-06-20 07:23:29.085] [error] [Window] [main] [Console] Uncaught (in promise) Error: Error invoking remote method 'profiles:getJarsHashes': TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined
+[2024-06-20 08:02:02.942] [error] [Window] [main] Render Process has unexpectedly disappeared...
+[2024-06-20 08:02:02.942] [error] [Window]          * Reason: killed
+[2024-06-20 08:02:02.943] [error] [Window]          * Exit Code: 1073807364
+[2024-06-20 08:02:02.944] [warn]  [Window] [main] Reloading window...
+[2024-06-20 19:19:01.598] [info]  [Electron] Logger initialized for window at C:\Users\Asus\.lunarclient\logs\launcher\window.log (Prefix: Window)
+[2024-06-20 19:19:01.807] [info]  [Window] Setting up (Silent startup: false)...
+[2024-06-20 19:19:01.893] [info]  [Window] [main] Loading file: C:\Users\Asus\AppData\Local\Programs\launcher\resources\app.asar\dist\html\main.html#/
+[2024-06-20 19:19:01.894] [info]  [Window] Setup complete!
+[2024-06-20 19:19:02.751] [debug] [Window] [main] Window ready to show
+[2024-06-20 19:19:02.752] [info]  [Window] [main] [Console] 19:19:02.738 › [Sentry] Initializing Sentry in app renderer...
+[2024-06-20 19:19:02.753] [info]  [Window] [main] [Console] 19:19:02.739 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-06-20 19:19:02.753] [info]  [Window] [main] [Console] 19:19:02.739 ›          * Sample rate: 0.01
+[2024-06-20 19:19:02.753] [info]  [Window] [main] [Console] 19:19:02.739 ›          * Debug: disabled
+[2024-06-20 19:19:02.754] [info]  [Window] [main] [Console] 19:19:02.739 ›          * ANR: disabled
+[2024-06-20 19:19:02.815] [info]  [Window] Renderer ready for window 'main'
+[2024-06-20 19:19:02.832] [debug] [Window] [main] Window focused
+[2024-06-20 19:20:34.055] [debug] [Window] [main] Window focused
+[2024-06-20 19:20:34.082] [debug] [Window] [main] Window focused
+[2024-06-20 19:20:36.209] [info]  [Window] Window not created while switching route, creating...
+[2024-06-20 19:20:36.216] [info]  [Window] [friends] Loading file: C:\Users\Asus\AppData\Local\Programs\launcher\resources\app.asar\dist\html\friends.html#/
+[2024-06-20 19:20:36.228] [debug] [Window] [friends] Window focused
+[2024-06-20 19:20:36.397] [debug] [Window] [friends] Window ready to show
+[2024-06-20 19:20:36.398] [info]  [Window] [friends] [Console] 19:20:36.389 › [Sentry] Initializing Sentry in friends renderer...
+[2024-06-20 19:20:36.398] [info]  [Window] [friends] [Console] 19:20:36.390 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-06-20 19:20:36.398] [info]  [Window] [friends] [Console] 19:20:36.390 ›          * Sample rate: 0.01
+[2024-06-20 19:20:36.399] [info]  [Window] [friends] [Console] 19:20:36.390 ›          * Debug: disabled
+[2024-06-20 19:20:36.399] [info]  [Window] [friends] [Console] 19:20:36.390 ›          * ANR: disabled
+[2024-06-20 19:20:36.433] [info]  [Window] Renderer ready for window 'friends'
+[2024-06-20 19:20:37.490] [debug] [Window] [main] Window focused
+[2024-06-20 19:20:41.338] [info]  [Window] Rewriting /versions to /versions/lunar...
+[2024-06-20 19:21:06.023] [info]  [Window] Rewriting /versions to /versions/lunar...
+[2024-06-20 19:21:12.807] [info]  [Window] Rewriting /versions to /versions/lunar...
+[2024-06-20 19:21:17.374] [warn]  [Window] Couldn't find any Modrinth profiles to select in cache or profiles list, this shouldn't happen...
+[2024-06-20 19:21:17.454] [error] [Window] [main] [Console] Uncaught (in promise) Error: Error invoking remote method 'profiles:getJarsHashes': TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined
+[2024-06-20 19:21:19.168] [error] [Window] [main] [Console] Uncaught (in promise) Error: Error invoking remote method 'profiles:getJarsHashes': TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined
+[2024-06-20 19:21:19.508] [error] [Window] [main] [Console] Uncaught (in promise) Error: Error invoking remote method 'profiles:getJarsHashes': TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined
+[2024-06-20 19:21:25.822] [debug] [Window] [main] Window focused
+[2024-06-20 19:21:51.116] [debug] [Window] [friends] Window hidden
+[2024-06-20 19:21:51.119] [debug] [Window] [main] Window hidden
+[2024-06-20 19:24:35.922] [debug] [Window] [main] Window focused
+[2024-06-20 21:41:13.439] [debug] [Window] [main] Window focused
+[2024-06-20 21:41:17.696] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-20 21:41:24.714] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-20 21:41:38.333] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-20 21:41:56.834] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-20 21:42:00.757] [debug] [Window] [main] Window focused
+[2024-06-20 21:42:23.072] [debug] [Window] [main] Window focused
+[2024-06-20 21:42:29.147] [debug] [Window] [main] Window focused
+[2024-06-20 21:42:31.283] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-20 21:43:13.843] [debug] [Window] [main] Window focused
+[2024-06-20 21:43:25.196] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-20 21:43:30.172] [debug] [Window] [friends] Window hidden
+[2024-06-20 21:43:30.175] [debug] [Window] [main] Window hidden
+[2024-06-20 21:43:42.951] [debug] [Window] [main] Window focused
+[2024-06-20 21:43:45.372] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-20 21:44:50.572] [debug] [Window] [friends] Window hidden
+[2024-06-20 21:44:50.575] [debug] [Window] [main] Window hidden
+[2024-06-20 21:54:21.758] [debug] [Window] [main] Window focused
+[2024-06-20 21:54:29.034] [debug] [Window] [main] Window minimized
+[2024-06-20 21:54:51.271] [debug] [Window] [main] Window focused
+[2024-06-20 21:54:52.351] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-20 21:55:53.405] [debug] [Window] [main] Window focused
+[2024-06-20 21:56:23.674] [debug] [Window] [main] Window focused
+[2024-06-20 21:56:27.645] [debug] [Window] [main] Window focused
+[2024-06-20 21:57:34.065] [debug] [Window] [main] Window focused
+[2024-06-20 21:58:02.742] [debug] [Window] [main] Window focused
+[2024-06-20 21:58:08.348] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-20 22:00:02.633] [debug] [Window] [main] Window focused
+[2024-06-20 22:00:22.577] [debug] [Window] [main] Window focused
+[2024-06-20 22:00:36.482] [debug] [Window] [main] Window focused
+[2024-06-20 22:00:54.547] [debug] [Window] [main] Window focused
+[2024-06-20 22:01:15.651] [debug] [Window] [main] Window focused
+[2024-06-20 22:01:49.941] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-20 22:02:58.094] [debug] [Window] [main] Window focused
+[2024-06-20 22:03:02.863] [debug] [Window] [main] Window focused
+[2024-06-20 22:03:04.972] [debug] [Window] [main] Window focused
+[2024-06-20 22:03:21.438] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-20 22:04:39.801] [debug] [Window] [main] Window focused
+[2024-06-20 22:04:56.489] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-20 22:05:07.714] [debug] [Window] [main] Window focused
+[2024-06-20 22:06:45.132] [debug] [Window] [main] Window focused
+[2024-06-20 22:06:45.579] [debug] [Window] [main] Window minimized
+[2024-06-20 22:07:42.361] [debug] [Window] [main] Window focused
+[2024-06-20 22:07:55.704] [debug] [Window] [main] Window focused
+[2024-06-20 22:08:16.556] [debug] [Window] [main] Window focused
+[2024-06-20 22:08:19.068] [debug] [Window] [main] Window focused
+[2024-06-20 22:08:19.504] [debug] [Window] [main] Window focused
+[2024-06-20 22:08:20.539] [debug] [Window] [main] Window focused
+[2024-06-20 22:08:21.408] [debug] [Window] [main] Window focused
+[2024-06-20 22:08:26.213] [debug] [Window] [main] Window focused
+[2024-06-20 22:08:44.408] [debug] [Window] [main] Window focused
+[2024-06-20 22:10:07.940] [debug] [Window] [main] Window focused
+[2024-06-20 22:10:18.933] [debug] [Window] [main] Window focused
+[2024-06-20 22:11:38.557] [debug] [Window] [main] Window focused
+[2024-06-20 22:11:43.630] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-20 22:12:31.826] [debug] [Window] [main] Window focused
+[2024-06-20 22:12:46.814] [debug] [Window] [main] Window focused
+[2024-06-20 22:13:09.479] [debug] [Window] [main] Window focused
+[2024-06-20 22:14:23.518] [debug] [Window] [main] Window focused
+[2024-06-20 22:14:24.658] [debug] [Window] [main] Window minimized
+[2024-06-20 22:14:25.722] [debug] [Window] [main] Window focused
+[2024-06-20 22:14:26.686] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-20 22:15:14.329] [debug] [Window] [main] Window focused
+[2024-06-20 22:15:21.334] [debug] [Window] [main] Window focused
+[2024-06-20 22:15:28.091] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-20 22:15:42.365] [debug] [Window] [main] Window focused
+[2024-06-20 22:16:32.559] [debug] [Window] [friends] Window hidden
+[2024-06-20 22:16:32.563] [debug] [Window] [main] Window hidden
+[2024-06-20 23:17:43.343] [debug] [Window] [main] Window focused
+[2024-06-20 23:17:44.727] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-20 23:18:42.467] [debug] [Window] [main] Window focused
+[2024-06-20 23:19:06.880] [debug] [Window] [main] Window focused
+[2024-06-20 23:19:20.585] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-20 23:19:35.570] [debug] [Window] [main] Window focused
+[2024-06-20 23:19:42.284] [debug] [Window] [main] Window focused
+[2024-06-20 23:19:49.448] [debug] [Window] [main] Window focused
+[2024-06-20 23:19:57.883] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-20 23:20:13.953] [debug] [Window] [main] Window focused
+[2024-06-20 23:20:36.470] [debug] [Window] [main] Window focused
+[2024-06-20 23:20:41.948] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-20 23:21:09.160] [debug] [Window] [main] Window focused
+[2024-06-20 23:21:33.802] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-20 23:21:37.610] [debug] [Window] [main] Window focused
+[2024-06-20 23:21:38.615] [debug] [Window] [main] Window closing...
+[2024-06-20 23:21:38.628] [debug] [Window] [main] Window hidden
+[2024-06-21 00:13:53.566] [error] [Window] [friends] Render Process has unexpectedly disappeared...
+[2024-06-21 00:13:53.567] [error] [Window]          * Reason: killed
+[2024-06-21 00:13:53.567] [error] [Window]          * Exit Code: 1073807364
+[2024-06-21 00:13:53.568] [warn]  [Window] [friends] Reloading window...
+[2024-06-21 17:35:07.631] [info]  [Electron] Logger initialized for window at C:\Users\Asus\.lunarclient\logs\launcher\window.log (Prefix: Window)
+[2024-06-21 17:35:07.889] [info]  [Window] Setting up (Silent startup: false)...
+[2024-06-21 17:35:08.279] [info]  [Window] [main] Loading file: C:\Users\Asus\AppData\Local\Programs\launcher\resources\app.asar\dist\html\main.html#/
+[2024-06-21 17:35:08.280] [info]  [Window] Setup complete!
+[2024-06-21 17:35:10.200] [debug] [Window] [main] Window ready to show
+[2024-06-21 17:35:10.202] [info]  [Window] [main] [Console] 17:35:10.143 › [Sentry] Initializing Sentry in app renderer...
+[2024-06-21 17:35:10.202] [info]  [Window] [main] [Console] 17:35:10.144 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-06-21 17:35:10.202] [info]  [Window] [main] [Console] 17:35:10.144 ›          * Sample rate: 0.01
+[2024-06-21 17:35:10.203] [info]  [Window] [main] [Console] 17:35:10.144 ›          * Debug: disabled
+[2024-06-21 17:35:10.203] [info]  [Window] [main] [Console] 17:35:10.144 ›          * ANR: disabled
+[2024-06-21 17:35:10.228] [info]  [Window] Renderer ready for window 'main'
+[2024-06-21 17:35:10.239] [debug] [Window] [main] Window focused
+[2024-06-21 17:38:26.130] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-21 17:38:37.952] [debug] [Window] [main] Window focused
+[2024-06-21 17:39:02.422] [debug] [Window] [main] Window focused
+[2024-06-21 17:39:37.876] [debug] [Window] [main] Window focused
+[2024-06-21 17:39:43.605] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-21 17:41:31.503] [debug] [Window] [main] Window focused
+[2024-06-21 17:42:28.581] [debug] [Window] [main] Window focused
+[2024-06-21 17:43:02.534] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-21 17:44:33.707] [debug] [Window] [main] Window focused
+[2024-06-21 17:44:49.172] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-21 17:45:47.281] [debug] [Window] [main] Window focused
+[2024-06-21 17:46:03.745] [debug] [Window] [main] Window focused
+[2024-06-21 17:46:07.562] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-21 17:46:43.477] [debug] [Window] [main] Window focused
+[2024-06-21 17:47:17.546] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-21 17:47:38.197] [debug] [Window] [main] Window focused
+[2024-06-21 17:47:49.978] [debug] [Window] [main] Window focused
+[2024-06-21 17:48:32.455] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-21 17:49:04.049] [debug] [Window] [main] Window focused
+[2024-06-21 17:49:26.761] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-21 17:49:41.507] [debug] [Window] [main] Window focused
+[2024-06-21 17:50:13.803] [debug] [Window] [main] Window hidden
+[2024-06-21 18:11:50.783] [debug] [Window] [main] Window focused
+[2024-06-21 18:11:56.184] [debug] [Window] [main] Window minimized
+[2024-06-21 18:12:53.353] [debug] [Window] [main] Window focused
+[2024-06-21 18:12:55.262] [debug] [Window] [main] Window closing...
+[2024-06-21 18:12:55.273] [debug] [Window] [main] Window hidden
+[2024-06-21 22:28:00.516] [info]  [Electron] Logger initialized for window at C:\Users\Asus\.lunarclient\logs\launcher\window.log (Prefix: Window)
+[2024-06-21 22:28:00.654] [info]  [Window] Setting up (Silent startup: false)...
+[2024-06-21 22:28:00.685] [info]  [Window] [main] Loading file: C:\Users\Asus\AppData\Local\Programs\launcher\resources\app.asar\dist\html\main.html#/
+[2024-06-21 22:28:00.686] [info]  [Window] Setup complete!
+[2024-06-21 22:28:01.830] [debug] [Window] [main] Window ready to show
+[2024-06-21 22:28:01.831] [info]  [Window] [main] [Console] 22:28:01.813 › [Sentry] Initializing Sentry in app renderer...
+[2024-06-21 22:28:01.832] [info]  [Window] [main] [Console] 22:28:01.814 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-06-21 22:28:01.832] [info]  [Window] [main] [Console] 22:28:01.814 ›          * Sample rate: 0.01
+[2024-06-21 22:28:01.833] [info]  [Window] [main] [Console] 22:28:01.814 ›          * Debug: disabled
+[2024-06-21 22:28:01.833] [info]  [Window] [main] [Console] 22:28:01.814 ›          * ANR: disabled
+[2024-06-21 22:28:01.896] [info]  [Window] Renderer ready for window 'main'
+[2024-06-21 22:28:01.903] [debug] [Window] [main] Window focused
+[2024-06-21 22:41:46.491] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-21 22:41:56.084] [debug] [Window] [main] Window focused
+[2024-06-21 22:41:59.899] [debug] [Window] [main] Window focused
+[2024-06-21 22:42:01.140] [debug] [Window] [main] Window focused
+[2024-06-21 22:42:30.992] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-21 22:42:48.038] [debug] [Window] [main] Window focused
+[2024-06-21 22:46:15.983] [debug] [Window] [main] Window focused
+[2024-06-21 22:46:31.711] [debug] [Window] [main] Window focused
+[2024-06-21 22:46:43.920] [debug] [Window] [main] Window focused
+[2024-06-21 22:46:45.012] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-21 22:46:51.070] [debug] [Window] [main] Window focused
+[2024-06-21 22:47:38.843] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-21 22:47:41.029] [error] [Window] [main] [Console] Uncaught (in promise) Error: Error invoking remote method 'profiles:getJarsHashes': TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined
+[2024-06-21 22:48:12.877] [debug] [Window] [main] Window closing...
+[2024-06-21 22:48:12.885] [debug] [Window] [main] Window hidden
+[2024-06-21 23:18:36.602] [info]  [Window] Second instance was detected, showing main window in primary...
+[2024-06-21 23:18:36.616] [debug] [Window] [main] Window focused
+[2024-06-21 23:18:44.858] [info]  [Window] Rewriting /versions to /versions/lunar...
+[2024-06-21 23:18:51.181] [info]  [Window] Rewriting /versions to /versions/lunar...
+[2024-06-21 23:19:07.226] [debug] [Window] [main] Window focused
+[2024-06-21 23:19:08.652] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-21 23:19:09.214] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-21 23:19:10.064] [error] [Window] [main] [Console] Uncaught (in promise) Error: Error invoking remote method 'profiles:getJarsHashes': TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined
+[2024-06-21 23:19:45.975] [debug] [Window] [main] Window hidden
+[2024-06-21 23:22:45.872] [debug] [Window] [main] Window focused
+[2024-06-21 23:22:46.651] [debug] [Window] [main] Window closing...
+[2024-06-21 23:22:46.659] [debug] [Window] [main] Window hidden
+[2024-06-22 15:06:42.690] [info]  [Electron] Logger initialized for window at C:\Users\Asus\.lunarclient\logs\launcher\window.log (Prefix: Window)
+[2024-06-22 15:06:42.859] [info]  [Window] Setting up (Silent startup: false)...
+[2024-06-22 15:06:42.887] [info]  [Window] [main] Loading file: C:\Users\Asus\AppData\Local\Programs\launcher\resources\app.asar\dist\html\main.html#/
+[2024-06-22 15:06:42.887] [info]  [Window] Setup complete!
+[2024-06-22 15:06:43.828] [debug] [Window] [main] Window ready to show
+[2024-06-22 15:06:43.830] [info]  [Window] [main] [Console] 15:06:43.817 › [Sentry] Initializing Sentry in app renderer...
+[2024-06-22 15:06:43.831] [info]  [Window] [main] [Console] 15:06:43.818 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-06-22 15:06:43.831] [info]  [Window] [main] [Console] 15:06:43.818 ›          * Sample rate: 0.01
+[2024-06-22 15:06:43.831] [info]  [Window] [main] [Console] 15:06:43.818 ›          * Debug: disabled
+[2024-06-22 15:06:43.831] [info]  [Window] [main] [Console] 15:06:43.819 ›          * ANR: disabled
+[2024-06-22 15:06:43.883] [info]  [Window] Renderer ready for window 'main'
+[2024-06-22 15:06:43.898] [debug] [Window] [main] Window focused
+[2024-06-22 15:07:07.514] [info]  [Window] Rewriting /versions to /versions/lunar...
+[2024-06-22 15:07:52.329] [debug] [Window] [main] Window focused
+[2024-06-22 15:08:27.508] [debug] [Window] [main] Window focused
+[2024-06-22 15:08:29.010] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 15:08:36.568] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 15:09:09.380] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 15:10:55.512] [debug] [Window] [main] Window focused
+[2024-06-22 15:10:59.639] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 15:11:13.572] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 15:11:27.913] [debug] [Window] [main] Window focused
+[2024-06-22 15:11:34.443] [debug] [Window] [main] Window focused
+[2024-06-22 15:12:08.564] [debug] [Window] [main] Window hidden
+[2024-06-22 15:16:41.786] [debug] [Window] [main] Window focused
+[2024-06-22 15:16:43.427] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 15:16:49.463] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 15:16:50.350] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 15:17:10.222] [debug] [Window] [main] Window focused
+[2024-06-22 15:17:42.935] [debug] [Window] [main] Window focused
+[2024-06-22 15:17:45.063] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 15:17:53.491] [debug] [Window] [main] Window focused
+[2024-06-22 15:18:49.425] [debug] [Window] [main] Window focused
+[2024-06-22 15:19:01.912] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 15:21:22.372] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 15:22:27.025] [debug] [Window] [main] Window focused
+[2024-06-22 15:22:49.561] [debug] [Window] [main] Window focused
+[2024-06-22 15:24:30.609] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 15:24:36.972] [debug] [Window] [main] Window focused
+[2024-06-22 15:24:46.405] [debug] [Window] [main] Window focused
+[2024-06-22 15:25:30.846] [debug] [Window] [main] Window focused
+[2024-06-22 15:25:48.670] [debug] [Window] [main] Window focused
+[2024-06-22 15:25:54.451] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 15:26:56.621] [debug] [Window] [main] Window focused
+[2024-06-22 15:27:39.603] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 15:27:45.132] [debug] [Window] [main] Window focused
+[2024-06-22 15:28:32.514] [debug] [Window] [main] Window focused
+[2024-06-22 15:28:49.853] [debug] [Window] [main] Window focused
+[2024-06-22 15:29:06.483] [debug] [Window] [main] Window focused
+[2024-06-22 15:29:21.258] [debug] [Window] [main] Window focused
+[2024-06-22 15:29:35.772] [debug] [Window] [main] Window focused
+[2024-06-22 15:30:35.717] [debug] [Window] [main] Window focused
+[2024-06-22 15:30:53.776] [debug] [Window] [main] Window focused
+[2024-06-22 15:31:29.277] [debug] [Window] [main] Window focused
+[2024-06-22 15:32:18.685] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 15:32:53.048] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 15:33:20.480] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 15:34:05.495] [debug] [Window] [main] Window focused
+[2024-06-22 15:36:12.138] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 15:37:06.697] [debug] [Window] [main] Window focused
+[2024-06-22 15:37:18.632] [debug] [Window] [main] Window focused
+[2024-06-22 15:37:22.432] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 15:37:56.431] [debug] [Window] [main] Window focused
+[2024-06-22 15:38:24.414] [debug] [Window] [main] Window focused
+[2024-06-22 15:38:26.784] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 15:39:23.836] [debug] [Window] [main] Window focused
+[2024-06-22 15:39:57.393] [debug] [Window] [main] Window hidden
+[2024-06-22 15:40:40.336] [debug] [Window] [main] Window focused
+[2024-06-22 15:40:43.355] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 15:41:20.874] [debug] [Window] [main] Window hidden
+[2024-06-22 16:05:35.457] [debug] [Window] [main] Window focused
+[2024-06-22 16:05:36.837] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 16:08:11.447] [debug] [Window] [main] Window focused
+[2024-06-22 16:08:44.866] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 16:08:58.581] [debug] [Window] [main] Window focused
+[2024-06-22 16:09:25.145] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 16:09:34.372] [debug] [Window] [main] Window focused
+[2024-06-22 16:10:09.706] [debug] [Window] [main] Window hidden
+[2024-06-22 16:38:19.383] [debug] [Window] [main] Window focused
+[2024-06-22 16:38:20.301] [debug] [Window] [main] Window closing...
+[2024-06-22 16:38:20.309] [debug] [Window] [main] Window hidden
+[2024-06-22 18:28:33.536] [error] [Window] [main] Render Process has unexpectedly disappeared...
+[2024-06-22 18:28:33.536] [error] [Window]          * Reason: killed
+[2024-06-22 18:28:33.537] [error] [Window]          * Exit Code: 1073807364
+[2024-06-22 18:28:33.538] [warn]  [Window] [main] Reloading window...
+[2024-06-22 21:47:27.263] [info]  [Electron] Logger initialized for window at C:\Users\Asus\.lunarclient\logs\launcher\window.log (Prefix: Window)
+[2024-06-22 21:47:27.361] [info]  [Window] Setting up (Silent startup: false)...
+[2024-06-22 21:47:27.388] [info]  [Window] [main] Loading file: C:\Users\Asus\AppData\Local\Programs\launcher\resources\app.asar\dist\html\main.html#/
+[2024-06-22 21:47:27.389] [info]  [Window] Setup complete!
+[2024-06-22 21:47:28.538] [debug] [Window] [main] Window ready to show
+[2024-06-22 21:47:28.540] [info]  [Window] [main] [Console] 21:47:28.535 › [Sentry] Initializing Sentry in app renderer...
+[2024-06-22 21:47:28.541] [info]  [Window] [main] [Console] 21:47:28.536 ›          * DSN: https://2b19802000444b71b53899a26418c0ef@o923049.ingest.sentry.io/6029601
+[2024-06-22 21:47:28.541] [info]  [Window] [main] [Console] 21:47:28.536 ›          * Sample rate: 0.01
+[2024-06-22 21:47:28.541] [info]  [Window] [main] [Console] 21:47:28.536 ›          * Debug: disabled
+[2024-06-22 21:47:28.542] [info]  [Window] [main] [Console] 21:47:28.536 ›          * ANR: disabled
+[2024-06-22 21:47:28.589] [info]  [Window] Renderer ready for window 'main'
+[2024-06-22 21:47:28.598] [debug] [Window] [main] Window focused
+[2024-06-22 21:47:30.613] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 21:47:34.637] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 21:47:49.863] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 21:48:18.700] [debug] [Window] [main] Window focused
+[2024-06-22 21:48:23.824] [debug] [Window] [main] Window focused
+[2024-06-22 21:48:24.876] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 21:48:47.381] [debug] [Window] [main] Window focused
+[2024-06-22 21:48:49.040] [debug] [Window] [main] Window focused
+[2024-06-22 21:48:54.760] [info]  [Window] Rewriting /versions to /versions/modpacks...
+[2024-06-22 21:48:56.288] [error] [Window] [main] [Console] Uncaught (in promise) Error: Error invoking remote method 'profiles:getJarsHashes': TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined
+[2024-06-22 21:51:44.478] [debug] [Window] [main] Window focused
+[2024-06-22 21:52:04.245] [debug] [Window] [main] Window focused
+[2024-06-22 21:53:02.593] [debug] [Window] [main] Window focused
+[2024-06-22 21:53:23.482] [debug] [Window] [main] Window focused
+[2024-06-22 21:53:34.748] [debug] [Window] [main] Window focused
+[2024-06-22 21:53:36.990] [info]  [Window] Rewriting /versions to /versions/lunar...
+[2024-06-22 21:54:07.613] [debug] [Window] [main] Window focused
+[2024-06-22 21:54:09.726] [debug] [Window] [main] Window focused
+[2024-06-22 21:54:46.102] [debug] [Window] [main] Window hidden
+[2024-06-22 22:13:09.641] [debug] [Window] [main] Window focused
+[2024-06-22 22:13:12.832] [info]  [Window] Rewriting /versions to /versions/lunar...
+[2024-06-22 22:14:37.208] [debug] [Window] [main] Window focused
+[2024-06-22 22:14:45.050] [debug] [Window] [main] Window focused
+[2024-06-22 22:15:18.689] [debug] [Window] [main] Window hidden
+[2024-06-22 22:18:10.560] [debug] [Window] [main] Window focused
+[2024-06-22 22:18:13.009] [info]  [Window] Rewriting /versions to /versions/lunar...
+[2024-06-22 22:18:31.145] [debug] [Window] [main] Window focused
+[2024-06-22 22:19:07.592] [debug] [Window] [main] Window hidden
+[2024-06-22 22:19:50.482] [debug] [Window] [main] Window focused
+[2024-06-22 22:19:52.577] [debug] [Window] [main] Window closing...
+[2024-06-22 22:19:52.590] [debug] [Window] [main] Window hidden
+[2024-06-23 00:55:26.599] [error] [Window] [main] Render Process has unexpectedly disappeared...
+[2024-06-23 00:55:26.600] [error] [Window]          * Reason: killed
+[2024-06-23 00:55:26.601] [error] [Window]          * Exit Code: 1073807364
+[2024-06-23 00:55:26.602] [warn]  [Window] [main] Reloading window...

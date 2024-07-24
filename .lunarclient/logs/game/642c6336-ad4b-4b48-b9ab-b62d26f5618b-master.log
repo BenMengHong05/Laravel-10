@@ -1,0 +1,374 @@
+[2024-01-24 01:23:06.946] [error] NOTE: Picked up JDK_JAVA_OPTIONS: -XX:+DisableAttachMechanism
+[2024-01-24 01:23:07.700] [error] Picked up JAVA_TOOL_OPTIONS: -XX:+DisableAttachMechanism
+[2024-01-24 01:23:07.701] [error] Picked up _JAVA_OPTIONS: -XX:+DisableAttachMechanism
+[2024-01-24 01:23:09.351] [info]  [01:23:09] [Genesis/main/INFO] Launching Minecraft 1.20.1 v1_20_1 (parsed from 1.20.1)
+[2024-01-24 01:23:09.398] [info]  [01:23:09] [Genesis/main/INFO] Found external file: Fabric-API-v1_20_1-0.90.7.jar
+[2024-01-24 01:23:09.399] [info]  [01:23:09] [Genesis/main/INFO] Found external file: ReplayMod-v1_20_1-2.6.14.jar
+[2024-01-24 01:23:09.401] [info]  [01:23:09] [Genesis/main/INFO] Found external file: FerriteCore-v1_20_1-6.0.0.jar
+[2024-01-24 01:23:09.401] [info]  [01:23:09] [Genesis/main/INFO] Found external file: Lithium-v1_20_1-0.11.2.jar
+[2024-01-24 01:23:09.402] [info]  [01:23:09] [Genesis/main/INFO] Found external file: Noxesium-v1_20_1-1.0.3.jar
+[2024-01-24 01:23:09.402] [info]  [01:23:09] [Genesis/main/INFO] Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+[2024-01-24 01:23:09.403] [info]  [01:23:09] [Genesis/main/INFO] Found external file: Sodium-v1_20_1-0.5.3.jar
+[2024-01-24 01:23:09.404] [info]  [01:23:09] [Genesis/main/INFO] Found external file: Indium-v1_20_1-1.0.27.jar
+[2024-01-24 01:23:09.404] [info]  [01:23:09] [Genesis/main/INFO] Found external file: Iris-v1_20_1-1.6.10.jar
+[2024-01-24 01:23:09.410] [info]  [01:23:09] [IchorPipeline/main/INFO] 
+[2024-01-24 01:23:09.411] [info]  Creating pipeline for v1_20_1 with [ALL, PRE_INIT, PRE_FORGE_PATCH, FORGE_PATCH, POST_FORGE_PATCH, PRE_OPTIFINE_PATCH, OPTIFINE_PATCH, POST_OPTIFINE_PATCH, INIT, INITIAL_REMAP, EXTERNAL_REMAP, PRE_META_MIXIN, META_MIXIN, POST_META_MIXIN, PRE_MIXIN, MIXIN, POST_MIXIN, OBFUSCATION, FINAL]
+[2024-01-24 01:24:26.859] [info]  [01:24:26] [Genesis/main/INFO] Config hash: 705f45e3  File hash: 9888a51c
+[2024-01-24 01:24:26.860] [info]  [01:24:26] [Genesis/main/INFO] Missing class cache: .\cache\705f45e3\9888a51c\prebake.cache
+[2024-01-24 01:24:26.860] [info]  [01:24:26] [Genesis/main/INFO] Prebaking classes...
+[2024-01-24 01:24:26.861] [info]  LUNARCLIENT_STATUS_BUILD_CACHE
+[2024-01-24 01:24:26.867] [info]  [01:24:26] [IchorPipeline/main/INFO] Loading Mixin runtime for META_MIXIN
+[2024-01-24 01:24:27.100] [info]  [01:24:27] [IchorPipeline/main/INFO] Built mapping set for com.moonsworth.lunar.ichor.ORICOCICIHCHHIICHHOOCIRIC.CCHIOIIRRIICCHROOHHIHRHCC.ORICOCICIHCHHIICHHOOCIRIC.OOHOORICOHHHCRIHIICCHOICR 221ms on thread main
+[2024-01-24 01:24:29.163] [info]  [01:24:29] [Ichor/mixin(META_MIXIN)/INFO] SpongePowered MIXIN Subsystem Version=0.8.5 Source=Unknown Service=Ichor Env=CLIENT
+[2024-01-24 01:24:29.843] [info]  [01:24:29] [IchorPipeline/main/INFO] Loading Mixin runtime for MIXIN
+[2024-01-24 01:24:30.227] [info]  [01:24:30] [Ichor/mixin(MIXIN)/INFO] SpongePowered MIXIN Subsystem Version=0.8.5 Source=Unknown Service=Ichor Env=CLIENT
+[2024-01-24 01:24:30.478] [info]  [01:24:30] [IchorPipeline/main/INFO] Done loading Mixin runtimes in 3610ms
+[2024-01-24 01:24:30.479] [info]  [01:24:30] [IchorPipeline/main/INFO] Setting up mixins for META_MIXIN
+[2024-01-24 01:24:30.618] [info]  [01:24:30] [IchorPipeline/main/INFO] Setting up mixins for MIXIN
+[2024-01-24 01:24:30.620] [info]  [01:24:30] [Ichor/main/INFO] Mixin config mixins.modern.json doesn't exist in IchorClassLoader(MIXIN)
+[2024-01-24 01:24:30.621] [info]  [01:24:30] [Ichor/main/INFO] Mixin config mixins.modern_lunar.json doesn't exist in IchorClassLoader(MIXIN)
+[2024-01-24 01:24:30.888] [info]  [01:24:30] [IchorPipeline/main/INFO] Done registering Mixins in 409ms
+[2024-01-24 01:24:30.889] [info]  [
+[2024-01-24 01:24:30.890] [info]  01:24:30] [IchorPipeline/main/INFO] Going to default mixins phase for META_MIXIN
+[2024-01-24 01:24:32.119] [info]  [01:24:32] [IchorPipeline/main/INFO] Going to default mixins phase for MIXIN
+[2024-01-24 01:24:32.135] [info]  [01:24:32] [Ichor/MixinExtras|Service(META_MIXIN)/INFO] Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0-beta.10).
+[2024-01-24 01:24:34.247] [info]  [01:24:34] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 1 override(s) found
+[2024-01-24 01:24:34.316] [info]  [01:24:34] [main/INFO]: Loaded configuration file for Sodium: 41 options available, 3 override(s) found
+[2024-01-24 01:24:40.773] [info]  [01:24:40] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/render/ChunkVisibility (checked [net.optifine.render.ChunkVisibility]).
+[2024-01-24 01:24:40.774] [info]  [01:24:40] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/optifine/render/ChunkVisibility (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/render/ChunkVisibility (checked [net.optifine.render.ChunkVisibility]).)
+[2024-01-24 01:24:40.775] [info]  [01:24:40] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for shadersmod/client/ShadersRender (checked [shadersmod.client.ShadersRender]).
+[2024-01-24 01:24:40.775] [info]  [01:24:40] [Ichor/mixin(MIXIN)/WARN] Error loading class: shadersmod/client/ShadersRender (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for shadersmod/client/ShadersRender (checked [shadersmod.client.ShadersRender]).)
+[2024-01-24 01:24:40.776] [info]  [01:24:40] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/shaders/ShadersRender (checked [net.optifine.shaders.ShadersRender]).
+[2024-01-24 01:24:40.776] [info]  [01:24:40] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/optifine/shaders/ShadersRender (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/shaders/ShadersRender (checked [net.optifine.shaders.ShadersRender]).)
+[2024-01-24 01:24:42.701] [info]  [01:24:42] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[2024-01-24 01:24:43.106] [info]  [01:24:43] [main/WARN]: Force-disabling mixin 'features.render.entity.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-01-24 01:24:43.107] [info]  [01:24:43] [main/WARN]: Force-disabling mixin 'features.render.entity.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-01-24 01:24:43.108] [info]  [01:24:43] [main/WARN]: Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-01-24 01:24:43.110] [info]  [01:24:43] [main/WARN]: Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-01-24 01:24:43.111] [info]  [01:24:43] [main/WARN]: Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [iris]) disables it and children
+[2024-01-24 01:24:43.128] [info]  [01:24:43] [main/WARN]: Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[2024-01-24 01:24:43.130] [info]  [01:24:43] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[2024-01-24 01:24:43.130] [info]  [01:24:43] [main/WARN]: Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[2024-01-24 01:24:43.375] [info]  [01:24:43] [IchorPipeline/main/INFO] Mixin runtimes prepared in 12487ms
+[2024-01-24 01:24:43.376] [info]  [01:24:43] [IchorPipeline/main/INFO] Initialized Mixin in 16510ms
+[2024-01-24 01:24:43.668] [info]  [01:24:43] [Genesis/main/INFO] Found 17917 classes to prebake.
+[2024-01-24 01:24:43.675] [info]  LUNARCLIENT_STATUS_PREINIT
+[2024-01-24 01:24:43.677] [info]  [01:24:43] [Genesis/main/INFO] Starting game!
+[2024-01-24 01:24:43.692] [info]  [01:24:43] [Ichor/MixinExtras|Service(MIXIN)/INFO] Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0-beta.10).
+[2024-01-24 01:24:45.440] [info]  [Bridge] Setting Bridge Implementation to com.moonsworth.lunar.HROIIOOIIHCOHICOCCHHIRCOH.HOCHRRHCRRROICHHHCHIIIIOH
+[2024-01-24 01:24:46.333] [info]  [01:24:46] [Ichor/mixin(MIXIN)/WARN] Method overwrite conflict for bridge$setFrameRateLimit in mixins.modern_bridge_combined.json:CICORHHIIHHRHIOCCCICCHIRR.HHHOHICHORROHOOCRHHCRORHH.RCOICRRIHCHCCIROCRHIOORIR from mod (unknown), previously written by com.moonsworth.lunar.HROIIOOIIHCOHICOCCHHIRCOH.RCOICRRIHCHCCIROCRHIOORIR.CICORHHIIHHRHIOCCCICCHIRR.HHHOHICHORROHOOCRHHCRORHH.HOCHRRHCRRROICHHHCHIIIIOH. Skipping method.
+[2024-01-24 01:24:49.951] [info]  [Bridge] Found textures dir: C:\Users\Asus\.lunarclient\textures
+[2024-01-24 01:24:49.976] [info]  Completely ignored arguments: [--workingDirectory, ., --webosrDir, C:\Users\Asus\.lunarclient\offline\multiver\natives, --classpathDir, ., --ichorExternalFiles, Fabric-API-v1_20_1-0.90.7.jar,ReplayMod-v1_20_1-2.6.14.jar,FerriteCore-v1_20_1-6.0.0.jar,Lithium-v1_20_1-0.11.2.jar,Noxesium-v1_20_1-1.0.3.jar,Noxesium_API-v1_20_1-1.0.3.jar,Sodium-v1_20_1-0.5.3.jar,Indium-v1_20_1-1.0.27.jar,Iris-v1_20_1-1.6.10.jar, --ichorClassPath, common-0.1.0-SNAPSHOT-all.jar,lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar,genesis-0.1.0-SNAPSHOT-all.jar,lunar-lang.jar,lunar-emote.jar,lunar.jar,modern-0.1.0-SNAPSHOT-all.jar,lunar-replaymod-mixins-0.1.0-SNAPSHOT-all.jar,lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar,lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar,lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar,lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar, --uiDir, C:\Users\Asus\.lunarclient\ui]
+[2024-01-24 01:24:51.906] [info]  [01:24:51] [Genesis/pool-2-thread-6/INFO] Prebaked 26098 classes in 25044ms.
+[2024-01-24 01:24:55.219] [info]  [01:24:55] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 153 milliseconds
+[2024-01-24 01:24:56.712] [info]  [01:24:56] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[2024-01-24 01:24:57.163] [info]  [01:24:57] [Render thread/ERROR]: Failed to verify authentication
+[2024-01-24 01:24:57.164] [info]  com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
+[2024-01-24 01:24:57.164] [info]  	at Genesis/com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:56) ~[?:?]
+[2024-01-24 01:24:57.165] [info]  	at Genesis/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:156) ~[?:?]
+[2024-01-24 01:24:57.165] [info]  	at Genesis/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.<init>(YggdrasilUserApiService.java:55) ~[?:?]
+[2024-01-24 01:24:57.166] [info]  	at Genesis/com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.createUserApiService(YggdrasilAuthenticationService.java:124) ~[?:?]
+[2024-01-24 01:24:57.166] [info]  	at Genesis/net.minecraft.client.Minecraft.createUserApiService(SourceFile:733) [?:?]
+[2024-01-24 01:24:57.166] [info]  	at Genesis/net.minecraft.client.Minecraft.<init>(SourceFile:442) [?:?]
+[2024-01-24 01:24:57.167] [info]  	at Genesis/net.minecraft.client.main.Main.redirect$zbd000$impl$main$minecraft(SourceFile:639) [?:?]
+[2024-01-24 01:24:57.167] [info]  	at Genesis/net.minecraft.client.main.Main.main(SourceFile:211) [?:?]
+[2024-01-24 01:24:57.168] [info]  	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+[2024-01-24 01:24:57.168] [info]  	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+[2024-01-24 01:24:57.168] [info]  	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+[2024-01-24 01:24:57.169] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+[2024-01-24 01:24:57.169] [info]  	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-01-24 01:24:57.170] [info]  Caused by: com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 401
+[2024-01-24 01:24:57.170] [info]  	at Genesis/com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:85) ~[?:?]
+[2024-01-24 01:24:57.171] [info]  	at Genesis/com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48) ~[?:?]
+[2024-01-24 01:24:57.171] [info]  	at Genesis/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:129) ~[?:?]
+[2024-01-24 01:24:57.172] [info]  	... 11 more
+[2024-01-24 01:24:57.173] [info]  [01:24:57] [Render thread/INFO]: Setting user: Player913
+[2024-01-24 01:24:57.173] [info]  [01:24:57] [IchorPipeline/Render thread/INFO] Launching main ModInitializer
+[2024-01-24 01:24:57.174] [info]  [01:24:57] [IchorPipeline/Render thread/INFO] Launching Entrypoint(main) in Genesis
+[2024-01-24 01:24:57.174] [info]  [01:24:57] [IchorPipeline/Render thread/INFO] Entrypoint(main) failed to load me.jellysquid.mods.lithium.common.LithiumMod in Genesis
+[2024-01-24 01:24:57.174] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: java.lang.IllegalStateException: Failed to launch entrypoint me.jellysquid.mods.lithium.common.LithiumMod
+[2024-01-24 01:24:57.175] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source)
+[2024-01-24 01:24:57.175] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.RRHOIIICRICROOIIHCIOCRCHR.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source)
+[2024-01-24 01:24:57.176] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.md255d92$lambda$ichor$fabric$clientInitializer$0$4(SourceFile:7593)
+[2024-01-24 01:24:57.176] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at java.base/java.util.Optional.ifPresentOrElse(Unknown Source)
+[2024-01-24 01:24:57.176] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.handler$zoo000$ichor$fabric$clientInitializer(SourceFile:7592)
+[2024-01-24 01:24:57.177] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.<init>(SourceFile:458)
+[2024-01-24 01:24:57.177] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.redirect$zbd000$impl$main$minecraft(SourceFile:639)
+[2024-01-24 01:24:57.178] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.main(SourceFile:211)
+[2024-01-24 01:24:57.178] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[2024-01-24 01:24:57.179] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[2024-01-24 01:24:57.179] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[2024-01-24 01:24:57.179] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-01-24 01:24:57.180] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source)
+[2024-01-24 01:24:57.180] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: Caused by: java.lang.IllegalStateException: The mixin plugin did not initialize the config! Did it not load?
+[2024-01-24 01:24:57.181] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//me.jellysquid.mods.lithium.common.LithiumMod.onInitialize(LithiumMod.java:12)
+[2024-01-24 01:24:57.181] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source)
+[2024-01-24 01:24:57.181] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	... 12 more
+[2024-01-24 01:24:57.182] [info]  [01:24:57] [IchorPipeline/Render thread/INFO] Entrypoint(main) failed to load me.jellysquid.mods.lithium.common.LithiumMod in Genesis
+[2024-01-24 01:24:57.183] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: java.lang.IllegalStateException: Failed to launch entrypoint me.jellysquid.mods.lithium.common.LithiumMod
+[2024-01-24 01:24:57.183] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source)
+[2024-01-24 01:24:57.183] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.RRHOIIICRICROOIIHCIOCRCHR.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source)
+[2024-01-24 01:24:57.184] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.md255d92$lambda$ichor$fabric$clientInitializer$0$4(SourceFile:7593)
+[2024-01-24 01:24:57.184] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at java.base/java.util.Optional.ifPresentOrElse(Unknown Source)
+[2024-01-24 01:24:57.185] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.handler$zoo000$ichor$fabric$clientInitializer(SourceFile:7592)
+[2024-01-24 01:24:57.185] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.<init>(SourceFile:458)
+[2024-01-24 01:24:57.185] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.redirect$zbd000$impl$main$minecraft(SourceFile:639)
+[2024-01-24 01:24:57.186] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.main(SourceFile:211)
+[2024-01-24 01:24:57.186] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[2024-01-24 01:24:57.187] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[2024-01-24 01:24:57.187] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[2024-01-24 01:24:57.188] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-01-24 01:24:57.188] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source)
+[2024-01-24 01:24:57.188] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: Caused by: java.lang.IllegalStateException: The mixin plugin did not initialize the config! Did it not load?
+[2024-01-24 01:24:57.189] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//me.jellysquid.mods.lithium.common.LithiumMod.onInitialize(LithiumMod.java:12)
+[2024-01-24 01:24:57.189] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source)
+[2024-01-24 01:24:57.190] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	... 12 more
+[2024-01-24 01:24:57.191] [info]  [01:24:57] [Ichor/Render thread/INFO] Found entrypoint net.fabricmc.fabric.impl.networking.NetworkingImpl::init()
+[2024-01-24 01:24:57.198] [info]  [01:24:57] [IchorPipeline/Render thread/INFO] Entrypoint(main) had 10 invokes.
+[2024-01-24 01:24:57.199] [info]  [01:24:57] [IchorPipeline
+[2024-01-24 01:24:57.200] [info]  /Render thread/INFO] Launching client ClientModInitializer
+[2024-01-24 01:24:57.200] [info]  [01:24:57] [IchorPipeline/Render thread/INFO] Launching Entrypoint(client) in Genesis
+[2024-01-24 01:24:57.210] [info]  [01:24:57] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[2024-01-24 01:24:57.267] [info]  [01:24:57] [Render thread/INFO]: [STDOUT]: ReplayModBackendMixin_v1_19.onInitializeClient: initializing ReplayMod
+[2024-01-24 01:24:57.327] [info]  [01:24:57] [Ichor/Render thread/INFO] Found entrypoint net.fabricmc.fabric.impl.client.container.ScreenProviderRegistryImpl::init()
+[2024-01-24 01:24:57.329] [info]  [01:24:57] [Ichor/Render thread/INFO] Found entrypoint net.fabricmc.fabric.impl.networking.client.ClientNetworkingImpl::clientInit()
+[2024-01-24 01:24:57.331] [info]  [01:24:57] [IchorPipeline/Render thread/INFO] Entrypoint(client) failed to load link.infra.indium.Indium in Genesis
+[2024-01-24 01:24:57.333] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: java.lang.IllegalStateException: Failed to launch entrypoint link.infra.indium.Indium
+[2024-01-24 01:24:57.334] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source)
+[2024-01-24 01:24:57.334] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.RRHOIIICRICROOIIHCIOCRCHR.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source)
+[2024-01-24 01:24:57.335] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.md255d92$lambda$ichor$fabric$clientInitializer$0$4(SourceFile:7594)
+[2024-01-24 01:24:57.336] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at java.base/java.util.Optional.ifPresentOrElse(Unknown Source)
+[2024-01-24 01:24:57.336] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.handler$zoo000$ichor$fabric$clientInitializer(SourceFile:7592)
+[2024-01-24 01:24:57.337] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.<init>(SourceFile:458)
+[2024-01-24 01:24:57.337] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.redirect$zbd000$impl$main$minecraft(SourceFile:639)
+[2024-01-24 01:24:57.338] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.main(SourceFile:211)
+[2024-01-24 01:24:57.339] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[2024-01-24 01:24:57.339] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[2024-01-24 01:24:57.340] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[2024-01-24 01:24:57.340] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-01-24 01:24:57.341] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source)
+[2024-01-24 01:24:57.341] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: Caused by: java.lang.UnsupportedOperationException: A second rendering plug-in attempted to register. Multiple rendering plug-ins are not supported.
+[2024-01-24 01:24:57.342] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//net.fabricmc.fabric.impl.renderer.RendererAccessImpl.registerRenderer(RendererAccessImpl.java:33)
+[2024-01-24 01:24:57.342] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//link.infra.indium.Indium.onInitializeClient(Indium.java:117)
+[2024-01-24 01:24:57.344] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source)
+[2024-01-24 01:24:57.345] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	... 12 more
+[2024-01-24 01:24:57.346] [info]  [01:24:57] [IchorPipeline/Render thread/INFO] Entrypoint(client) failed to load com.noxcrew.noxesium.NoxesiumMod in Genesis
+[2024-01-24 01:24:57.346] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: java.lang.IllegalStateException: Failed to launch entrypoint com.noxcrew.noxesium.NoxesiumMod
+[2024-01-24 01:24:57.347] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source)
+[2024-01-24 01:24:57.347] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.RRHOIIICRICROOIIHCIOCRCHR.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source)
+[2024-01-24 01:24:57.347] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.md255d92$lambda$ichor$fabric$clientInitializer$0$4(SourceFile:7594)
+[2024-01-24 01:24:57.348] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at java.base/java.util.Optional.ifPresentOrElse(Unknown Source)
+[2024-01-24 01:24:57.349] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.handler$zoo000$ichor$fabric$clientInitializer(SourceFile:7592)
+[2024-01-24 01:24:57.349] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.<init>(SourceFile:458)
+[2024-01-24 01:24:57.349] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.redirect$zbd000$impl$main$minecraft(SourceFile:639)
+[2024-01-24 01:24:57.350] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.main(SourceFile:211)
+[2024-01-24 01:24:57.350] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[2024-01-24 01:24:57.351] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[2024-01-24 01:24:57.352] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[2024-01-24 01:24:57.352] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-01-24 01:24:57.353] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source)
+[2024-01-24 01:24:57.353] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: Caused by: java.lang.IllegalArgumentException: Cannot double register packets for group universal
+[2024-01-24 01:24:57.354] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//com.google.common.base.Preconditions.checkArgument(Preconditions.java:145)
+[2024-01-24 01:24:57.354] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//com.noxcrew.noxesium.network.NoxesiumPackets.registerPackets(NoxesiumPackets.java:122)
+[2024-01-24 01:24:57.355] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at Genesis//com.noxcrew.noxesium.NoxesiumMod.onInitializeClient(NoxesiumMod.java:98)
+[2024-01-24 01:24:57.355] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source)
+[2024-01-24 01:24:57.356] [info]  [01:24:57] [Render thread/INFO]: [STDERR]: 	... 12 more
+[2024-01-24 01:24:57.356] [info]  [01:24:57] [IchorPipeline/Render thread/INFO] Entrypoint(client) had 14 invokes.
+[2024-01-24 01:24:57.774] [info]  [01:24:57] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 SNAPSHOT
+[2024-01-24 01:24:58.258] [info]  [01:24:58] [Render thread/INFO]: OpenGL Vendor: ATI Technologies Inc.
+[2024-01-24 01:24:58.279] [info]  [01:24:58] [Render thread/INFO]: OpenGL Renderer: AMD Radeon(TM) Graphics
+[2024-01-24 01:24:58.280] [info]  [01:24:58] [Render thread/INFO]: OpenGL Version: 3.2.0 Core Profile Context 22.20.28.09.221101
+[2024-01-24 01:24:58.358] [info]  [01:24:58] [Render thread/INFO]: [STDOUT]: LUNARCLIENT_STATUS_INIT
+[2024-01-24 01:24:58.613] [info]  [01:24:58] [Render thread/INFO]: Debug functionality is disabled.
+[2024-01-24 01:24:58.618] [info]  [01:24:58] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[2024-01-24 01:24:58.626] [info]  [01:24:58] [Render thread/INFO]: Shaders are disabled because no valid shaderpack is selected
+[2024-01-24 01:24:58.627] [info]  [01:24:58] [Render thread/INFO]: Shaders are disabled
+[2024-01-24 01:24:58.657] [info]  [01:24:58] [Render thread/WARN]: Missing metadata in pack file/6lFear_Private.zip
+[2024-01-24 01:24:58.658] [info]  [01:24:58] [Render thread/WARN]: Missing metadata in pack file/BaseballBeans Vanilla.zip
+[2024-01-24 01:24:58.724] [info]  [01:24:58] [Render thread/WARN]: Missing metadata in pack file/�bSharpness 25k.zip
+[2024-01-24 01:24:58.807] [info]  [01:24:58] [Render thread/WARN]: Removed resource pack minecraft:supporteatinganimation from options because it doesn't seem to exist anymore
+[2024-01-24 01:24:59.079] [info]  [01:24:59] [Render thread/INFO]: Hardware information:
+[2024-01-24 01:24:59.142] [info]  [01:24:59] [Render thread/INFO]: CPU: 16x AMD Ryzen 7 6800HS with Radeon Graphics 
+[2024-01-24 01:24:59.142] [info]  [01:24:59] [Render thread/INFO]: GPU: AMD Radeon(TM) Graphics (Supports OpenGL 3.2.0 Core Profile Context 22.20.28.09.221101)
+[2024-01-24 01:24:59.143] [info]  [01:24:59] [Render thread/INFO]: OS: Windows 11 (10.0)
+[2024-01-24 01:24:59.379] [info]  [01:24:59] [Render thread/INFO]: Reloading ResourceManager: lunar, vanilla, fabric (fabric-renderer-api-v1, fabric-keybindings-v0, fabric-transfer-api-v1, fabric-mining-level-api-v1, fabric-containers-v0, lithium, fabric-dimensions-v1, fabric-object-builder-api-v1, fabric-game-rule-api-v1, fabric-api-base, fabric-resource-conditions-api-v1, fabric-sound-api-v1, fabric-model-loading-api-v1, fabric-rendering-data-attachment-v1, iris, fabric-rendering-fluids-v1, fabric-blockrenderlayer-v1, fabric-lifecycle-events-v1, sodium, fabric-renderer-registries-v1, fabric-loot-tables-v1, fabric-particles-v1, fabric-data-generation-api-v1, fabric-networking-v0, fabric-api-lookup-api-v1, fabric-screen-handler-api-v1, noxesium, fabric-command-api-v2, fabric-block-api-v1, fabric-command-api-v1, fabric-screen-api-v1, fabric-renderer-indigo, fabric-api, fabric-crash-report-info-v1, fabric-events-interaction-v0, fabric-item-api-v1, fabric-convention-tags-v1, fabric-item-group-api-v1, fabric-recipe-api-v1, fabric-entity-events-v1, fabric-rendering-v0, fabric-key-binding-api-v1, fabric-rendering-v1, replaymod, fabric-resource-loader-v0, fabric-content-registries-v0, fabric-block-view-api-v2, indium, fabric-biome-api-v1, fabric-client-tags-api-v1, fabric-loot-api-v2, fabric-commands-v0, fabric-message-api-v1, fabric-registry-sync-v0, fabric-transitive-access-wideners-v1, fabric-networking-api-v1, fabric-events-lifecycle-v0, fabric-models-v0), file/llurioverlay_v3 (1).zip, file/VanillaPlus_V2_1.18.2-1.19.2 (1) (1).zip, replaymod_lang
+[2024-01-24 01:24:59.545] [info]  [01:24:59] [Render thread/INFO]: [STDOUT]: [Bridge] Setting Minecraft Client instance to net.minecraft.client.Minecraft
+[2024-01-24 01:24:59.630] [info]  [01:24:59] [Worker-Main-8/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[2024-01-24 01:25:00.503] [info]  [01:25:00] [Ichor/Render thread/INFO] Creating MultiBridgeModern instance: RCOICRRIHCHCCIROCRHIOORIR
+[2024-01-24 01:25:00.568] [info]  [01:25:00] [Render thread/INFO]: [LC] Starting Lunar client...
+[2024-01-24 01:25:01.711] [info]  [01:25:01] [Worker-Main-11/WARN]: Missing textures in model minecraft:hopper#enabled=false,facing=east:
+[2024-01-24 01:25:01.753] [info]      minecraft:textures/atlas/blocks.png:minecraft:break/hopper
+[2024-01-24 01:25:01.754] [info]  [01:25:01] [Worker-Main-11/WARN]: Missing textures in model minecraft:hopper#enabled=false,facing=north:
+[2024-01-24 01:25:01.754] [info]      minecraft:textures/atlas/blocks.png:minecraft:break/hopper
+[2024-01-24 01:25:01.755] [info]  [01:25:01] [Worker-Main-11/WARN]: Missing textures in model minecraft:hopper#enabled=true,facing=south:
+[2024-01-24 01:25:01.755] [info]      minecraft:textures/atlas/blocks.png:minecraft:break/hopper
+[2024-01-24 01:25:01.756] [info]  [01:25:01] [Worker-Main-11/WARN]: Missing textures in model minecraft:hopper#enabled=true,facing=down:
+[2024-01-24 01:25:01.757] [info]      minecraft:textures/atlas/blocks.png:minecraft:break/hopper
+[2024-01-24 01:25:01.757] [info]  [01:25:01] [Worker-Main-11/WARN]: Missing textures in model minecraft:hopper#enabled=true,facing=west:
+[2024-01-24 01:25:01.758] [info]      minecraft:textures/atlas/blocks.png:minecraft:break/hopper
+[2024-01-24 01:25:01.878] [info]  [01:25:01] [Render thread/INFO]: [LC] Loading CCOHHRHOOHRHRRICHIOOHOCOO...
+[2024-01-24 01:25:01.880] [info]  [01:25:01] [Render thread/INFO]: [LC] Loading OOHOORICOHHHCRIHIICCHOICR...
+[2024-01-24 01:25:02.322] [info]  [01:25:02] [Render thread/INFO]: [LC] Loading HOCHRRHCRRROICHHHCHIIIIOH...
+[2024-01-24 01:25:02.325] [info]  [01:25:02] [Render thread/INFO]: [LC] Loading CCOHHRHOOHRHRRICHIOOHOCOO...
+[2024-01-24 01:25:02.329] [info]  [01:25:02] [Render thread/INFO]: [LC Lang] Couldn't get a valid language so we're setting it to ENGLISH.
+[2024-01-24 01:25:02.330] [info]  [01:25:02] [Render thread/INFO]: [LC Lang] Language set as ENGLISH (en_US).
+[2024-01-24 01:25:02.331] [info]  [01:25:02] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-01-24 01:25:02.334] [info]  [01:25:02] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-01-24 01:25:02.350] [info]  [01:25:02] [Render thread/INFO]: [LC] Loading RIIOHHHHCRROIIHOICROICRRI...
+[2024-01-24 01:25:02.415] [info]  [01:25:02] [Render thread/INFO]: [LC] Loading IHRCHOHRCCHIOOICCICIHIHHI...
+[2024-01-24 01:25:03.446] [info]  [01:25:03] [Render thread/INFO]: [LC] Loading RRHCHCCOIRCOOHCOORIHOOCOC...
+[2024-01-24 01:25:03.449] [info]  [01:25:03] [Render thread/INFO]: [LC] Loading HHHOHICHORROHOOCRHHCRORHH...
+[2024-01-24 01:25:03.450] [info]  [01:25:03] [Render thread/INFO]: [LC] Loading RCOICRRIHCHCCIROCRHIOORIR...
+[2024-01-24 01:25:03.458] [info]  [01:25:03] [Render thread/INFO]: [LC] Loading CICORHHIIHHRHIOCCCICCHIRR...
+[2024-01-24 01:25:03.462] [info]  [01:25:03] [Render thread/INFO]: [LC] Loading ORICOCICIHCHHIICHHOOCIRIC...
+[2024-01-24 01:25:03.464] [info]  [01:25:03] [Render thread/INFO]: [LC] Loading HOCHRRHCRRROICHHHCHIIIIOH...
+[2024-01-24 01:25:03.466] [info]  [01:25:03] [Render thread/INFO]: [LC] Loading HOCIHCHIIRCRHCRIIIORCROIR...
+[2024-01-24 01:25:03.467] [info]  [01:25:03] [Render thread/INFO]: [LC] Loading RRHOIIICRICROOIIHCIOCRCHR...
+[2024-01-24 01:25:03.468] [info]  [01:25:03] [Render thread/INFO]: [LC] Loading HRORHCIOIROHOHOOICCICOCHO...
+[2024-01-24 01:25:03.469] [info]  [01:25:03] [Render thread/INFO]: [LC] Loading RIHRIRRCOROHOOHCCCHRICRCO...
+[2024-01-24 01:25:03.469] [info]  [01:25:03] [Render thread/INFO]: [LC] Loading IROOCHRHOIRCHCRRHIIRORRIR...
+[2024-01-24 01:25:03.475] [info]  [01:25:03] [Render thread/INFO]: [LC] Loading ORICOCICIHCHHIICHHOOCIRIC...
+[2024-01-24 01:25:03.511] [info]  [01:25:03] [Render thread/WARN]: [LC] Couldn't find dev cosmetics file: cosmetics/dev_cosmetics.json
+[2024-01-24 01:25:03.608] [info]  [01:25:03] [Render thread/INFO]: [LC] Loading COIRHIOOIICOCHCCOCRRROHHH...
+[2024-01-24 01:25:03.610] [info]  [01:25:03] [Render thread/INFO]: [LC] Loading IRCCIHCRIHOHHHCHIIIHRORRI...
+[2024-01-24 01:25:03.622] [info]  [01:25:03] [Render thread/INFO]: [LC] Loading RCHRIIRHHRICRCCIORIICIRIR...
+[2024-01-24 01:25:03.623] [info]  [01:25:03] [Render thread/INFO]: [LC] Loading CICORHHIIHHRHIOCCCICCHIRR...
+[2024-01-24 01:25:03.624] [info]  [01:25:03] [Render thread/INFO]: [LC] Loading HOCHRRHCRRROICHHHCHIIIIOH...
+[2024-01-24 01:25:03.626] [info]  [01:25:03] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[2024-01-24 01:25:03.717] [info]  [01:25:03] [Render thread/INFO]: [LC] Finished making managers.
+[2024-01-24 01:25:03.718] [info]  [01:25:03] [Render thread/INFO]: [LC] Setting up listeners...
+[2024-01-24 01:25:03.734] [info]  [01:25:03] [Render thread/INFO]: [LC] Setting up fixes...
+[2024-01-24 01:25:04.840] [info]  [01:25:04] [Render thread/ERROR]: [LC ThirdParty] Couldn't load third party mods
+[2024-01-24 01:25:04.855] [info]  [01:25:04] [Render thread/INFO]: [LC Lang] Language set as ENGLISH (en_US).
+[2024-01-24 01:25:04.856] [info]  [01:25:04] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-01-24 01:25:04.952] [info]  [01:25:04] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-01-24 01:25:04.954] [info]  [01:25:04] [Render thread/INFO]: [LC Ichor] Disabling NEU because there is no valid link.
+[2024-01-24 01:25:04.954] [info]  [01:25:04] [Render thread/INFO]: [LC Ichor] Disabling SBA because there is no valid link.
+[2024-01-24 01:25:04.955] [info]  [01:25:04] [Render thread/INFO]: [LC] Lunar.start
+[2024-01-24 01:25:04.956] [info]  [01:25:04] [Render thread/INFO]: [STDERR]: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsJsonObject()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[2024-01-24 01:25:04.956] [info]  [01:25:04] [Render thread/INFO]: [STDERR]: 	at Genesis//com.moonsworth.lunar.client.CICHCHHHHOICCCOCHOICHHHOO.OIROOCIHIRCHIHIOOICHHCIHI.CCHIOIIRRIICCHROOHHIHRHCC.load(Unknown Source)
+[2024-01-24 01:25:04.957] [info]  [01:25:04] [Render thread/INFO]: [STDERR]: 	at Genesis//com.moonsworth.lunar.client.CICHCHHHHOICCCOCHOICHHHOO.ORICOCICIHCHHIICHHOOCIRIC.OCCOHOCRIHHIRCHIHRCHHRIOR(Unknown Source)
+[2024-01-24 01:25:04.957] [info]  [01:25:04] [Render thread/INFO]: [STDERR]: 	at Genesis//com.moonsworth.lunar.client.CICHCHHHHOICCCOCHOICHHHOO.OIROOCIHIRCHIHIOOICHHCIHI.CCHIOIIRRIICCHROOHHIHRHCC.init(Unknown Source)
+[2024-01-24 01:25:04.958] [info]  [01:25:04] [Render thread/INFO]: [STDERR]: 	at Genesis//com.moonsworth.lunar.client.HOCHRRHCRRROICHHHCHIIIIOH.start(Unknown Source)
+[2024-01-24 01:25:04.959] [info]  [01:25:04] [Render thread/INFO]: [STDERR]: 	at Genesis//com.moonsworth.lunar.client.HOCHRRHCRRROICHHHCHIIIIOH.<init>(Unknown Source)
+[2024-01-24 01:25:04.960] [info]  [01:25:04] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.handler$zzg000$impl$run(SourceFile:3221)
+[2024-01-24 01:25:04.960] [info]  [01:25:04] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.run(SourceFile)
+[2024-01-24 01:25:04.961] [info]  [01:25:04] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.main(SourceFile:250)
+[2024-01-24 01:25:04.961] [info]  [01:25:04] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[2024-01-24 01:25:04.962] [info]  [01:25:04] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[2024-01-24 01:25:04.963] [info]  [01:25:04] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[2024-01-24 01:25:04.963] [info]  [01:25:04] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-01-24 01:25:04.967] [info]  [01:25:04] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source)
+[2024-01-24 01:25:04.968] [info]  [01:25:04] [Render thread/ERROR]: [LC] Couldn't load file launcher_accounts.json [Cannot invoke "com.google.gson.JsonElement.getAsJsonObject()" because the return value of "com.google.gson.JsonObject.get(String)" is null]
+[2024-01-24 01:25:04.969] [info]  [01:25:04] [Render thread/INFO]: [LC Accounts] Removed all accounts [0 count]
+[2024-01-24 01:25:05.907] [info]  [01:25:05] [Render thread/INFO]: [LC Lang] Language set as ENGLISH (en_US).
+[2024-01-24 01:25:05.908] [info]  [01:25:05] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-01-24 01:25:05.910] [info]  [01:25:05] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-01-24 01:25:05.984] [info]  [01:25:05] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-01-24 01:25:07.018] [info]  [01:25:07] [Render thread/INFO]: [LC] Loaded geckolib cosmetics.
+[2024-01-24 01:25:07.019] [info]  [01:25:07] [Render thread/INFO]: [LC] Loading cosmetic compatibility json
+[2024-01-24 01:25:07.067] [info]  [01:25:07] [Render thread/INFO]: [LC] Compiled cosmetic compatability presets
+[2024-01-24 01:25:07.071] [info]  [01:25:07] [Render thread/INFO]: [LC] Launching
+[2024-01-24 01:25:07.074] [info]  [01:25:07] [Render thread/INFO]: [LC] Finished Lunar initialization.
+[2024-01-24 01:25:07.075] [info]  [01:25:07] [Render thread/INFO]: [LC] LUNARCLIENT_STATUS_STARTED
+[2024-01-24 01:25:07.629] [info]  [01:25:07] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[2024-01-24 01:25:07.630] [info]  [01:25:07] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[2024-01-24 01:25:08.564] [info]  [01:25:08] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[2024-01-24 01:25:08.565] [info]  [01:25:08] [Render thread/INFO]: Sound engine started
+[2024-01-24 01:25:08.705] [info]  [01:25:08] [Render thread/INFO]: Created: 1024x1024x2 minecraft:textures/atlas/blocks.png-atlas
+[2024-01-24 01:25:08.712] [info]  [01:25:08] [Render thread/INFO]: Created: 512x256x2 minecraft:textures/atlas/signs.png-atlas
+[2024-01-24 01:25:08.713] [info]  [01:25:08] [Render thread/INFO]: Created: 512x512x2 minecraft:textures/atlas/shield_patterns.png-atlas
+[2024-01-24 01:25:08.713] [info]  [01:25:08] [Render thread/INFO]: Created: 512x512x2 minecraft:textures/atlas/banner_patterns.png-atlas
+[2024-01-24 01:25:08.714] [info]  [01:25:08] [Render thread/INFO]: Created: 1024x1024x2 minecraft:textures/atlas/armor_trims.png-atlas
+[2024-01-24 01:25:08.718] [info]  [01:25:08] [Render thread/INFO]: Created: 128x64x2 minecraft:textures/atlas/decorated_pot.png-atlas
+[2024-01-24 01:25:08.719] [info]  [01:25:08] [Render thread/INFO]: Created: 256x256x2 minecraft:textures/atlas/chest.png-atlas
+[2024-01-24 01:25:08.720] [info]  [01:25:08] [Render thread/INFO]: Created: 512x256x2 minecraft:textures/atlas/shulker_boxes.png-atlas
+[2024-01-24 01:25:08.720] [info]  [01:25:08] [Render thread/INFO]: Created: 512x256x2 minecraft:textures/atlas/beds.png-atlas
+[2024-01-24 01:25:08.879] [info]  [01:25:08] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[2024-01-24 01:25:08.883] [info]  [01:25:08] [Render thread/WARN]: Shader rendertype_beacon_beam could not find sampler named Sampler0 in the specified shader program.
+[2024-01-24 01:25:08.884] [info]  [01:25:08] [Render thread/WARN]: Shader rendertype_beacon_beam could not find uniform named ColorModulator in the specified shader program.
+[2024-01-24 01:25:08.885] [info]  [01:25:08] [Render thread/WARN]: Shader rendertype_beacon_beam could not find uniform named FogStart in the specified shader program.
+[2024-01-24 01:25:08.886] [info]  [01:25:08] [Render thread/WARN]: Shader rendertype_beacon_beam could not find uniform named FogEnd in the specified shader program.
+[2024-01-24 01:25:08.886] [info]  [01:25:08] [Render thread/WARN]: Shader rendertype_beacon_beam could not find uniform named FogColor in the specified shader program.
+[2024-01-24 01:25:08.948] [info]  [01:25:08] [Render thread/INFO]: Created: 2048x2048x0 minecraft:textures/atlas/particles.png-atlas
+[2024-01-24 01:25:08.951] [info]  [01:25:08] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[2024-01-24 01:25:08.951] [info]  [01:25:08] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[2024-01-24 01:25:12.163] [info]  [01:25:12] [Render thread/INFO]: [LC Microsoft Auth] Launcher version (as int): 321
+[2024-01-24 01:26:46.028] [info]  [01:26:46] [Render thread/INFO]: [LC Auth] Failed to establish connection with the auth server, account null.
+[2024-01-24 01:26:50.022] [info]  [01:26:50] [Render thread/WARN]: Missing metadata in pack file/6lFear_Private.zip
+[2024-01-24 01:26:50.022] [info]  [01:26:50] [Render thread/WARN]: Missing metadata in pack file/BaseballBeans Vanilla.zip
+[2024-01-24 01:26:50.024] [info]  [01:26:50] [Render thread/WARN]: Missing metadata in pack file/�bSharpness 25k.zip
+[2024-01-24 01:26:50.057] [info]  [01:26:50] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 800 to 64
+[2024-01-24 01:26:50.064] [info]  [01:26:50] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[2024-01-24 01:26:50.066] [info]  [01:26:50] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[2024-01-24 01:26:50.075] [info]  [01:26:50] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 625 to 64
+[2024-01-24 01:26:50.080] [info]  [01:26:50] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 500 to 64
+[2024-01-24 01:26:50.085] [info]  [01:26:50] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[2024-01-24 01:26:51.148] [info]  [01:26:51] [Render thread/WARN]: Missing metadata in pack file/6lFear_Private.zip
+[2024-01-24 01:26:51.309] [info]  [01:26:51] [Render thread/WARN]: Missing metadata in pack file/BaseballBeans Vanilla.zip
+[2024-01-24 01:26:51.310] [info]  [01:26:51] [Render thread/WARN]: Missing metadata in pack file/�bSharpness 25k.zip
+[2024-01-24 01:26:51.311] [info]  [01:26:51] [Render thread/INFO]: Reloading ResourceManager: lunar, vanilla, fabric (fabric-renderer-api-v1, fabric-keybindings-v0, fabric-transfer-api-v1, fabric-mining-level-api-v1, fabric-containers-v0, lithium, fabric-dimensions-v1, fabric-object-builder-api-v1, fabric-game-rule-api-v1, fabric-api-base, fabric-resource-conditions-api-v1, fabric-sound-api-v1, fabric-model-loading-api-v1, fabric-rendering-data-attachment-v1, iris, fabric-rendering-fluids-v1, fabric-blockrenderlayer-v1, fabric-lifecycle-events-v1, sodium, fabric-renderer-registries-v1, fabric-loot-tables-v1, fabric-particles-v1, fabric-data-generation-api-v1, fabric-networking-v0, fabric-api-lookup-api-v1, fabric-screen-handler-api-v1, noxesium, fabric-command-api-v2, fabric-block-api-v1, fabric-command-api-v1, fabric-screen-api-v1, fabric-renderer-indigo, fabric-api, fabric-crash-report-info-v1, fabric-events-interaction-v0, fabric-item-api-v1, fabric-convention-tags-v1, fabric-item-group-api-v1, fabric-recipe-api-v1, fabric-entity-events-v1, fabric-rendering-v0, fabric-key-binding-api-v1, fabric-rendering-v1, replaymod, fabric-resource-loader-v0, fabric-content-registries-v0, fabric-block-view-api-v2, indium, fabric-biome-api-v1, fabric-client-tags-api-v1, fabric-loot-api-v2, fabric-commands-v0, fabric-message-api-v1, fabric-registry-sync-v0, fabric-transitive-access-wideners-v1, fabric-networking-api-v1, fabric-events-lifecycle-v0, fabric-models-v0), file/llurioverlay_v3 (1).zip, file/VanillaPlus_V2_1.18.2-1.19.2 (1) (1).zip, replaymod_lang
+[2024-01-24 01:26:51.313] [info]  [01:26:51] [Worker-Main-14/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[2024-01-24 01:26:52.011] [info]  [01:26:52] [Worker-Main-3/WARN]: Missing textures in model minecraft:hopper#enabled=false,facing=east:
+[2024-01-24 01:26:52.012] [info]      minecraft:textures/atlas/blocks.png:minecraft:break/hopper
+[2024-01-24 01:26:52.013] [info]  [01:26:52] [Worker-Main-3/WARN]: Missing textures in model minecraft:hopper#enabled=false,facing=north:
+[2024-01-24 01:26:52.013] [info]      minecraft:textures/atlas/blocks.png:minecraft:break/hopper
+[2024-01-24 01:26:52.014] [info]  [01:26:52] [Worker-Main-3/WARN]: Missing textures in model minecraft:hopper#enabled=true,facing=south:
+[2024-01-24 01:26:52.015] [info]      minecraft:textures/atlas/blocks.png:minecraft:break/hopper
+[2024-01-24 01:26:52.015] [info]  [01:26:52] [Worker-Main-3/WARN]: Missing textures in model minecraft:hopper#enabled=true,facing=down:
+[2024-01-24 01:26:52.016] [info]      minecraft:textures/atlas/blocks.png:minecraft:break/hopper
+[2024-01-24 01:26:52.016] [info]  [01:26:52] [Worker-Main-3/WARN]: Missing textures in model minecraft:hopper#enabled=true,facing=west:
+[2024-01-24 01:26:52.017] [info]      minecraft:textures/atlas/blocks.png:minecraft:break/hopper
+[2024-01-24 01:26:52.103] [info]  [01:26:52] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[2024-01-24 01:26:52.104] [info]  [01:26:52] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[2024-01-24 01:26:52.184] [info]  [01:26:52] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[2024-01-24 01:26:52.185] [info]  [01:26:52] [Render thread/INFO]: Sound engine started
+[2024-01-24 01:26:52.248] [info]  [01:26:52] [Render thread/INFO]: Created: 1024x1024x2 minecraft:textures/atlas/blocks.png-atlas
+[2024-01-24 01:26:52.251] [info]  [01:26:52] [Render thread/INFO]: Created: 512x256x2 minecraft:textures/atlas/signs.png-atlas
+[2024-01-24 01:26:52.253] [info]  [01:26:52] [Render thread/INFO]: Created: 512x512x2 minecraft:textures/atlas/shield_patterns.png-atlas
+[2024-01-24 01:26:52.253] [info]  [01:26:52] [Render thread/INFO]: Created: 512x512x2 minecraft:textures/atlas/banner_patterns.png-atlas
+[2024-01-24 01:26:52.254] [info]  [01:26:52] [Render thread/INFO]: Created: 1024x1024x2 minecraft:textures/atlas/armor_trims.png-atlas
+[2024-01-24 01:26:52.259] [info]  [01:26:52] [Render thread/INFO]: Created: 128x64x2 minecraft:textures/atlas/decorated_pot.png-atlas
+[2024-01-24 01:26:52.260] [info]  [01:26:52] [Render thread/INFO]: Created: 256x256x2 minecraft:textures/atlas/chest.png-atlas
+[2024-01-24 01:26:52.261] [info]  [01:26:52] [Render thread/INFO]: Created: 512x256x2 minecraft:textures/atlas/shulker_boxes.png-atlas
+[2024-01-24 01:26:52.261] [info]  [01:26:52] [Render thread/INFO]: Created: 512x256x2 minecraft:textures/atlas/beds.png-atlas
+[2024-01-24 01:26:52.273] [info]  [01:26:52] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[2024-01-24 01:26:52.274] [info]  [01:26:52] [Render thread/WARN]: Shader rendertype_beacon_beam could not find sampler named Sampler0 in the specified shader program.
+[2024-01-24 01:26:52.274] [info]  [01:26:52] [Render thread/WARN]: Shader rendertype_beacon_beam could not find uniform named ColorModulator in the specified shader program.
+[2024-01-24 01:26:52.275] [info]  [01:26:52] [Render thread/WARN]: Shader rendertype_beacon_beam could not find uniform named FogStart in the specified shader program.
+[2024-01-24 01:26:52.275] [info]  [01:26:52] [Render thread/WARN]: Shader rendertype_beacon_beam could not find uniform named FogEnd in the specified shader program.
+[2024-01-24 01:26:52.275] [info]  [01:26:52] [Render thread/WARN]: Shader rendertype_beacon_beam could not find uniform named FogColor in the specified shader program.
+[2024-01-24 01:26:52.280] [info]  [01:26:52] [Render thread/INFO]: Created: 2048x2048x0 minecraft:textures/atlas/particles.png-atlas
+[2024-01-24 01:26:52.282] [info]  [01:26:52] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[2024-01-24 01:26:52.283] [info]  [01:26:52] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[2024-01-24 01:27:09.133] [info]  [01:27:09] [Render thread/INFO]: Flushed changes to Minecraft configuration
+[2024-01-24 01:27:14.143] [info]  [01:27:14] [Render thread/INFO]: [LC Microsoft Auth] Launcher version (as int): 321
+[2024-01-24 01:29:28.776] [info]  [01:29:28] [Render thread/INFO]: [LC Microsoft Auth] Launcher version (as int): 321
+[2024-01-24 01:39:06.926] [info]  [01:39:06] [Render thread/WARN]: Missing metadata in pack file/6lFear_Private.zip
+[2024-01-24 01:39:06.927] [info]  [01:39:06] [Render thread/WARN]: Missing metadata in pack file/BaseballBeans Vanilla.zip
+[2024-01-24 01:39:06.928] [info]  [01:39:06] [Render thread/WARN]: Missing metadata in pack file/�bSharpness 25k.zip
+[2024-01-24 01:39:06.946] [info]  [01:39:06] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 800 to 64
+[2024-01-24 01:39:06.950] [info]  [01:39:06] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[2024-01-24 01:39:06.952] [info]  [01:39:06] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[2024-01-24 01:39:06.960] [info]  [01:39:06] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 625 to 64
+[2024-01-24 01:39:06.965] [info]  [01:39:06] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 500 to 64
+[2024-01-24 01:39:06.967] [info]  [01:39:06] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[2024-01-24 01:39:08.681] [info]  [01:39:08] [Render thread/WARN]: Missing metadata in pack file/6lFear_Private.zip
+[2024-01-24 01:39:08.682] [info]  [01:39:08] [Render thread/WARN]: Missing metadata in pack file/BaseballBeans Vanilla.zip
+[2024-01-24 01:39:08.683] [info]  [01:39:08] [Render thread/WARN]: Missing metadata in pack file/�bSharpness 25k.zip
+[2024-01-24 01:39:08.688] [info]  [01:39:08] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[2024-01-24 01:39:08.689] [info]  [01:39:08] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[2024-01-24 01:39:08.696] [info]  [01:39:08] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 625 to 64
+[2024-01-24 01:39:08.701] [info]  [01:39:08] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 500 to 64
+[2024-01-24 01:39:08.704] [info]  [01:39:08] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[2024-01-24 01:39:09.195] [info]  [01:39:09] [Render thread/WARN]: Missing metadata in pack file/6lFear_Private.zip
+[2024-01-24 01:39:09.196] [info]  [01:39:09] [Render thread/WARN]: Missing metadata in pack file/BaseballBeans Vanilla.zip
+[2024-01-24 01:39:09.197] [info]  [01:39:09] [Render thread/WARN]: Missing metadata in pack file/�bSharpness 25k.zip
+[2024-01-24 01:39:09.213] [info]  [01:39:09] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 800 to 64
+[2024-01-24 01:39:09.217] [info]  [01:39:09] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[2024-01-24 01:39:09.219] [info]  [01:39:09] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[2024-01-24 01:39:09.226] [info]  [01:39:09] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 625 to 64
+[2024-01-24 01:39:09.231] [info]  [01:39:09] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 500 to 64
+[2024-01-24 01:39:09.233] [info]  [01:39:09] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[2024-01-24 01:39:24.317] [info]  [01:39:24] [Render thread/INFO]: [LC Microsoft Auth] Launcher version (as int): 321
+[2024-01-24 01:52:51.112] [info]  [01:52:51] [Render thread/INFO]: Stopping!

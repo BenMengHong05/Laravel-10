@@ -1,0 +1,30 @@
+{
+    "id": "35533a66-fbe4-4c9e-b96c-b47d7554e254",
+    "name": "Hoplite for Lunar Client",
+    "description": "Tailor-made list of popular mods to enhance your gameplay experience on Hoplite through Lunar Client, including in-game proximity voice chat.",
+    "gameVersion": "1.20.1",
+    "loader": [
+        "ichor",
+        "fabric"
+    ],
+    "type": "modrinth",
+    "state": "saved",
+    "configVersion": 1,
+    "modrinth": {
+        "projectId": "oVn5uNcU",
+        "selectedVersion": {
+            "versionId": "YpLsFEup",
+            "versionNumber": "0.0.4"
+        },
+        "installedVersions": [
+            {
+                "versionId": "YpLsFEup",
+                "versionNumber": "0.0.4"
+            }
+        ]
+    },
+    "lunar": {
+        "majorGameVersion": "1.20",
+        "module": "fabric"
+    }
+}

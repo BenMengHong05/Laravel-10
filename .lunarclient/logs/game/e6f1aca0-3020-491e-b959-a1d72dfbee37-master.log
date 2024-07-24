@@ -1,0 +1,335 @@
+[2024-06-21 23:19:31.653] [error] NOTE: Picked up JDK_JAVA_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-21 23:19:31.657] [error] Picked up JAVA_TOOL_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-21 23:19:31.657] [error] Picked up _JAVA_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-21 23:19:31.860] [info]  [23:19:31] [Genesis/main/INFO
+[2024-06-21 23:19:31.860] [info]  ] Found external file: Fabric-API-v1_21_0-0.100.1.jar
+[2024-06-21 23:19:31.863] [info]  [23:19:31] [Genesis/main
+[2024-06-21 23:19:31.864] [info]  /INFO] Found external file: Sodium-v1_21_0-0.5.9.jar
+[2024-06-21 23:19:31.865] [info]  [23:19:31] [Genesis/main/
+[2024-06-21 23:19:31.865] [info]  INFO] Found external file: Iris-v1_21_0-1.7.1.jar
+[2024-06-21 23:19:31.865] [info]  [23:19:31] [Genesis/main/INFO] Found external file: hypixel-quickplay-data.json
+[2024-06-21 23:19:31.865] [info]  [23:19:31] [Genesis/main/INFO] Found external file: hypixel-bedwars-data.json
+[2024-06-21 23:19:31.866] [info]  [23:19:31] [Genesis/main/INFO] Found external file: hypixel-skyblock-dungeon-rooms.json
+[2024-06-21 23:19:31.917] [info]  [23:19:31] [Genesis/main/INFO] Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 066b048ed2b02a814af31aa987e7b5d0e0f61bcc
+[2024-06-21 23:19:31.918] [info]  [23:19:31] [Genesis/main/INFO
+[2024-06-21 23:19:31.919] [info]  ] Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 28a38ca2951a5a3d14864038fd7c0b14d854cc00
+[2024-06-21 23:19:31.930] [info]  [23:19:31] [Genesis/main/INFO] Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 5acb844b73c492e6a58653cfa9a89eea9fc74e0f
+[2024-06-21 23:19:31.932] [info]  [23:19:31] [Genesis/main/INFO] Found classpath URL: lunar-lang.jar with SHA-1 hash b62ace71a2e3fbe72c5c5d98781a4a1099a178f4
+[2024-06-21 23:19:31.932] [info]  
+[2024-06-21 23:19:31.932] [info]  [23:19:31] [Genesis/main/INFO] Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+[2024-06-21 23:19:31.967] [info]  [23:19:31] [Genesis/main
+[2024-06-21 23:19:31.968] [info]  /INFO] Found classpath URL: lunar.jar with SHA-1 hash cba1e212029224212287e9a05651b905c1f712cd
+[2024-06-21 23:19:31.979] [info]  [23:19:31] [Genesis/main/INFO] Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash bb19e620daa7014ce79b156bad89e8de16a8b6ce
+[2024-06-21 23:19:31.982] [info]  [23:19:31] [Genesis/
+[2024-06-21 23:19:31.982] [info]  main/INFO] Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 74d30060a1f6851320b9bba9c70c2b7fd256f0eb
+[2024-06-21 23:19:32.606] [info]  [23:19:32] [Genesis/main/INFO] 
+[2024-06-21 23:19:32.606] [info]  Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+[2024-06-21 23:19:32.680] [info]  [23:19:32] [Genesis/GameBootstrap/main/INFO] Launching Minecraft 1.21 v1_21_0 (parsed from 1.21)
+[2024-06-21 23:19:33.280] [info]  [23:19:33] [Ichor+Fabric/main/INFO] Using custom local mod path: C:\Users\Asus\.lunarclient\profiles\9805af22-4032-42a9-91ec-97e451c42727\mods
+[2024-06-21 23:19:36.269] [info]  [23:19:36] [Ichor/main/WARN] Fabric Mod indium is missing an external file!
+[2024-06-21 23:19:36.398] [info]  [23:19:36] [Genesis/GameBootstrap/main/INFO
+[2024-06-21 23:19:36.399] [info]  ] Config hash: 3ed45d11  File hash: 92f72551
+[2024-06-21 23:19:36.413] [info]  [23:19:36] [Genesis/Baker/main/INFO] Found class cache: .\cache\3ed45d11\92f72551\bake.cache
+[2024-06-21 23:19:36.413] [info]  [23:19:36] [Genesis/Baker/main/INFO] Loading baked classes...
+[2024-06-21 23:19:37.677] [info]  [23:19:37] [Genesis/Baker/main/INFO] Loaded 23708 baked classes.
+[2024-06-21 23:19:38.144] [info]  LUNARCLIENT_STATUS_PREINIT
+[2024-06-21 23:19:38.145] [info]  [23:19:38] [Genesis/GameBootstrap/main/INFO] Starting game!
+[2024-06-21 23:19:38.498] [info]  [Bridge] Setting Bridge Implementation to com.moonsworth.lunar.IIIICORICOICIRRHCHIIHROIC.IOCOHCCRCOHRICRRHOOICHIHO
+[2024-06-21 23:19:38.622] [info]  [Bridge] Found textures dir: C:\Users\Asus\.lunarclient\textures
+[2024-06-21 23:19:39.392] [info]  [23:19:39] [Datafixer Bootstrap/INFO]: 226 Datafixer optimizations took 266 milliseconds
+[2024-06-21 23:19:44.445] [info]  [23:19:44] [main/INFO]: Completely ignored arguments: [--workingDirectory, ., --webosrDir, C:\Users\Asus\.lunarclient\offline\multiver\natives, --classpathDir, ., --ichorExternalFiles, Fabric-API-v1_21_0-0.100.1.jar,Sodium-v1_21_0-0.5.9.jar,Iris-v1_21_0-1.7.1.jar,hypixel-quickplay-data.json,hypixel-bedwars-data.json,hypixel-skyblock-dungeon-rooms.json, --ichorClassPath, common-0.1.0-SNAPSHOT-all.jar,lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar,genesis-0.1.0-SNAPSHOT-all.jar,lunar-lang.jar,lunar-emote.jar,lunar.jar,modern-0.1.0-SNAPSHOT-all.jar,lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar, --uiDir, C:\Users\Asus\.lunarclient\ui]
+[2024-06-21 23:19:44.586] [info]  [23:19:44
+[2024-06-21 23:19:44.587] [info]  ] [IchorPipeline/Render thread/
+[2024-06-21 23:19:44.587] [info]  INFO] Launching main ModInitializer
+[2024-06-21 23:19:44.588] [info]  [
+[2024-06-21 23:19:44.588] [info]  23:19:44] [IchorPipeline/Render thread/INFO] Launching Entrypoint(main) in Genesis
+[2024-06-21 23:19:44.588] [info]  [23:19:44] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.event.interaction.InteractionEventsRouter
+[2024-06-21 23:19:44.592] [info]  [23:19:44] [Ichor/Render thread/INFO
+[2024-06-21 23:19:44.593] [info]  ] Found Entrypoint(main) net.fabricmc.fabric.impl.screenhandler.Networking
+[2024-06-21 23:19:44.598] [info]  [23:19:44] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.networking.CommonPacketsImpl::init()
+[2024-06-21 23:19:44.606] [info]  [23:19:44] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.networking.NetworkingImpl::init()
+[2024-06-21 23:19:44.607] [info]  [23:19:44] [Ichor/Render thread/INFO
+[2024-06-21 23:19:44.607] [info]  ] Found Entrypoint(main) net.fabricmc.fabric.impl.tag.convention.v2.TranslationConventionLogWarnings
+[2024-06-21 23:19:44.608] [info]  [23:19:44] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.attachment.AttachmentEntrypoint
+[2024-06-21 23:19:44.614] [info]  [23:19:44] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.tag.convention.ConventionLogWarnings
+[2024-06-21 23:19:44.623] [info]  [23:19:44] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.resource.conditions.ResourceConditionsImpl
+[2024-06-21 23:19:44.631] [info]  [23:19:44] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.command.v1.LegacyHandler
+[2024-06-21 23:19:44.633] [info]  [23:19:44] [
+[2024-06-21 23:19:44.633] [info]  Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.event.lifecycle.LifecycleEventsImpl
+[2024-06-21 23:19:44.636] [info]  [23:19:44] [Ichor/Render thread/INFO] 
+[2024-06-21 23:19:44.636] [info]  Found Entrypoint(main) net.fabricmc.fabric.impl.registry.sync.FabricRegistryInit
+[2024-06-21 23:19:44.637] [info]  [23:19:44] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.recipe.ingredient.CustomIngredientInit
+[2024-06-21 23:19:44.641] [info]  [23:19:44] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.recipe.ingredient.CustomIngredientSync
+[2024-06-21 23:19:44.643] [info]  [23:19:44] [Ichor/Render thread/INFO] Found Entrypoint(main) net.fabricmc.fabric.impl.lookup.ApiLookupImpl
+[2024-06-21 23:19:44.646] [info]  [23:19:44] [IchorPipeline/Render thread/INFO] Entrypoint(main) had 12 invokes.
+[2024-06-21 23:19:44.647] [info]  [23:19:44] [IchorPipeline/Render thread/INFO] Launching client ClientModInitializer
+[2024-06-21 23:19:44.647] [info]  [23:19:44] [IchorPipeline/Render thread/INFO] Launching Entrypoint(client) in Genesis
+[2024-06-21 23:19:44.647] [info]  [23:19:44] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.event.interaction.client.InteractionEventsRouterClient
+[2024-06-21 23:19:44.648] [info]  [23:19:44] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.screenhandler.client.ClientNetworking
+[2024-06-21 23:19:44.648] [info]  [23:19:44] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.client.indigo.Indigo
+[2024-06-21 23:19:44.665] [info]  [23:19:44] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[2024-06-21 23:19:44.665] [info]  [23:19:44] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.networking.client.ClientNetworkingImpl::clientInit()
+[2024-06-21 23:19:44.676] [info]  [23:19:44] [Ichor/Render thread/INFO] Found Entrypoint(client) me.jellysquid.mods.sodium.client.SodiumClientMod
+[2024-06-21 23:19:44.740] [info]  [23:19:44] [Render thread/ERROR]: Failed to update fingerprint
+[2024-06-21 23:19:44.740] [info]  java.lang.NullPointerException: Cannot invoke "net.minecraft.client.User.getProfileId()" because the return value of "net.minecraft.client.Minecraft.getUser()" is null
+[2024-06-21 23:19:44.741] [info]  	at Genesis/me.jellysquid.mods.sodium.client.data.fingerprint.FingerprintMeasure.create(FingerprintMeasure.java:19) ~[?:?]
+[2024-06-21 23:19:44.741] [info]  	at Genesis/me.jellysquid.mods.sodium.client.SodiumClientMod.updateFingerprint(SodiumClientMod.java:97) ~[?:?]
+[2024-06-21 23:19:44.741] [info]  	at Genesis/me.jellysquid.mods.sodium.client.SodiumClientMod.onInitializeClient(SodiumClientMod.java:40) ~[?:?]
+[2024-06-21 23:19:44.741] [info]  	at com.moonsworth.lunar.ichor.IOCOHCCRCOHRICRRHOOICHIHO.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source) ~[genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-21 23:19:44.742] [info]  	at com.moonsworth.lunar.ichor.IRCIHCHCCHHOCORRHRCCORROC.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source) ~[genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-21 23:19:44.742] [info]  	at Genesis/net.minecraft.client.Minecraft.mdf74395$lambda$ichor$fabric$clientInitializer$0$9(SourceFile:4876) ~[?:?]
+[2024-06-21 23:19:44.742] [info]  	at java.base/java.util.Optional.ifPresentOrElse(Unknown Source) [?:?]
+[2024-06-21 23:19:44.742] [info]  	at Genesis/net.minecraft.client.Minecraft.handler$zjo000$ichor$fabric$clientInitializer(SourceFile:4874) [?:?]
+[2024-06-21 23:19:44.743] [info]  	at Genesis/net.minecraft.client.Minecraft.<init>(SourceFile:441) [?:?]
+[2024-06-21 23:19:44.743] [info]  	at Genesis/net.minecraft.client.main.Main.redirect$zbe000$impl$main$minecraft(SourceFile:656) [?:?]
+[2024-06-21 23:19:44.743] [info]  	at Genesis/net.minecraft.client.main.Main.main(SourceFile:239) [?:?]
+[2024-06-21 23:19:44.743] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+[2024-06-21 23:19:44.744] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+[2024-06-21 23:19:44.744] [info]  	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-21 23:19:44.744] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+[2024-06-21 23:19:44.744] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+[2024-06-21 23:19:44.744] [info]  	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-21 23:19:44.745] [info]  	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-21 23:19:44.745] [info]  	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-21 23:19:44.745] [info]  [23:19:44] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.client.rendering.v0.RenderingCallbackInvoker
+[2024-06-21 23:19:44.746] [info]  [23:19:44] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.client.event.lifecycle.ClientLifecycleEventsImpl
+[2024-06-21 23:19:44.746] [info]  [23:19:44] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.client.registry.sync.FabricRegistryClientInit
+[2024-06-21 23:19:44.748] [info]  [23:19:44] [Ichor/Render thread/INFO] Found Entrypoint(client) net.fabricmc.fabric.impl.recipe.ingredient.client.CustomIngredientSyncClient
+[2024-06-21 23:19:44.749] [info]  [23:19:44] [IchorPipeline/Render thread/INFO] Entrypoint(client) had 8 invokes.
+[2024-06-21 23:19:44.891] [info]  [23:19:44] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[2024-06-21 23:19:44.904] [info]  [23:19:44] [Render thread/INFO]: Setting user: Player600
+[2024-06-21 23:19:44.966] [info]  [23:19:44] [Render thread/INFO]: [LC] Loaded File: Options
+[2024-06-21 23:19:44.995] [info]  [23:19:44] [ForkJoinPool.commonPool-worker-1/WARN]: [Iris Update Check] Cached update file detected, using that!
+[2024-06-21 23:19:45.387] [info]  [23:19:45] [Render thread/INFO]: Backend library: LWJGL version 3.3.3-snapshot
+[2024-06-21 23:19:45.971] [info]  [23:19:45] [Render thread/INFO]: [STDOUT]: LUNARCLIENT_STATUS_INIT
+[2024-06-21 23:19:46.041] [info]  [23:19:46] [Render thread/INFO]: Debug functionality is disabled.
+[2024-06-21 23:19:46.043] [info]  [23:19:46] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[2024-06-21 23:19:46.049] [info]  [23:19:46] [Render thread/INFO]: Shaders are disabled because no valid shaderpack is selected
+[2024-06-21 23:19:46.097] [info]  [23:19:46] [Render thread/WARN]: Missing metadata in pack file/Cleanestpvppack.zip
+[2024-06-21 23:19:46.098] [info]  [23:19:46] [Render thread/WARN]: Missing metadata in pack file/Cold.zip
+[2024-06-21 23:19:46.100] [info]  [23:19:46] [Render thread/WARN]: Missing metadata in pack file/§bSharpness 25k.zip
+[2024-06-21 23:19:46.100] [info]  [23:19:46] [Render thread/WARN]: Missing metadata in pack file/§c§ GlitchCPVP pack.zip
+[2024-06-21 23:19:46.107] [info]  [23:19:46] [Render thread/WARN]: Removed resource pack file/§eItzRealMes Overlay.zip from options because it is no longer compatible
+[2024-06-21 23:19:46.431] [info]  [23:19:46] [Render thread/INFO]: Hardware information:
+[2024-06-21 23:19:46.432] [info]  [23:19:46] [Render thread/INFO]: CPU: 16x AMD Ryzen 7 6800HS with Radeon Graphics 
+[2024-06-21 23:19:46.432] [info]  [23:19:46] [Render thread/INFO]: GPU: AMD Radeon(TM) Graphics (Supports OpenGL 3.2.0 Core Profile Context 22.40.84.06.231130)
+[2024-06-21 23:19:46.432] [info]  [23:19:46] [Render thread/INFO]: OS: Windows 11 (10.0)
+[2024-06-21 23:19:47.073] [info]  [23:19:47] [Render thread/INFO]: Reloading ResourceManager: lunar, vanilla, fabric, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, iris, sodium, file/FMDO.zip
+[2024-06-21 23:19:47.175] [info]  [23:19:47] [Render thread/INFO]: [STDOUT]: [Bridge] Setting Minecraft Client instance to net.minecraft.client.Minecraft
+[2024-06-21 23:19:47.229] [info]  [23:19:47] [Worker-Main-2/INFO]: Found unifont_all_no_pua-15.1.05.hex, loading
+[2024-06-21 23:19:47.229] [info]  [23:19:47] [Worker-Main-15/INFO]: Found unifont_jp_patch-15.1.05.hex, loading
+[2024-06-21 23:19:48.543] [info]  [23:19:48] [Ichor/Render thread/INFO] Creating MultiBridgeModern instance: CRCIRCHCIOCCIHRCHCHOHICRI
+[2024-06-21 23:19:48.649] [info]  [23:19:48] [Render thread/INFO]: [LC] Starting Lunar client...
+[2024-06-21 23:19:48.906] [info]  [23:19:48] [Render thread/INFO]: [LC] Loading RCOIIRRHOORIOROOROICRHHOR...
+[2024-06-21 23:19:48.912] [info]  [23:19:48] [Render thread/INFO]: [LC] Loading CIOCCOCHORHIOCCRHOROCHORC...
+[2024-06-21 23:19:49.290] [info]  [23:19:49] [Render thread/INFO]: [LC] Loading IOCOHCCRCOHRICRRHOOICHIHO...
+[2024-06-21 23:19:49.291] [info]  [23:19:49] [Render thread/INFO]: [LC] Loading HCCRHOOCOROIOOIIRIIIRCHOC...
+[2024-06-21 23:19:49.292] [info]  [23:19:49] [Render thread/INFO]: [LC Lang] Couldn't get a valid language so we're setting it to ENGLISH.
+[2024-06-21 23:19:49.293] [info]  [23:19:49] [Render thread/INFO]: [LC Lang] Language set as ENGLISH (en_US).
+[2024-06-21 23:19:49.293] [info]  [23:19:49] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-21 23:19:49.295] [info]  [23:19:49] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-21 23:19:49.326] [info]  [23:19:49] [Render thread/INFO]: [LC] Loading ORIIIRHHROIRHOCOOOIOORIOC...
+[2024-06-21 23:19:49.462] [info]  [23:19:49] [Render thread/INFO]: [LC] Loading ROCROOOIIOIRHIIRRCRRHRICO...
+[2024-06-21 23:19:50.128] [info]  [23:19:50] [Render thread/INFO]: [LC] Loading OCIOHHHRIHOIHCRHICIIRCIIR...
+[2024-06-21 23:19:50.131] [info]  [23:19:50] [Render thread/INFO]: [LC] Loading RHCRCHHICCCIIHIIIHIIRROOO...
+[2024-06-21 23:19:50.132] [info]  [23:19:50] [Render thread/INFO]: [LC] Loading CRCIRCHCIOCCIHRCHCHOHICRI...
+[2024-06-21 23:19:50.133] [info]  [23:19:50] [Render thread/INFO]: [LC] Loading HHRIIHHROCICOCHRCICRIOHRH...
+[2024-06-21 23:19:50.137] [info]  [23:19:50] [Render thread/INFO]: [LC] Loading IHCRIIIICOROROOCCIHHHHCRI...
+[2024-06-21 23:19:50.140] [info]  [23:19:50] [Render thread/INFO]: [LC] Loading IOCOHCCRCOHRICRRHOOICHIHO...
+[2024-06-21 23:19:50.143] [info]  [23:19:50] [Render thread/INFO]: [LC] Loading ICHIRCHRHOCCOHHORCHICRHOI...
+[2024-06-21 23:19:50.157] [info]  [23:19:50] [Render thread/INFO]: [LC] Loading CCOCCHORCHCOCCROCHOIOICOI...
+[2024-06-21 23:19:50.158] [info]  [23:19:50] [Render thread/INFO]: [LC] Loading CCIIHHRHCCHRRHROOHIOCHOCC...
+[2024-06-21 23:19:50.158] [info]  [23:19:50] [Render thread/INFO]: [LC] Loading OHHHOIOOOOIOCHRICROCCHCIH...
+[2024-06-21 23:19:50.159] [info]  [23:19:50] [Render thread/INFO]: [LC] Loading IIOOIICCICOCHCIIHOHRCHICO...
+[2024-06-21 23:19:50.166] [info]  [23:19:50] [Render thread/INFO]: [LC] Loading IIIICORICOICIRRHCHIIHROIC...
+[2024-06-21 23:19:50.209] [info]  [23:19:50] [Render thread/WARN]: [LC] Couldn't find dev cosmetics file: cosmetics/dev_cosmetics.json
+[2024-06-21 23:19:50.353] [info]  [23:19:50] [Render thread/INFO]: [LC] Loading OCRCIRRIRCHCHIORHOHICRRIC...
+[2024-06-21 23:19:50.355] [info]  [23:19:50] [Render thread/INFO]: [LC] Loading CORORICIOIOHIICRIHIRIORCC...
+[2024-06-21 23:19:50.363] [info]  [23:19:50] [Render thread/INFO]: [LC] Loading IRHIIORRHIIOOIICRHCOCOIRO...
+[2024-06-21 23:19:50.369] [info]  [23:19:50] [Render thread/INFO]: [LC] Loading CRCIRCHCIOCCIHRCHCHOHICRI...
+[2024-06-21 23:19:50.370] [info]  [23:19:50] [Render thread/INFO]: [LC] Loading IOCOHCCRCOHRICRRHOOICHIHO...
+[2024-06-21 23:19:50.371] [info]  [23:19:50] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[2024-06-21 23:19:50.517] [info]  [23:19:50] [Render thread/INFO]: [LC] Finished making managers.
+[2024-06-21 23:19:50.517] [info]  [23:19:50] [Render thread/INFO]: [LC] Setting up listeners...
+[2024-06-21 23:19:50.600] [info]  [23:19:50] [Render thread/INFO]: [LC] Setting up fixes...
+[2024-06-21 23:19:50.625] [info]  [23:19:50] [WebSocketConnectReadThread-111/INFO]: [LC IPC] Connection established
+[2024-06-21 23:19:51.454] [info]  [23:19:51] [Render thread/ERROR]: [LC ThirdParty] Couldn't load third party mods
+[2024-06-21 23:19:51.454] [info]  [23:19:51] [Render thread/INFO]: [LC Lang] Language set as ENGLISH (en_US).
+[2024-06-21 23:19:51.455] [info]  [23:19:51] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-21 23:19:51.457] [info]  [23:19:51] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-21 23:19:51.477] [info]  [23:19:51] [Render thread/INFO]: [LC Ichor] Disabling ReplayMod because there is no valid link.
+[2024-06-21 23:19:51.478] [info]  [23:19:51] [Render thread/INFO]: [LC Ichor] Disabling NEU because there is no valid link.
+[2024-06-21 23:19:51.478] [info]  [23:19:51] [Render thread/INFO]: [LC Ichor] Disabling SBA because there is no valid link.
+[2024-06-21 23:19:51.479] [info]  [23:19:51] [Render thread/INFO]: [LC] Lunar.start
+[2024-06-21 23:19:51.479] [info]  [23:19:51] [Render thread/INFO]: [LC Accounts] Attempting to load account [04f44ced712a4c3a9fdd0c02a755b9db]
+[2024-06-21 23:19:51.483] [info]  [23:19:51] [Render thread/INFO]: [LC Accounts] Loaded content for [MengHong001] Token IAT
+[2024-06-21 23:19:51.483] [info]  [23:19:51] [Render thread/INFO]: [LC Accounts] Setting currentAccount to what was on disk: MengHong001
+[2024-06-21 23:19:51.484] [info]  [23:19:51] [Render thread/INFO]: [LC Accounts] Setting account 'MengHong001' as the current session.
+[2024-06-21 23:19:51.484] [info]  [23:19:51] [Render thread/INFO]: [LC] Setting user: MengHong001
+[2024-06-21 23:19:51.486] [info]  [23:19:51] [Thread-12/INFO]: [LC Assets] Establishing connection
+[2024-06-21 23:19:51.487] [info]  [23:19:51] [Thread-12/INFO]: [LC Assets] Connecting to Authenticator to obtain JWT, no previous connection.
+[2024-06-21 23:19:51.526] [info]  [23:19:51] [Thread-12/INFO]: [LC Authentication] Instantiate
+[2024-06-21 23:19:51.814] [info]  [23:19:51] [WebSocketConnectReadThread-117/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[2024-06-21 23:19:52.037] [info]  [23:19:52] [Render thread/INFO]: [LC Accounts] Removed all accounts [0 count]
+[2024-06-21 23:19:52.044] [info]  [23:19:52] [Render thread/INFO]: [LC Accounts] Starting Refreshing MengHong001 with 66631957ms till expired (Valid: true).
+[2024-06-21 23:19:52.045] [info]  [23:19:52] [Render thread/INFO]: [LC Accounts] Refreshing MengHong001 (Valid: true).
+[2024-06-21 23:19:53.028] [info]  [23:19:53] [Render thread/INFO]: [LC Lang] Language set as ENGLISH (en_US).
+[2024-06-21 23:19:53.029] [info]  [23:19:53] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-21 23:19:53.032] [info]  [23:19:53] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-06-21 23:19:53.590] [info]  [23:19:53] [WebSocketConnectReadThread-117/INFO]: [LC Assets] Instantiate
+[2024-06-21 23:19:53.618] [info]  [23:19:53] [WebSocketConnectReadThread-117/INFO]: [LC Auth] Connection closed (1000, "Issued.")
+[2024-06-21 23:19:53.994] [info]  [23:19:53] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-06-21 23:19:53.995] [info]  [23:19:53] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-06-21 23:19:53.995] [info]  [23:19:53] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-06-21 23:19:53.995] [info]  [23:19:53] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-06-21 23:19:53.996] [info]  [23:19:53] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-06-21 23:19:53.996] [info]  [23:19:53] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-06-21 23:19:54.047] [info]  [23:19:54] [Render thread/ERROR]: [LC Cosmetics] Could not load the model at lunar:cosmetics/models/bodywear/katanasheathed/katanasheathed.obj for cosmetic katanasheathed since it does not exist
+[2024-06-21 23:19:54.891] [info]  [23:19:54] [WebSocketConnectReadThread-133/INFO]: [LC Assets] Connection established as MengHong001
+[2024-06-21 23:19:54.934] [info]  [23:19:54] [Render thread/WARN]: [LC] Couldn't find geckolib cosmetic file: lunar:cosmetics/models/gek/wings/bat_wings/bat_wings.gek.json
+[2024-06-21 23:19:55.073] [info]  [23:19:55] [Render thread/WARN]: [LC] Couldn't find geckolib cosmetic file: lunar:space_backpack
+[2024-06-21 23:19:55.074] [info]  [23:19:55] [Render thread/INFO]: [LC] Loaded geckolib cosmetics.
+[2024-06-21 23:19:55.074] [info]  [23:19:55] [Render thread/INFO]: [LC] Loading cosmetic compatibility json
+[2024-06-21 23:19:55.107] [info]  [23:19:55] [Render thread/INFO]: [LC] Compiled cosmetic compatability presets
+[2024-06-21 23:19:55.116] [info]  [23:19:55] [Render thread/INFO]: [LC] Launching
+[2024-06-21 23:19:55.117] [info]  [23:19:55] [Render thread/INFO]: [LC] Finished Lunar initialization.
+[2024-06-21 23:19:55.117] [info]  [23:19:55] [Render thread/INFO]: [LC] LUNARCLIENT_STATUS_STARTED
+[2024-06-21 23:19:55.415] [info]  [23:19:55] [ForkJoinPool.commonPool-worker-1/INFO]: [LC Accounts] Finished refreshing MengHong001 (Valid: true).
+[2024-06-21 23:19:55.416] [info]  [23:19:55] [ForkJoinPool.commonPool-worker-1/INFO]: [LC Accounts] Finished refreshing the current account. 0 accounts left.
+[2024-06-21 23:19:55.417] [info]  [23:19:55] [ForkJoinPool.commonPool-worker-1/INFO]: [LC Accounts] Logging into account MengHong001 
+[2024-06-21 23:19:55.417] [info]  [23:19:55] [ForkJoinPool.commonPool-worker-1/INFO]: [LC Accounts] Setting account 'MengHong001' as the current session.
+[2024-06-21 23:19:55.417] [info]  [23:19:55] [ForkJoinPool.commonPool-worker-1/INFO]: [LC] Setting user: MengHong001
+[2024-06-21 23:19:55.596] [info]  [23:19:55] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[2024-06-21 23:19:55.597] [info]  [23:19:55] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[2024-06-21 23:19:55.992] [info]  [23:19:55] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[2024-06-21 23:19:55.993] [info]  [23:19:55] [Render thread/INFO]: Sound engine started
+[2024-06-21 23:19:56.081] [info]  [23:19:56] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[2024-06-21 23:19:56.090] [info]  [23:19:56] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[2024-06-21 23:19:56.091] [info]  [23:19:56] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[2024-06-21 23:19:56.091] [info]  [23:19:56] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[2024-06-21 23:19:56.094] [info]  [23:19:56] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[2024-06-21 23:19:56.102] [info]  [23:19:56] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[2024-06-21 23:19:56.102] [info]  [23:19:56] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[2024-06-21 23:19:56.103] [info]  [23:19:56] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[2024-06-21 23:19:56.103] [info]  [23:19:56] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[2024-06-21 23:19:56.208] [info]  [23:19:56] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[2024-06-21 23:19:56.209] [info]  [23:19:56] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[2024-06-21 23:19:56.210] [info]  [23:19:56] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[2024-06-21 23:19:56.210] [info]  [23:19:56] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[2024-06-21 23:19:56.211] [info]  [23:19:56] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[2024-06-21 23:19:56.263] [info]  [23:19:56] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[2024-06-21 23:20:10.032] [info]  [23:20:10] [Render thread/INFO]: Loaded 1290 recipes
+[2024-06-21 23:20:10.175] [info]  [23:20:10] [Render thread/INFO]: Loaded 1399 advancements
+[2024-06-21 23:20:10.498] [info]  [23:20:10] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.170 ms
+[2024-06-21 23:20:10.502] [info]  [23:20:10] [Server thread/INFO]: Starting integrated minecraft server version 1.21
+[2024-06-21 23:20:10.503] [info]  [23:20:10] [Server thread/INFO]: Generating keypair
+[2024-06-21 23:20:11.233] [info]  [23:20:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[2024-06-21 23:20:11.506] [info]  [23:20:11] [Render thread/INFO]: Preparing spawn area: 0%
+[2024-06-21 23:20:11.651] [info]  [23:20:11] [Render thread/INFO]: Time elapsed: 416 ms
+[2024-06-21 23:20:11.764] [info]  [23:20:11] [Server thread/INFO]: Changing view distance to 2, from 10
+[2024-06-21 23:20:11.765] [info]  [23:20:11] [Server thread/INFO]: Changing simulation distance to 5, from 0
+[2024-06-21 23:20:12.650] [info]  [23:20:12] [Server thread/INFO]: MengHong001[local:E:0f40862e] logged in with entity id 86 at (-40.5766476626873, 63.0, 16.070499297599277)
+[2024-06-21 23:20:12.682] [info]  [23:20:12] [Server thread/WARN]: Received invalid channel identifier "lunarclient:pm"
+[2024-06-21 23:20:12.688] [info]  [23:20:12] [Render thread/INFO]: Reloading pipeline on dimension change: null => minecraft:overworld
+[2024-06-21 23:20:12.689] [info]  [23:20:12] [Render thread/INFO]: Creating pipeline for dimension minecraft:overworld
+[2024-06-21 23:20:12.717] [info]  [23:20:12] [Server thread/INFO]: MengHong001 joined the game
+[2024-06-21 23:20:12.889] [info]  [23:20:12] [Render thread/INFO]: Started 10 worker threads
+[2024-06-21 23:20:13.042] [info]  [23:20:13] [Render thread/INFO]: Stopping worker threads
+[2024-06-21 23:20:13.064] [info]  [23:20:13] [Render thread/INFO]: Started 10 worker threads
+[2024-06-21 23:20:13.101] [info]  [23:20:13] [Render thread/INFO]: Loaded 54 advancements
+[2024-06-21 23:20:26.588] [info]  [23:20:26] [Server thread/INFO]: Saving and pausing game...
+[2024-06-21 23:20:26.604] [info]  [23:20:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:overworld
+[2024-06-21 23:20:26.619] [info]  [23:20:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_end
+[2024-06-21 23:20:26.646] [info]  [23:20:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_nether
+[2024-06-21 23:20:30.980] [info]  [23:20:30] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-06-21 23:20:32.490] [info]  [23:20:32] [Render thread/INFO]: Stopping worker threads
+[2024-06-21 23:20:32.493] [info]  [23:20:32] [Render thread/INFO]: Started 10 worker threads
+[2024-06-21 23:20:37.580] [info]  [23:20:37] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-06-21 23:20:38.409] [info]  [23:20:38] [Render thread/INFO]: Stopping worker threads
+[2024-06-21 23:20:38.412] [info]  [23:20:38] [Render thread/INFO]: Started 10 worker threads
+[2024-06-21 23:20:38.414] [info]  [23:20:38] [Render thread/INFO]: Stopping worker threads
+[2024-06-21 23:20:38.416] [info]  [23:20:38] [Render thread/INFO]: Started 10 worker threads
+[2024-06-21 23:21:00.838] [info]  [23:21:00] [Server thread/INFO]: Saving and pausing game...
+[2024-06-21 23:21:00.846] [info]  [23:21:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:overworld
+[2024-06-21 23:21:00.850] [info]  [23:21:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_end
+[2024-06-21 23:21:00.851] [info]  [23:21:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_nether
+[2024-06-21 23:21:07.439] [info]  [23:21:07] [Server thread/INFO]: Saving and pausing game...
+[2024-06-21 23:21:07.445] [info]  [23:21:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:overworld
+[2024-06-21 23:21:07.450] [info]  [23:21:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_end
+[2024-06-21 23:21:07.451] [info]  [23:21:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_nether
+[2024-06-21 23:21:08.986] [info]  [23:21:08] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-06-21 23:21:09.837] [info]  [23:21:09] [Render thread/INFO]: Stopping worker threads
+[2024-06-21 23:21:09.839] [info]  [23:21:09] [Render thread/INFO]: Started 10 worker threads
+[2024-06-21 23:21:09.841] [info]  [23:21:09] [Render thread/INFO]: Stopping worker threads
+[2024-06-21 23:21:09.843] [info]  [23:21:09] [Render thread/INFO]: Started 10 worker threads
+[2024-06-21 23:21:46.050] [info]  [23:21:46] [Render thread/WARN]: Failed to load texture: minecraft:textures/gui/icons.png
+[2024-06-21 23:21:46.051] [info]  java.io.FileNotFoundException: minecraft:textures/gui/icons.png
+[2024-06-21 23:21:46.051] [info]  	at Genesis/net.minecraft.server.packs.resources.ResourceProvider.lambda$getResourceOrThrow$1(SourceFile:23) ~[?:?]
+[2024-06-21 23:21:46.051] [info]  	at java.base/java.util.Optional.orElseThrow(Unknown Source) ~[?:?]
+[2024-06-21 23:21:46.051] [info]  	at Genesis/net.minecraft.server.packs.resources.ResourceProvider.getResourceOrThrow(SourceFile:23) ~[?:?]
+[2024-06-21 23:21:46.052] [info]  	at Genesis/net.minecraft.client.renderer.texture.SimpleTexture$TextureImage.load(SourceFile:83) ~[?:?]
+[2024-06-21 23:21:46.052] [info]  	at Genesis/net.minecraft.client.renderer.texture.SimpleTexture.getTextureImage(SourceFile:58) ~[?:?]
+[2024-06-21 23:21:46.052] [info]  	at Genesis/net.minecraft.client.renderer.texture.SimpleTexture.load(SourceFile:29) ~[?:?]
+[2024-06-21 23:21:46.052] [info]  	at Genesis/net.minecraft.client.renderer.texture.TextureManager.loadTexture(SourceFile:96) ~[?:?]
+[2024-06-21 23:21:46.052] [info]  	at Genesis/net.minecraft.client.renderer.texture.TextureManager.register(SourceFile:68) ~[?:?]
+[2024-06-21 23:21:46.053] [info]  	at Genesis/net.minecraft.client.renderer.texture.TextureManager._bind(SourceFile:61) ~[?:?]
+[2024-06-21 23:21:46.053] [info]  	at Genesis/net.minecraft.client.renderer.texture.TextureManager.bindForSetup(SourceFile:51) ~[?:?]
+[2024-06-21 23:21:46.053] [info]  	at Genesis/net.minecraft.client.renderer.texture.TextureManager.bridge$bindTexture(SourceFile:559) ~[?:?]
+[2024-06-21 23:21:46.053] [info]  	at Genesis/com.moonsworth.lunar.client.CCOCCHORCHCOCCROCHOIOICOI.IOCOHCCRCOHRICRRHOOICHIHO.HRIROOCRRICCRIOOHOIOCCOCH.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source) ~[?:?]
+[2024-06-21 23:21:46.053] [info]  	at Genesis/com.moonsworth.lunar.client.IIIICORICOICIRRHCHIIHROIC.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source) ~[?:?]
+[2024-06-21 23:21:46.054] [info]  	at Genesis/net.minecraft.client.gui.Gui.lunar$renderHealthBarEvent(SourceFile:2087) ~[?:?]
+[2024-06-21 23:21:46.054] [info]  	at Genesis/net.minecraft.client.gui.Gui.handler$zef000$lunar$renderPlayerHealth(SourceFile:2082) ~[?:?]
+[2024-06-21 23:21:46.054] [info]  	at Genesis/net.minecraft.client.gui.Gui.renderPlayerHealth(SourceFile:902) ~[?:?]
+[2024-06-21 23:21:46.054] [info]  	at Genesis/net.minecraft.client.gui.Gui.renderHotbarAndDecorations(SourceFile:541) ~[?:?]
+[2024-06-21 23:21:46.055] [info]  	at Genesis/net.minecraft.client.gui.LayeredDraw.renderInner(SourceFile:36) ~[?:?]
+[2024-06-21 23:21:46.055] [info]  	at Genesis/net.minecraft.client.gui.LayeredDraw.lambda$add$0(SourceFile:22) ~[?:?]
+[2024-06-21 23:21:46.055] [info]  	at Genesis/net.minecraft.client.gui.LayeredDraw.renderInner(SourceFile:36) ~[?:?]
+[2024-06-21 23:21:46.055] [info]  	at Genesis/net.minecraft.client.gui.LayeredDraw.render(SourceFile:29) ~[?:?]
+[2024-06-21 23:21:46.055] [info]  	at Genesis/net.minecraft.client.gui.Gui.render(SourceFile:218) ~[?:?]
+[2024-06-21 23:21:46.056] [info]  	at Genesis/net.minecraft.client.renderer.GameRenderer.mdf74395$lambda$lunar$renderGui$0$c(SourceFile:2267) ~[?:?]
+[2024-06-21 23:21:46.056] [info]  	at Genesis/com.moonsworth.lunar.client.CCIIHHRHCCHRRHROOHIOCHOCC.RHOCIORRHROCOHOOCRHHRRHCI.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source) [?:?]
+[2024-06-21 23:21:46.056] [info]  	at Genesis/net.minecraft.client.renderer.GameRenderer.lunar$renderGui(SourceFile:2265) [?:?]
+[2024-06-21 23:21:46.056] [info]  	at Genesis/net.minecraft.client.renderer.GameRenderer.redirect$zgh000$lunar$renderGui$v1_21(SourceFile:2181) [?:?]
+[2024-06-21 23:21:46.056] [info]  	at Genesis/net.minecraft.client.renderer.GameRenderer.render(SourceFile:896) [?:?]
+[2024-06-21 23:21:46.057] [info]  	at Genesis/net.minecraft.client.Minecraft.runTick(SourceFile:1285) [?:?]
+[2024-06-21 23:21:46.057] [info]  	at Genesis/net.minecraft.client.Minecraft.run(SourceFile:882) [?:?]
+[2024-06-21 23:21:46.057] [info]  	at Genesis/net.minecraft.client.main.Main.main(SourceFile:256) [?:?]
+[2024-06-21 23:21:46.057] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+[2024-06-21 23:21:46.057] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+[2024-06-21 23:21:46.058] [info]  	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-21 23:21:46.058] [info]  	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?]
+[2024-06-21 23:21:46.058] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+[2024-06-21 23:21:46.058] [info]  	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-21 23:21:46.058] [info]  	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-21 23:21:46.059] [info]  	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-06-21 23:21:47.844] [info]  [23:21:47] [Render thread/INFO]: Loaded 74 advancements
+[2024-06-21 23:21:54.539] [info]  [23:21:54] [Server thread/INFO]: Saving and pausing game...
+[2024-06-21 23:21:54.546] [info]  [23:21:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:overworld
+[2024-06-21 23:21:54.555] [info]  [23:21:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_end
+[2024-06-21 23:21:54.558] [info]  [23:21:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_nether
+[2024-06-21 23:22:10.433] [info]  [23:22:10] [Render thread/INFO]: Stopping worker threads
+[2024-06-21 23:22:10.437] [info]  [23:22:10] [Render thread/INFO]: Started 10 worker threads
+[2024-06-21 23:22:10.439] [info]  [23:22:10] [Render thread/INFO]: Flushed changes to Sodium configuration
+[2024-06-21 23:22:20.644] [info]  [23:22:20] [Render thread/INFO]: Loaded 81 advancements
+[2024-06-21 23:22:22.094] [info]  [23:22:22] [Render thread/INFO]: Loaded 81 advancements
+[2024-06-21 23:22:24.694] [info]  [23:22:24] [Render thread/INFO]: Loaded 81 advancements
+[2024-06-21 23:22:27.140] [info]  [23:22:27] [Server thread/INFO]: Saving and pausing game...
+[2024-06-21 23:22:27.147] [info]  [23:22:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:overworld
+[2024-06-21 23:22:27.158] [info]  [23:22:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_end
+[2024-06-21 23:22:27.161] [info]  [23:22:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_nether
+[2024-06-21 23:22:27.690] [info]  [23:22:27] [Server thread/INFO]: MengHong001 lost connection: Disconnected
+[2024-06-21 23:22:27.691] [info]  [23:22:27] [Server thread/INFO]: MengHong001 left the game
+[2024-06-21 23:22:27.698] [info]  [23:22:27] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[2024-06-21 23:22:27.739] [info]  [23:22:27] [Server thread/INFO]: Stopping server
+[2024-06-21 23:22:27.740] [info]  [23:22:27] [Server thread/INFO]: Saving players
+[2024-06-21 23:22:27.740] [info]  [23:22:27] [Server thread/INFO]: Saving worlds
+[2024-06-21 23:22:27.772] [info]  [23:22:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:overworld
+[2024-06-21 23:22:27.823] [info]  [23:22:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_end
+[2024-06-21 23:22:27.824] [info]  [23:22:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MengHong001]'/minecraft:the_nether
+[2024-06-21 23:22:27.828] [info]  [23:22:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (MengHong001): All chunks are saved
+[2024-06-21 23:22:27.829] [info]  [23:22:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[2024-06-21 23:22:27.829] [info]  [23:22:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[2024-06-21 23:22:27.829] [info]  [23:22:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[2024-06-21 23:22:27.856] [info]  [23:22:27] [Render thread/INFO]: Stopping worker threads
+[2024-06-21 23:22:45.082] [info]  [23:22:45] [Render thread/INFO]: Stopping!
+[2024-06-21 23:22:45.083] [info]  [23:22:45] [WebSocketConnectReadThread-111/INFO]: [LC IPC] Connection closed (1000, "")

@@ -1,0 +1,948 @@
+[2024-02-10 23:58:50.535] [error] NOTE: Picked up JDK_JAVA_OPTIONS: -XX:+DisableAttachMechanism
+[2024-02-10 23:58:50.566] [error] Picked up JAVA_TOOL_OPTIONS: -XX:+DisableAttachMechanism
+[2024-02-10 23:58:50.567] [error] Picked up _JAVA_OPTIONS: -XX:+DisableAttachMechanism
+[2024-02-10 23:58:50.808] [info]  [23:58:50] [Genesis/main/INFO] Launching Minecraft 1.20.1 v1_20_1 (parsed from 1.20.1)
+[2024-02-10 23:58:50.809] [info]  
+[2024-02-10 23:58:50.815] [info]  [23:58:50] [Genesis/main/INFO] Found external file: Fabric-API-v1_20_1-0.90.7.jar
+[2024-02-10 23:58:50.817] [info]  [23:58:50] [Genesis/main/INFO] Found external file: ReplayMod-v1_20_1-2.6.14.jar
+[2024-02-10 23:58:50.817] [info]  [23:58:50] [Genesis/main/INFO] Found external file: FerriteCore-v1_20_1-6.0.0.jar
+[2024-02-10 23:58:50.818] [info]  [23:58:50] [Genesis/main/INFO] Found external file: Lithium-v1_20_1-0.11.2.jar
+[2024-02-10 23:58:50.818] [info]  [23:58:50] [Genesis/main/INFO] Found external file: Noxesium-v1_20_1-1.0.3.jar
+[2024-02-10 23:58:50.819] [info]  [
+[2024-02-10 23:58:50.819] [info]  23:58:50] [Genesis/main/INFO] Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+[2024-02-10 23:58:50.820] [info]  [23:58:50] [Genesis/main/INFO] Found external file: Sodium-v1_20_1-0.5.3.jar
+[2024-02-10 23:58:50.820] [info]  [23:58:50] [Genesis/main/INFO] Found external file: Indium-v1_20_1-1.0.27.jar
+[2024-02-10 23:58:50.821] [info]  [23:58:50] [Genesis/main/INFO] Found external file: Iris-v1_20_1-1.6.10.jar
+[2024-02-10 23:58:50.828] [info]  [23:58:50] [IchorPipeline/main/INFO] Creating pipeline for v1_20_1 with [ALL, PRE_INIT, PRE_FORGE_PATCH, FORGE_PATCH, POST_FORGE_PATCH, PRE_OPTIFINE_PATCH, OPTIFINE_PATCH, POST_OPTIFINE_PATCH, INIT, INITIAL_REMAP, EXTERNAL_REMAP, PRE_META_MIXIN, META_MIXIN, POST_META_MIXIN, PRE_MIXIN, MIXIN, POST_MIXIN, OBFUSCATION, FINAL]
+[2024-02-10 23:59:02.698] [info]  [23:59:02] [Genesis/main/INFO] 
+[2024-02-10 23:59:02.699] [info]  Config hash: 687f5669  File hash: b95db31c
+[2024-02-10 23:59:02.699] [info]  [23:59:02] [Genesis/main/INFO] Missing class cache: .\cache\687f5669\b95db31c\prebake.cache
+[2024-02-10 23:59:02.700] [info]  [23:59:02] [Genesis/main/INFO] Prebaking classes...
+[2024-02-10 23:59:02.700] [info]  LUNARCLIENT_STATUS_BUILD_CACHE
+[2024-02-10 23:59:02.707] [info]  [23:59:02] [IchorPipeline/main/INFO] 
+[2024-02-10 23:59:02.708] [info]  Loading Mixin runtime for META_MIXIN
+[2024-02-10 23:59:03.064] [info]  [23:59:03] [IchorPipeline/main/INFO] 
+[2024-02-10 23:59:03.065] [info]  Built mapping set for com.moonsworth.lunar.ichor.ORICOCICIHCHHIICHHOOCIRIC.CCHIOIIRRIICCHROOHHIHRHCC.ORICOCICIHCHHIICHHOOCIRIC.OOHOORICOHHHCRIHIICCHOICR 343ms on thread main
+[2024-02-10 23:59:04.949] [info]  [23:59:04] [Ichor/mixin(META_MIXIN)/INFO] SpongePowered MIXIN Subsystem Version=0.8.5 Source=Unknown Service=Ichor Env=CLIENT
+[2024-02-10 23:59:05.395] [info]  [
+[2024-02-10 23:59:05.396] [info]  23:59:05] [IchorPipeline/main/INFO] Loading Mixin runtime for MIXIN
+[2024-02-10 23:59:05.733] [info]  [23:59:05] [Ichor/mixin(MIXIN)/INFO] SpongePowered MIXIN Subsystem Version=0.8.5 Source=Unknown Service=Ichor Env=CLIENT
+[2024-02-10 23:59:05.965] [info]  [23:59:05] [IchorPipeline/main/INFO] Done loading Mixin runtimes in 3259ms
+[2024-02-10 23:59:05.966] [info]  [23:59:05] [IchorPipeline/main/INFO] Setting up mixins for META_MIXIN
+[2024-02-10 23:59:06.088] [info]  [23:59:06] [IchorPipeline/main/INFO] Setting up mixins for MIXIN
+[2024-02-10 23:59:06.090] [info]  [23:59:06] [Ichor/main/INFO] Mixin config mixins.modern.json doesn't exist in IchorClassLoader(MIXIN)
+[2024-02-10 23:59:06.091] [info]  [23:59:06] [Ichor/main/INFO] Mixin config mixins.modern_lunar.json doesn't exist in IchorClassLoader(MIXIN)
+[2024-02-10 23:59:06.299] [info]  [23:59:06] [IchorPipeline/main/INFO] Done registering Mixins in 334ms
+[2024-02-10 23:59:06.300] [info]  [23:59:06
+[2024-02-10 23:59:06.300] [info]  ] [IchorPipeline/main/INFO] Going to default mixins phase for META_MIXIN
+[2024-02-10 23:59:07.255] [info]  [23:59:07] [IchorPipeline/main/INFO] Going to default mixins phase for MIXIN
+[2024-02-10 23:59:07.269] [info]  [23:59:07] [Ichor/MixinExtras|Service(META_MIXIN)/INFO] Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0-beta.10).
+[2024-02-10 23:59:08.854] [info]  [23:59:08] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 1 override(s) found
+[2024-02-10 23:59:08.869] [info]  [23:59:08] [main/INFO]: Loaded configuration file for Sodium: 41 options available, 3 override(s) found
+[2024-02-10 23:59:13.869] [info]  [23:59:13] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/render/ChunkVisibility (checked [net.optifine.render.ChunkVisibility]).
+[2024-02-10 23:59:13.870] [info]  [23:59:13] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/optifine/render/ChunkVisibility (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/render/ChunkVisibility (checked [net.optifine.render.ChunkVisibility]).)
+[2024-02-10 23:59:13.870] [info]  [23:59:13] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for shadersmod/client/ShadersRender (checked [shadersmod.client.ShadersRender]).
+[2024-02-10 23:59:13.871] [info]  [23:59:13] [Ichor/mixin(MIXIN)/WARN] Error loading class: shadersmod/client/ShadersRender (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for shadersmod/client/ShadersRender (checked [shadersmod.client.ShadersRender]).)
+[2024-02-10 23:59:13.871] [info]  [23:59:13] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/shaders/ShadersRender (checked [net.optifine.shaders.ShadersRender]).
+[2024-02-10 23:59:13.871] [info]  [23:59:13] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/optifine/shaders/ShadersRender (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/shaders/ShadersRender (checked [net.optifine.shaders.ShadersRender]).)
+[2024-02-10 23:59:15.942] [info]  [23:59:15] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[2024-02-10 23:59:16.402] [info]  [23:59:16] [main/WARN]: Force-disabling mixin 'features.render.entity.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-02-10 23:59:16.404] [info]  [23:59:16] [main/WARN]: Force-disabling mixin 'features.render.entity.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-02-10 23:59:16.404] [info]  [23:59:16] [main/WARN]: Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-02-10 23:59:16.407] [info]  [23:59:16] [main/WARN]: Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-02-10 23:59:16.408] [info]  [23:59:16] [main/WARN]: Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [iris]) disables it and children
+[2024-02-10 23:59:16.431] [info]  [23:59:16] [main/WARN]: Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[2024-02-10 23:59:16.432] [info]  [23:59:16] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[2024-02-10 23:59:16.433] [info]  [23:59:16] [main/WARN]: Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[2024-02-10 23:59:16.704] [info]  [23:59:16] [IchorPipeline/main/INFO] Mixin runtimes prepared in 10403ms
+[2024-02-10 23:59:16.704] [info]  [23:59:16] [IchorPipeline/main/INFO] Initialized Mixin in 13998ms
+[2024-02-10 23:59:16.951] [info]  [23:59:16] [Genesis/main/INFO] Found 17917 classes to prebake.
+[2024-02-10 23:59:16.956] [info]  LUNARCLIENT_STATUS_PREINIT
+[2024-02-10 23:59:16.957] [info]  [23:59:16] [Genesis/main/INFO] Starting game!
+[2024-02-10 23:59:16.964] [info]  [23:59:16] [Ichor/MixinExtras|Service(MIXIN)/INFO] Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0-beta.10).
+[2024-02-10 23:59:18.664] [info]  [Bridge] Setting Bridge Implementation to com.moonsworth.lunar.HROIIOOIIHCOHICOCCHHIRCOH.HOCHRRHCRRROICHHHCHIIIIOH
+[2024-02-10 23:59:19.703] [info]  [23:59:19] [Ichor/mixin(MIXIN)/WARN] Method overwrite conflict for bridge$setFrameRateLimit in mixins.modern_bridge_combined.json:CICORHHIIHHRHIOCCCICCHIRR.HHHOHICHORROHOOCRHHCRORHH.RCOICRRIHCHCCIROCRHIOORIR from mod (unknown), previously written by com.moonsworth.lunar.HROIIOOIIHCOHICOCCHHIRCOH.RCOICRRIHCHCCIROCRHIOORIR.CICORHHIIHHRHIOCCCICCHIRR.HHHOHICHORROHOOCRHHCRORHH.HOCHRRHCRRROICHHHCHIIIIOH. Skipping method.
+[2024-02-10 23:59:23.830] [info]  [Bridge] Found textures dir: C:\Users\Asus\.lunarclient\textures
+[2024-02-10 23:59:23.893] [info]  Completely ignored arguments: [--workingDirectory, ., --webosrDir, C:\Users\Asus\.lunarclient\offline\multiver\natives, --classpathDir, ., --ichorExternalFiles, Fabric-API-v1_20_1-0.90.7.jar,ReplayMod-v1_20_1-2.6.14.jar,FerriteCore-v1_20_1-6.0.0.jar,Lithium-v1_20_1-0.11.2.jar,Noxesium-v1_20_1-1.0.3.jar,Noxesium_API-v1_20_1-1.0.3.jar,Sodium-v1_20_1-0.5.3.jar,Indium-v1_20_1-1.0.27.jar,Iris-v1_20_1-1.6.10.jar, --ichorClassPath, common-0.1.0-SNAPSHOT-all.jar,lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar,genesis-0.1.0-SNAPSHOT-all.jar,lunar-lang.jar,lunar-emote.jar,lunar.jar,modern-0.1.0-SNAPSHOT-all.jar,lunar-replaymod-mixins-0.1.0-SNAPSHOT-all.jar,lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar,lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar,lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar,lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar, --uiDir, C:\Users\Asus\.lunarclient\ui]
+[2024-02-10 23:59:25.689] [info]  [23:59:25] [Genesis/pool-2-thread-13/INFO] Prebaked 26114 classes in 22987ms.
+[2024-02-10 23:59:29.071] [info]  [23:59:29] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 112 milliseconds
+[2024-02-10 23:59:30.111] [info]  [23:59:30] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[2024-02-10 23:59:30.592] [info]  [23:59:30] [Render thread/ERROR]: Failed to verify authentication
+[2024-02-10 23:59:30.592] [info]  com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
+[2024-02-10 23:59:30.593] [info]  	at Genesis/com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:56) ~[?:?]
+[2024-02-10 23:59:30.593] [info]  	at Genesis/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:156) ~[?:?]
+[2024-02-10 23:59:30.594] [info]  	at Genesis/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.<init>(YggdrasilUserApiService.java:55) ~[?:?]
+[2024-02-10 23:59:30.594] [info]  	at Genesis/com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.createUserApiService(YggdrasilAuthenticationService.java:124) ~[?:?]
+[2024-02-10 23:59:30.595] [info]  	at Genesis/net.minecraft.client.Minecraft.createUserApiService(SourceFile:733) [?:?]
+[2024-02-10 23:59:30.595] [info]  	at Genesis/net.minecraft.client.Minecraft.<init>(SourceFile:442) [?:?]
+[2024-02-10 23:59:30.596] [info]  	at Genesis/net.minecraft.client.main.Main.redirect$zbd000$impl$main$minecraft(SourceFile:639) [?:?]
+[2024-02-10 23:59:30.597] [info]  	at Genesis/net.minecraft.client.main.Main.main(SourceFile:211) [?:?]
+[2024-02-10 23:59:30.597] [info]  	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+[2024-02-10 23:59:30.598] [info]  	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+[2024-02-10 23:59:30.598] [info]  	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+[2024-02-10 23:59:30.598] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+[2024-02-10 23:59:30.599] [info]  	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-02-10 23:59:30.599] [info]  Caused by: com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 401
+[2024-02-10 23:59:30.599] [info]  	at Genesis/com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:85) ~[?:?]
+[2024-02-10 23:59:30.600] [info]  	at Genesis/com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48) ~[?:?]
+[2024-02-10 23:59:30.600] [info]  	at Genesis/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:129) ~[?:?]
+[2024-02-10 23:59:30.601] [info]  	... 11 more
+[2024-02-10 23:59:30.602] [info]  [23:59:30] [Render thread/INFO]: Setting user: Player614
+[2024-02-10 23:59:30.602] [info]  [23:59:30] [IchorPipeline/Render thread/INFO] Launching main ModInitializer
+[2024-02-10 23:59:30.603] [info]  [23:59:30] [IchorPipeline/Render thread/INFO] Launching Entrypoint(main) in Genesis
+[2024-02-10 23:59:30.603] [info]  [23:59:30] [Ichor/Render thread/INFO] Found entrypoint net.fabricmc.fabric.impl.networking.NetworkingImpl::init()
+[2024-02-10 23:59:30.608] [info]  [23:59:30] [IchorPipeline/Render thread/INFO] 
+[2024-02-10 23:59:30.609] [info]  Entrypoint(main) failed to load me.jellysquid.mods.lithium.common.LithiumMod in Genesis
+[2024-02-10 23:59:30.610] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: java.lang.IllegalStateException: Failed to launch entrypoint me.jellysquid.mods.lithium.common.LithiumMod
+[2024-02-10 23:59:30.610] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source)
+[2024-02-10 23:59:30.611] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.RRHOIIICRICROOIIHCIOCRCHR.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source)
+[2024-02-10 23:59:30.611] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.mdbfddb1$lambda$ichor$fabric$clientInitializer$0$4(SourceFile:7593)
+[2024-02-10 23:59:30.611] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at java.base/java.util.Optional.ifPresentOrElse(Unknown Source)
+[2024-02-10 23:59:30.612] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.handler$zoo000$ichor$fabric$clientInitializer(SourceFile:7592)
+[2024-02-10 23:59:30.612] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.<init>(SourceFile:458)
+[2024-02-10 23:59:30.612] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.redirect$zbd000$impl$main$minecraft(SourceFile:639)
+[2024-02-10 23:59:30.613] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.main(SourceFile:211)
+[2024-02-10 23:59:30.613] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[2024-02-10 23:59:30.613] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[2024-02-10 23:59:30.614] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[2024-02-10 23:59:30.614] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-02-10 23:59:30.615] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source)
+[2024-02-10 23:59:30.616] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: Caused by: java.lang.IllegalStateException: The mixin plugin did not initialize the config! Did it not load?
+[2024-02-10 23:59:30.616] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//me.jellysquid.mods.lithium.common.LithiumMod.onInitialize(LithiumMod.java:12)
+[2024-02-10 23:59:30.617] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source)
+[2024-02-10 23:59:30.617] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	... 12 more
+[2024-02-10 23:59:30.618] [info]  [23:59:30] [IchorPipeline/Render thread/INFO] Entrypoint(main) failed to load me.jellysquid.mods.lithium.common.LithiumMod in Genesis
+[2024-02-10 23:59:30.618] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: java.lang.IllegalStateException: Failed to launch entrypoint me.jellysquid.mods.lithium.common.LithiumMod
+[2024-02-10 23:59:30.618] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source)
+[2024-02-10 23:59:30.619] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.RRHOIIICRICROOIIHCIOCRCHR.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source)
+[2024-02-10 23:59:30.619] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.mdbfddb1$lambda$ichor$fabric$clientInitializer$0$4(SourceFile:7593)
+[2024-02-10 23:59:30.620] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at java.base/java.util.Optional.ifPresentOrElse(Unknown Source)
+[2024-02-10 23:59:30.620] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.handler$zoo000$ichor$fabric$clientInitializer(SourceFile:7592)
+[2024-02-10 23:59:30.620] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.<init>(SourceFile:458)
+[2024-02-10 23:59:30.621] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.redirect$zbd000$impl$main$minecraft(SourceFile:639)
+[2024-02-10 23:59:30.621] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.main(SourceFile:211)
+[2024-02-10 23:59:30.622] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[2024-02-10 23:59:30.622] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[2024-02-10 23:59:30.623] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[2024-02-10 23:59:30.623] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-02-10 23:59:30.624] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source)
+[2024-02-10 23:59:30.624] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: Caused by: java.lang.IllegalStateException: The mixin plugin did not initialize the config! Did it not load?
+[2024-02-10 23:59:30.624] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//me.jellysquid.mods.lithium.common.LithiumMod.onInitialize(LithiumMod.java:12)
+[2024-02-10 23:59:30.625] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source)
+[2024-02-10 23:59:30.625] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	... 12 more
+[2024-02-10 23:59:30.626] [info]  [23:59:30] [IchorPipeline/Render thread/INFO] Entrypoint(main) had 10 invokes.
+[2024-02-10 23:59:30.626] [info]  [23:59:30] [IchorPipeline/Render thread/INFO] Launching client ClientModInitializer
+[2024-02-10 23:59:30.627] [info]  [23:59:30] [IchorPipeline/Render thread/INFO] Launching Entrypoint(client) in Genesis
+[2024-02-10 23:59:30.720] [info]  [23:59:30] [Render thread/INFO]: [STDOUT]: ReplayModBackendMixin_v1_19.onInitializeClient: initializing ReplayMod
+[2024-02-10 23:59:30.743] [info]  [23:59:30] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[2024-02-10 23:59:30.746] [info]  [23:59:30] [Ichor/Render thread
+[2024-02-10 23:59:30.746] [info]  /INFO] Found entrypoint net.fabricmc.fabric.impl.client.container.ScreenProviderRegistryImpl::init()
+[2024-02-10 23:59:30.747] [info]  [23:59:30] [IchorPipeline/Render thread/INFO] Entrypoint(client) failed to load link.infra.indium.Indium in Genesis
+[2024-02-10 23:59:30.748] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: java.lang.IllegalStateException: Failed to launch entrypoint link.infra.indium.Indium
+[2024-02-10 23:59:30.748] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source)
+[2024-02-10 23:59:30.749] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.RRHOIIICRICROOIIHCIOCRCHR.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source)
+[2024-02-10 23:59:30.749] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.mdbfddb1$lambda$ichor$fabric$clientInitializer$0$4(SourceFile:7594)
+[2024-02-10 23:59:30.750] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at java.base/java.util.Optional.ifPresentOrElse(Unknown Source)
+[2024-02-10 23:59:30.750] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.handler$zoo000$ichor$fabric$clientInitializer(SourceFile:7592)
+[2024-02-10 23:59:30.751] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.<init>(SourceFile:458)
+[2024-02-10 23:59:30.751] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.redirect$zbd000$impl$main$minecraft(SourceFile:639)
+[2024-02-10 23:59:30.752] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.main(SourceFile:211)
+[2024-02-10 23:59:30.752] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[2024-02-10 23:59:30.753] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[2024-02-10 23:59:30.753] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[2024-02-10 23:59:30.754] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-02-10 23:59:30.755] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source)
+[2024-02-10 23:59:30.755] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: Caused by: java.lang.UnsupportedOperationException: A second rendering plug-in attempted to register. Multiple rendering plug-ins are not supported.
+[2024-02-10 23:59:30.756] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//net.fabricmc.fabric.impl.renderer.RendererAccessImpl.registerRenderer(RendererAccessImpl.java:33)
+[2024-02-10 23:59:30.757] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//link.infra.indium.Indium.onInitializeClient(Indium.java:117)
+[2024-02-10 23:59:30.757] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source)
+[2024-02-10 23:59:30.758] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	... 12 more
+[2024-02-10 23:59:30.758] [info]  [23:59:30] [Ichor/Render thread/INFO] Found entrypoint net.fabricmc.fabric.impl.networking.client.ClientNetworkingImpl::clientInit()
+[2024-02-10 23:59:30.762] [info]  [23:59:30] [IchorPipeline/Render thread/INFO] Entrypoint(client) failed to load com.noxcrew.noxesium.NoxesiumMod in Genesis
+[2024-02-10 23:59:30.763] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: java.lang.IllegalStateException: Failed to launch entrypoint com.noxcrew.noxesium.NoxesiumMod
+[2024-02-10 23:59:30.764] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source)
+[2024-02-10 23:59:30.764] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.RRHOIIICRICROOIIHCIOCRCHR.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source)
+[2024-02-10 23:59:30.765] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.mdbfddb1$lambda$ichor$fabric$clientInitializer$0$4(SourceFile:7594)
+[2024-02-10 23:59:30.765] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at java.base/java.util.Optional.ifPresentOrElse(Unknown Source)
+[2024-02-10 23:59:30.766] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.handler$zoo000$ichor$fabric$clientInitializer(SourceFile:7592)
+[2024-02-10 23:59:30.766] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.Minecraft.<init>(SourceFile:458)
+[2024-02-10 23:59:30.767] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.redirect$zbd000$impl$main$minecraft(SourceFile:639)
+[2024-02-10 23:59:30.767] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//net.minecraft.client.main.Main.main(SourceFile:211)
+[2024-02-10 23:59:30.767] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[2024-02-10 23:59:30.768] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[2024-02-10 23:59:30.769] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[2024-02-10 23:59:30.770] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-02-10 23:59:30.771] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source)
+[2024-02-10 23:59:30.773] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: Caused by: java.lang.IllegalArgumentException: Cannot double register packets for group universal
+[2024-02-10 23:59:30.774] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//com.google.common.base.Preconditions.checkArgument(Preconditions.java:145)
+[2024-02-10 23:59:30.775] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//com.noxcrew.noxesium.network.NoxesiumPackets.registerPackets(NoxesiumPackets.java:122)
+[2024-02-10 23:59:30.776] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at Genesis//com.noxcrew.noxesium.NoxesiumMod.onInitializeClient(NoxesiumMod.java:98)
+[2024-02-10 23:59:30.777] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	at com.moonsworth.lunar.ichor.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source)
+[2024-02-10 23:59:30.777] [info]  [23:59:30] [Render thread/INFO]: [STDERR]: 	... 12 more
+[2024-02-10 23:59:30.778] [info]  [23:59:30] [IchorPipeline/Render thread/INFO] Entrypoint(client) had 14 invokes.
+[2024-02-10 23:59:30.987] [info]  [23:59:30] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 SNAPSHOT
+[2024-02-10 23:59:31.230] [info]  [23:59:31] [Render thread/INFO]: OpenGL Vendor: ATI Technologies Inc.
+[2024-02-10 23:59:31.231] [info]  [23:59:31] [Render thread/INFO]: OpenGL Renderer: AMD Radeon(TM) Graphics
+[2024-02-10 23:59:31.231] [info]  [23:59:31] [Render thread/INFO]: OpenGL Version: 3.2.0 Core Profile Context 22.20.28.09.221101
+[2024-02-10 23:59:31.232] [info]  [23:59:31] [Render thread/INFO]: [STDOUT]: LUNARCLIENT_STATUS_INIT
+[2024-02-10 23:59:31.334] [info]  [23:59:31] [Render thread/INFO]: Debug functionality is disabled.
+[2024-02-10 23:59:31.336] [info]  [23:59:31] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[2024-02-10 23:59:31.342] [info]  [23:59:31] [Render thread/INFO]: Shaders are disabled because no valid shaderpack is selected
+[2024-02-10 23:59:31.343] [info]  [23:59:31] [Render thread/INFO]: Shaders are disabled
+[2024-02-10 23:59:31.369] [info]  [23:59:31] [Render thread/ERROR]: Failed to open pack C:\Users\Asus\AppData\Roaming\.minecraft\resourcepacks\Purple-440975.zip
+[2024-02-10 23:59:31.370] [info]  java.util.zip.ZipException: invalid CEN header (bad compression method: 9)
+[2024-02-10 23:59:31.371] [info]  	at java.base/java.util.zip.ZipFile$Source.zerror(Unknown Source) ~[?:?]
+[2024-02-10 23:59:31.371] [info]  	at java.base/java.util.zip.ZipFile$Source.checkAndAddEntry(Unknown Source) ~[?:?]
+[2024-02-10 23:59:31.372] [info]  	at java.base/java.util.zip.ZipFile$Source.initCEN(Unknown Source) ~[?:?]
+[2024-02-10 23:59:31.372] [info]  	at java.base/java.util.zip.ZipFile$Source.<init>(Unknown Source) ~[?:?]
+[2024-02-10 23:59:31.373] [info]  	at java.base/java.util.zip.ZipFile$Source.get(Unknown Source) ~[?:?]
+[2024-02-10 23:59:31.373] [info]  	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(Unknown Source) ~[?:?]
+[2024-02-10 23:59:31.373] [info]  	at java.base/java.util.zip.ZipFile.<init>(Unknown Source) ~[?:?]
+[2024-02-10 23:59:31.374] [info]  	at java.base/java.util.zip.ZipFile.<init>(Unknown Source) ~[?:?]
+[2024-02-10 23:59:31.374] [info]  	at java.base/java.util.zip.ZipFile.<init>(Unknown Source) ~[?:?]
+[2024-02-10 23:59:31.375] [info]  	at Genesis/net.minecraft.server.packs.FilePackResources.getOrCreateZipFile(SourceFile:44) ~[?:?]
+[2024-02-10 23:59:31.375] [info]  	at Genesis/net.minecraft.server.packs.FilePackResources.getResource(SourceFile:72) ~[?:?]
+[2024-02-10 23:59:31.375] [info]  	at Genesis/net.minecraft.server.packs.FilePackResources.getRootResource(SourceFile:62) ~[?:?]
+[2024-02-10 23:59:31.376] [info]  	at Genesis/net.minecraft.server.packs.AbstractPackResources.getMetadataSection(SourceFile:30) ~[?:?]
+[2024-02-10 23:59:31.376] [info]  	at Genesis/net.minecraft.server.packs.repository.Pack.readPackInfo(SourceFile:71) ~[?:?]
+[2024-02-10 23:59:31.376] [info]  	at Genesis/net.minecraft.server.packs.repository.Pack.readMetaAndCreate(SourceFile:47) ~[?:?]
+[2024-02-10 23:59:31.377] [info]  	at Genesis/net.minecraft.server.packs.repository.FolderRepositorySource.lambda$loadPacks$0(SourceFile:51) ~[?:?]
+[2024-02-10 23:59:31.377] [info]  	at Genesis/net.minecraft.server.packs.repository.FolderRepositorySource.discoverPacks(SourceFile:66) ~[?:?]
+[2024-02-10 23:59:31.378] [info]  	at Genesis/net.minecraft.server.packs.repository.FolderRepositorySource.loadPacks(SourceFile:47) ~[?:?]
+[2024-02-10 23:59:31.378] [info]  	at Genesis/com.moonsworth.lunar.HROIIOOIIHCOHICOCCHHIRCOH.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.ORICOCICIHCHHIICHHOOCIRIC.CCHIOIIRRIICCHROOHHIHRHCC.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source) ~[?:?]
+[2024-02-10 23:59:31.379] [info]  	at Genesis/com.moonsworth.lunar.HROIIOOIIHCOHICOCCHHIRCOH.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.ORICOCICIHCHHIICHHOOCIRIC.CCHIOIIRRIICCHROOHHIHRHCC$1.preVisitDirectory(Unknown Source) [?:?]
+[2024-02-10 23:59:31.379] [info]  	at Genesis/com.moonsworth.lunar.HROIIOOIIHCOHICOCCHHIRCOH.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.ORICOCICIHCHHIICHHOOCIRIC.CCHIOIIRRIICCHROOHHIHRHCC$1.preVisitDirectory(Unknown Source) [?:?]
+[2024-02-10 23:59:31.380] [info]  	at java.base/java.nio.file.Files.walkFileTree(Unknown Source) [?:?]
+[2024-02-10 23:59:31.380] [info]  	at java.base/java.nio.file.Files.walkFileTree(Unknown Source) [?:?]
+[2024-02-10 23:59:31.380] [info]  	at Genesis/com.moonsworth.lunar.HROIIOOIIHCOHICOCCHHIRCOH.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.ORICOCICIHCHHIICHHOOCIRIC.CCHIOIIRRIICCHROOHHIHRHCC.RHHCCHRIRRHCRHOROCCICIHHH(Unknown Source) [?:?]
+[2024-02-10 23:59:31.381] [info]  	at Genesis/com.moonsworth.lunar.HROIIOOIIHCOHICOCCHHIRCOH.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.ORICOCICIHCHHIICHHOOCIRIC.CCHIOIIRRIICCHROOHHIHRHCC.loadPacks(Unknown Source) [?:?]
+[2024-02-10 23:59:31.381] [info]  	at Genesis/net.minecraft.server.packs.repository.PackRepository.discoverAvailable(SourceFile:39) [?:?]
+[2024-02-10 23:59:31.382] [info]  	at Genesis/net.minecraft.server.packs.repository.PackRepository.reload(SourceFile:32) [?:?]
+[2024-02-10 23:59:31.382] [info]  	at Genesis/net.minecraft.client.Minecraft.<init>(SourceFile:513) [?:?]
+[2024-02-10 23:59:31.382] [info]  	at Genesis/net.minecraft.client.main.Main.redirect$zbd000$impl$main$minecraft(SourceFile:639) [?:?]
+[2024-02-10 23:59:31.383] [info]  	at Genesis/net.minecraft.client.main.Main.main(SourceFile:211) [?:?]
+[2024-02-10 23:59:31.383] [info]  	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+[2024-02-10 23:59:31.383] [info]  	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+[2024-02-10 23:59:31.384] [info]  	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+[2024-02-10 23:59:31.384] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+[2024-02-10 23:59:31.385] [info]  	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-02-10 23:59:31.385] [info]  [23:59:31] [Render thread/WARN]: Missing metadata in pack file/Purple-440975.zip
+[2024-02-10 23:59:31.386] [info]  [23:59:31] [Render thread/WARN]: Removed resource pack minecraft:supporteatinganimation from options because it doesn't seem to exist anymore
+[2024-02-10 23:59:31.508] [info]  [23:59:31] [Render thread/INFO]: Hardware information:
+[2024-02-10 23:59:31.508] [info]  [23:59:31] [Render thread/INFO]: CPU: 16x AMD Ryzen 7 6800HS with Radeon Graphics 
+[2024-02-10 23:59:31.509] [info]  [23:59:31] [Render thread/INFO]: GPU: AMD Radeon(TM) Graphics (Supports OpenGL 3.2.0 Core Profile Context 22.20.28.09.221101)
+[2024-02-10 23:59:31.509] [info]  [23:59:31] [Render thread/INFO]: OS: Windows 11 (10.0)
+[2024-02-10 23:59:31.714] [info]  [23:59:31] [Render thread/INFO]: Reloading ResourceManager: lunar, vanilla, fabric (fabric-renderer-api-v1, fabric-keybindings-v0, fabric-transfer-api-v1, fabric-mining-level-api-v1, fabric-containers-v0, lithium, fabric-dimensions-v1, fabric-object-builder-api-v1, fabric-game-rule-api-v1, fabric-api-base, fabric-resource-conditions-api-v1, fabric-sound-api-v1, fabric-model-loading-api-v1, fabric-rendering-data-attachment-v1, iris, fabric-rendering-fluids-v1, fabric-blockrenderlayer-v1, fabric-lifecycle-events-v1, sodium, fabric-renderer-registries-v1, fabric-loot-tables-v1, fabric-particles-v1, fabric-data-generation-api-v1, fabric-networking-v0, fabric-api-lookup-api-v1, fabric-screen-handler-api-v1, noxesium, fabric-command-api-v2, fabric-block-api-v1, fabric-command-api-v1, fabric-screen-api-v1, fabric-renderer-indigo, fabric-api, fabric-crash-report-info-v1, fabric-events-interaction-v0, fabric-item-api-v1, fabric-convention-tags-v1, fabric-item-group-api-v1, fabric-recipe-api-v1, fabric-entity-events-v1, fabric-rendering-v0, fabric-key-binding-api-v1, fabric-rendering-v1, replaymod, fabric-resource-loader-v0, fabric-content-registries-v0, fabric-block-view-api-v2, indium, fabric-biome-api-v1, fabric-client-tags-api-v1, fabric-loot-api-v2, fabric-commands-v0, fabric-message-api-v1, fabric-registry-sync-v0, fabric-transitive-access-wideners-v1, fabric-networking-api-v1, fabric-events-lifecycle-v0, fabric-models-v0), file/!  �4Overlay.zip, replaymod_lang
+[2024-02-10 23:59:31.838] [info]  [23:59:31] [Render thread/INFO]: [STDOUT]: [Bridge] Setting Minecraft Client instance to net.minecraft.client.Minecraft
+[2024-02-10 23:59:31.902] [info]  [23:59:31] [Worker-Main-3/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[2024-02-10 23:59:32.283] [info]  [23:59:32] [Worker-Main-13/WARN]: Texture minecraft:block/flowering_azalea_leaves with size 1x1 limits mip level from 4 to 0
+[2024-02-10 23:59:32.285] [info]  [23:59:32] [Worker-Main-13/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 0, because of minimum power of two: 1
+[2024-02-10 23:59:32.571] [info]  [23:59:32] [Ichor/Render thread/INFO] Creating MultiBridgeModern instance: RCOICRRIHCHCCIROCRHIOORIR
+[2024-02-10 23:59:32.622] [info]  [23:59:32] [Render thread/INFO]: [LC] Starting Lunar client...
+[2024-02-10 23:59:33.117] [info]  [23:59:33] [Render thread/INFO]: [LC] Loading CCOHHRHOOHRHRRICHIOOHOCOO...
+[2024-02-10 23:59:33.119] [info]  [23:59:33] [Render thread/INFO]: [LC] Loading OOHOORICOHHHCRIHIICCHOICR...
+[2024-02-10 23:59:33.486] [info]  [23:59:33] [Render thread/INFO]: [LC] Loading HOCHRRHCRRROICHHHCHIIIIOH...
+[2024-02-10 23:59:33.488] [info]  [23:59:33] [Render thread/INFO]: [LC] Loading CCOHHRHOOHRHRRICHIOOHOCOO...
+[2024-02-10 23:59:33.492] [info]  [23:59:33] [Render thread/INFO]: [LC Lang] Couldn't get a valid language so we're setting it to ENGLISH.
+[2024-02-10 23:59:33.492] [info]  [23:59:33] [Render thread/INFO]: [LC Lang] Language set as ENGLISH (en_US).
+[2024-02-10 23:59:33.493] [info]  [23:59:33] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-02-10 23:59:33.497] [info]  [23:59:33] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-02-10 23:59:33.510] [info]  [23:59:33] [Render thread/INFO]: [LC] Loading RIIOHHHHCRROIIHOICROICRRI...
+[2024-02-10 23:59:33.565] [info]  [23:59:33] [Render thread/INFO]: [LC] Loading IHRCHOHRCCHIOOICCICIHIHHI...
+[2024-02-10 23:59:34.201] [info]  [23:59:34] [Render thread/INFO]: [LC] Loading RRHCHCCOIRCOOHCOORIHOOCOC...
+[2024-02-10 23:59:34.204] [info]  [23:59:34] [Render thread/INFO]: [LC] Loading HHHOHICHORROHOOCRHHCRORHH...
+[2024-02-10 23:59:34.206] [info]  [23:59:34] [Render thread/INFO]: [LC] Loading RCOICRRIHCHCCIROCRHIOORIR...
+[2024-02-10 23:59:34.213] [info]  [23:59:34] [Render thread/INFO]: [LC] Loading CICORHHIIHHRHIOCCCICCHIRR...
+[2024-02-10 23:59:34.219] [info]  [23:59:34] [Render thread/INFO]: [LC] Loading ORICOCICIHCHHIICHHOOCIRIC...
+[2024-02-10 23:59:34.221] [info]  [23:59:34] [Render thread/INFO]: [LC] Loading HOCHRRHCRRROICHHHCHIIIIOH...
+[2024-02-10 23:59:34.223] [info]  [23:59:34] [Render thread/INFO]: [LC] Loading HOCIHCHIIRCRHCRIIIORCROIR...
+[2024-02-10 23:59:34.224] [info]  [23:59:34] [Render thread/INFO]: [LC] Loading RRHOIIICRICROOIIHCIOCRCHR...
+[2024-02-10 23:59:34.224] [info]  [23:59:34] [Render thread/INFO]: [LC] Loading HRORHCIOIROHOHOOICCICOCHO...
+[2024-02-10 23:59:34.225] [info]  [23:59:34] [Render thread/INFO]: [LC] Loading RIHRIRRCOROHOOHCCCHRICRCO...
+[2024-02-10 23:59:34.226] [info]  [23:59:34] [Render thread/INFO]: [LC] Loading IROOCHRHOIRCHCRRHIIRORRIR...
+[2024-02-10 23:59:34.232] [info]  [23:59:34] [Render thread/INFO]: [LC] Loading ORICOCICIHCHHIICHHOOCIRIC...
+[2024-02-10 23:59:34.283] [info]  [23:59:34] [Render thread/WARN]: [LC] Couldn't find dev cosmetics file: cosmetics/dev_cosmetics.json
+[2024-02-10 23:59:34.375] [info]  [23:59:34] [Render thread/INFO]: [LC] Loading COIRHIOOIICOCHCCOCRRROHHH...
+[2024-02-10 23:59:34.376] [info]  [23:59:34] [Render thread/INFO]: [LC] Loading IRCCIHCRIHOHHHCHIIIHRORRI...
+[2024-02-10 23:59:34.386] [info]  [23:59:34] [Render thread/INFO]: [LC] Loading RCHRIIRHHRICRCCIORIICIRIR...
+[2024-02-10 23:59:34.388] [info]  [23:59:34] [Render thread/INFO]: [LC] Loading CICORHHIIHHRHIOCCCICCHIRR...
+[2024-02-10 23:59:34.388] [info]  [23:59:34] [Render thread/INFO]: [LC] Loading HOCHRRHCRRROICHHHCHIIIIOH...
+[2024-02-10 23:59:34.389] [info]  [23:59:34] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[2024-02-10 23:59:34.500] [info]  [23:59:34] [Render thread/INFO]: [LC] Finished making managers.
+[2024-02-10 23:59:34.501] [info]  [23:59:34] [Render thread/INFO]: [LC] Setting up listeners...
+[2024-02-10 23:59:34.525] [info]  [23:59:34] [Render thread/INFO]: [LC] Setting up fixes...
+[2024-02-10 23:59:34.745] [info]  [23:59:34] [ForkJoinPool.commonPool-worker-1/INFO]: [LC Blog Posts] Removed cached blog post image: fe540edf0da7fb39fc3da7f68311a9cc
+[2024-02-10 23:59:35.397] [info]  [23:59:35] [Render thread/ERROR]: [LC ThirdParty] Couldn't load third party mods
+[2024-02-10 23:59:35.398] [info]  [23:59:35] [Render thread/INFO]: [LC Lang] Language set as ENGLISH (en_US).
+[2024-02-10 23:59:35.398] [info]  [23:59:35] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-02-10 23:59:35.399] [info]  [23:59:35] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-02-10 23:59:35.422] [info]  [23:59:35] [Render thread/INFO]: [LC Ichor] Disabling NEU because there is no valid link.
+[2024-02-10 23:59:35.423] [info]  [23:59:35] [Render thread/INFO]: [LC Ichor] Disabling SBA because there is no valid link.
+[2024-02-10 23:59:35.423] [info]  [23:59:35] [Render thread/INFO]: [LC] Lunar.start
+[2024-02-10 23:59:35.424] [info]  [23:59:35] [Render thread/INFO]: [LC Accounts] Attempting to load account [5e3309e68eae49979705be29074f41fe]
+[2024-02-10 23:59:35.426] [info]  [23:59:35] [Render thread/INFO]: [LC Accounts] Loaded content for [Tomm123PL] Token IAT
+[2024-02-10 23:59:35.428] [info]  [23:59:35] [Render thread/INFO]: [LC Accounts] Setting currentAccount to what was on disk: Tomm123PL
+[2024-02-10 23:59:35.428] [info]  [23:59:35] [Render thread/INFO]: [LC Accounts] Setting account 'Tomm123PL' as the current session.
+[2024-02-10 23:59:35.429] [info]  [23:59:35] [Render thread/INFO]: [LC] Setting user: Tomm123PL
+[2024-02-10 23:59:35.430] [info]  [23:59:35] [Thread-7/INFO]: [LC Assets] Establishing connection
+[2024-02-10 23:59:35.430] [info]  [23:59:35] [Thread-7/INFO]: [LC Assets] Connecting to Authenticator to obtain JWT, no previous connection.
+[2024-02-10 23:59:35.448] [info]  [23:59:35] [Thread-7/INFO]: [LC Authentication] Instantiate
+[2024-02-10 23:59:35.737] [info]  [23:59:35] [WebSocketConnectReadThread-105/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[2024-02-10 23:59:36.905] [info]  [23:59:36] [Render thread/INFO]: [LC Accounts] Removed all accounts [0 count]
+[2024-02-10 23:59:36.907] [info]  [23:59:36] [Render thread/INFO]: [LC Accounts] Starting Refreshing Tomm123PL with 86272094ms till expired (Valid: true).
+[2024-02-10 23:59:36.908] [info]  [23:59:36] [Render thread/INFO]: [LC Accounts] Refreshing Tomm123PL (Valid: true).
+[2024-02-10 23:59:37.917] [info]  [23:59:37] [Render thread/INFO]: [LC Lang] Language set as ENGLISH (en_US).
+[2024-02-10 23:59:37.919] [info]  [23:59:37] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-02-10 23:59:37.921] [info]  [23:59:37] [Render thread/INFO]: [LC Lang] Language file found: lang/lunar/en_US.
+[2024-02-10 23:59:38.044] [info]  [23:59:38] [WebSocketConnectReadThread-105/INFO]: [LC Assets] Instantiate
+[2024-02-10 23:59:38.109] [info]  [23:59:38] [WebSocketConnectReadThread-105/INFO]: [LC Auth] Connection closed (1000, "Issued.")
+[2024-02-10 23:59:38.589] [info]  [23:59:38] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-02-10 23:59:38.590] [info]  [23:59:38] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-02-10 23:59:38.591] [info]  [23:59:38] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-02-10 23:59:38.591] [info]  [23:59:38] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-02-10 23:59:38.592] [info]  [23:59:38] [Render thread/INFO]: [LC Cosmetics] Ignored cosmetic sync() due to response not received yet
+[2024-02-10 23:59:38.592] [info]  [23:59:38] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-02-10 23:59:40.044] [info]  [23:59:40] [Render thread/WARN]: [LC] Couldn't find geckolib cosmetic file: lunar:cosmetics/models/gek/backpacks/lunar_2024_lantern/lunar_2024_lantern.gek.json
+[2024-02-10 23:59:40.051] [info]  [23:59:40] [Render thread/INFO]: [LC] Loaded geckolib cosmetics.
+[2024-02-10 23:59:40.052] [info]  [23:59:40] [Render thread/INFO]: [LC] Loading cosmetic compatibility json
+[2024-02-10 23:59:40.078] [info]  [23:59:40] [Render thread/INFO]: [LC] Compiled cosmetic compatability presets
+[2024-02-10 23:59:40.081] [info]  [23:59:40] [Render thread/INFO]: [LC] Launching
+[2024-02-10 23:59:40.082] [info]  [23:59:40] [Render thread/INFO]: [LC] Finished Lunar initialization.
+[2024-02-10 23:59:40.083] [info]  [23:59:40] [Render thread/INFO]: [LC] LUNARCLIENT_STATUS_STARTED
+[2024-02-10 23:59:40.426] [info]  [23:59:40] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[2024-02-10 23:59:40.427] [info]  [23:59:40] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[2024-02-10 23:59:40.665] [info]  [23:59:40] [ForkJoinPool.commonPool-worker-2/INFO]: [LC Accounts] Finished refreshing Tomm123PL (Valid: true).
+[2024-02-10 23:59:40.666] [info]  [23:59:40] [ForkJoinPool.commonPool-worker-2/INFO]: [LC Accounts] Finished refreshing the current account. 0 accounts left.
+[2024-02-10 23:59:40.667] [info]  [23:59:40] [ForkJoinPool.commonPool-worker-2/INFO]: [LC Accounts] Logging into account Tomm123PL 
+[2024-02-10 23:59:40.667] [info]  [23:59:40] [ForkJoinPool.commonPool-worker-2/INFO]: [LC Accounts] Setting account 'Tomm123PL' as the current session.
+[2024-02-10 23:59:40.668] [info]  [23:59:40] [ForkJoinPool.commonPool-worker-2/INFO]: [LC] Setting user: Tomm123PL
+[2024-02-10 23:59:40.734] [info]  [23:59:40] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[2024-02-10 23:59:40.735] [info]  [23:59:40] [Render thread/INFO]: Sound engine started
+[2024-02-10 23:59:40.825] [info]  [23:59:40] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/blocks.png-atlas
+[2024-02-10 23:59:40.829] [info]  [23:59:40] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[2024-02-10 23:59:40.830] [info]  [23:59:40] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[2024-02-10 23:59:40.831] [info]  [23:59:40] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[2024-02-10 23:59:40.831] [info]  [23:59:40] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[2024-02-10 23:59:40.837] [info]  [23:59:40] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[2024-02-10 23:59:40.838] [info]  [23:59:40] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[2024-02-10 23:59:40.838] [info]  [23:59:40] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[2024-02-10 23:59:40.839] [info]  [23:59:40] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[2024-02-10 23:59:40.986] [info]  [23:59:40] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[2024-02-10 23:59:41.063] [info]  [23:59:41] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/particles.png-atlas
+[2024-02-10 23:59:41.064] [info]  [23:59:41] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[2024-02-10 23:59:41.065] [info]  [23:59:41] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[2024-02-10 23:59:41.125] [info]  [23:59:41] [Render thread/INFO]: Found partially saved replay, offering recovery: C:\Users\Asus\AppData\Roaming\.minecraft\replay_recordings\2024_02_10_22_30_53.mcpr
+[2024-02-10 23:59:41.130] [info]  [23:59:41] [Render thread/WARN]: [LC Assets Reconnect] There was no closedConnection for a disconnected player.
+[2024-02-10 23:59:41.479] [info]  [23:59:41] [WebSocketConnectReadThread-119/INFO]: [LC Assets] Connection established as Tomm123PL
+[2024-02-10 23:59:42.735] [info]  [23:59:42] [Render thread/INFO]: Recovery rejected, marking for deletion: C:\Users\Asus\AppData\Roaming\.minecraft\replay_recordings\2024_02_10_22_30_53.mcpr
+[2024-02-10 23:59:51.468] [info]  [23:59:51] [Render thread/INFO]: Connecting to lunar.mc-complex.com, 25565
+[2024-02-10 23:59:53.359] [error] Feb 10, 2024 11:59:53 PM com.replaymod.replaystudio.lib.viaversion.protocols.protocol1_13to1_12_2.blockconnections.ConnectionData init
+[2024-02-10 23:59:53.360] [error] INFO: Loading block connection mappings ...
+[2024-02-10 23:59:53.443] [error] Feb 10, 2024 11:59:53 PM com.replaymod.replaystudio.lib.viaversion.protocols.protocol1_13to1_12_2.storage.BlockConnectionStorage <clinit>
+[2024-02-10 23:59:53.443] [error] INFO: Using FastUtil Long2ObjectOpenHashMap for block connections
+[2024-02-10 23:59:53.817] [info]  [23:59:53] [Render thread/INFO]: Reloading pipeline on dimension change: null => NamespacedId{namespace='minecraft', name='overworld'}
+[2024-02-10 23:59:53.818] [info]  [23:59:53] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[2024-02-10 23:59:53.874] [info]  [23:59:53] [Render thread/INFO]: Started 10 worker threads
+[2024-02-10 23:59:53.931] [info]  [23:59:53] [Render thread/INFO]: Stopping worker threads
+[2024-02-10 23:59:53.942] [info]  [23:59:53] [Render thread/INFO]: Started 10 worker threads
+[2024-02-10 23:59:54.306] [info]  [23:59:54] [Render thread/WARN]: Unknown custom packed identifier: fml:hs
+[2024-02-10 23:59:55.895] [info]  [23:59:55] [Render thread/INFO]: Loaded 3 advancements
+[2024-02-11 00:00:15.964] [info]  [00:00:15] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:00:18.493] [info]  [00:00:18] [Render thread/INFO]: Connecting to mazersmp.com, 25565
+[2024-02-11 00:00:26.946] [info]  [00:00:26] [Render thread/INFO]: Connecting to bluefox.ink, 25565
+[2024-02-11 00:00:28.118] [info]  [00:00:28] [Render thread/INFO]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='overworld'} => NamespacedId{namespace='minecraft', name='the_end'}
+[2024-02-11 00:00:28.119] [info]  [00:00:28] [Render thread/INFO]: Destroying pipeline NamespacedId{namespace='minecraft', name='overworld'}
+[2024-02-11 00:00:28.120] [info]  [00:00:28] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='the_end'}
+[2024-02-11 00:00:28.121] [info]  [00:00:28] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:00:28.128] [info]  [00:00:28] [Render thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: minecraft:stripped_logs
+[2024-02-11 00:00:28.134] [info]  [00:00:28] [Render thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: minecraft:snow_step_sound_blocks, minecraft:stripped_logs
+[2024-02-11 00:00:28.134] [info]  [00:00:28] [Render thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:entity_type] are present in data pack: minecraft:axolotl_tempted_hostiles
+[2024-02-11 00:00:28.315] [info]  [00:00:28] [Render thread/INFO]: [System] [CHAT] BLUEFOX >> Please, register using /register <password> <repeat password>
+[2024-02-11 00:00:37.639] [info]  [00:00:37] [Render thread/INFO]: [System] [CHAT] BLUEFOX >> Please, register using /register <password> <repeat password>
+[2024-02-11 00:00:54.813] [info]  [00:00:54] [Render thread/INFO]: [System] [CHAT] BLUEFOX >> Successfully registered!
+[2024-02-11 00:00:56.645] [info]  [00:00:56] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:00:56.648] [info]  [00:00:56] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:00:56.651] [info]  [00:00:56] [Render thread/INFO]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='the_end'} => NamespacedId{namespace='minecraft', name='overworld'}
+[2024-02-11 00:00:56.653] [info]  [00:00:56] [Render thread/INFO]: Destroying pipeline NamespacedId{namespace='minecraft', name='the_end'}
+[2024-02-11 00:00:56.653] [info]  [00:00:56] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[2024-02-11 00:00:56.654] [info]  [00:00:56] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:00:56.654] [info]  [00:00:56] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:00:56.655] [info]  [00:00:56] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:00:56.657] [info]  [00:00:56] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:00:56.658] [info]  [00:00:56] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:00:56.659] [info]  [00:00:56] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:00:56.662] [info]  [00:00:56] [Render thread/INFO]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='overworld'} => NamespacedId{namespace='minecraft', name='overworld'}
+[2024-02-11 00:00:56.664] [info]  [00:00:56] [Render thread/INFO]: Destroying pipeline NamespacedId{namespace='minecraft', name='overworld'}
+[2024-02-11 00:00:56.664] [info]  [00:00:56] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[2024-02-11 00:00:56.665] [info]  [00:00:56] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:00:56.665] [info]  [00:00:56] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:00:56.666] [info]  [00:00:56] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:00:56.668] [info]  [00:00:56] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:00:56.669] [info]  [00:00:56] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:00:56.670] [info]  [00:00:56] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:00:56.673] [info]  [00:00:56] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:00:56.675] [info]  [00:00:56] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:00:56.733] [info]  [00:00:56] [Render thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: minecraft:bamboo_blocks, minecraft:bookshelf_books, minecraft:breaks_decorated_pots, minecraft:carpets, minecraft:cherry_logs, minecraft:decorated_pot_ingredients, minecraft:decorated_pot_sherds, minecraft:furnace_materials, minecraft:hanging_signs, minecraft:noteblock_top_instruments, minecraft:occludes_vibration_signals, minecraft:overworld_natural_logs, minecraft:sniffer_food, minecraft:stone_buttons, minecraft:stripped_logs, minecraft:trim_materials, minecraft:trim_templates, minecraft:trimmable_armor, minecraft:villager_plantable_seeds
+[2024-02-11 00:00:56.734] [info]  [00:00:56] [Render thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:entity_type] are present in data pack: minecraft:axolotl_tempted_hostiles, minecraft:can_breathe_under_water, minecraft:non_controlling_rider, minecraft:undead, minecraft:zombies
+[2024-02-11 00:00:56.735] [info]  [00:00:56] [Render thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: minecraft:all_hanging_signs, minecraft:bamboo_blocks, minecraft:camel_sand_step_sound_blocks, minecraft:carpets, minecraft:ceiling_hanging_signs, minecraft:cherry_logs, minecraft:combination_step_sound_blocks, minecraft:concrete_powder, minecraft:dirt_like, minecraft:enchantment_power_provider, minecraft:enchantment_power_transmitter, minecraft:lava_pool_stone_replaceables, minecraft:maintains_farmland, minecraft:non_flammable_wood, minecraft:polar_bears_spawnable_on_in_frozen_ocean, minecraft:replaceable, minecraft:replaceable_by_trees, minecraft:sniffer_diggable_block, minecraft:sniffer_egg_hatch_boost, minecraft:snow_step_sound_blocks, minecraft:stone_buttons, minecraft:stripped_logs, minecraft:sword_efficient, minecraft:trail_ruins_replaceable, minecraft:vibration_resonators, minecraft:wall_hanging_signs
+[2024-02-11 00:00:56.915] [info]  [00:00:56] [Render thread/INFO]: Loaded 6 advancements
+[2024-02-11 00:00:56.917] [info]  [00:00:56] [Render thread/WARN]: Unknown custom packed identifier: worldedit:cui
+[2024-02-11 00:01:00.629] [info]  [00:01:00] [Render thread/INFO]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='overworld'} => NamespacedId{namespace='minecraft', name='overworld'}
+[2024-02-11 00:01:00.630] [info]  [00:01:00] [Render thread/INFO]: Destroying pipeline NamespacedId{namespace='minecraft', name='overworld'}
+[2024-02-11 00:01:00.631] [info]  [00:01:00] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[2024-02-11 00:01:00.632] [info]  [00:01:00] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:01:00.634] [info]  [00:01:00] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:01:00.641] [info]  [00:01:00] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:01:00.643] [info]  [00:01:00] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:01:00.645] [info]  [00:01:00] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:01:00.647] [info]  [00:01:00] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:01:00.651] [info]  [00:01:00] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:01:00.654] [info]  [00:01:00] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:01:00.685] [info]  [00:01:00] [Render thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: minecraft:bamboo_blocks, minecraft:bookshelf_books, minecraft:breaks_decorated_pots, minecraft:carpets, minecraft:cherry_logs, minecraft:decorated_pot_ingredients, minecraft:decorated_pot_sherds, minecraft:furnace_materials, minecraft:hanging_signs, minecraft:noteblock_top_instruments, minecraft:occludes_vibration_signals, minecraft:overworld_natural_logs, minecraft:sniffer_food, minecraft:stone_buttons, minecraft:stripped_logs, minecraft:trim_materials, minecraft:trim_templates, minecraft:trimmable_armor, minecraft:villager_plantable_seeds
+[2024-02-11 00:01:00.686] [info]  [00:01:00] [Render thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:entity_type] are present in data pack: minecraft:axolotl_tempted_hostiles, minecraft:can_breathe_under_water, minecraft:non_controlling_rider, minecraft:undead, minecraft:zombies
+[2024-02-11 00:01:00.687] [info]  [00:01:00] [Render thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: minecraft:all_hanging_signs, minecraft:bamboo_blocks, minecraft:camel_sand_step_sound_blocks, minecraft:carpets, minecraft:ceiling_hanging_signs, minecraft:cherry_logs, minecraft:combination_step_sound_blocks, minecraft:concrete_powder, minecraft:dirt_like, minecraft:enchantment_power_provider, minecraft:enchantment_power_transmitter, minecraft:lava_pool_stone_replaceables, minecraft:maintains_farmland, minecraft:non_flammable_wood, minecraft:polar_bears_spawnable_on_in_frozen_ocean, minecraft:replaceable, minecraft:replaceable_by_trees, minecraft:sniffer_diggable_block, minecraft:sniffer_egg_hatch_boost, minecraft:snow_step_sound_blocks, minecraft:stone_buttons, minecraft:stripped_logs, minecraft:sword_efficient, minecraft:trail_ruins_replaceable, minecraft:vibration_resonators, minecraft:wall_hanging_signs
+[2024-02-11 00:01:00.860] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.860] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.861] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.861] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.862] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.862] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.862] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.863] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.864] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.864] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.864] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.865] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.865] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.866] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.866] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.866] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.867] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.867] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.868] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.868] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.869] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.869] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.869] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.870] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.870] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.870] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.871] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.871] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.872] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.872] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.872] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.873] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.873] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.874] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.874] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.874] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.875] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.875] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.876] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.876] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.877] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.877] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.878] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.878] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.878] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.879] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.879] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.880] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.880] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.880] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.881] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.881] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.882] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.882] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.882] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.883] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.883] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.884] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.884] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.884] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.885] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.885] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.886] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.886] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.886] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.887] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.887] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.887] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.888] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.888] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.888] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.889] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.889] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.890] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.890] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.890] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.891] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.891] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.892] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.892] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.892] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.893] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.893] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.893] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.894] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.894] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.895] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.895] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.895] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.896] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.896] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.897] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.897] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.897] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.898] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.898] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.899] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.899] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.899] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.900] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.900] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.901] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.901] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.901] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.902] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.902] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.902] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.903] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.903] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.903] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.904] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.904] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.904] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.905] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.905] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.905] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.906] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.906] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.907] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.907] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.907] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.908] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.908] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.908] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.909] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.909] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.910] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.910] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.910] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.911] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.911] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.912] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.912] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.912] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.913] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.913] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.913] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.914] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.914] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.914] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.915] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.915] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.916] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.916] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.916] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.917] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.917] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.917] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.918] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.918] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.918] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.919] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.919] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.919] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.920] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.920] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.921] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.921] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.921] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.922] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.922] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.922] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.923] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.923] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.923] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.924] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.924] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.924] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.925] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.925] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.925] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.926] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.926] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.926] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.927] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.927] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.928] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.928] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.928] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.929] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.929] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.930] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.930] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.930] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.931] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.931] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.931] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.932] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.932] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.932] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.933] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.933] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.933] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.934] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.934] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.935] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.935] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.936] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.936] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.936] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.937] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.937] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.937] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.938] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.938] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.938] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.939] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.939] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.939] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.940] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.940] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.941] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.941] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.941] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.942] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.942] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.943] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.943] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.943] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.944] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.944] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.945] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.945] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.946] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.946] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.947] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.947] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.948] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.948] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.948] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.949] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.949] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.950] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.950] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.950] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.951] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.951] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.952] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.952] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.953] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.953] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.953] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.954] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.954] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.955] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.955] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.956] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.956] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.957] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.957] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.957] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.958] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.958] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.959] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.959] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.960] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.960] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.961] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.961] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.961] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.962] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.962] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.963] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.963] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.963] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.964] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.964] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.965] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.965] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.965] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.966] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.966] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.967] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.967] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.968] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.968] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.969] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.970] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.970] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.971] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.971] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.972] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.972] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.973] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.973] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.974] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.974] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.975] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.975] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.976] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.976] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.977] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.977] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.978] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.978] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.978] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.979] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.979] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.980] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.980] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] 
+[2024-02-11 00:01:00.981] [info]  [00:01:00] [Render thread/INFO]: [System] [CHAT] {+} Tomm123PL
+[2024-02-11 00:01:00.981] [info]  [00:01:00] [Render thread/INFO]: Loaded 14 advancements
+[2024-02-11 00:01:00.984] [info]  [00:01:00] [Render thread/WARN]: Unknown custom packed identifier: worldedit:cui
+[2024-02-11 00:01:02.059] [info]  [00:01:02] [Render thread/INFO]: [System] [CHAT] You have 1 sites to vote on still!
+[2024-02-11 00:01:14.121] [info]  [00:01:14] [Render thread/WARN]: Server attempted to add player prior to sending player info (Player id ba87562b-5837-262a-b987-2240dcfb8e4a)
+[2024-02-11 00:01:14.122] [info]  [00:01:14] [Render thread/INFO]: [System] [CHAT] {+} .S_I_N_A_K_H_M_1
+[2024-02-11 00:01:23.357] [info]  [00:01:23] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:01:23.360] [info]  [00:01:23] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:01:23.363] [info]  [00:01:23] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-02-11 00:01:24.616] [info]  [00:01:24] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:01:24.617] [info]  [00:01:24] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:01:24.900] [info]  [00:01:24] [Render thread/INFO]: [System] [CHAT] {+} Goripe
+[2024-02-11 00:01:26.892] [info]  [00:01:26] [Render thread/WARN]: Server attempted to add player prior to sending player info (Player id ba87562b-5837-262a-b987-2240dcfb8e4a)
+[2024-02-11 00:01:38.103] [info]  [00:01:38] [Render thread/INFO]: [System] [CHAT] {+} Brag_iwant
+[2024-02-11 00:01:47.935] [info]  [00:01:47] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:01:47.937] [info]  [00:01:47] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:01:47.939] [info]  [00:01:47] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:01:47.941] [info]  [00:01:47] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:01:47.943] [info]  [00:01:47] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-02-11 00:01:50.480] [info]  [00:01:50] [Render thread/INFO]: [System] [CHAT] Trayuth was slain by ItzMeKarir using [kom toxic bro]
+[2024-02-11 00:01:52.102] [info]  [00:01:52] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:01:52.104] [info]  [00:01:52] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:01:52.113] [info]  [00:01:52] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:01:52.114] [info]  [00:01:52] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:01:52.116] [info]  [00:01:52] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:01:52.117] [info]  [00:01:52] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:01:52.120] [info]  [00:01:52] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:01:52.121] [info]  [00:01:52] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:01:52.122] [info]  [00:01:52] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:01:52.124] [info]  [00:01:52] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:01:52.125] [info]  [00:01:52] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:01:52.127] [info]  [00:01:52] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:01:52.129] [info]  [00:01:52] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-02-11 00:01:55.355] [info]  [00:01:55] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:01:55.357] [info]  [00:01:55] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:01:55.362] [info]  [00:01:55] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:01:55.364] [info]  [00:01:55] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:01:55.365] [info]  [00:01:55] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:01:55.367] [info]  [00:01:55] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:01:55.368] [info]  [00:01:55] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:01:55.370] [info]  [00:01:55] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:01:55.371] [info]  [00:01:55] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:01:55.373] [info]  [00:01:55] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:01:55.374] [info]  [00:01:55] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:01:55.375] [info]  [00:01:55] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:01:55.377] [info]  [00:01:55] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:01:55.378] [info]  [00:01:55] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:01:55.379] [info]  [00:01:55] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:01:55.380] [info]  [00:01:55] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:01:55.382] [info]  [00:01:55] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-02-11 00:02:17.627] [info]  [00:02:17] [Render thread/INFO]: [System] [CHAT] {+} Mrr_Dedy
+[2024-02-11 00:02:37.543] [info]  [00:02:37] [Render thread/INFO]: [System] [CHAT] Trayuth was slain by ItzMeKarir using [kom toxic bro]
+[2024-02-11 00:03:09.224] [info]  [00:03:09] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:03:09.226] [info]  [00:03:09] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:03:09.229] [info]  [00:03:09] [Render thread/INFO]: Flushed changes to Minecraft configuration
+[2024-02-11 00:03:09.627] [info]  [00:03:09] [Render thread/INFO]: [System] [CHAT] LYVAIIMC5555 was doomed to fall by lightning_dragon
+[2024-02-11 00:03:13.934] [info]  [00:03:13] [Render thread/INFO]: [System] [CHAT] {+} Mrr_Dedy
+[2024-02-11 00:03:17.408] [info]  [00:03:17] [Render thread/INFO]: [System] [CHAT] Hey! Sorry, but you can't PvP here.
+[2024-02-11 00:03:41.480] [info]  [00:03:41] [Render thread/ERROR]: Failed to open pack C:\Users\Asus\AppData\Roaming\.minecraft\resourcepacks\Purple-440975.zip
+[2024-02-11 00:03:41.481] [info]  java.util.zip.ZipException: invalid CEN header (bad compression method: 9)
+[2024-02-11 00:03:41.482] [info]  	at java.base/java.util.zip.ZipFile$Source.zerror(Unknown Source) ~[?:?]
+[2024-02-11 00:03:41.482] [info]  	at java.base/java.util.zip.ZipFile$Source.checkAndAddEntry(Unknown Source) ~[?:?]
+[2024-02-11 00:03:41.483] [info]  	at java.base/java.util.zip.ZipFile$Source.initCEN(Unknown Source) ~[?:?]
+[2024-02-11 00:03:41.483] [info]  	at java.base/java.util.zip.ZipFile$Source.<init>(Unknown Source) ~[?:?]
+[2024-02-11 00:03:41.483] [info]  	at java.base/java.util.zip.ZipFile$Source.get(Unknown Source) ~[?:?]
+[2024-02-11 00:03:41.484] [info]  	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(Unknown Source) ~[?:?]
+[2024-02-11 00:03:41.484] [info]  	at java.base/java.util.zip.ZipFile.<init>(Unknown Source) ~[?:?]
+[2024-02-11 00:03:41.485] [info]  	at java.base/java.util.zip.ZipFile.<init>(Unknown Source) ~[?:?]
+[2024-02-11 00:03:41.485] [info]  	at java.base/java.util.zip.ZipFile.<init>(Unknown Source) ~[?:?]
+[2024-02-11 00:03:41.485] [info]  	at Genesis/net.minecraft.server.packs.FilePackResources.getOrCreateZipFile(SourceFile:44) ~[?:?]
+[2024-02-11 00:03:41.486] [info]  	at Genesis/net.minecraft.server.packs.FilePackResources.getResource(SourceFile:72) ~[?:?]
+[2024-02-11 00:03:41.486] [info]  	at Genesis/net.minecraft.server.packs.FilePackResources.getRootResource(SourceFile:62) ~[?:?]
+[2024-02-11 00:03:41.486] [info]  	at Genesis/net.minecraft.server.packs.AbstractPackResources.getMetadataSection(SourceFile:30) ~[?:?]
+[2024-02-11 00:03:41.487] [info]  	at Genesis/net.minecraft.server.packs.repository.Pack.readPackInfo(SourceFile:71) ~[?:?]
+[2024-02-11 00:03:41.487] [info]  	at Genesis/net.minecraft.server.packs.repository.Pack.readMetaAndCreate(SourceFile:47) ~[?:?]
+[2024-02-11 00:03:41.487] [info]  	at Genesis/net.minecraft.server.packs.repository.FolderRepositorySource.lambda$loadPacks$0(SourceFile:51) ~[?:?]
+[2024-02-11 00:03:41.488] [info]  	at Genesis/net.minecraft.server.packs.repository.FolderRepositorySource.discoverPacks(SourceFile:66) ~[?:?]
+[2024-02-11 00:03:41.488] [info]  	at Genesis/net.minecraft.server.packs.repository.FolderRepositorySource.loadPacks(SourceFile:47) ~[?:?]
+[2024-02-11 00:03:41.489] [info]  	at Genesis/com.moonsworth.lunar.HROIIOOIIHCOHICOCCHHIRCOH.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.ORICOCICIHCHHIICHHOOCIRIC.CCHIOIIRRIICCHROOHHIHRHCC.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source) ~[?:?]
+[2024-02-11 00:03:41.489] [info]  	at Genesis/com.moonsworth.lunar.HROIIOOIIHCOHICOCCHHIRCOH.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.ORICOCICIHCHHIICHHOOCIRIC.CCHIOIIRRIICCHROOHHIHRHCC$1.preVisitDirectory(Unknown Source) ~[?:?]
+[2024-02-11 00:03:41.489] [info]  	at Genesis/com.moonsworth.lunar.HROIIOOIIHCOHICOCCHHIRCOH.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.ORICOCICIHCHHIICHHOOCIRIC.CCHIOIIRRIICCHROOHHIHRHCC$1.preVisitDirectory(Unknown Source) ~[?:?]
+[2024-02-11 00:03:41.490] [info]  	at java.base/java.nio.file.Files.walkFileTree(Unknown Source) ~[?:?]
+[2024-02-11 00:03:41.490] [info]  	at java.base/java.nio.file.Files.walkFileTree(Unknown Source) ~[?:?]
+[2024-02-11 00:03:41.490] [info]  	at Genesis/com.moonsworth.lunar.HROIIOOIIHCOHICOCCHHIRCOH.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.ORICOCICIHCHHIICHHOOCIRIC.CCHIOIIRRIICCHROOHHIHRHCC.RHHCCHRIRRHCRHOROCCICIHHH(Unknown Source) ~[?:?]
+[2024-02-11 00:03:41.491] [info]  	at Genesis/com.moonsworth.lunar.HROIIOOIIHCOHICOCCHHIRCOH.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.ORICOCICIHCHHIICHHOOCIRIC.CCHIOIIRRIICCHROOHHIHRHCC.loadPacks(Unknown Source) ~[?:?]
+[2024-02-11 00:03:41.491] [info]  	at Genesis/net.minecraft.server.packs.repository.PackRepository.discoverAvailable(SourceFile:39) ~[?:?]
+[2024-02-11 00:03:41.492] [info]  	at Genesis/net.minecraft.server.packs.repository.PackRepository.reload(SourceFile:32) ~[?:?]
+[2024-02-11 00:03:41.492] [info]  	at Genesis/net.minecraft.client.gui.screens.packs.PackSelectionModel.findNewPacks(SourceFile:60) ~[?:?]
+[2024-02-11 00:03:41.492] [info]  	at Genesis/net.minecraft.client.gui.screens.packs.PackSelectionScreen.reload(SourceFile:168) ~[?:?]
+[2024-02-11 00:03:41.493] [info]  	at Genesis/net.minecraft.client.gui.screens.packs.PackSelectionScreen.handler$zel000$lunar$init(SourceFile:1225) ~[?:?]
+[2024-02-11 00:03:41.493] [info]  	at Genesis/net.minecraft.client.gui.screens.packs.PackSelectionScreen.init(SourceFile) ~[?:?]
+[2024-02-11 00:03:41.493] [info]  	at Genesis/net.minecraft.client.gui.screens.Screen.init(SourceFile:297) ~[?:?]
+[2024-02-11 00:03:41.494] [info]  	at Genesis/net.minecraft.client.Minecraft.setScreen(SourceFile:1080) ~[?:?]
+[2024-02-11 00:03:41.494] [info]  	at Genesis/net.minecraft.client.gui.screens.OptionsScreen.lambda$openScreenButton$14(SourceFile:153) ~[?:?]
+[2024-02-11 00:03:41.494] [info]  	at Genesis/net.minecraft.client.gui.components.Button.onPress(SourceFile:94) ~[?:?]
+[2024-02-11 00:03:41.495] [info]  	at Genesis/net.minecraft.client.gui.components.AbstractButton.onClick(SourceFile:56) ~[?:?]
+[2024-02-11 00:03:41.495] [info]  	at Genesis/net.minecraft.client.gui.components.AbstractWidget.mouseClicked(SourceFile:189) ~[?:?]
+[2024-02-11 00:03:41.496] [info]  	at Genesis/net.minecraft.client.gui.components.events.ContainerEventHandler.mouseClicked(SourceFile:38) ~[?:?]
+[2024-02-11 00:03:41.496] [info]  	at Genesis/net.minecraft.client.MouseHandler.lambda$onPress$0(SourceFile:98) ~[?:?]
+[2024-02-11 00:03:41.496] [info]  	at Genesis/net.minecraft.client.gui.screens.Screen.wrapScreenError(SourceFile:409) ~[?:?]
+[2024-02-11 00:03:41.497] [info]  	at Genesis/net.minecraft.client.MouseHandler.onPress(SourceFile:98) ~[?:?]
+[2024-02-11 00:03:41.497] [info]  	at Genesis/net.minecraft.client.MouseHandler.lambda$setup$4(SourceFile:169) ~[?:?]
+[2024-02-11 00:03:41.498] [info]  	at Genesis/net.minecraft.util.thread.BlockableEventLoop.execute(SourceFile:102) ~[?:?]
+[2024-02-11 00:03:41.498] [info]  	at Genesis/net.minecraft.client.MouseHandler.lambda$setup$5(SourceFile:169) ~[?:?]
+[2024-02-11 00:03:41.498] [info]  	at Genesis/org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:43) [?:?]
+[2024-02-11 00:03:41.499] [info]  	at Genesis/org.lwjgl.system.JNI.invokeV(Native Method) ~[?:?]
+[2024-02-11 00:03:41.499] [info]  	at Genesis/org.lwjgl.glfw.GLFW.glfwPollEvents(GLFW.java:3403) [?:?]
+[2024-02-11 00:03:41.499] [info]  	at Genesis/com.mojang.blaze3d.systems.RenderSystem.pollEvents(SourceFile:201) [?:?]
+[2024-02-11 00:03:41.500] [info]  	at Genesis/com.mojang.blaze3d.systems.RenderSystem.flipFrame(SourceFile:219) [?:?]
+[2024-02-11 00:03:41.500] [info]  	at Genesis/com.mojang.blaze3d.platform.Window.updateDisplay(SourceFile:288) [?:?]
+[2024-02-11 00:03:41.500] [info]  	at Genesis/net.minecraft.client.Minecraft.runTick(SourceFile:1241) [?:?]
+[2024-02-11 00:03:41.501] [info]  	at Genesis/net.minecraft.client.Minecraft.run(SourceFile:802) [?:?]
+[2024-02-11 00:03:41.501] [info]  	at Genesis/net.minecraft.client.main.Main.main(SourceFile:250) [?:?]
+[2024-02-11 00:03:41.501] [info]  	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+[2024-02-11 00:03:41.502] [info]  	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+[2024-02-11 00:03:41.502] [info]  	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+[2024-02-11 00:03:41.502] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+[2024-02-11 00:03:41.503] [info]  	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-02-11 00:03:41.503] [info]  [00:03:41] [Render thread/WARN]: Missing metadata in pack file/Purple-440975.zip
+[2024-02-11 00:03:41.504] [info]  [00:03:41] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 625 to 64
+[2024-02-11 00:03:41.506] [info]  [00:03:41] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 500 to 64
+[2024-02-11 00:03:41.508] [info]  [00:03:41] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[2024-02-11 00:03:41.510] [info]  [00:03:41] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[2024-02-11 00:03:41.513] [info]  [00:03:41] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 1024 to 64
+[2024-02-11 00:03:41.521] [info]  [00:03:41] [Render thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[2024-02-11 00:03:43.335] [info]  [00:03:43] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:03:43.338] [info]  [00:03:43] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:03:43.339] [info]  [00:03:43] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:03:43.341] [info]  [00:03:43] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:03:43.342] [info]  [00:03:43] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:03:43.343] [info]  [00:03:43] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:03:43.345] [info]  [00:03:43] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:03:43.346] [info]  [00:03:43] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:03:43.347] [info]  [00:03:43] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:03:43.348] [info]  [00:03:43] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:03:43.789] [info]  [00:03:43] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:03:43.791] [info]  [00:03:43] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:03:43.792] [info]  [00:03:43] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:03:43.798] [info]  [00:03:43] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:03:43.799] [info]  [00:03:43] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:03:43.801] [info]  [00:03:43] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:03:43.802] [info]  [00:03:43] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:03:43.803] [info]  [00:03:43] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:03:43.804] [info]  [00:03:43] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:03:43.806] [info]  [00:03:43] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:03:44.357] [info]  [00:03:44] [Render thread/ERROR]: Failed to open pack C:\Users\Asus\AppData\Roaming\.minecraft\resourcepacks\Purple-440975.zip
+[2024-02-11 00:03:44.358] [info]  java.util.zip.ZipException: invalid CEN header (bad compression method: 9)
+[2024-02-11 00:03:44.358] [info]  	at java.base/java.util.zip.ZipFile$Source.zerror(Unknown Source) ~[?:?]
+[2024-02-11 00:03:44.359] [info]  	at java.base/java.util.zip.ZipFile$Source.checkAndAddEntry(Unknown Source) ~[?:?]
+[2024-02-11 00:03:44.359] [info]  	at java.base/java.util.zip.ZipFile$Source.initCEN(Unknown Source) ~[?:?]
+[2024-02-11 00:03:44.360] [info]  	at java.base/java.util.zip.ZipFile$Source.<init>(Unknown Source) ~[?:?]
+[2024-02-11 00:03:44.360] [info]  	at java.base/java.util.zip.ZipFile$Source.get(Unknown Source) ~[?:?]
+[2024-02-11 00:03:44.360] [info]  	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(Unknown Source) ~[?:?]
+[2024-02-11 00:03:44.362] [info]  	at java.base/java.util.zip.ZipFile.<init>(Unknown Source) ~[?:?]
+[2024-02-11 00:03:44.363] [info]  	at java.base/java.util.zip.ZipFile.<init>(Unknown Source) ~[?:?]
+[2024-02-11 00:03:44.364] [info]  	at java.base/java.util.zip.ZipFile.<init>(Unknown Source) ~[?:?]
+[2024-02-11 00:03:44.365] [info]  	at Genesis/net.minecraft.server.packs.FilePackResources.getOrCreateZipFile(SourceFile:44) ~[?:?]
+[2024-02-11 00:03:44.366] [info]  	at Genesis/net.minecraft.server.packs.FilePackResources.getResource(SourceFile:72) ~[?:?]
+[2024-02-11 00:03:44.367] [info]  	at Genesis/net.minecraft.server.packs.FilePackResources.getRootResource(SourceFile:62) ~[?:?]
+[2024-02-11 00:03:44.369] [info]  	at Genesis/net.minecraft.server.packs.AbstractPackResources.getMetadataSection(SourceFile:30) ~[?:?]
+[2024-02-11 00:03:44.370] [info]  	at Genesis/net.minecraft.server.packs.repository.Pack.readPackInfo(SourceFile:71) ~[?:?]
+[2024-02-11 00:03:44.370] [info]  	at Genesis/net.minecraft.server.packs.repository.Pack.readMetaAndCreate(SourceFile:47) ~[?:?]
+[2024-02-11 00:03:44.371] [info]  	at Genesis/net.minecraft.server.packs.repository.FolderRepositorySource.lambda$loadPacks$0(SourceFile:51) ~[?:?]
+[2024-02-11 00:03:44.373] [info]  	at Genesis/net.minecraft.server.packs.repository.FolderRepositorySource.discoverPacks(SourceFile:66) ~[?:?]
+[2024-02-11 00:03:44.374] [info]  	at Genesis/net.minecraft.server.packs.repository.FolderRepositorySource.loadPacks(SourceFile:47) ~[?:?]
+[2024-02-11 00:03:44.375] [info]  	at Genesis/com.moonsworth.lunar.HROIIOOIIHCOHICOCCHHIRCOH.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.ORICOCICIHCHHIICHHOOCIRIC.CCHIOIIRRIICCHROOHHIHRHCC.CCHIOIIRRIICCHROOHHIHRHCC(Unknown Source) ~[?:?]
+[2024-02-11 00:03:44.377] [info]  	at Genesis/com.moonsworth.lunar.HROIIOOIIHCOHICOCCHHIRCOH.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.ORICOCICIHCHHIICHHOOCIRIC.CCHIOIIRRIICCHROOHHIHRHCC$1.preVisitDirectory(Unknown Source) ~[?:?]
+[2024-02-11 00:03:44.378] [info]  	at Genesis/com.moonsworth.lunar.HROIIOOIIHCOHICOCCHHIRCOH.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.ORICOCICIHCHHIICHHOOCIRIC.CCHIOIIRRIICCHROOHHIHRHCC$1.preVisitDirectory(Unknown Source) ~[?:?]
+[2024-02-11 00:03:44.380] [info]  	at java.base/java.nio.file.Files.walkFileTree(Unknown Source) ~[?:?]
+[2024-02-11 00:03:44.381] [info]  	at java.base/java.nio.file.Files.walkFileTree(Unknown Source) ~[?:?]
+[2024-02-11 00:03:44.383] [info]  	at Genesis/com.moonsworth.lunar.HROIIOOIIHCOHICOCCHHIRCOH.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.ORICOCICIHCHHIICHHOOCIRIC.CCHIOIIRRIICCHROOHHIHRHCC.RHHCCHRIRRHCRHOROCCICIHHH(Unknown Source) ~[?:?]
+[2024-02-11 00:03:44.386] [info]  	at Genesis/com.moonsworth.lunar.HROIIOOIIHCOHICOCCHHIRCOH.CICORHHIIHHRHIOCCCICCHIRR.HOCHRRHCRRROICHHHCHIIIIOH.ORICOCICIHCHHIICHHOOCIRIC.CCHIOIIRRIICCHROOHHIHRHCC.loadPacks(Unknown Source) ~[?:?]
+[2024-02-11 00:03:44.389] [info]  	at Genesis/net.minecraft.server.packs.repository.PackRepository.discoverAvailable(SourceFile:39) ~[?:?]
+[2024-02-11 00:03:44.391] [info]  	at Genesis/net.minecraft.server.packs.repository.PackRepository.reload(SourceFile:32) ~[?:?]
+[2024-02-11 00:03:44.396] [info]  	at Genesis/net.minecraft.client.Minecraft.reloadResourcePacks(SourceFile:944) ~[?:?]
+[2024-02-11 00:03:44.399] [info]  	at Genesis/net.minecraft.client.Minecraft.reloadResourcePacks(SourceFile:928) ~[?:?]
+[2024-02-11 00:03:44.402] [info]  	at Genesis/net.minecraft.client.Options.updateResourcePacks(SourceFile:315) ~[?:?]
+[2024-02-11 00:03:44.405] [info]  	at Genesis/net.minecraft.client.gui.screens.OptionsScreen.applyPacks(SourceFile:86) ~[?:?]
+[2024-02-11 00:03:44.408] [info]  	at Genesis/net.minecraft.client.gui.screens.packs.PackSelectionModel.commit(SourceFile:56) ~[?:?]
+[2024-02-11 00:03:44.409] [info]  	at Genesis/net.minecraft.client.gui.screens.packs.PackSelectionScreen.onClose(SourceFile:77) ~[?:?]
+[2024-02-11 00:03:44.412] [info]  	at Genesis/net.minecraft.client.gui.screens.packs.PackSelectionScreen.mdbfddb1$lambda$lunar$init$0$4(SourceFile:1157) ~[?:?]
+[2024-02-11 00:03:44.414] [info]  	at Genesis/net.minecraft.client.gui.components.Button.onPress(SourceFile:94) ~[?:?]
+[2024-02-11 00:03:44.416] [info]  	at Genesis/net.minecraft.client.gui.components.AbstractButton.onClick(SourceFile:56) ~[?:?]
+[2024-02-11 00:03:44.417] [info]  	at Genesis/net.minecraft.client.gui.components.AbstractWidget.mouseClicked(SourceFile:189) ~[?:?]
+[2024-02-11 00:03:44.419] [info]  	at Genesis/net.minecraft.client.gui.components.events.ContainerEventHandler.mouseClicked(SourceFile:38) ~[?:?]
+[2024-02-11 00:03:44.421] [info]  	at Genesis/net.minecraft.client.MouseHandler.lambda$onPress$0(SourceFile:98) ~[?:?]
+[2024-02-11 00:03:44.422] [info]  	at Genesis/net.minecraft.client.gui.screens.Screen.wrapScreenError(SourceFile:409) ~[?:?]
+[2024-02-11 00:03:44.423] [info]  	at Genesis/net.minecraft.client.MouseHandler.onPress(SourceFile:98) ~[?:?]
+[2024-02-11 00:03:44.424] [info]  	at Genesis/net.minecraft.client.MouseHandler.lambda$setup$4(SourceFile:169) ~[?:?]
+[2024-02-11 00:03:44.426] [info]  	at Genesis/net.minecraft.util.thread.BlockableEventLoop.execute(SourceFile:102) ~[?:?]
+[2024-02-11 00:03:44.428] [info]  	at Genesis/net.minecraft.client.MouseHandler.lambda$setup$5(SourceFile:169) ~[?:?]
+[2024-02-11 00:03:44.429] [info]  	at Genesis/org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:43) [?:?]
+[2024-02-11 00:03:44.431] [info]  	at Genesis/org.lwjgl.system.JNI.invokeV(Native Method) ~[?:?]
+[2024-02-11 00:03:44.433] [info]  	at Genesis/org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3474) [?:?]
+[2024-02-11 00:03:44.434] [info]  	at Genesis/com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(SourceFile:237) [?:?]
+[2024-02-11 00:03:44.434] [info]  	at Genesis/net.minecraft.client.Minecraft.runTick(SourceFile:1244) [?:?]
+[2024-02-11 00:03:44.436] [info]  	at Genesis/net.minecraft.client.Minecraft.run(SourceFile:802) [?:?]
+[2024-02-11 00:03:44.438] [info]  	at Genesis/net.minecraft.client.main.Main.main(SourceFile:250) [?:?]
+[2024-02-11 00:03:44.439] [info]  	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+[2024-02-11 00:03:44.441] [info]  	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+[2024-02-11 00:03:44.442] [info]  	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+[2024-02-11 00:03:44.444] [info]  	at java.base/java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+[2024-02-11 00:03:44.446] [info]  	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source) [genesis-0.1.0-SNAPSHOT-all.jar:?]
+[2024-02-11 00:03:44.449] [info]  [00:03:44] [Render thread/WARN]: Missing metadata in pack file/Purple-440975.zip
+[2024-02-11 00:03:44.451] [info]  [00:03:44] [Render thread/INFO]: Reloading ResourceManager: lunar, vanilla, fabric (fabric-renderer-api-v1, fabric-keybindings-v0, fabric-transfer-api-v1, fabric-mining-level-api-v1, fabric-containers-v0, lithium, fabric-dimensions-v1, fabric-object-builder-api-v1, fabric-game-rule-api-v1, fabric-api-base, fabric-resource-conditions-api-v1, fabric-sound-api-v1, fabric-model-loading-api-v1, fabric-rendering-data-attachment-v1, iris, fabric-rendering-fluids-v1, fabric-blockrenderlayer-v1, fabric-lifecycle-events-v1, sodium, fabric-renderer-registries-v1, fabric-loot-tables-v1, fabric-particles-v1, fabric-data-generation-api-v1, fabric-networking-v0, fabric-api-lookup-api-v1, fabric-screen-handler-api-v1, noxesium, fabric-command-api-v2, fabric-block-api-v1, fabric-command-api-v1, fabric-screen-api-v1, fabric-renderer-indigo, fabric-api, fabric-crash-report-info-v1, fabric-events-interaction-v0, fabric-item-api-v1, fabric-convention-tags-v1, fabric-item-group-api-v1, fabric-recipe-api-v1, fabric-entity-events-v1, fabric-rendering-v0, fabric-key-binding-api-v1, fabric-rendering-v1, replaymod, fabric-resource-loader-v0, fabric-content-registries-v0, fabric-block-view-api-v2, indium, fabric-biome-api-v1, fabric-client-tags-api-v1, fabric-loot-api-v2, fabric-commands-v0, fabric-message-api-v1, fabric-registry-sync-v0, fabric-transitive-access-wideners-v1, fabric-networking-api-v1, fabric-events-lifecycle-v0, fabric-models-v0), file/!  �4Overlay.zip, replaymod_lang
+[2024-02-11 00:03:44.453] [info]  [00:03:44] [Worker-Main-12/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[2024-02-11 00:03:44.515] [info]  [00:03:44] [Worker-Main-9/WARN]: Texture minecraft:block/flowering_azalea_leaves with size 1x1 limits mip level from 4 to 0
+[2024-02-11 00:03:44.517] [info]  [00:03:44] [Worker-Main-9/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 0, because of minimum power of two: 1
+[2024-02-11 00:03:45.222] [info]  [00:03:45] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[2024-02-11 00:03:45.223] [info]  [00:03:45] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[2024-02-11 00:03:45.302] [info]  [00:03:45] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[2024-02-11 00:03:45.303] [info]  [00:03:45] [Render thread/INFO]: Sound engine started
+[2024-02-11 00:03:45.362] [info]  [00:03:45] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/blocks.png-atlas
+[2024-02-11 00:03:45.363] [info]  [00:03:45] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[2024-02-11 00:03:45.364] [info]  [00:03:45] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[2024-02-11 00:03:45.364] [info]  [00:03:45] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[2024-02-11 00:03:45.364] [info]  [00:03:45] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[2024-02-11 00:03:45.367] [info]  [00:03:45] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[2024-02-11 00:03:45.367] [info]  [00:03:45] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[2024-02-11 00:03:45.368] [info]  [00:03:45] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[2024-02-11 00:03:45.368] [info]  [00:03:45] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[2024-02-11 00:03:45.379] [info]  [00:03:45] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[2024-02-11 00:03:45.404] [info]  [00:03:45] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/particles.png-atlas
+[2024-02-11 00:03:45.405] [info]  [00:03:45] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[2024-02-11 00:03:45.406] [info]  [00:03:45] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[2024-02-11 00:03:45.413] [info]  [00:03:45] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:03:45.415] [info]  [00:03:45] [Render thread/INFO]: Started 10 worker threads
+[2024-02-11 00:04:09.841] [info]  [00:04:09] [Render thread/WARN]: [LC] Profile
+[2024-02-11 00:04:09.847] [info]  [00:04:09] [Render thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[2024-02-11 00:04:10.823] [info]  [00:04:10] [Render thread/INFO]: [System] [CHAT] LYVAIIMC5555 was slain by lightning_dragon
+[2024-02-11 00:04:17.862] [info]  [00:04:17] [Render thread/INFO]: [System] [CHAT] Ratanagaming was slain by .STINGK_198 using [KKKKKKKKKKKKKKKKKKKKKKKKKKKKKK]
+[2024-02-11 00:04:22.146] [info]  [00:04:22] [Render thread/INFO]: [System] [CHAT] {+} .Bothispro123
+[2024-02-11 00:04:22.430] [info]  [00:04:22] [Render thread/INFO]: [System] [CHAT] Hey! Sorry, but you can't PvP here.
+[2024-02-11 00:04:22.443] [info]  [00:04:22] [Render thread/INFO]: [System] [CHAT] {+} .SOK_PESOK
+[2024-02-11 00:04:22.965] [info]  [00:04:22] [Render thread/INFO]: [System] [CHAT] Hey! Sorry, but you can't PvP here.
+[2024-02-11 00:04:23.664] [info]  [00:04:23] [Render thread/INFO]: [System] [CHAT] Hey! Sorry, but you can't PvP here.
+[2024-02-11 00:04:24.208] [info]  [00:04:24] [Render thread/INFO]: [System] [CHAT] Hey! Sorry, but you can't PvP here.
+[2024-02-11 00:04:25.186] [info]  [00:04:25] [WebSocketConnectReadThread-119/WARN]: [LC Assets] Failed to find handler for push notification type.googleapis.com/lunarclient.websocket.notification.v1.NewNotificationPush
+[2024-02-11 00:04:25.209] [info]  [00:04:25] [Render thread/INFO]: [System] [CHAT] {+} Ratanagaming
+[2024-02-11 00:04:26.140] [info]  [00:04:26] [Render thread/INFO]: Stopping worker threads
+[2024-02-11 00:04:28.640] [info]  [00:04:28] [Render thread/INFO]: Connecting to mazersmp.com, 25565
+[2024-02-11 00:04:37.339] [info]  [00:04:37] [Render thread/INFO]: Connecting to lavacube.xyz, 25565
+[2024-02-11 00:04:42.463] [info]  [00:04:42] [WebSocketConnectReadThread-119/WARN]: [LC Assets] Failed to find handler for push notification type.googleapis.com/lunarclient.websocket.notification.v1.NewNotificationPush
+[2024-02-11 00:04:45.672] [info]  [00:04:45] [WebSocketConnectReadThread-119/WARN]: [LC Assets] Failed to find handler for push notification type.googleapis.com/lunarclient.websocket.notification.v1.NewNotificationPush
+[2024-02-11 00:05:46.777] [info]  [00:05:46] [Render thread/INFO]: Stopping!

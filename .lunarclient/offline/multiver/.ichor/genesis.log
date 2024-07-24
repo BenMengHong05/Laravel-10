@@ -1,0 +1,1869 @@
+Launching Minecraft 1.20.1 v1_20_1 (parsed from 1.20.1)
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: Sodium-v1_20_1-0.5.3.jar
+Found external file: Indium-v1_20_1-1.0.27.jar
+Found external file: Iris-v1_20_1-1.6.10.jar
+Config hash: 705f45e3  File hash: 9888a51c
+Missing class cache: .\cache\705f45e3\9888a51c\prebake.cache
+Prebaking classes...
+Found 17917 classes to prebake.
+Starting game!
+Prebaked 26098 classes in 25044ms.
+Launching Minecraft 1.20.1 v1_20_1 (parsed from 1.20.1)
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: Sodium-v1_20_1-0.5.3.jar
+Found external file: Indium-v1_20_1-1.0.27.jar
+Found external file: Iris-v1_20_1-1.6.10.jar
+Config hash: 2ee0a0c5  File hash: 9888a51c
+Missing class cache: .\cache\2ee0a0c5\9888a51c\prebake.cache
+Prebaking classes...
+Found 17917 classes to prebake.
+Starting game!
+Prebaked 26124 classes in 23231ms.
+Launching Minecraft 1.20.1 v1_20_1 (parsed from 1.20.1)
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: Sodium-v1_20_1-0.5.3.jar
+Found external file: Indium-v1_20_1-1.0.27.jar
+Found external file: Iris-v1_20_1-1.6.10.jar
+Launching Minecraft 1.20.1 v1_20_1 (parsed from 1.20.1)
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: Sodium-v1_20_1-0.5.3.jar
+Found external file: Indium-v1_20_1-1.0.27.jar
+Found external file: Iris-v1_20_1-1.6.10.jar
+Config hash: 687f5669  File hash: b95db31c
+Missing class cache: .\cache\687f5669\b95db31c\prebake.cache
+Prebaking classes...
+Found 17917 classes to prebake.
+Starting game!
+Prebaked 26114 classes in 22987ms.
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1cfb5349d1c43ef21b211fbf30267b7837d4ce0e
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 636715e869ecdb1f59e112090ec7c0c37418e13f
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 8ed1af41871ccd03a688349c59ea12f66a921487
+Found classpath URL: lunar-lang.jar with SHA-1 hash a82c9137e19968ecc576ba79d970e8d2f3259a37
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 27774607d5519ac202f8af930fe35decd5dff9c7
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 07d1d40a6d9899e4971d741cc719e4514a9eda6f
+Found classpath URL: lunar-replaymod-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9e0a85a89aa1b2a73fc7a318891c8a6a4e6fe115
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash ade73a70ecccc5060298cf5d0a96d875dfd36df5
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 93464fd93e8d1322a4215e4a376eb8611fffab1c
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash bde0ccab0cb1fea401268fe61fc1fe4b1f12eccd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash b9349b5ae2a35020d4c1df51232067f9fe069f94
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_9-lunar-0.1.0.jar
+Missing class cache: .\cache\b4fdde93\abc03cb1\bake.cache
+Baking classes...
+Found 18022 classes to bake.
+Baked 26587 classes in 25513ms.
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1cfb5349d1c43ef21b211fbf30267b7837d4ce0e
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 636715e869ecdb1f59e112090ec7c0c37418e13f
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 8ed1af41871ccd03a688349c59ea12f66a921487
+Found classpath URL: lunar-lang.jar with SHA-1 hash a82c9137e19968ecc576ba79d970e8d2f3259a37
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 27774607d5519ac202f8af930fe35decd5dff9c7
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 07d1d40a6d9899e4971d741cc719e4514a9eda6f
+Found classpath URL: lunar-replaymod-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9e0a85a89aa1b2a73fc7a318891c8a6a4e6fe115
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash ade73a70ecccc5060298cf5d0a96d875dfd36df5
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 93464fd93e8d1322a4215e4a376eb8611fffab1c
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash bde0ccab0cb1fea401268fe61fc1fe4b1f12eccd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash b9349b5ae2a35020d4c1df51232067f9fe069f94
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_9-lunar-0.1.0.jar
+Missing class cache: .\cache\1ac73e58\abc03cb1\bake.cache
+Baking classes...
+Found 18022 classes to bake.
+Baked 26607 classes in 27413ms.
+Found external file: Fabric-API-v1_21_0-0.100.1.jar
+Found external file: Sodium-v1_21_0-0.5.9.jar
+Found external file: Iris-v1_21_0-1.7.1.jar
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 066b048ed2b02a814af31aa987e7b5d0e0f61bcc
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 28a38ca2951a5a3d14864038fd7c0b14d854cc00
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 5acb844b73c492e6a58653cfa9a89eea9fc74e0f
+Found classpath URL: lunar-lang.jar with SHA-1 hash b62ace71a2e3fbe72c5c5d98781a4a1099a178f4
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash cba1e212029224212287e9a05651b905c1f712cd
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash bb19e620daa7014ce79b156bad89e8de16a8b6ce
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 74d30060a1f6851320b9bba9c70c2b7fd256f0eb
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Missing class cache: .\cache\1599c8d6\9fffe9eb\bake.cache
+Baking classes...
+Found 12026 classes to bake.
+Baked 23699 classes in 29373ms.
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Missing class cache: .\cache\d46cd9e0\17decfe3\bake.cache
+Baking classes...
+Found 18041 classes to bake.
+Baked 26722 classes in 23629ms.
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_21_0-0.100.1.jar
+Found external file: Sodium-v1_21_0-0.5.9.jar
+Found external file: Iris-v1_21_0-1.7.1.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 066b048ed2b02a814af31aa987e7b5d0e0f61bcc
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 28a38ca2951a5a3d14864038fd7c0b14d854cc00
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 5acb844b73c492e6a58653cfa9a89eea9fc74e0f
+Found classpath URL: lunar-lang.jar with SHA-1 hash b62ace71a2e3fbe72c5c5d98781a4a1099a178f4
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash cba1e212029224212287e9a05651b905c1f712cd
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash bb19e620daa7014ce79b156bad89e8de16a8b6ce
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 74d30060a1f6851320b9bba9c70c2b7fd256f0eb
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Missing class cache: .\cache\3ed45d11\92f72551\bake.cache
+Baking classes...
+Found 12026 classes to bake.
+Baked 23708 classes in 24085ms.
+Found external file: Fabric-API-v1_20_4-0.91.3.jar
+Found external file: FerriteCore-v1_20_4-6.0.3.jar
+Found external file: Lithium-v1_20_4-0.12.1.jar
+Found external file: Noxesium-v1_20_4-1.2.0.jar
+Found external file: Noxesium_API-v1_20_4-1.2.0.jar
+Found external file: ReplayMod-v1_20_4-2.6.14.jar
+Found external file: Sodium-v1_20_4-0.5.8.jar
+Found external file: Indium-v1_20_4-1.0.30.jar
+Found external file: Iris-v1_20_4-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_21_0-0.100.1.jar
+Found external file: Sodium-v1_21_0-0.5.9.jar
+Found external file: Iris-v1_21_0-1.7.1.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 066b048ed2b02a814af31aa987e7b5d0e0f61bcc
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 28a38ca2951a5a3d14864038fd7c0b14d854cc00
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 5acb844b73c492e6a58653cfa9a89eea9fc74e0f
+Found classpath URL: lunar-lang.jar with SHA-1 hash b62ace71a2e3fbe72c5c5d98781a4a1099a178f4
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash cba1e212029224212287e9a05651b905c1f712cd
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash bb19e620daa7014ce79b156bad89e8de16a8b6ce
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 74d30060a1f6851320b9bba9c70c2b7fd256f0eb
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found class cache: .\cache\3ed45d11\92f72551\bake.cache
+Loading baked classes...
+Loaded 23708 baked classes.
+Found external file: Fabric-API-v1_20_4-0.91.3.jar
+Found external file: FerriteCore-v1_20_4-6.0.3.jar
+Found external file: Lithium-v1_20_4-0.12.1.jar
+Found external file: Noxesium-v1_20_4-1.2.0.jar
+Found external file: Noxesium_API-v1_20_4-1.2.0.jar
+Found external file: ReplayMod-v1_20_4-2.6.14.jar
+Found external file: Sodium-v1_20_4-0.5.8.jar
+Found external file: Indium-v1_20_4-1.0.30.jar
+Found external file: Iris-v1_20_4-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_20_1-0.90.7.jar
+Found external file: FerriteCore-v1_20_1-6.0.0.jar
+Found external file: Lithium-v1_20_1-0.11.2.jar
+Found external file: Noxesium-v1_20_1-1.0.3.jar
+Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+Found external file: ReplayMod-v1_20_1-2.6.14.jar
+Found external file: Sodium-v1_20_1-0.5.8.jar
+Found external file: Indium-v1_20_1-1.0.30.jar
+Found external file: Iris-v1_20_1-1.6.17.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_21_0-0.100.1.jar
+Found external file: Sodium-v1_21_0-0.5.9.jar
+Found external file: Iris-v1_21_0-1.7.1.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 066b048ed2b02a814af31aa987e7b5d0e0f61bcc
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 28a38ca2951a5a3d14864038fd7c0b14d854cc00
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 5acb844b73c492e6a58653cfa9a89eea9fc74e0f
+Found classpath URL: lunar-lang.jar with SHA-1 hash b62ace71a2e3fbe72c5c5d98781a4a1099a178f4
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash cba1e212029224212287e9a05651b905c1f712cd
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash bb19e620daa7014ce79b156bad89e8de16a8b6ce
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 74d30060a1f6851320b9bba9c70c2b7fd256f0eb
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_21_0-0.100.1.jar
+Found external file: Sodium-v1_21_0-0.5.9.jar
+Found external file: Iris-v1_21_0-1.7.1.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 066b048ed2b02a814af31aa987e7b5d0e0f61bcc
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 28a38ca2951a5a3d14864038fd7c0b14d854cc00
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 5acb844b73c492e6a58653cfa9a89eea9fc74e0f
+Found classpath URL: lunar-lang.jar with SHA-1 hash b62ace71a2e3fbe72c5c5d98781a4a1099a178f4
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash cba1e212029224212287e9a05651b905c1f712cd
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash bb19e620daa7014ce79b156bad89e8de16a8b6ce
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 74d30060a1f6851320b9bba9c70c2b7fd256f0eb
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_21_0-0.100.1.jar
+Found external file: Sodium-v1_21_0-0.5.9.jar
+Found external file: Iris-v1_21_0-1.7.1.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 066b048ed2b02a814af31aa987e7b5d0e0f61bcc
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 28a38ca2951a5a3d14864038fd7c0b14d854cc00
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 5acb844b73c492e6a58653cfa9a89eea9fc74e0f
+Found classpath URL: lunar-lang.jar with SHA-1 hash b62ace71a2e3fbe72c5c5d98781a4a1099a178f4
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash cba1e212029224212287e9a05651b905c1f712cd
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash bb19e620daa7014ce79b156bad89e8de16a8b6ce
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 74d30060a1f6851320b9bba9c70c2b7fd256f0eb
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+Found external file: Fabric-API-v1_21_0-0.100.1.jar
+Found external file: Sodium-v1_21_0-0.5.9.jar
+Found external file: Iris-v1_21_0-1.7.1.jar
+Found external file: hypixel-quickplay-data.json
+Found external file: hypixel-bedwars-data.json
+Found external file: hypixel-skyblock-dungeon-rooms.json
+Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 066b048ed2b02a814af31aa987e7b5d0e0f61bcc
+Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 28a38ca2951a5a3d14864038fd7c0b14d854cc00
+Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 5acb844b73c492e6a58653cfa9a89eea9fc74e0f
+Found classpath URL: lunar-lang.jar with SHA-1 hash b62ace71a2e3fbe72c5c5d98781a4a1099a178f4
+Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+Found classpath URL: lunar.jar with SHA-1 hash cba1e212029224212287e9a05651b905c1f712cd
+Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash bb19e620daa7014ce79b156bad89e8de16a8b6ce
+Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 74d30060a1f6851320b9bba9c70c2b7fd256f0eb
+Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar

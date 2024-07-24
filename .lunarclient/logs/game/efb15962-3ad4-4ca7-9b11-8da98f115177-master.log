@@ -1,0 +1,165 @@
+[2024-06-22 15:17:56.607] [error] NOTE: Picked up JDK_JAVA_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-22 15:17:56.611] [error] Picked up JAVA_TOOL_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-22 15:17:56.611] [error] Picked up _JAVA_OPTIONS: -XX:+DisableAttachMechanism
+[2024-06-22 15:17:56.819] [info]  [15:17:56] [Genesis/
+[2024-06-22 15:17:56.820] [info]  main/INFO] Found external file: Fabric-API-v1_20_1-0.90.7.jar
+[2024-06-22 15:17:56.823] [info]  [15:17:56] [Genesis/main/
+[2024-06-22 15:17:56.824] [info]  INFO] Found external file: FerriteCore-v1_20_1-6.0.0.jar
+[2024-06-22 15:17:56.825] [info]  [15:17:56] [Genesis/main/INFO] Found external file: Lithium-v1_20_1-0.11.2.jar
+[2024-06-22 15:17:56.825] [info]  [15:17:56] [Genesis/main/INFO] Found external file: Noxesium-v1_20_1-1.0.3.jar
+[2024-06-22 15:17:56.825] [info]  [15:17:56] [Genesis/main/INFO] Found external file: Noxesium_API-v1_20_1-1.0.3.jar
+[2024-06-22 15:17:56.826] [info]  [15:17:56] [Genesis/main/INFO] Found external file: ReplayMod-v1_20_1-2.6.14.jar
+[2024-06-22 15:17:56.826] [info]  [15:17:56] [Genesis/main/INFO] Found external file: Sodium-v1_20_1-0.5.8.jar
+[2024-06-22 15:17:56.826] [info]  [15:17:56] [Genesis/main/INFO] Found external file: Indium-v1_20_1-1.0.30.jar
+[2024-06-22 15:17:56.826] [info]  [15:17:56] [Genesis/main/INFO] Found external file: Iris-v1_20_1-1.6.17.jar
+[2024-06-22 15:17:56.827] [info]  [15:17:56] [Genesis/main/INFO] Found external file: hypixel-quickplay-data.json
+[2024-06-22 15:17:56.827] [info]  [15:17:56] [Genesis/main/INFO] Found external file: hypixel-bedwars-data.json
+[2024-06-22 15:17:56.827] [info]  [15:17:56] [Genesis/main/INFO] Found external file: hypixel-skyblock-dungeon-rooms.json
+[2024-06-22 15:17:56.875] [info]  [15:17:56] [Genesis/main/INFO] Found classpath URL: common-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d55f1b0ac13c8a0e4adc1d3072d23059c44d26b8
+[2024-06-22 15:17:56.876] [info]  [15:17:56] [Genesis/main/INFO] Found classpath URL: lunar-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 500ac97175fa953c59c311a3387b0d6c72cf5dba
+[2024-06-22 15:17:56.877] [info]  
+[2024-06-22 15:17:56.888] [info]  [15:17:56] [Genesis/main/INFO] Found classpath URL: genesis-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 444937f4ede76553b24bff14153b5d9e35687eb2
+[2024-06-22 15:17:56.889] [info]  [15:17:56] [
+[2024-06-22 15:17:56.889] [info]  Genesis/main/INFO] Found classpath URL: lunar-lang.jar with SHA-1 hash 32a7e666acdc5ff9de8ce454b9390b6bd2bc9177
+[2024-06-22 15:17:56.890] [info]  [15:17:56] [Genesis/main/INFO] Found classpath URL: lunar-emote.jar with SHA-1 hash b04f3ee8f5e43fa3b162981b50bb72fe1acabb33
+[2024-06-22 15:17:56.924] [info]  [15:17:56] [Genesis/main/INFO] Found classpath URL: lunar.jar with SHA-1 hash 7ae8b4c716d4afeeca6354f3a4b2bb4f5302869a
+[2024-06-22 15:17:56.937] [info]  [15:17:56] [Genesis/main/INFO] Found classpath URL: modern-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 1b16b6bc92071b52ebc358659a8f371324df0a45
+[2024-06-22 15:17:56.937] [info]  
+[2024-06-22 15:17:56.938] [info]  [15:17:56] [Genesis/
+[2024-06-22 15:17:56.938] [info]  main/INFO] Found classpath URL: lunar-ferrite-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 557af8afbc5a3a2dd1082d6c1d89d0924d9148a7
+[2024-06-22 15:17:56.939] [info]  [15:17:56] [Genesis/
+[2024-06-22 15:17:56.939] [info]  main/INFO] Found classpath URL: lunar-lithium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 6bddb75b7b546461fe3906061ed6b69c96459fc2
+[2024-06-22 15:17:56.940] [info]  [15:17:56] [
+[2024-06-22 15:17:56.940] [info]  Genesis/main/INFO] Found classpath URL: lunar-noxesium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash 9ef6225eb7368f6fa9728dd8d086f284b70e6e95
+[2024-06-22 15:17:56.941] [info]  [15:17:56] [Genesis
+[2024-06-22 15:17:56.941] [info]  /main/INFO] Found classpath URL: lunar-replaymod-fabric-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash d597c36d0c2ff4f04ca99579bbfe849ed80f8dbd
+[2024-06-22 15:17:56.944] [info]  [15:17:56] [
+[2024-06-22 15:17:56.944] [info]  Genesis/main/INFO] Found classpath URL: lunar-sodium-mixins-0.1.0-SNAPSHOT-all.jar with SHA-1 hash e5611315574ee949cf2389d5c899eca8eef9c8a3
+[2024-06-22 15:17:57.636] [info]  [15:17:57] [Genesis/main/INFO] Adding pre-launch library to game classpath: .\.ichor\ichormodule-libs\net_fabricmc_fabric_loader_0_15_11-lunar-0.1.0.jar
+[2024-06-22 15:17:57.718] [info]  [15:17:57] [Genesis/GameBootstrap/main/INFO] Launching Minecraft 1.20.1 v1_20_1 (parsed from 1.20.1)
+[2024-06-22 15:17:58.546] [info]  [15:17:58] [Ichor+Fabric/main/INFO] Using custom local mod path: C:\Users\Asus\.lunarclient\profiles\35533a66-fbe4-4c9e-b96c-b47d7554e254\versions\0.0.4\mods
+[2024-06-22 15:18:03.604] [info]  LUNARCLIENT_STATUS_PREINIT
+[2024-06-22 15:18:03.605] [info]  [
+[2024-06-22 15:18:03.605] [info]  15:18:03] [Genesis/GameBootstrap/main/INFO] Starting game!
+[2024-06-22 15:18:04.002] [info]  [15:18:04] [IchorPipeline/main/INFO] Built mapping set for com.moonsworth.lunar.ichor.CRCIRCHCIOCCIHRCHCHOHICRI.RHOCIORRHROCOHOOCRHHRRHCI.IHCRIIIICOROROOCCIHHHHCRI.RHCRCHHICCCIIHIIIHIIRROOO 263ms on thread main
+[2024-06-22 15:18:04.322] [info]  [15:18:04] [IchorPipeline/main/INFO] Loading Mixin runtime for META_MIXIN
+[2024-06-22 15:18:04.534] [info]  [15:18:04] [Ichor/mixin(META_MIXIN)/INFO] SpongePowered MIXIN Subsystem Version=0.8.5 Source=Unknown Service=Ichor Env=CLIENT
+[2024-06-22 15:18:05.117] [info]  [15:18:05] [IchorPipeline/main/INFO] Built mapping set for com.moonsworth.RHOCIORRHROCOHOOCRHHRRHCI.RHOCIORRHROCOHOOCRHHRRHCI.HHRIIHHROCICOCHRCICRIOHRH.RHOCIORRHROCOHOOCRHHRRHCI 296ms on thread main
+[2024-06-22 15:18:05.598] [info]  [15:18:05] [IchorPipeline/main/INFO] Loading Mixin runtime for MIXIN
+[2024-06-22 15:18:06.027] [info]  [15:18:06] [Ichor/mixin(MIXIN)/INFO] SpongePowered MIXIN Subsystem Version=0.8.5 Source=Unknown Service=Ichor Env=CLIENT
+[2024-06-22 15:18:06.510] [info]  [15:18:06] [IchorPipeline/main/INFO] Done loading Mixin runtimes in 2189ms
+[2024-06-22 15:18:06.510] [info]  [15:18:06] [IchorPipeline/main/INFO] Setting up mixins for META_MIXIN
+[2024-06-22 15:18:06.614] [info]  [15:18:06] [IchorPipeline/main/INFO] Setting up mixins for MIXIN
+[2024-06-22 15:18:06.615] [info]  [15:18:06] [Ichor/main/INFO] Mixin config mixins.modern.json doesn't exist in IchorClassLoader(MIXIN)
+[2024-06-22 15:18:06.616] [info]  [15:18:06] [Ichor/main/INFO] Mixin config mixins.modern_lunar.json doesn't exist in IchorClassLoader(MIXIN)
+[2024-06-22 15:18:06.892] [info]  [15:18:06] [IchorPipeline/main/INFO] Done registering Mixins in 382ms
+[2024-06-22 15:18:06.892] [info]  [15:18:06] [IchorPipeline/main/INFO] Going to default mixins stage for META_MIXIN
+[2024-06-22 15:18:07.698] [info]  [15:18:07] [IchorPipeline/main/INFO] Going to default mixins stage for MIXIN
+[2024-06-22 15:18:07.711] [info]  [15:18:07] [Ichor/MixinExtras|Service(META_MIXIN)/INFO] Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[2024-06-22 15:18:08.910] [info]  [15:18:08] [main/INFO]: Feather: Optifine dectected? false
+[2024-06-22 15:18:08.937] [info]  [15:18:08] [main/INFO]: [Feather::EssentialMod] Installed: true
+[2024-06-22 15:18:09.263] [info]  [15:18:09] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 2 override(s) found
+[2024-06-22 15:18:09.291] [info]  [15:18:09] [main/INFO]: Loaded configuration file for Sodium: 41 options available, 3 override(s) found
+[2024-06-22 15:18:09.322] [info]  [15:18:09] [main/INFO]: Loaded configuration file for Sodium Extra: 32 options available, 0 override(s) found
+[2024-06-22 15:18:09.385] [info]  [15:18:09] [main/ERROR]: Unsupported logger settings for async appender
+[2024-06-22 15:18:14.902] [info]  [15:18:14] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/render/ChunkVisibility (checked [net.optifine.render.ChunkVisibility]).
+[2024-06-22 15:18:14.903] [info]  [15:18:14] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/optifine/render/ChunkVisibility (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/render/ChunkVisibility (checked [net.optifine.render.ChunkVisibility]).)
+[2024-06-22 15:18:14.903] [info]  [15:18:14] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for shadersmod/client/ShadersRender (checked [shadersmod.client.ShadersRender]).
+[2024-06-22 15:18:14.904] [info]  [15:18:14] [Ichor/mixin(MIXIN)/WARN] Error loading class: shadersmod/client/ShadersRender (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for shadersmod/client/ShadersRender (checked [shadersmod.client.ShadersRender]).)
+[2024-06-22 15:18:14.904] [info]  [15:18:14] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/shaders/ShadersRender (checked [net.optifine.shaders.ShadersRender]).
+[2024-06-22 15:18:14.904] [info]  [15:18:14] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/optifine/shaders/ShadersRender (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/shaders/ShadersRender (checked [net.optifine.shaders.ShadersRender]).)
+[2024-06-22 15:18:15.691] [info]  [15:18:15] [main/WARN]: Force disabled MC-121772 because it only applies to OS: MAC
+[2024-06-22 15:18:15.695] [info]  [15:18:15] [main/WARN]: Force disabled MC-122477 because it only applies to OS: LINUX
+[2024-06-22 15:18:15.722] [info]  [15:18:15] [main/WARN]: Force disabled MC-176559 because it's conflicting with: fabric-api
+[2024-06-22 15:18:15.741] [info]  [15:18:15] [main/WARN]: Force disabled MC-22882 because it only applies to OS: MAC
+[2024-06-22 15:18:17.839] [info]  [15:18:17] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[2024-06-22 15:18:18.099] [info]  [15:18:18] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton, vmp]) disables it and children
+[2024-06-22 15:18:18.332] [info]  [15:18:18] [main/WARN]: Force-disabling mixin 'features.render.entity.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-06-22 15:18:18.333] [info]  [15:18:18] [main/WARN]: Force-disabling mixin 'features.render.entity.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-06-22 15:18:18.334] [info]  [15:18:18] [main/WARN]: Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-06-22 15:18:18.335] [info]  [15:18:18] [main/WARN]: Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[2024-06-22 15:18:18.336] [info]  [15:18:18] [main/WARN]: Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [iris]) disables it and children
+[2024-06-22 15:18:18.366] [info]  [15:18:18] [main/WARN]: Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[2024-06-22 15:18:18.367] [info]  [15:18:18] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[2024-06-22 15:18:18.368] [info]  [15:18:18] [main/WARN]: Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[2024-06-22 15:18:18.651] [info]  [15:18:18] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for com/ishland/c2me/notickvd/common/NoTickChunkSendingInterceptor (checked [com.ishland.c2me.notickvd.common.NoTickChunkSendingInterceptor]).
+[2024-06-22 15:18:18.651] [info]  [15:18:18] [Ichor/mixin(MIXIN)/WARN] Error loading class: com/ishland/c2me/notickvd/common/NoTickChunkSendingInterceptor (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for com/ishland/c2me/notickvd/common/NoTickChunkSendingInterceptor (checked [com.ishland.c2me.notickvd.common.NoTickChunkSendingInterceptor]).)
+[2024-06-22 15:18:18.785] [info]  [15:18:18] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for me/jellysquid/mods/sodium/client/compatibility/workarounds/nvidia/NvidiaWorkarounds (checked [me.jellysquid.mods.sodium.client.compatibility.workarounds.nvidia.NvidiaWorkarounds]).
+[2024-06-22 15:18:18.786] [info]  [15:18:18] [Ichor/mixin(MIXIN)/WARN] Error loading class: me/jellysquid/mods/sodium/client/compatibility/workarounds/nvidia/NvidiaWorkarounds (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for me/jellysquid/mods/sodium/client/compatibility/workarounds/nvidia/NvidiaWorkarounds (checked [me.jellysquid.mods.sodium.client.compatibility.workarounds.nvidia.NvidiaWorkarounds]).)
+[2024-06-22 15:18:18.786] [info]  [15:18:18] [Ichor/mixin(MIXIN)/WARN] @Mixin target me.jellysquid.mods.sodium.client.compatibility.workarounds.nvidia.NvidiaWorkarounds was not found mixins.ichor.sodium.v1_20_1.json:IIIICORICOICIRRHCHIIHROIC from mod (unknown)
+[2024-06-22 15:18:18.789] [info]  [15:18:18] [main/INFO]: [MemoryLeakFix] Will be applying 3 memory leak fixes!
+[2024-06-22 15:18:18.790] [info]  [15:18:18] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [targetEntityLeak, biomeTemperatureLeak, hugeScreenshotLeak]
+[2024-06-22 15:18:19.134] [info]  [15:18:19] [IchorPipeline/main/INFO] Mixin runtimes prepared in 12242ms
+[2024-06-22 15:18:19.135] [info]  [15:18:19] [IchorPipeline/main
+[2024-06-22 15:18:19.135] [info]  /INFO] Initialized Mixin in 14813ms
+[2024-06-22 15:18:19.137] [info]  [15:18:19] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/Config (checked [net.optifine.Config]).
+[2024-06-22 15:18:19.137] [info]  [15:18:19] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/optifine/Config (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/optifine/Config (checked [net.optifine.Config]).)
+[2024-06-22 15:18:19.139] [info]  [15:18:19] [Ichor/MixinExtras|Service(MIXIN)/INFO] Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[2024-06-22 15:18:19.853] [info]  [Bridge] Setting Bridge Implementation to com.moonsworth.lunar.IIIICORICOICIRRHCHIIHROIC.IOCOHCCRCOHRICRRHOOICHIHO
+[2024-06-22 15:18:20.461] [info]  [15:18:20] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/digitalingot/geckolib/geckolib/core/animatable/GeoAnimatable (checked [net.digitalingot.geckolib.geckolib.core.animatable.GeoAnimatable]).
+[2024-06-22 15:18:20.462] [info]  [15:18:20] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/digitalingot/geckolib/geckolib/core/animatable/GeoAnimatable (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/digitalingot/geckolib/geckolib/core/animatable/GeoAnimatable (checked [net.digitalingot.geckolib.geckolib.core.animatable.GeoAnimatable]).)
+[2024-06-22 15:18:20.499] [info]  [15:18:20] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/digitalingot/geckolib/geckolib/core/animatable/GeoAnimatable (checked [net.digitalingot.geckolib.geckolib.core.animatable.GeoAnimatable]).
+[2024-06-22 15:18:20.500] [info]  [15:18:20] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/digitalingot/geckolib/geckolib/core/animatable/GeoAnimatable (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/digitalingot/geckolib/geckolib/core/animatable/GeoAnimatable (checked [net.digitalingot.geckolib.geckolib.core.animatable.GeoAnimatable]).)
+[2024-06-22 15:18:20.500] [info]  [15:18:20] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/digitalingot/geckolib/geckolib/core/animatable/GeoAnimatable (checked [net.digitalingot.geckolib.geckolib.core.animatable.GeoAnimatable]).
+[2024-06-22 15:18:20.500] [info]  [15:18:20] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/digitalingot/geckolib/geckolib/core/animatable/GeoAnimatable (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/digitalingot/geckolib/geckolib/core/animatable/GeoAnimatable (checked [net.digitalingot.geckolib.geckolib.core.animatable.GeoAnimatable]).)
+[2024-06-22 15:18:20.503] [info]  [15:18:20] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/digitalingot/geckolib/geckolib/core/animatable/GeoAnimatable (checked [net.digitalingot.geckolib.geckolib.core.animatable.GeoAnimatable]).
+[2024-06-22 15:18:20.504] [info]  [15:18:20] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/digitalingot/geckolib/geckolib/core/animatable/GeoAnimatable (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/digitalingot/geckolib/geckolib/core/animatable/GeoAnimatable (checked [net.digitalingot.geckolib.geckolib.core.animatable.GeoAnimatable]).)
+[2024-06-22 15:18:20.504] [info]  [15:18:20] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/digitalingot/geckolib/geckolib/core/animatable/GeoAnimatable (checked [net.digitalingot.geckolib.geckolib.core.animatable.GeoAnimatable]).
+[2024-06-22 15:18:20.505] [info]  [15:18:20] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/digitalingot/geckolib/geckolib/core/animatable/GeoAnimatable (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/digitalingot/geckolib/geckolib/core/animatable/GeoAnimatable (checked [net.digitalingot.geckolib.geckolib.core.animatable.GeoAnimatable]).)
+[2024-06-22 15:18:20.505] [info]  [15:18:20] [Ichor/mixin(MIXIN)/WARN] Catching java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/digitalingot/geckolib/geckolib/core/animatable/GeoAnimatable (checked [net.digitalingot.geckolib.geckolib.core.animatable.GeoAnimatable]).
+[2024-06-22 15:18:20.505] [info]  [15:18:20] [Ichor/mixin(MIXIN)/WARN] Error loading class: net/digitalingot/geckolib/geckolib/core/animatable/GeoAnimatable (java.lang.ClassNotFoundException: IchorClassLoader(MIXIN) couldn't find class bytes for net/digitalingot/geckolib/geckolib/core/animatable/GeoAnimatable (checked [net.digitalingot.geckolib.geckolib.core.animatable.GeoAnimatable]).)
+[2024-06-22 15:18:20.534] [error] An error occurred while launching Lunar Client.
+[2024-06-22 15:18:20.535] [error] java.lang.IllegalStateException: Failed to boot Minecraft
+[2024-06-22 15:18:20.535] [error] 	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source)
+[2024-06-22 15:18:20.535] [error] 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[2024-06-22 15:18:20.536] [error] 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-06-22 15:18:20.536] [error] 	at com.moonsworth.lunar.genesis.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-22 15:18:20.536] [error] 	at com.moonsworth.lunar.genesis.Genesis.run(Unknown Source)
+[2024-06-22 15:18:20.536] [error] 	at com.moonsworth.lunar.genesis.Genesis.main(Unknown Source)
+[2024-06-22 15:18:20.537] [error] Caused by: java.lang.reflect.InvocationTargetException
+[2024-06-22 15:18:20.537] [error] 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[2024-06-22 15:18:20.537] [error] 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[2024-06-22 15:18:20.537] [error] 	at com.moonsworth.lunar.genesis.ClientGameBootstrap.apply(Unknown Source)
+[2024-06-22 15:18:20.537] [error] 	... 5 more
+[2024-06-22 15:18:20.538] [error] Caused by: java.lang.NoClassDefFoundError: net/digitalingot/geckolib/geckolib/core/animatable/GeoAnimatable
+[2024-06-22 15:18:20.538] [error] 	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+[2024-06-22 15:18:20.538] [error] 	at java.base/java.lang.ClassLoader.defineClass(Unknown Source)
+[2024-06-22 15:18:20.538] [error] 	at java.base/java.lang.ClassLoader.defineClass(Unknown Source)
+[2024-06-22 15:18:20.539] [error] 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.findClass(Unknown Source)
+[2024-06-22 15:18:20.539] [error] 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.loadClass(Unknown Source)
+[2024-06-22 15:18:20.539] [error] 	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+[2024-06-22 15:18:20.539] [error] 	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+[2024-06-22 15:18:20.539] [error] 	at java.base/java.lang.ClassLoader.defineClass(Unknown Source)
+[2024-06-22 15:18:20.540] [error] 	at java.base/java.lang.ClassLoader.defineClass(Unknown Source)
+[2024-06-22 15:18:20.540] [error] 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.findClass(Unknown Source)
+[2024-06-22 15:18:20.540] [error] 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.loadClass(Unknown Source)
+[2024-06-22 15:18:20.540] [error] 	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+[2024-06-22 15:18:20.540] [error] 	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+[2024-06-22 15:18:20.541] [error] 	at java.base/java.lang.ClassLoader.defineClass(Unknown Source)
+[2024-06-22 15:18:20.541] [error] 	at java.base/java.lang.ClassLoader.defineClass(Unknown Source)
+[2024-06-22 15:18:20.541] [error] 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.findClass(Unknown Source)
+[2024-06-22 15:18:20.542] [error] 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.loadClass(Unknown Source)
+[2024-06-22 15:18:20.542] [error] 	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+[2024-06-22 15:18:20.542] [error] 	at Genesis//com.moonsworth.lunar.IIIICORICOICIRRHCHIIHROIC.IOCOHCCRCOHRICRRHOOICHIHO.enable(Unknown Source)
+[2024-06-22 15:18:20.542] [error] 	at Genesis//com.moonsworth.lunar.bridge.IOCOHCCRCOHRICRRHOOICHIHO.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-22 15:18:20.543] [error] 	at Genesis//net.minecraft.client.main.Main.lunar$main$properties(SourceFile:587)
+[2024-06-22 15:18:20.543] [error] 	at Genesis//net.minecraft.client.main.Main.handler$zbd000$impl$main(SourceFile:562)
+[2024-06-22 15:18:20.543] [error] 	at Genesis//net.minecraft.client.main.Main.main(SourceFile)
+[2024-06-22 15:18:20.543] [error] 	... 8 more
+[2024-06-22 15:18:20.543] [error] Caused by: java.lang.ClassNotFoundException: Failed to find class net.digitalingot.geckolib.geckolib.core.animatable.GeoAnimatable
+[2024-06-22 15:18:20.544] [error] 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.loadClass(Unknown Source)
+[2024-06-22 15:18:20.544] [error] 	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+[2024-06-22 15:18:20.544] [error] 	... 31 more
+[2024-06-22 15:18:20.545] [info]  [15:17:58] [WARN] [FabricLoader/Metadata]: Mod feather uses the version release/b4922969 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'release/b4922969'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[2024-06-22 15:18:20.545] [info]  [15:17:58] [WARN] [FabricLoader/Resolution]: Warnings were found!
+[2024-06-22 15:18:20.545] [info]   - Mod 'Debugify' (debugify) 1.20.1+2.0 recommends any 3.x version of yet-another-config-lib, which is missing!
+[2024-06-22 15:18:20.545] [info]  	 - You should install any 3.x version of yet-another-config-lib for the optimal experience.
+[2024-06-22 15:18:20.546] [info]   - Mod 'Sodium Extra' (sodium-extra) 0.5.1+mc1.20.1-build.112 recommends version 1.4.2 or later of reeses-sodium-options, which is missing!
+[2024-06-22 15:18:20.546] [info]  	 - You should install version 1.4.2 or later of reeses-sodium-options for the optimal experience.
+[2024-06-22 15:18:20.546] [error] Caused by: java.lang.ClassNotFoundException: IchorPipeline can't find class in Genesis: net.digitalingot.geckolib.geckolib.core.animatable.GeoAnimatable
+[2024-06-22 15:18:20.546] [error] 	at com.moonsworth.lunar.ichor.IRCIHCHCCHHOCORRHRCCORROC.RHOCIORRHROCOHOOCRHHRRHCI(Unknown Source)
+[2024-06-22 15:18:20.547] [error] 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.findClass(Unknown Source)
+[2024-06-22 15:18:20.547] [error] 	at com.moonsworth.lunar.genesis.CRCIRCHCIOCCIHRCHCHOHICRI.loadClass(Unknown Source)
+[2024-06-22 15:18:20.547] [error] 	... 32 more
+[2024-06-22 15:18:20.547] [error] Sending Sentry with this report...
+[2024-06-22 15:18:20.547] [error] Sending event to Sentry: cc49672dc2e14aa98ec8a3cd3ca7e24e (java.lang.IllegalStateException: Failed to boot Minecraft)
